@@ -1,0 +1,208 @@
+{
+  "pii": "S0022309315000563",
+  "predictions": [
+    {
+      "sample_id": "K=0.5, R=0.88",
+      "component": "Na2O",
+      "value": 35.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=0.5, R=0.88",
+      "component": "SiO2",
+      "value": 19.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=0.5, R=0.88",
+      "component": "B2O3",
+      "value": 45.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=0.5, R=0.67",
+      "component": "Na2O",
+      "value": 30.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=0.5, R=0.67",
+      "component": "SiO2",
+      "value": 23.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=0.5, R=0.67",
+      "component": "B2O3",
+      "value": 46.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=0.5, R=0.50",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=0.5, R=0.50",
+      "component": "SiO2",
+      "value": 23.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=0.5, R=0.50",
+      "component": "B2O3",
+      "value": 52.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=0.5, R=0.35",
+      "component": "Na2O",
+      "value": 18.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=0.5, R=0.35",
+      "component": "SiO2",
+      "value": 25.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=0.5, R=0.35",
+      "component": "B2O3",
+      "value": 56.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=1.33",
+      "component": "Na2O",
+      "value": 37.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=1.33",
+      "component": "SiO2",
+      "value": 30.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=1.33",
+      "component": "B2O3",
+      "value": 32.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=0.94",
+      "component": "Na2O",
+      "value": 28.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=0.94",
+      "component": "SiO2",
+      "value": 34.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=0.94",
+      "component": "B2O3",
+      "value": 35.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=0.63",
+      "component": "Na2O",
+      "value": 23.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=0.63",
+      "component": "SiO2",
+      "value": 37.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=0.63",
+      "component": "B2O3",
+      "value": 38.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=0.38",
+      "component": "Na2O",
+      "value": 15.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=0.38",
+      "component": "SiO2",
+      "value": 42.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=1.0, R=0.38",
+      "component": "B2O3",
+      "value": 42.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=2.0, R=1.55",
+      "component": "Na2O",
+      "value": 32.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=2.0, R=1.55",
+      "component": "SiO2",
+      "value": 44.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=2.0, R=1.55",
+      "component": "B2O3",
+      "value": 22.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=2.0, R=0.85",
+      "component": "Na2O",
+      "value": 21.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=2.0, R=0.85",
+      "component": "SiO2",
+      "value": 52.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=2.0, R=0.85",
+      "component": "B2O3",
+      "value": 26.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=2.0, R=0.33",
+      "component": "Na2O",
+      "value": 9.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=2.0, R=0.33",
+      "component": "SiO2",
+      "value": 59.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "K=2.0, R=0.33",
+      "component": "B2O3",
+      "value": 30.8,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 66,
+  "elapsed_seconds": 32.5,
+  "backends": [
+    "pdfplumber"
+  ]
+}

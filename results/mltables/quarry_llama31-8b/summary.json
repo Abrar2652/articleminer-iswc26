@@ -1,0 +1,12 @@
+{
+  "dataset": "mltables",
+  "model": "llama31-8b",
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ],
+  "total_papers": 15,
+  "total_tuples": 2046,
+  "total_time": 4293.8
+}

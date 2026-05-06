@@ -1,0 +1,73 @@
+{
+  "pii": "S0022309399006791",
+  "predictions": [
+    {
+      "sample_id": "Conventional MCP",
+      "component": "Si",
+      "value": 24.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Conventional MCP",
+      "component": "K",
+      "value": 3.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Conventional MCP",
+      "component": "Na",
+      "value": 2.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Conventional MCP",
+      "component": "O",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BC glass",
+      "component": "Pb",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BC glass",
+      "component": "P",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BC glass",
+      "component": "V",
+      "value": 3.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BC glass",
+      "component": "Fe",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BC glass",
+      "component": "H",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BC glass",
+      "component": "O",
+      "value": 67.1,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 12,
+  "elapsed_seconds": 19.1,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber",
+    "camelot"
+  ]
+}

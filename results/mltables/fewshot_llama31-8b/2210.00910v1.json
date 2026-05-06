@@ -1,0 +1,379 @@
+{
+  "pdf_id": "2210.00910v1",
+  "predictions": [
+    {
+      "value": "79.4",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "7.9",
+      "type": "Result",
+      "metric": "Accuracy increase",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "69.6",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "ETHOS"
+    },
+    {
+      "value": "10.0",
+      "type": "Result",
+      "metric": "Accuracy increase",
+      "dataset": "ETHOS"
+    },
+    {
+      "value": "66.6",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "12",
+      "type": "Result",
+      "metric": "Accuracy decrease",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "metric": "Accuracy increase",
+      "dataset": "Hate Check",
+      "model": "Google Jigsaw API"
+    },
+    {
+      "value": "3",
+      "type": "Result",
+      "metric": "Accuracy increase",
+      "dataset": "ETHOS",
+      "model": "SVM"
+    },
+    {
+      "value": "10",
+      "type": "Result",
+      "metric": "Accuracy increase",
+      "dataset": "ETHOS",
+      "model": "fine-tuned BERT"
+    },
+    {
+      "value": "0.755",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "345M"
+    },
+    {
+      "value": "0.762",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "1.3B"
+    },
+    {
+      "value": "0.787",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "5B"
+    },
+    {
+      "value": "0.379",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "345M"
+    },
+    {
+      "value": "0.448",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "1.3B"
+    },
+    {
+      "value": "0.467",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "5B"
+    },
+    {
+      "value": "0.907",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "345M",
+      "dataset features": "FS - 10 samples"
+    },
+    {
+      "value": "0.789",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "1.3B",
+      "dataset features": "FS - 10 samples"
+    },
+    {
+      "value": "0.942",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "5B",
+      "dataset features": "FS - 10 samples"
+    },
+    {
+      "value": "0.793",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "345M",
+      "dataset features": "FS - 10 samples"
+    },
+    {
+      "value": "0.720",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "1.3B",
+      "dataset features": "FS - 10 samples"
+    },
+    {
+      "value": "0.939",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "5B",
+      "dataset features": "FS - 10 samples"
+    },
+    {
+      "value": "0.907",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "345M",
+      "dataset features": "FS - 50 samples"
+    },
+    {
+      "value": "0.789",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "1.3B",
+      "dataset features": "FS - 50 samples"
+    },
+    {
+      "value": "0.942",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "5B",
+      "dataset features": "FS - 50 samples"
+    },
+    {
+      "value": "0.793",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "345M",
+      "dataset features": "FS - 50 samples"
+    },
+    {
+      "value": "0.720",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "1.3B",
+      "dataset features": "FS - 50 samples"
+    },
+    {
+      "value": "0.939",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "5B",
+      "dataset features": "FS - 50 samples"
+    },
+    {
+      "value": "0.77",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "345M",
+      "dataset features": "10"
+    },
+    {
+      "value": "0.81",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "1.3B",
+      "dataset features": "10"
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "5B",
+      "dataset features": "10"
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "345M",
+      "dataset features": "20"
+    },
+    {
+      "value": "0.81",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "1.3B",
+      "dataset features": "20"
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "5B",
+      "dataset features": "20"
+    },
+    {
+      "value": "0.74",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "345M",
+      "dataset features": "30"
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "1.3B",
+      "dataset features": "30"
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "5B",
+      "dataset features": "30"
+    },
+    {
+      "value": "0.379",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "345M",
+      "dataset features": "10"
+    },
+    {
+      "value": "0.448",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "1.3B",
+      "dataset features": "10"
+    },
+    {
+      "value": "0.467",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "5B",
+      "dataset features": "10"
+    },
+    {
+      "value": "0.793",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "345M",
+      "dataset features": "20"
+    },
+    {
+      "value": "0.720",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "1.3B",
+      "dataset features": "20"
+    },
+    {
+      "value": "0.939",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Hotel Reservation",
+      "model": "Megatron-GPT",
+      "parameter/architecture name": "5B",
+      "dataset features": "20"
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "BERT",
+      "dataset features": "10"
+    },
+    {
+      "value": "0.773",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "BERT",
+      "dataset features": "20"
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "metric": "Accuracy",
+      "dataset": "Bus Booking",
+      "model": "BERT",
+      "dataset features": "30"
+    }
+  ],
+  "elapsed_seconds": 97.1,
+  "raw_preview": "{\"value\": \"79.4\", \"type\": \"Result\", \"metric\": \"Accuracy\", \"dataset\": \"Hate Check\"}\n{\"value\": \"7.9\", \"type\": \"Result\", \"metric\": \"Accuracy increase\", \"dataset\": \"Hate Check\"}\n{\"value\": \"69.6\", \"type\": \"Result\", \"metric\": \"Accuracy\", \"dataset\": \"ETHOS\"}\n{\"value\": \"10.0\", \"type\": \"Result\", \"metric\": \"Accuracy increase\", \"dataset\": \"ETHOS\"}\n{\"value\": \"66.6\", \"type\": \"Result\", \"metric\": \"Accuracy\", \"dataset\": \"Hate Check\"}\n{\"value\": \"12\", \"type\": \"Result\", \"metric\": \"Accuracy decrease\", \"dataset\": \"H"
+}

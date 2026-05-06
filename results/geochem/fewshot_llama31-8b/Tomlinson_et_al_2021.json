@@ -1,0 +1,169 @@
+{
+  "paper": "Tomlinson_et_al_2021",
+  "model": "llama31-8b",
+  "n_rows": 7,
+  "rows": [
+    {
+      "sample_id": "FF1",
+      "mineral": "quartzite",
+      "method": "not specified",
+      "elements": {
+        "Si": 2700000,
+        "Al": 30000,
+        "Fe": 10000,
+        "Ca": 10000,
+        "K": 10000,
+        "Na": 10000,
+        "Mg": 10000,
+        "S": 5000,
+        "Pb": -0.5,
+        "Zn": -0.5,
+        "Cu": -0.5,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "FF2",
+      "mineral": "Phoenix dike/Last Chance stock",
+      "method": "not specified",
+      "elements": {
+        "Si": 2700000,
+        "Al": 30000,
+        "Fe": 10000,
+        "Ca": 10000,
+        "K": 10000,
+        "Na": 10000,
+        "Mg": 10000,
+        "S": 5000,
+        "Pb": -0.5,
+        "Zn": -0.5,
+        "Cu": -0.5,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "FF3",
+      "mineral": "A-bed",
+      "method": "not specified",
+      "elements": {
+        "Si": 2700000,
+        "Al": 30000,
+        "Fe": 10000,
+        "Ca": 10000,
+        "K": 10000,
+        "Na": 10000,
+        "Mg": 10000,
+        "S": 5000,
+        "Pb": -0.5,
+        "Zn": -0.5,
+        "Cu": -0.5,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "FF4",
+      "mineral": "Highland quartzite",
+      "method": "not specified",
+      "elements": {
+        "Si": 2700000,
+        "Al": 30000,
+        "Fe": 10000,
+        "Ca": 10000,
+        "K": 10000,
+        "Na": 10000,
+        "Mg": 10000,
+        "S": 5000,
+        "Pb": -0.5,
+        "Zn": -0.5,
+        "Cu": -0.5,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "FF5",
+      "mineral": "Phoenix dike",
+      "method": "not specified",
+      "elements": {
+        "Si": 2700000,
+        "Al": 30000,
+        "Fe": 10000,
+        "Ca": 10000,
+        "K": 10000,
+        "Na": 10000,
+        "Mg": 10000,
+        "S": 5000,
+        "Pb": -0.5,
+        "Zn": -0.5,
+        "Cu": -0.5,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "FF7",
+      "mineral": "Phoenix dike",
+      "method": "not specified",
+      "elements": {
+        "Si": 2700000,
+        "Al": 30000,
+        "Fe": 10000,
+        "Ca": 10000,
+        "K": 10000,
+        "Na": 10000,
+        "Mg": 10000,
+        "S": 5000,
+        "Pb": -0.5,
+        "Zn": -0.5,
+        "Cu": -0.5,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "MASS-1",
+      "mineral": "sulfide powder",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ag": 0.1,
+        "As": 0.1,
+        "Au": 0.1,
+        "Bi": 0.1,
+        "Cd": 0.1,
+        "Co": 0.1,
+        "Cr": 0.1,
+        "Cu": 0.1,
+        "Fe": 0.1,
+        "Ga": 0.1,
+        "Hg": 0.1,
+        "In": 0.1,
+        "Ir": 0.1,
+        "Mn": 0.1,
+        "Mo": 0.1,
+        "Ni": 0.1,
+        "Pb": 0.1,
+        "S": 0.1,
+        "Se": 0.1,
+        "Sn": 0.1,
+        "Sb": 0.1,
+        "Te": 0.1,
+        "Tl": 0.1,
+        "V": 0.1,
+        "W": 0.1,
+        "Zn": 0.1
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "No analyses are present in this chunk of the paper.",
+  "elapsed_seconds": 92.1
+}

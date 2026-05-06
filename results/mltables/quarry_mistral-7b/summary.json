@@ -1,0 +1,12 @@
+{
+  "dataset": "mltables",
+  "model": "mistral-7b-v02",
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ],
+  "total_papers": 15,
+  "total_tuples": 1039,
+  "total_time": 2158.3
+}

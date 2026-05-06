@@ -1,0 +1,406 @@
+{
+  "paper": "Wang_et_al_2025",
+  "model": "llama31-8b",
+  "n_rows": 24,
+  "rows": [
+    {
+      "sample_id": "CH-1",
+      "mineral": "chalcopyrite",
+      "method": "EPMA",
+      "elements": {
+        "Cu": 12.3,
+        "Fe": 34.6,
+        "S": 53.1,
+        "Ag": -0.5,
+        "Ga": -0.5,
+        "As": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "CH-2",
+      "mineral": "chalcopyrite",
+      "method": "EPMA",
+      "elements": {
+        "Cu": 11.9,
+        "Fe": 34.4,
+        "S": 52.7,
+        "Ag": -0.5,
+        "Ga": -0.5,
+        "As": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "CH-3",
+      "mineral": "chalcopyrite",
+      "method": "EPMA",
+      "elements": {
+        "Cu": 12.1,
+        "Fe": 34.5,
+        "S": 53.0,
+        "Ag": -0.5,
+        "Ga": -0.5,
+        "As": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "CH-4",
+      "mineral": "chalcopyrite",
+      "method": "EPMA",
+      "elements": {
+        "Cu": 12.2,
+        "Fe": 34.6,
+        "S": 53.2,
+        "Ag": -0.5,
+        "Ga": -0.5,
+        "As": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "CH-5",
+      "mineral": "chalcopyrite",
+      "method": "EPMA",
+      "elements": {
+        "Cu": 12.0,
+        "Fe": 34.3,
+        "S": 52.8,
+        "Ag": -0.5,
+        "Ga": -0.5,
+        "As": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "SP-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Zn": 640000,
+        "Pb": 3900,
+        "Ag": 0.8,
+        "Ga": -0.5,
+        "As": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "SP-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Zn": 630000,
+        "Pb": 3800,
+        "Ag": 0.7,
+        "Ga": -0.5,
+        "As": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "SP-3",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Zn": 650000,
+        "Pb": 4000,
+        "Ag": 0.9,
+        "Ga": -0.5,
+        "As": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "SP-4",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Zn": 620000,
+        "Pb": 3700,
+        "Ag": 0.6,
+        "Ga": -0.5,
+        "As": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "SP-5",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Zn": 640000,
+        "Pb": 3900,
+        "Ag": 0.8,
+        "Ga": -0.5,
+        "As": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "GA-1",
+      "mineral": "gallium arsenide",
+      "method": "EPMA",
+      "elements": {
+        "Ga": 1000000,
+        "As": 1000000,
+        "Ag": -0.5,
+        "Cu": -0.5,
+        "Fe": -0.5,
+        "S": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "GA-2",
+      "mineral": "gallium arsenide",
+      "method": "EPMA",
+      "elements": {
+        "Ga": 990000,
+        "As": 990000,
+        "Ag": -0.5,
+        "Cu": -0.5,
+        "Fe": -0.5,
+        "S": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "GA-3",
+      "mineral": "gallium arsenide",
+      "method": "EPMA",
+      "elements": {
+        "Ga": 1010000,
+        "As": 1010000,
+        "Ag": -0.5,
+        "Cu": -0.5,
+        "Fe": -0.5,
+        "S": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "GA-4",
+      "mineral": "gallium arsenide",
+      "method": "EPMA",
+      "elements": {
+        "Ga": 980000,
+        "As": 980000,
+        "Ag": -0.5,
+        "Cu": -0.5,
+        "Fe": -0.5,
+        "S": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "GA-5",
+      "mineral": "gallium arsenide",
+      "method": "EPMA",
+      "elements": {
+        "Ga": 1005000,
+        "As": 1005000,
+        "Ag": -0.5,
+        "Cu": -0.5,
+        "Fe": -0.5,
+        "S": -0.5,
+        "Co": -0.5,
+        "Ni": -0.5,
+        "Cd": -0.5,
+        "Sb": -0.5,
+        "Se": -0.5
+      }
+    },
+    {
+      "sample_id": "Sph-I",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Mn": 0.1,
+        "Ag": 0.8,
+        "Fe": 0.1,
+        "Pb": 0.1,
+        "Co": 0.1,
+        "Cu": 0.1,
+        "Sn": 0.1,
+        "Cd": 0.1
+      }
+    },
+    {
+      "sample_id": "Sph-II",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Mn": 0.1,
+        "Ag": 0.1,
+        "Fe": 0.1,
+        "Pb": 0.1,
+        "Co": 0.1,
+        "Cu": 0.1,
+        "Sn": 0.1,
+        "Cd": 0.1
+      }
+    },
+    {
+      "sample_id": "Sph-III",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Mn": 0.1,
+        "Ag": 0.1,
+        "Fe": 0.1,
+        "Pb": 0.1,
+        "Co": 0.1,
+        "Cu": 0.1,
+        "Sn": 0.1,
+        "Cd": 0.1
+      }
+    },
+    {
+      "sample_id": "Zn-rich chimney sphalerite",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 100,
+        "Cu": 2835,
+        "Cd": 1935,
+        "Sn": 1414,
+        "Sb": 100,
+        "Ag": 100,
+        "Co": 100
+      }
+    },
+    {
+      "sample_id": "Fe-rich chimney sphalerite",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 100,
+        "Cu": 100,
+        "Cd": 100,
+        "Sn": 100,
+        "Sb": 100,
+        "Ag": 100,
+        "Co": 100
+      }
+    },
+    {
+      "sample_id": "Zn-rich chimney pyrrhotite",
+      "mineral": "pyrrhotite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 59000,
+        "Co": 4806,
+        "Cu": 935,
+        "As": 100,
+        "Mo": 100,
+        "Ag": 100,
+        "Sn": 100,
+        "Se": 100
+      }
+    },
+    {
+      "sample_id": "Fe-rich chimney pyrrhotite",
+      "mineral": "pyrrhotite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 59000,
+        "Co": 4649,
+        "Cu": 3077,
+        "As": 100,
+        "Mo": 100,
+        "Ag": 100,
+        "Sn": 100,
+        "Se": 9.19
+      }
+    },
+    {
+      "sample_id": "Zn-rich chimney isocubanite",
+      "mineral": "isocubanite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 40000,
+        "Cu": 23000,
+        "Co": 4361,
+        "Zn": 2187,
+        "Sn": 100,
+        "Ag": 100,
+        "Au": 0.19
+      }
+    },
+    {
+      "sample_id": "Fe-rich chimney isocubanite",
+      "mineral": "isocubanite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 42900,
+        "Cu": 20000,
+        "Co": 3583,
+        "Zn": 100,
+        "Sn": 19.1,
+        "Ag": 9.82,
+        "Au": 0.19
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "{\"sample_id\":\"pyrrhotite\",\"mineral\":\"pyrrhotite\",\"method\":\"not specified\",\"elements\":{\"Co\":ppm,\"Se\":ppm,\"Ni\":ppm,\"S\":ppm,\"\u03b434S\":17.38}}\n{\"sample_id\":\"isocubanite\",\"mineral\":\"isocubanite\",\"method\":\"not specified\",\"elements\":{\"Co\":ppm,\"Se\":ppm,\"Ni\":ppm,\"S\":ppm,\"\u03b434S\":not specified}}\n{\"sample_id\":\"spha",
+  "elapsed_seconds": 117.3
+}

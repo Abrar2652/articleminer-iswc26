@@ -1,0 +1,532 @@
+{
+  "paper": "Zhao_et_al_2024",
+  "model": "llama31-8b",
+  "n_rows": 59,
+  "rows": [
+    {
+      "sample_id": "Tianbaoshan",
+      "mineral": "dolomite",
+      "method": "wt%",
+      "elements": {
+        "Zn": 7760,
+        "Pb": 128,
+        "Ag": 0.8,
+        "Ga": 0.8,
+        "Ge": 0.8,
+        "Cd": 0.8
+      }
+    },
+    {
+      "sample_id": "sphalerite",
+      "mineral": "sphalerite",
+      "method": "wt%",
+      "elements": {
+        "Pb": 0.8,
+        "Ag": 0.8,
+        "Ga": 0.8,
+        "Ge": 0.8,
+        "Cd": 0.8,
+        "Zn": 0.8
+      }
+    },
+    {
+      "sample_id": "galena",
+      "mineral": "galena",
+      "method": "wt%",
+      "elements": {
+        "Pb": 850000,
+        "S": 135000,
+        "Ag": 120
+      }
+    },
+    {
+      "sample_id": "diabase",
+      "mineral": "diabase",
+      "method": "wt%",
+      "elements": {
+        "Zn": 0.8,
+        "Pb": 0.8,
+        "Ag": 0.8,
+        "Ga": 0.8,
+        "Ge": 0.8,
+        "Cd": 0.8
+      }
+    },
+    {
+      "sample_id": "Sp-I",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0,
+        "Zn": 0,
+        "Ag": -0.5,
+        "As": 0,
+        "Na": 0,
+        "Cl": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "K": 0,
+        "S": 0,
+        "NaCl": 0,
+        "wt% NaCl": 0
+      }
+    },
+    {
+      "sample_id": "Sp-II",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0,
+        "Zn": 0,
+        "Ag": -0.5,
+        "As": 0,
+        "Na": 0,
+        "Cl": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "K": 0,
+        "S": 0,
+        "NaCl": 0,
+        "wt% NaCl": 0
+      }
+    },
+    {
+      "sample_id": "Sp-III",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0,
+        "Zn": 0,
+        "Ag": -0.5,
+        "As": 0,
+        "Na": 0,
+        "Cl": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "K": 0,
+        "S": 0,
+        "NaCl": 0,
+        "wt% NaCl": 0
+      }
+    },
+    {
+      "sample_id": "Gn-1",
+      "mineral": "galena",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0,
+        "Zn": 0,
+        "Ag": -0.5,
+        "As": 0,
+        "Na": 0,
+        "Cl": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "K": 0,
+        "S": 0,
+        "NaCl": 0,
+        "wt% NaCl": 0
+      }
+    },
+    {
+      "sample_id": "Gn-2",
+      "mineral": "galena",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0,
+        "Zn": 0,
+        "Ag": -0.5,
+        "As": 0,
+        "Na": 0,
+        "Cl": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "K": 0,
+        "S": 0,
+        "NaCl": 0,
+        "wt% NaCl": 0
+      }
+    },
+    {
+      "sample_id": "Gn-3",
+      "mineral": "galena",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0,
+        "Zn": 0,
+        "Ag": -0.5,
+        "As": 0,
+        "Na": 0,
+        "Cl": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "K": 0,
+        "S": 0,
+        "NaCl": 0,
+        "wt% NaCl": 0
+      }
+    },
+    {
+      "sample_id": "Py-1",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0,
+        "Zn": 0,
+        "Ag": -0.5,
+        "As": 0,
+        "Na": 0,
+        "Cl": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "K": 0,
+        "S": 0,
+        "NaCl": 0,
+        "wt% NaCl": 0
+      }
+    },
+    {
+      "sample_id": "Py-5",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0,
+        "Zn": 0,
+        "Ag": -0.5,
+        "As": 0,
+        "Na": 0,
+        "Cl": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "K": 0,
+        "S": 0,
+        "NaCl": 0,
+        "wt% NaCl": 0
+      }
+    },
+    {
+      "sample_id": "Ccp",
+      "mineral": "chalcopyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0,
+        "Zn": 0,
+        "Ag": -0.5,
+        "As": 0,
+        "Na": 0,
+        "Cl": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "K": 0,
+        "S": 0,
+        "NaCl": 0,
+        "wt% NaCl": 0
+      }
+    },
+    {
+      "sample_id": "Tet",
+      "mineral": "tetrahedrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0,
+        "Zn": 0,
+        "Ag": -0.5,
+        "As": 0,
+        "Na": 0,
+        "Cl": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "K": 0,
+        "S": 0,
+        "NaCl": 0,
+        "wt% NaCl": 0
+      }
+    },
+    {
+      "sample_id": "Apy",
+      "mineral": "arsenopyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0,
+        "Zn": 0,
+        "Ag": -0.5,
+        "As": 0,
+        "Na": 0,
+        "Cl": 0,
+        "Ca": 0,
+        "Mg": 0,
+        "K": 0,
+        "S": 0,
+        "NaCl": 0,
+        "wt% NaCl": 0
+      }
+    },
+    {
+      "sample_id": "Sph-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-3",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-4",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-5",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-6",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-7",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-8",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-9",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-10",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-11",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-12",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-13",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-14",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-15",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Sph-16",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-1",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-2",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-3",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-4",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-5",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-7",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-8",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-11",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-12",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-16",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-17",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-18",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-19",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-20",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-21",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-22",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-23",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-24",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-25",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-26",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-27",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-28",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-29",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-30",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-32",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-33",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-35",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    },
+    {
+      "sample_id": "Qz-38",
+      "mineral": "quartz",
+      "method": "LA-ICPMS",
+      "elements": {}
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "No analyses are present in this chunk of the paper.",
+  "elapsed_seconds": 97.2
+}

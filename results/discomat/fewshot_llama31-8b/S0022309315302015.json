@@ -1,0 +1,85 @@
+{
+  "pdf_id": "S0022309315302015",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "SrO",
+      "value": 45.4,
+      "unit": "kJ/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "P2O5",
+      "value": 28.2,
+      "unit": "kJ/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "MgF2",
+      "value": 71.9,
+      "unit": "kJ/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "CaF2",
+      "value": 63.4,
+      "unit": "kJ/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "SrF2",
+      "value": 51.7,
+      "unit": "kJ/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "AlF3",
+      "value": 70.9,
+      "unit": "kJ/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Mg2+",
+      "value": 0.57,
+      "unit": "\u00c5"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Ca2+",
+      "value": 1.06,
+      "unit": "\u00c5"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Sr2+",
+      "value": 1.21,
+      "unit": "\u00c5"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Al3+",
+      "value": 0.54,
+      "unit": "\u00c5"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "P5+",
+      "value": 0.17,
+      "unit": "\u00c5"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "O2-",
+      "value": 1.4,
+      "unit": "\u00c5"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "F-",
+      "value": 1.33,
+      "unit": "\u00c5"
+    }
+  ],
+  "elapsed_seconds": 26.9,
+  "raw_preview": "{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"SrO\", \"value\": 45.4, \"unit\": \"kJ/cm3\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"P2O5\", \"value\": 28.2, \"unit\": \"kJ/cm3\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"MgF2\", \"value\": 71.9, \"unit\": \"kJ/cm3\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"CaF2\", \"value\": 63.4, \"unit\": \"kJ/cm3\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"SrF2\", \"value\": 51.7, \"unit\": \"kJ/cm3\"}\n{\"sample_id\": \"S0022309303006537_0_3"
+}

@@ -1,0 +1,178 @@
+{
+  "pdf_id": "2210.00698v1",
+  "predictions": [
+    {
+      "value": "5, 000",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes",
+      "attribute name": [
+        "number of images",
+        "# images"
+      ],
+      "metric": "Validation Set Size"
+    },
+    {
+      "value": "1, 024 \u00d7 2, 048",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes",
+      "attribute name": [
+        "image resolution",
+        "resolution"
+      ],
+      "metric": "Validation Set Image Resolution"
+    },
+    {
+      "value": "2, 975, 500",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes",
+      "attribute name": [
+        "number of training images",
+        "# training images"
+      ],
+      "metric": "Training Set Size"
+    },
+    {
+      "value": "1, 525",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes",
+      "attribute name": [
+        "number of validation images",
+        "# validation images"
+      ],
+      "metric": "Validation Set Size"
+    },
+    {
+      "value": "1/4",
+      "type": "Result",
+      "model": "RSPNet",
+      "metric": "Parameter Size Reduction",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "512 \u00d7 102",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "parameter/architecture name": [
+        "image crop size",
+        "crop size"
+      ],
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "6",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "parameter/architecture name": [
+        "batch size",
+        "batch size"
+      ],
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "300",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "parameter/architecture name": [
+        "epochs",
+        "number of epochs"
+      ],
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "0.95",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "parameter/architecture name": [
+        "momentum",
+        "momentum"
+      ],
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "0.0005",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "parameter/architecture name": [
+        "weight decay",
+        "weight decay"
+      ],
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "0.005",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "parameter/architecture name": [
+        "learning rate",
+        "learning rate"
+      ],
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "0.0001",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "parameter/architecture name": [
+        "weight decay",
+        "weight decay"
+      ],
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "5",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes",
+      "attribute name": [
+        "number of days",
+        "# days"
+      ],
+      "metric": "Computation Time",
+      "hyper-parameter": "architecture search optimization",
+      "model": "RSPNet"
+    },
+    {
+      "value": "2",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes",
+      "attribute name": [
+        "number of GPUs",
+        "# GPUs"
+      ],
+      "metric": "Computation Resource",
+      "hyper-parameter": "architecture search optimization",
+      "model": "RSPNet"
+    },
+    {
+      "value": "25, 000",
+      "type": "Data Stat.",
+      "dataset": "Mapillary Vistas",
+      "attribute name": [
+        "number of images",
+        "# images"
+      ],
+      "metric": "Dataset Size"
+    },
+    {
+      "value": "66/124",
+      "type": "Data Stat.",
+      "dataset": "Mapillary Vistas",
+      "attribute name": [
+        "number of object categories",
+        "# object categories"
+      ],
+      "metric": "Dataset Features"
+    },
+    {
+      "value": "37/70",
+      "type": "Data Stat.",
+      "dataset": "Mapillary Vistas",
+      "attribute name": [
+        "number of instance-specific labels",
+        "# instance-specific labels"
+      ],
+      "metric": "Dataset Features"
+    }
+  ],
+  "elapsed_seconds": 31.1,
+  "raw_preview": "{\"value\": \"5, 000\", \"type\": \"Data Stat.\", \"dataset\": \"Cityscapes\", \"attribute name\": [\"number of images\", \"# images\"], \"metric\": \"Validation Set Size\"}\n{\"value\": \"1, 024 \u00d7 2, 048\", \"type\": \"Data Stat.\", \"dataset\": \"Cityscapes\", \"attribute name\": [\"image resolution\", \"resolution\"], \"metric\": \"Validation Set Image Resolution\"}\n{\"value\": \"2, 975, 500\", \"type\": \"Data Stat.\", \"dataset\": \"Cityscapes\", \"attribute name\": [\"number of training images\", \"# training images\"], \"metric\": \"Training Set Size\"}\n"
+}

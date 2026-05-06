@@ -1,0 +1,8 @@
+{
+  "domain": "discomat",
+  "model": "claude-sonnet-4-6",
+  "shots": 3,
+  "n_pdfs": 111,
+  "total_preds": 3044,
+  "elapsed_seconds": 2832.3
+}

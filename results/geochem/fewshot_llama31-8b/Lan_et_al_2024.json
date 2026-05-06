@@ -1,0 +1,55 @@
+{
+  "paper": "Lan_et_al_2024",
+  "model": "llama31-8b",
+  "n_rows": 3,
+  "rows": [
+    {
+      "sample_id": "Sp1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 0.1,
+        "Cd": 0.1,
+        "Sn": -0.5,
+        "In": -0.5,
+        "Ag": -0.1,
+        "Cu": -0.1,
+        "Co": -0.5,
+        "Mn": -0.5
+      }
+    },
+    {
+      "sample_id": "Sp2",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 0.1,
+        "Cd": 0.1,
+        "Sn": -0.5,
+        "In": -0.5,
+        "Ag": -0.1,
+        "Cu": -0.1,
+        "Co": -0.5,
+        "Mn": -0.5
+      }
+    },
+    {
+      "sample_id": "Sp3",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 0.1,
+        "Cd": 0.1,
+        "Sn": -0.5,
+        "In": -0.5,
+        "Ag": -0.1,
+        "Cu": -0.1,
+        "Co": -0.5,
+        "Mn": -0.5
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "{\"sample_id\":\"Sp1\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Fe\":0.1,\"Cd\":0.1,\"Sn\":-0.5,\"In\":-0.5,\"Ag\":-0.1,\"Cu\":-0.1,\"Co\":-0.5,\"Mn\":-0.5}}\n{\"sample_id\":\"Sp2\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Fe\":0.1,\"Cd\":0.1,\"Sn\":-0.5,\"In\":-0.5,\"Ag\":-0.1,\"Cu\":-0.1,\"Co\":-0.5,\"Mn\"",
+  "elapsed_seconds": 49.5
+}

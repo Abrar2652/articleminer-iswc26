@@ -1,0 +1,79 @@
+{
+  "pii": "S0022309307002116",
+  "predictions": [
+    {
+      "sample_id": "7LB2",
+      "component": "B2O3",
+      "value": 66.66,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "7LB2",
+      "component": "Li2O",
+      "value": 33.34,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "7LRbB2",
+      "component": "B2O3",
+      "value": 66.66,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "7LRbB2",
+      "component": "Li2O",
+      "value": 16.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "7LRbB2",
+      "component": "Rb2O",
+      "value": 16.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "RbB2",
+      "component": "B2O3",
+      "value": 66.66,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "RbB2",
+      "component": "Rb2O",
+      "value": 33.34,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "RbB3",
+      "component": "B2O3",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "RbB3",
+      "component": "Rb2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "RbB4",
+      "component": "B2O3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "RbB4",
+      "component": "Rb2O",
+      "value": 20.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 11,
+  "elapsed_seconds": 30.9,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

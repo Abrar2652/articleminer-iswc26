@@ -1,0 +1,630 @@
+{
+  "pdf_id": "PMC4295614",
+  "predictions": [
+    {
+      "value": "0.12",
+      "type": "MIC",
+      "target": "M. tuberculosis",
+      "treatment": "43b",
+      "unit": "mM"
+    },
+    {
+      "value": "0.15",
+      "type": "MIC",
+      "target": "M. tuberculosis",
+      "treatment": "65",
+      "unit": "mM"
+    },
+    {
+      "value": "0.13",
+      "type": "MIC",
+      "target": "M. tuberculosis",
+      "treatment": "67",
+      "unit": "mM"
+    },
+    {
+      "value": "0.66",
+      "type": "MIC",
+      "target": "M. tuberculosis",
+      "treatment": "isoniazid",
+      "unit": "mM"
+    },
+    {
+      "value": "0.23",
+      "type": "MIC",
+      "target": "M. tuberculosis",
+      "treatment": "rifampicin",
+      "unit": "mM"
+    },
+    {
+      "value": "0.88",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "7a",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.71",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "7e",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.65",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "7i",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.027,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "39a",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.025,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "37b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.023,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "40b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.022,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "41b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.021,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "43b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.02,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "45b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.019,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "49b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.018,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.017,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "36d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.016,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "39d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.015,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "46d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.014,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.013,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.012,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "7l",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.011,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "43b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.01,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.009,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.008,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "36d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.007,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "39d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.006,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "46d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.005,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.004,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.003,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "7l",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.002,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "43b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "36d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "39d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "46d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "7l",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "43b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "36d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "39d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "46d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "7l",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "43b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "36d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "39d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "46d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "7l",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "43b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "36d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "39d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "46d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "7l",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "43b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "36d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "39d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "46d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "7l",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "43b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "36d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "39d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "46d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "7l",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "43b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "47d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "50d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.001,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "36d",
+      "unit": "\u03bcM"
+    }
+  ],
+  "elapsed_seconds": 179.2,
+  "raw_preview": "{\"value\": \"0.12\", \"type\": \"MIC\", \"target\": \"M. tuberculosis\", \"treatment\": \"43b\", \"unit\": \"mM\"}\n{\"value\": \"0.15\", \"type\": \"MIC\", \"target\": \"M. tuberculosis\", \"treatment\": \"65\", \"unit\": \"mM\"}\n{\"value\": \"0.13\", \"type\": \"MIC\", \"target\": \"M. tuberculosis\", \"treatment\": \"67\", \"unit\": \"mM\"}\n{\"value\": \"0.66\", \"type\": \"MIC\", \"target\": \"M. tuberculosis\", \"treatment\": \"isoniazid\", \"unit\": \"mM\"}\n{\"value\": \"0.23\", \"type\": \"MIC\", \"target\": \"M. tuberculosis\", \"treatment\": \"rifampicin\", \"unit\": \"mM\"}\n{\"value\":"
+}

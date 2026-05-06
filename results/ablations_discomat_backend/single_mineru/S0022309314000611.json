@@ -1,0 +1,406 @@
+{
+  "pii": "S0022309314000611",
+  "predictions": [
+    {
+      "sample_id": "S1\u2013TiO2",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1\u2013TiO2",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1\u2013TiO2",
+      "component": "TiO2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2\u2013TiO2",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2\u2013TiO2",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2\u2013TiO2",
+      "component": "TiO2",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3\u2013TiO2",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3\u2013TiO2",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3\u2013TiO2",
+      "component": "TiO2",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4\u2013TiO2",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4\u2013TiO2",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4\u2013TiO2",
+      "component": "TiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5\u2013TiO2",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5\u2013TiO2",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5\u2013TiO2",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1\u2013BaO",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1\u2013BaO",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1\u2013BaO",
+      "component": "BaO",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2\u2013BaO",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2\u2013BaO",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2\u2013BaO",
+      "component": "BaO",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3\u2013BaO",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3\u2013BaO",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3\u2013BaO",
+      "component": "BaO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4\u2013BaO",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4\u2013BaO",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4\u2013BaO",
+      "component": "BaO",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5\u2013BaO",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5\u2013BaO",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5\u2013BaO",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1\u2013Bi2O3",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1\u2013Bi2O3",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1\u2013Bi2O3",
+      "component": "Bi2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2\u2013Bi2O3",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2\u2013Bi2O3",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2\u2013Bi2O3",
+      "component": "Bi2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3\u2013Bi2O3",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3\u2013Bi2O3",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3\u2013Bi2O3",
+      "component": "Bi2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4\u2013Bi2O3",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4\u2013Bi2O3",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4\u2013Bi2O3",
+      "component": "Bi2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5\u2013Bi2O3",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5\u2013Bi2O3",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5\u2013Bi2O3",
+      "component": "Bi2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TeO\u2082",
+      "component": "TeO2",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Nb\u2082O\u2085",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Nb\u2082O\u2085",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Nb\u2082O\u2085",
+      "component": "WO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Nb\u2082O\u2085",
+      "component": "Nb2O5",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201312WO\u2083\u20132Nb\u2082O\u2085",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201312WO\u2083\u20132Nb\u2082O\u2085",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201312WO\u2083\u20132Nb\u2082O\u2085",
+      "component": "WO3",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201312WO\u2083\u20132Nb\u2082O\u2085",
+      "component": "Nb2O5",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Nd\u2082O\u2083",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Nd\u2082O\u2083",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Nd\u2082O\u2083",
+      "component": "WO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Nd\u2082O\u2083",
+      "component": "Nd2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Er\u2082O\u2083",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Er\u2082O\u2083",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Er\u2082O\u2083",
+      "component": "WO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u20135TiO\u2082\u201310WO\u2083\u20135Er\u2082O\u2083",
+      "component": "Er2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u201320MoO\u2083",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u201320MoO\u2083",
+      "component": "MoO3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u201320V\u2082O\u2085",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO\u2082\u201320V\u2082O\u2085",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 47,
+  "elapsed_seconds": 76.8,
+  "backends": [
+    "mineru"
+  ]
+}

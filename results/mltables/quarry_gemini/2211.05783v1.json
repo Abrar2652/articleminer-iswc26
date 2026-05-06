@@ -1,0 +1,1884 @@
+{
+  "arxiv_id": "2211.05783v1",
+  "predictions": [
+    {
+      "value": "22.48",
+      "type": "Result",
+      "model": "VCN [2]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.47",
+      "type": "Result",
+      "model": "DGC [12]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.07",
+      "type": "Result",
+      "model": "DGC [12]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "16.54",
+      "type": "Result",
+      "model": "DGC [12]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "3.68",
+      "type": "Result",
+      "model": "DGC [12]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.66",
+      "type": "Result",
+      "model": "DGC [12]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "19.44",
+      "type": "Result",
+      "model": "DGC [12]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.94",
+      "type": "Result",
+      "model": "DDF [23]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "3.18",
+      "type": "Result",
+      "model": "DDF [23]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.78",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.66",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "10.56",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.85",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.32",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "15.80",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.62",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "9.65",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.86",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.41",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "14.68",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "GMNet [21]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.60",
+      "type": "Result",
+      "model": "GMNet [21]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "9.65",
+      "type": "Result",
+      "model": "GMNet [21]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.86",
+      "type": "Result",
+      "model": "GMNet [21]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.41",
+      "type": "Result",
+      "model": "GMNet [21]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "14.68",
+      "type": "Result",
+      "model": "GMNet [21]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.39",
+      "type": "Result",
+      "model": "GMFlowNet [23]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "model": "GMFlowNet [23]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "8.49",
+      "type": "Result",
+      "model": "GMFlowNet [23]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.65",
+      "type": "Result",
+      "model": "GMFlowNet [23]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.27",
+      "type": "Result",
+      "model": "GMFlowNet [23]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "13.88",
+      "type": "Result",
+      "model": "GMFlowNet [23]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.44",
+      "type": "Result",
+      "model": "DIFT [7]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.56",
+      "type": "Result",
+      "model": "DIFT [7]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "8.92",
+      "type": "Result",
+      "model": "DIFT [7]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.65",
+      "type": "Result",
+      "model": "DIFT [7]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.22",
+      "type": "Result",
+      "model": "DIFT [7]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "13.49",
+      "type": "Result",
+      "model": "DIFT [7]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.44",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.56",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "8.92",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.47",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.22",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "13.49",
+      "type": "Result",
+      "model": "GMFlow [3]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.44",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.61",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "8.20",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.42",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.19",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "12.64",
+      "type": "Result",
+      "model": "CRAFT [28]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.08",
+      "type": "Result",
+      "model": "FlowFormer [52]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.36",
+      "type": "Result",
+      "model": "FlowFormer [52]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "7.13",
+      "type": "Result",
+      "model": "FlowFormer [52]",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.42",
+      "type": "Result",
+      "model": "FlowFormer [52]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.99",
+      "type": "Result",
+      "model": "FlowFormer [52]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "12.74",
+      "type": "Result",
+      "model": "FlowFormer [52]",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.03",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.34",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "6.68",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.37",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.10",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "12.74",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#refine.",
+      "model": "baseline"
+    },
+    {
+      "value": "0.94",
+      "type": "Result",
+      "model": "baseline",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.95",
+      "type": "Result",
+      "model": "baseline",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.31",
+      "type": "Result",
+      "model": "baseline",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "6.79",
+      "type": "Result",
+      "model": "baseline",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.46",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.27",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "6.22",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#refine.",
+      "model": "2D correlation"
+    },
+    {
+      "value": "0.83",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.42",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.25",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "5.96",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "0.81",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.36",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.24",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "5.90",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#refine.",
+      "model": "2D correlation"
+    },
+    {
+      "value": "0.77",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "2.22",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.24",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "6.00",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "Optical Flow"
+    },
+    {
+      "value": "1.65",
+      "type": "Result",
+      "model": "LEAStereo",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (All)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.51",
+      "type": "Result",
+      "model": "LEAStereo",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (Noc)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.30",
+      "type": "Result",
+      "model": "LEAStereo",
+      "dataset": "Scene Flow",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.69",
+      "type": "Result",
+      "model": "CREStereo",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (All)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.58",
+      "type": "Result",
+      "model": "CREStereo",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (Noc)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.41",
+      "type": "Result",
+      "model": "CREStereo",
+      "dataset": "Scene Flow",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.81",
+      "type": "Result",
+      "model": "GANet",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (All)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.63",
+      "type": "Result",
+      "model": "GANet",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (Noc)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.08",
+      "type": "Result",
+      "model": "GANet",
+      "dataset": "Scene Flow",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.88",
+      "type": "Result",
+      "model": "CFNet",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (All)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.71",
+      "type": "Result",
+      "model": "CFNet",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (Noc)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.08",
+      "type": "Result",
+      "model": "CFNet",
+      "dataset": "Scene Flow",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "2.05",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (All)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.85",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (Noc)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.04",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "dataset": "Scene Flow",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "2.32",
+      "type": "Result",
+      "model": "PSMNet",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (All)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "2.14",
+      "type": "Result",
+      "model": "PSMNet",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (Noc)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.41",
+      "type": "Result",
+      "model": "PSMNet",
+      "dataset": "Scene Flow",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.77",
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (All)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "Scene Flow",
+      "metric": "D1-All (Noc)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.17",
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "Scene Flow",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "3.71",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "2.04",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.15",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "AvgErr",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "7.70",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "RMS",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "3.55",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "4.74",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "2.75",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.27",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "AvgErr",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "8.41",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "RMS",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.11",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "5.70",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "3.27",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.43",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "AvgErr",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "9.41",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "RMS",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "3.50",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "10.2",
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "4.82",
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "2.07",
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "AvgErr",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "10.3",
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "RMS",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.51",
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "10.3",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "4.49",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "2.09",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "AvgErr",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "11.4",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "RMS",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.04",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "7.14",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "2.96",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.31",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "AvgErr",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "6.45",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "RMS",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.73",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "Time (s)",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "4.06",
+      "type": "Result",
+      "model": "ACVNet",
+      "metric": "D1@10",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "6.46",
+      "type": "Result",
+      "model": "ACVNet",
+      "metric": "D1@5",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "10.10",
+      "type": "Result",
+      "model": "ACVNet",
+      "metric": "D1@3",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "236",
+      "type": "Result",
+      "model": "ACVNet",
+      "metric": "Time",
+      "unit": "ms",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "3.78",
+      "type": "Result",
+      "model": "ODepth\u00b9",
+      "metric": "D1@10",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "7.52",
+      "type": "Result",
+      "model": "ODepth\u00b9",
+      "metric": "D1@5",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "12.34",
+      "type": "Result",
+      "model": "ODepth\u00b9",
+      "metric": "D1@3",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "190",
+      "type": "Result",
+      "model": "ODepth\u00b9",
+      "metric": "Time",
+      "unit": "ms",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "3.41",
+      "type": "Result",
+      "model": "ODepth\u00b2",
+      "metric": "D1@10",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "5.71",
+      "type": "Result",
+      "model": "ODepth\u00b2",
+      "metric": "D1@5",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "9.44",
+      "type": "Result",
+      "model": "ODepth\u00b2",
+      "metric": "D1@3",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "191",
+      "type": "Result",
+      "model": "ODepth\u00b2",
+      "metric": "Time",
+      "unit": "ms",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "2.39",
+      "type": "Result",
+      "model": "MSC-lab\u00b9",
+      "metric": "D1@10",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "6.26",
+      "type": "Result",
+      "model": "MSC-lab\u00b9",
+      "metric": "D1@5",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "11.65",
+      "type": "Result",
+      "model": "MSC-lab\u00b9",
+      "metric": "D1@3",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "190",
+      "type": "Result",
+      "model": "MSC-lab\u00b9",
+      "metric": "Time",
+      "unit": "ms",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "D1@10",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "3.19",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "D1@5",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "6.86",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "D1@3",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "190",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "Time",
+      "unit": "ms",
+      "task": "Stereo Depth Estimation"
+    },
+    {
+      "value": "6.56",
+      "type": "Result",
+      "model": "GANet",
+      "dataset": "Scene Flow",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.10",
+      "type": "Result",
+      "model": "GANet",
+      "dataset": "Scene Flow",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "5.40",
+      "type": "Result",
+      "model": "ACVNet",
+      "dataset": "Scene Flow",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.66",
+      "type": "Result",
+      "model": "ACVNet",
+      "dataset": "Scene Flow",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "5.31",
+      "type": "Result",
+      "model": "CFNet",
+      "dataset": "Scene Flow",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.72",
+      "type": "Result",
+      "model": "CFNet",
+      "dataset": "Scene Flow",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "2.48",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "dataset": "Scene Flow",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.45",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "dataset": "Scene Flow",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "2.98",
+      "type": "Result",
+      "model": "LEAStereo",
+      "dataset": "Scene Flow",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.22",
+      "type": "Result",
+      "model": "LEAStereo",
+      "dataset": "Scene Flow",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "1.83",
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "Scene Flow",
+      "metric": "bad 2.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.25",
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "Scene Flow",
+      "metric": "bad 4.0",
+      "task": "Rectified Stereo Matching"
+    },
+    {
+      "value": "0.231",
+      "type": "Result",
+      "model": "DeMoN",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.520",
+      "type": "Result",
+      "model": "DeMoN",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.761",
+      "type": "Result",
+      "model": "DeMoN",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.289",
+      "type": "Result",
+      "model": "DeMoN",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "model": "DeMoN",
+      "metric": "Time (s)",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.161",
+      "type": "Result",
+      "model": "DeMoN-V2",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.302",
+      "type": "Result",
+      "model": "DeMoN-V2",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.526",
+      "type": "Result",
+      "model": "DeMoN-V2",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.211",
+      "type": "Result",
+      "model": "DeMoN-V2",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.38",
+      "type": "Result",
+      "model": "DeMoN-V2",
+      "metric": "Time (s)",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.057",
+      "type": "Result",
+      "model": "BA-Net",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.010",
+      "type": "Result",
+      "model": "BA-Net",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.166",
+      "type": "Result",
+      "model": "BA-Net",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.082",
+      "type": "Result",
+      "model": "BA-Net",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.04",
+      "type": "Result",
+      "model": "BA-Net",
+      "metric": "Time (s)",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.059",
+      "type": "Result",
+      "model": "GMDepth",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.019",
+      "type": "Result",
+      "model": "GMDepth",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.179",
+      "type": "Result",
+      "model": "GMDepth",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.080",
+      "type": "Result",
+      "model": "GMDepth",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.04",
+      "type": "Result",
+      "model": "GMDepth",
+      "metric": "Time (s)",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.157",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "DeMoN [17]",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.524",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "DeMoN [17]",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "1.780",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "DeMoN [17]",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.202",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "DeMoN [17]",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.108",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "DeMoN [17]",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.270",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "DeMoN [17]",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.900",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "DeMoN [17]",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.121",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "DeMoN [17]",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.154",
+      "type": "Result",
+      "model": "BA-Net [20]",
+      "dataset": "DeMoN [17]",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.215",
+      "type": "Result",
+      "model": "BA-Net [20]",
+      "dataset": "DeMoN [17]",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.523",
+      "type": "Result",
+      "model": "BA-Net [20]",
+      "dataset": "DeMoN [17]",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.222",
+      "type": "Result",
+      "model": "BA-Net [20]",
+      "dataset": "DeMoN [17]",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.200",
+      "type": "Result",
+      "model": "H. Hirschmuller",
+      "dataset": "DeMoN [17]",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.600",
+      "type": "Result",
+      "model": "H. Hirschmuller",
+      "dataset": "DeMoN [17]",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.101",
+      "type": "Result",
+      "model": "AutoDepth [10]",
+      "dataset": "DeMoN [17]",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.177",
+      "type": "Result",
+      "model": "AutoDepth [10]",
+      "dataset": "DeMoN [17]",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.536",
+      "type": "Result",
+      "model": "AutoDepth [10]",
+      "dataset": "DeMoN [17]",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.167",
+      "type": "Result",
+      "model": "AutoDepth [10]",
+      "dataset": "DeMoN [17]",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.214",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "1.120",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "SUN3D",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "2.421",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "SUN3D",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.206",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "SUN3D",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.201",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.945",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "SUN3D",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "1.980",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "SUN3D",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.183",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "SUN3D",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.147",
+      "type": "Result",
+      "model": "AutoDepth [10]",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.107",
+      "type": "Result",
+      "model": "AutoDepth [10]",
+      "dataset": "SUN3D",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.427",
+      "type": "Result",
+      "model": "AutoDepth [10]",
+      "dataset": "SUN3D",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.191",
+      "type": "Result",
+      "model": "AutoDepth [10]",
+      "dataset": "SUN3D",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.090",
+      "type": "Result",
+      "model": "H. Hirschmuller",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.290",
+      "type": "Result",
+      "model": "H. Hirschmuller",
+      "dataset": "SUN3D",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.112",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.068",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "SUN3D",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.236",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "SUN3D",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.146",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "SUN3D",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.556",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "3.402",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "Scenes11",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "2.603",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "Scenes11",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.391",
+      "type": "Result",
+      "model": "DeMoN [17]",
+      "dataset": "Scenes11",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.356",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.323",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "Scenes11",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.891",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "Scenes11",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.229",
+      "type": "Result",
+      "model": "DeMoN-V2 [17]",
+      "dataset": "Scenes11",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.104",
+      "type": "Result",
+      "model": "BA-Net [20]",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.040",
+      "type": "Result",
+      "model": "BA-Net [20]",
+      "dataset": "Scenes11",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.192",
+      "type": "Result",
+      "model": "BA-Net [20]",
+      "dataset": "Scenes11",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.100",
+      "type": "Result",
+      "model": "BA-Net [20]",
+      "dataset": "Scenes11",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.086",
+      "type": "Result",
+      "model": "IBN [29]",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.161",
+      "type": "Result",
+      "model": "IBN [29]",
+      "dataset": "Scenes11",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.050",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.069",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Scenes11",
+      "metric": "Sq Rel",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.091",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Scenes11",
+      "metric": "RMSE",
+      "task": "Depth Prediction"
+    },
+    {
+      "value": "0.106",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Scenes11",
+      "metric": "RMSE log",
+      "task": "Depth Prediction"
+    }
+  ],
+  "num_gold_annotations": 122,
+  "elapsed_seconds": 194.8,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

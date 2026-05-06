@@ -1,0 +1,25 @@
+{
+  "pdf_id": "S0022309300002805",
+  "predictions": [
+    {
+      "sample_id": "70V2O5_20Sb_10TeO2",
+      "component": "V2O5",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "70V2O5_20Sb_10TeO2",
+      "component": "Sb2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "70V2O5_20Sb_10TeO2",
+      "component": "TeO2",
+      "value": 10.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 34.5,
+  "raw_preview": " provided in the 'PAPER TEXT' section:\nV2O5 < 50 mol% [1\u00b14]. From the obtained results\n[1\u00b14], we found that the conductivity of these ternary\nvanadium\u00b1tellurite glasses depended on the\ncation radius of the third component (Sb2O3, Sn O,\nBi2O3 or Zn O); the glasses containing cations with\nthe lower ionic radius of Sb5  0:061 nm gave a\nhigher conductivity than those glasses containing\nSn2  0:069 nm, Bi5  0:075 nm or Zn2\n0:075 nm [32]. For these ternary glasses, it was also\nfound that oxygen (O) ion"
+}

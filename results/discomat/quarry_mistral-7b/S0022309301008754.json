@@ -1,0 +1,114 @@
+{
+  "pii": "S0022309301008754",
+  "predictions": [
+    {
+      "sample_id": "La2O3",
+      "component": "La2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F",
+      "component": "F2O",
+      "value": 0.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cr2O3",
+      "component": "Cr2O3",
+      "value": 0.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P2O5",
+      "component": "P2O5",
+      "value": 0.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SO3",
+      "component": "SO3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cl-",
+      "component": "-",
+      "value": 0.58,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CaO",
+      "component": "CaO",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "K2O",
+      "component": "K2O",
+      "value": 2.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "MgO",
+      "component": "MgO",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZrO2",
+      "component": "ZrO2",
+      "value": 5.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZnO",
+      "component": "ZnO",
+      "value": 2.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TiO2",
+      "component": "TiO2",
+      "value": 2.49,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe2O3",
+      "component": "Fe2O3",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B2O3",
+      "component": "B2O3",
+      "value": 9.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al2O3",
+      "component": "Al2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Na2O",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Total",
+      "component": "-",
+      "value": 100.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 91,
+  "elapsed_seconds": 50.0,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

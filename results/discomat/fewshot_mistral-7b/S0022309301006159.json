@@ -1,0 +1,887 @@
+{
+  "pdf_id": "S0022309301006159",
+  "predictions": [
+    {
+      "component": "C",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SiO2",
+      "value": 88.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Al2O3",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Fe2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MgO",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SrO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "BaO",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "K2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZrO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nb2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "La2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CeO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Pr6O11",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nd2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Sm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Eu2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Gd2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Y2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "HfO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZrO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SnO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Sb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Ta2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "WO3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MoO3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Cr2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MnO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "FeO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CoO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "NiO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CuO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZnO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MgO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SrO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "BaO",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "K2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZrO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nb2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "La2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CeO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Pr6O11",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nd2O3",
+      "value": 34.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Sm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Eu2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Gd2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Y2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "HfO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZrO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SnO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Sb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Ta2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "WO3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MoO3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Cr2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MnO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "FeO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CoO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "NiO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CuO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZnO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MgO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SrO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "BaO",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "K2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZrO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nb2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "La2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CeO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Pr6O11",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nd2O3",
+      "value": 34.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Sm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Eu2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Gd2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Y2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "HfO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZrO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SnO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Sb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Ta2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "WO3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MoO3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Cr2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MnO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "FeO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CoO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "NiO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CuO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZnO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MgO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SrO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "BaO",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "K2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZrO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nb2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "La2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CeO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Pr6O11",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nd2O3",
+      "value": 34.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Sm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Eu2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Gd2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Y2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "HfO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZrO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SnO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Sb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Ta2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "WO3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MoO3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Cr2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MnO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "FeO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CoO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "NiO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CuO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZnO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MgO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SrO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "BaO",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "K2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZrO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nb2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "La2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CeO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Pr6O11",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nd2O3",
+      "value": 34.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Sm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Eu2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Gd2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Y2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "HfO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZrO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SnO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Sb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Ta2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "WO3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MoO3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Cr2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MnO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "FeO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CoO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "NiO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CuO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZnO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "MgO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "SrO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "BaO",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "K2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "ZrO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nb2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "La2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "component": "CeO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Pr6O11",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Nd2O3",
+      "value": 34.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Sm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Eu2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Gd2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "component": "Y2O3",
+      "value": 0.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 216.5,
+  "raw_preview": "Based on the provided paper text, it appears to be a complex glass or ceramic composition with various oxides and other components listed. I'll attempt to extract the material-composition entries as requested, but please note that the sample ids are not explicitly stated in the text. I'll assume that each set of components belongs to a separate sample.\n\nHere's the JSON output for the first few entries:\n\n```json\n{\"component\": \"C\", \"value\": 4, \"unit\": \"mol\"}\n{\"component\": \"SiO2\", \"value\": 88, \"uni"
+}

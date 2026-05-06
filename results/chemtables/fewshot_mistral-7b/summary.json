@@ -1,0 +1,8 @@
+{
+  "domain": "chemtables",
+  "model": "mistral-7b-v02",
+  "shots": 3,
+  "n_pdfs": 9,
+  "total_preds": 448,
+  "elapsed_seconds": 1365.4
+}

@@ -1,0 +1,691 @@
+{
+  "pdf_id": "S0022309307006813",
+  "predictions": [
+    {
+      "sample_id": "A1",
+      "component": "Ti",
+      "value": 32.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A1",
+      "component": "Zr",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A1",
+      "component": "Ni",
+      "value": 45.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A1",
+      "component": "Cu",
+      "value": 5.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A2",
+      "component": "Ti",
+      "value": 32.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A2",
+      "component": "Zr",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A2",
+      "component": "Ni",
+      "value": 35.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A2",
+      "component": "Cu",
+      "value": 15.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A3",
+      "component": "Ti",
+      "value": 32.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A3",
+      "component": "Zr",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A3",
+      "component": "Ni",
+      "value": 25.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A3",
+      "component": "Cu",
+      "value": 25.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A4",
+      "component": "Ti",
+      "value": 32.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A4",
+      "component": "Zr",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A4",
+      "component": "Ni",
+      "value": 15.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A4",
+      "component": "Cu",
+      "value": 35.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A5",
+      "component": "Ti",
+      "value": 32.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A5",
+      "component": "Zr",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A5",
+      "component": "Ni",
+      "value": 5.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "A5",
+      "component": "Cu",
+      "value": 45.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B1",
+      "component": "Ti",
+      "value": 40.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B1",
+      "component": "Zr",
+      "value": 15.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B1",
+      "component": "Ni",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B1",
+      "component": "Cu",
+      "value": 27.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B2",
+      "component": "Ti",
+      "value": 40.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B2",
+      "component": "Zr",
+      "value": 15.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B2",
+      "component": "Ni",
+      "value": 13.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B2",
+      "component": "Cu",
+      "value": 32.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B3",
+      "component": "Ti",
+      "value": 40.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B3",
+      "component": "Zr",
+      "value": 15.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B3",
+      "component": "Ni",
+      "value": 8.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B3",
+      "component": "Cu",
+      "value": 37.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B4",
+      "component": "Ti",
+      "value": 40.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B4",
+      "component": "Zr",
+      "value": 15.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B4",
+      "component": "Ni",
+      "value": 3.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B4",
+      "component": "Cu",
+      "value": 42.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B5",
+      "component": "Ti",
+      "value": 40.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B5",
+      "component": "Zr",
+      "value": 15.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "B5",
+      "component": "Cu",
+      "value": 45.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C1",
+      "component": "Ti",
+      "value": 48.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C1",
+      "component": "Zr",
+      "value": 2.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C1",
+      "component": "Ni",
+      "value": 23.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C1",
+      "component": "Cu",
+      "value": 23.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C1",
+      "component": "Ag",
+      "value": 2.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C1",
+      "component": "Al",
+      "value": 2.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C2",
+      "component": "Ti",
+      "value": 47.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C2",
+      "component": "Zr",
+      "value": 3.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C2",
+      "component": "Ni",
+      "value": 23.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C2",
+      "component": "Cu",
+      "value": 20.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C2",
+      "component": "Ag",
+      "value": 2.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C2",
+      "component": "Al",
+      "value": 5.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C3",
+      "component": "Ti",
+      "value": 45.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C3",
+      "component": "Zr",
+      "value": 5.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C3",
+      "component": "Ni",
+      "value": 23.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C3",
+      "component": "Cu",
+      "value": 20.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C3",
+      "component": "Ag",
+      "value": 2.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C3",
+      "component": "Al",
+      "value": 4.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C4",
+      "component": "Ti",
+      "value": 47.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C4",
+      "component": "Ni",
+      "value": 23.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C4",
+      "component": "Cu",
+      "value": 24.5,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C4",
+      "component": "Ag",
+      "value": 2.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C4",
+      "component": "Al",
+      "value": 0.5,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C5",
+      "component": "Ti",
+      "value": 47.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C5",
+      "component": "Ni",
+      "value": 23.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C5",
+      "component": "Cu",
+      "value": 22.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C5",
+      "component": "Ag",
+      "value": 2.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C5",
+      "component": "Al",
+      "value": 3.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C6",
+      "component": "Ti",
+      "value": 48.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C6",
+      "component": "Zr",
+      "value": 2.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C6",
+      "component": "Ni",
+      "value": 20.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C6",
+      "component": "Cu",
+      "value": 25.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C6",
+      "component": "Ag",
+      "value": 5.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C7",
+      "component": "Ti",
+      "value": 40.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C7",
+      "component": "Zr",
+      "value": 10.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C7",
+      "component": "Ni",
+      "value": 20.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C7",
+      "component": "Cu",
+      "value": 25.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "C7",
+      "component": "Ag",
+      "value": 5.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D1",
+      "component": "Ti",
+      "value": 47.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D1",
+      "component": "Zr",
+      "value": 8.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D1",
+      "component": "Ni",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D1",
+      "component": "Cu",
+      "value": 24.5,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D1",
+      "component": "Ag",
+      "value": 2.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D1",
+      "component": "Al",
+      "value": 0.5,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D2",
+      "component": "Ti",
+      "value": 48.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D2",
+      "component": "Zr",
+      "value": 7.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D2",
+      "component": "Ni",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D2",
+      "component": "Cu",
+      "value": 23.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D2",
+      "component": "Ag",
+      "value": 2.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D3",
+      "component": "Ti",
+      "value": 48.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D3",
+      "component": "Zr",
+      "value": 7.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D3",
+      "component": "Ni",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D3",
+      "component": "Cu",
+      "value": 25.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D3",
+      "component": "Ag",
+      "value": 2.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D4",
+      "component": "Ti",
+      "value": 48.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D4",
+      "component": "Zr",
+      "value": 7.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D4",
+      "component": "Ni",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D4",
+      "component": "Cu",
+      "value": 22.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D4",
+      "component": "Ag",
+      "value": 5.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D5",
+      "component": "Ti",
+      "value": 40.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D5",
+      "component": "Zr",
+      "value": 15.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D5",
+      "component": "Ni",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D5",
+      "component": "Cu",
+      "value": 25.7,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D5",
+      "component": "Ag",
+      "value": 1.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D5",
+      "component": "Al",
+      "value": 0.3,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D6",
+      "component": "Ti",
+      "value": 40.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D6",
+      "component": "Zr",
+      "value": 15.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D6",
+      "component": "Ni",
+      "value": 18.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D6",
+      "component": "Cu",
+      "value": 25.7,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D6",
+      "component": "Ag",
+      "value": 1.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D6",
+      "component": "Al",
+      "value": 0.3,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D7",
+      "component": "Ti",
+      "value": 40.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D7",
+      "component": "Ni",
+      "value": 11.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D7",
+      "component": "Cu",
+      "value": 32.0,
+      "unit": "at."
+    },
+    {
+      "sample_id": "D7",
+      "component": "Ag",
+      "value": 2.0,
+      "unit": "at."
+    }
+  ],
+  "elapsed_seconds": 152.8,
+  "raw_preview": "{\"sample_id\": \"A1\", \"component\": \"Ti\", \"value\": 32, \"unit\": \"at.\"}\n{\"sample_id\": \"A1\", \"component\": \"Zr\", \"value\": 18, \"unit\": \"at.\"}\n{\"sample_id\": \"A1\", \"component\": \"Ni\", \"value\": 45, \"unit\": \"at.\"}\n{\"sample_id\": \"A1\", \"component\": \"Cu\", \"value\": 5, \"unit\": \"at.\"}\n{\"sample_id\": \"A2\", \"component\": \"Ti\", \"value\": 32, \"unit\": \"at.\"}\n{\"sample_id\": \"A2\", \"component\": \"Zr\", \"value\": 18, \"unit\": \"at.\"}\n{\"sample_id\": \"A2\", \"component\": \"Ni\", \"value\": 35, \"unit\": \"at.\"}\n{\"sample_id\": \"A2\", \"component\":"
+}

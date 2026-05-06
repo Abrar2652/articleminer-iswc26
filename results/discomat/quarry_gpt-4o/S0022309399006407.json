@@ -1,0 +1,301 @@
+{
+  "pii": "S0022309399006407",
+  "predictions": [
+    {
+      "sample_id": "G1",
+      "component": "PbO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G1",
+      "component": "PbF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G1",
+      "component": "PbBr2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G1",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G2",
+      "component": "PbO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G2",
+      "component": "PbF2",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G2",
+      "component": "PbBr2",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G2",
+      "component": "P2O5",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G3",
+      "component": "PbO",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G3",
+      "component": "PbF2",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G3",
+      "component": "PbBr2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G3",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B1",
+      "component": "PbO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B1",
+      "component": "PbCl2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B2",
+      "component": "PbO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B2",
+      "component": "PbF2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B2",
+      "component": "PbCl2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B3",
+      "component": "PbO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B3",
+      "component": "PbF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B3",
+      "component": "PbCl2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B4",
+      "component": "PbO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B4",
+      "component": "PbF2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B4",
+      "component": "PbCl2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B5",
+      "component": "PbO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B5",
+      "component": "PbF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B5",
+      "component": "PbCl2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B6",
+      "component": "PbO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B6",
+      "component": "PbF2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B6",
+      "component": "PbCl2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B7",
+      "component": "PbO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B7",
+      "component": "PbF2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B7",
+      "component": "PbCl2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B11",
+      "component": "PbO",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B11",
+      "component": "PbF2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B11",
+      "component": "PbCl2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B27",
+      "component": "PbO",
+      "value": 28.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B27",
+      "component": "PbF2",
+      "value": 28.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B27",
+      "component": "PbCl2",
+      "value": 38.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B27",
+      "component": "PbBr2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B42",
+      "component": "PbO",
+      "value": 28.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B42",
+      "component": "PbF2",
+      "value": 28.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B42",
+      "component": "PbCl2",
+      "value": 38.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B42",
+      "component": "P2O5",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B52",
+      "component": "PbO",
+      "value": 28.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B52",
+      "component": "PbF2",
+      "value": 28.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B52",
+      "component": "PbCl2",
+      "value": 38.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B52",
+      "component": "PbBr2",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B52",
+      "component": "P2O5",
+      "value": 2.5,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 268,
+  "elapsed_seconds": 98.0,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

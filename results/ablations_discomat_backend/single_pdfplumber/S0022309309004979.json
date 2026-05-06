@@ -1,0 +1,70 @@
+{
+  "pii": "S0022309309004979",
+  "predictions": [
+    {
+      "sample_id": "Nominal composition",
+      "component": "GeO2",
+      "value": 37.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Nominal composition",
+      "component": "P2O5",
+      "value": 51.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Experimental composition \u2013 batch 1",
+      "component": "Li2O",
+      "value": 5.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Experimental composition \u2013 batch 1",
+      "component": "Al2O3",
+      "value": 5.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Experimental composition \u2013 batch 1",
+      "component": "GeO2",
+      "value": 41.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Experimental composition \u2013 batch 1",
+      "component": "P2O5",
+      "value": 47.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Experimental composition \u2013 batch 2",
+      "component": "Li2O",
+      "value": 5.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Experimental composition \u2013 batch 2",
+      "component": "Al2O3",
+      "value": 5.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Experimental composition \u2013 batch 2",
+      "component": "GeO2",
+      "value": 40.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Experimental composition \u2013 batch 2",
+      "component": "P2O5",
+      "value": 48.7,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 12,
+  "elapsed_seconds": 36.6,
+  "backends": [
+    "pdfplumber"
+  ]
+}

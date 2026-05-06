@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309309006243",
+  "predictions": [],
+  "elapsed_seconds": 10.0,
+  "raw_preview": "{\"sample\\_id\": \"S0022309303006537_0\", \"component\": \"Zn O\", \"value\": 30.0, \"unit\": \"mol\"},\n{\"sample\\_id\": \"S0022309303006537_0\", \"component\": \"Mg O\", \"value\": x, \"unit\": \"mol\"},\n{\"sample\\_id\": \"S0022309303006537_0\", \"component\": \"P2O5\", \"value\": 70.0 - x, \"unit\": \"mol\"}\n\nThese lines should be repeated for each value of x (5, 8, 13, 18, and 20 mol%)."
+}

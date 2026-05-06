@@ -1,0 +1,25 @@
+{
+  "pdf_id": "S0022309313005486",
+  "predictions": [
+    {
+      "sample_id": "Nb40",
+      "component": "K2O",
+      "value": 23.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Nb40",
+      "component": "Nb2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Nb40",
+      "component": "P2O5",
+      "value": 37.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 17.4,
+  "raw_preview": "{\"sample_id\": \"Nb40\", \"component\": \"K2O\", \"value\": 23, \"unit\": \"mol\"}\n{\"sample_id\": \"Nb40\", \"component\": \"Nb2O5\", \"value\": 40, \"unit\": \"mol\"}\n{\"sample_id\": \"Nb40\", \"component\": \"P2O5\", \"value\": 37, \"unit\": \"mol\"}"
+}

@@ -1,0 +1,733 @@
+{
+  "pdf_id": "S0022309304000705",
+  "predictions": [
+    {
+      "sample_id": "CAS1",
+      "component": "SiO2",
+      "value": 1052.7,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "SiO2",
+      "value": 1065.8,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "SiO2",
+      "value": 1091.5,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "SiO2",
+      "value": 1106.4,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "SiO2",
+      "value": 1106.5,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "SiO2",
+      "value": 1065.9,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "SiO2",
+      "value": 1066.8,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "SiO2",
+      "value": 1105.3,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "SiO2",
+      "value": 1119.1,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "SiO2",
+      "value": 1111.8,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "SiO2",
+      "value": 1095.6,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "SiO2",
+      "value": 1073.9,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "SiO2",
+      "value": 1116.1,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "SiO2",
+      "value": 1133.2,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "SiO2",
+      "value": 1124.6,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "SiO2",
+      "value": 1112.3,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "SiO2",
+      "value": 1094.3,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "SiO2",
+      "value": 1124.3,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "SiO2",
+      "value": 1143.4,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "SiO2",
+      "value": 1141.3,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "SiO2",
+      "value": 1132.6,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "SiO2",
+      "value": 1110.7,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "SiO2",
+      "value": 1133.1,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "SiO2",
+      "value": 1158.4,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "SiO2",
+      "value": 1153.1,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "SiO2",
+      "value": 1099.2,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "SiO2",
+      "value": 1111.2,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "SiO2",
+      "value": 1107.1,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "SiO2",
+      "value": 1121.1,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "SiO2",
+      "value": 1129.4,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "SiO2",
+      "value": 1116.2,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "SiO2",
+      "value": 1123.4,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "SiO2",
+      "value": 1140.2,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "SiO2",
+      "value": 1139.9,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "SiO2",
+      "value": 1137.2,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "SiO2",
+      "value": 1133.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "SiO2",
+      "value": 1140.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "SiO2",
+      "value": 1150.3,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "SiO2",
+      "value": 1155.8,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "SiO2",
+      "value": 1144.4,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "SiO2",
+      "value": 1151.2,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "SiO2",
+      "value": 1153.9,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "SiO2",
+      "value": 1160.4,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "SiO2",
+      "value": 1168.1,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "SiO2",
+      "value": 1150.5,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "SiO2",
+      "value": 1164.5,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "SiO2",
+      "value": 1156.9,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "SiO2",
+      "value": 1169.9,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "SiO2",
+      "value": 1185.3,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "SiO2",
+      "value": 1166.2,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "log g (Pa s)",
+      "value": 11.44,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "log g (Pa s)",
+      "value": 10.7,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "log g (Pa s)",
+      "value": 9.53,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "log g (Pa s)",
+      "value": 8.85,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "log g (Pa s)",
+      "value": 8.14,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "log g (Pa s)",
+      "value": 10.2,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "log g (Pa s)",
+      "value": 11.12,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "log g (Pa s)",
+      "value": 10.92,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "log g (Pa s)",
+      "value": 9.75,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "log g (Pa s)",
+      "value": 10.55,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "log g (Pa s)",
+      "value": 9.53,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "log g (Pa s)",
+      "value": 10.79,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "log g (Pa s)",
+      "value": 9.4,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "log g (Pa s)",
+      "value": 9.12,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "log g (Pa s)",
+      "value": 9.95,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "log g (Pa s)",
+      "value": 8.85,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "log g (Pa s)",
+      "value": 9.98,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "log g (Pa s)",
+      "value": 9.15,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "log g (Pa s)",
+      "value": 8.76,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "log g (Pa s)",
+      "value": 9.19,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "log g (Pa s)",
+      "value": 8.14,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "log g (Pa s)",
+      "value": 9.28,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "log g (Pa s)",
+      "value": 8.72,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "log g (Pa s)",
+      "value": 8.16,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "log g (Pa s)",
+      "value": 8.7,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "log g (Pa s)",
+      "value": 8.52,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "log g (Pa s)",
+      "value": 8.34,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "log g (Pa s)",
+      "value": 8.17,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "log g (Pa s)",
+      "value": 8.17,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "log g (Pa s)",
+      "value": 8.79,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "log g (Pa s)",
+      "value": 8.83,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "log g (Pa s)",
+      "value": 8.93,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "log g (Pa s)",
+      "value": 8.91,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "log g (Pa s)",
+      "value": 9.81,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "log g (Pa s)",
+      "value": 8.15,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "log g (Pa s)",
+      "value": 8.15,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "log g (Pa s)",
+      "value": 8.93,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "log g (Pa s)",
+      "value": 8.6,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "log g (Pa s)",
+      "value": 8.58,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "log g (Pa s)",
+      "value": 8.47,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "log g (Pa s)",
+      "value": 8.66,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "log g (Pa s)",
+      "value": 8.6,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "log g (Pa s)",
+      "value": 8.58,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "log g (Pa s)",
+      "value": 9.48,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "log g (Pa s)",
+      "value": 7.98,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "log g (Pa s)",
+      "value": 8.45,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "log g (Pa s)",
+      "value": 8.25,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "log g (Pa s)",
+      "value": 7.91,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "log g (Pa s)",
+      "value": 8.93,
+      "unit": "Pa s"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "Tg (K)",
+      "value": 1043.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "Tg (K)",
+      "value": 1057.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "Tg (K)",
+      "value": 1065.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "Tg (K)",
+      "value": 1075.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "Tg (K)",
+      "value": 1084.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "Tg (K)",
+      "value": 1066.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "Tg (K)",
+      "value": 1075.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "Tg (K)",
+      "value": 1082.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "Tg (K)",
+      "value": 1093.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "Tg (K)",
+      "value": 1104.0,
+      "unit": "K"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "DHg(Tg) (kJ/mol)",
+      "value": 937.0,
+      "unit": "kJ/mol"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "DHg(Tg) (kJ/mol)",
+      "value": 950.0,
+      "unit": "kJ/mol"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "DHg(Tg) (kJ/mol)",
+      "value": 991.0,
+      "unit": "kJ/mol"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "DHg(Tg) (kJ/mol)",
+      "value": 992.0,
+      "unit": "kJ/mol"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "DHg(Tg) (kJ/mol)",
+      "value": 1051.0,
+      "unit": "kJ/mol"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "DHg(Tg) (kJ/mol)",
+      "value": 881.0,
+      "unit": "kJ/mol"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "DHg(Tg) (kJ/mol)",
+      "value": 961.0,
+      "unit": "kJ/mol"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "DHg(Tg) (kJ/mol)",
+      "value": 939.0,
+      "unit": "kJ/mol"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "DHg(Tg) (kJ/mol)",
+      "value": 1002.0,
+      "unit": "kJ/mol"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "DHg(Tg) (kJ/mol)",
+      "value": 1036.0,
+      "unit": "kJ/mol"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "DHg(HT) (kJ/mol)",
+      "value": 208.0,
+      "unit": "kJ/mol"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "DHg(HT) (kJ/mol)",
+      "value": 170.0,
+      "unit": "kJ/mol"
+    }
+  ],
+  "elapsed_seconds": 164.1,
+  "raw_preview": "```json\n{\"sample_id\": \"CAS1\", \"component\": \"SiO2\", \"value\": 1052.7, \"unit\": \"K\"}\n{\"sample_id\": \"CAS1\", \"component\": \"SiO2\", \"value\": 1065.8, \"unit\": \"K\"}\n{\"sample_id\": \"CAS1\", \"component\": \"SiO2\", \"value\": 1091.5, \"unit\": \"K\"}\n{\"sample_id\": \"CAS1\", \"component\": \"SiO2\", \"value\": 1106.4, \"unit\": \"K\"}\n{\"sample_id\": \"CAS1\", \"component\": \"SiO2\", \"value\": 1106.5, \"unit\": \"K\"}\n{\"sample_id\": \"CAS2\", \"component\": \"SiO2\", \"value\": 1065.9, \"unit\": \"K\"}\n{\"sample_id\": \"CAS2\", \"component\": \"SiO2\", \"value\": 10"
+}

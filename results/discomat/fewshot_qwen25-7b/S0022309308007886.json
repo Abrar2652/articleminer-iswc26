@@ -1,0 +1,157 @@
+{
+  "pdf_id": "S0022309308007886",
+  "predictions": [
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_0",
+      "component": "Zr",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_0",
+      "component": "Nb",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_0",
+      "component": "Cu",
+      "value": 37.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_0",
+      "component": "Ag",
+      "value": 8.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_0",
+      "component": "Al",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_0.5",
+      "component": "Zr",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_0.5",
+      "component": "Nb",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_0.5",
+      "component": "Cu",
+      "value": 37.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_0.5",
+      "component": "Ag",
+      "value": 8.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_0.5",
+      "component": "Al",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_1",
+      "component": "Zr",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_1",
+      "component": "Nb",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_1",
+      "component": "Cu",
+      "value": 37.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_1",
+      "component": "Ag",
+      "value": 8.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_1",
+      "component": "Al",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_2",
+      "component": "Zr",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_2",
+      "component": "Nb",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_2",
+      "component": "Cu",
+      "value": 37.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_2",
+      "component": "Ag",
+      "value": 8.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_2",
+      "component": "Al",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_4",
+      "component": "Zr",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_4",
+      "component": "Nb",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_4",
+      "component": "Cu",
+      "value": 37.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_4",
+      "component": "Ag",
+      "value": 8.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zr46xNbxCu37.6Ag8.4Al8_4",
+      "component": "Al",
+      "value": 8.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 43.3,
+  "raw_preview": "```json\n{\"sample_id\": \"Zr46xNbxCu37.6Ag8.4Al8_0\", \"component\": \"Zr\", \"value\": 46.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Zr46xNbxCu37.6Ag8.4Al8_0\", \"component\": \"Nb\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Zr46xNbxCu37.6Ag8.4Al8_0\", \"component\": \"Cu\", \"value\": 37.6, \"unit\": \"mol\"}\n{\"sample_id\": \"Zr46xNbxCu37.6Ag8.4Al8_0\", \"component\": \"Ag\", \"value\": 8.4, \"unit\": \"mol\"}\n{\"sample_id\": \"Zr46xNbxCu37.6Ag8.4Al8_0\", \"component\": \"Al\", \"value\": 8.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Zr46xNbxCu37.6Ag8.4Al8_0."
+}

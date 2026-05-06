@@ -1,0 +1,424 @@
+{
+  "pdf_id": "2210.00740v1",
+  "predictions": [
+    {
+      "value": "25K",
+      "type": "Data Stat.",
+      "dataset": "MPII Human Pose Estimation",
+      "attribute name": "number of images and person instances"
+    },
+    {
+      "value": "40k",
+      "type": "Data Stat.",
+      "dataset": "MPII Human Pose Estimation",
+      "attribute name": "number of person instances"
+    },
+    {
+      "value": "87.9",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "Integral Pose Regression",
+      "experimental settings": {}
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "Simple Baseline",
+      "experimental settings": {}
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "Dark Pose",
+      "experimental settings": {}
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "Token Pose-L/D6",
+      "experimental settings": {}
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "Token Pose-L/D12",
+      "experimental settings": {}
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "Token Pose-L/D24",
+      "experimental settings": {}
+    },
+    {
+      "value": "89.9",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "Removing Bias",
+      "experimental settings": {
+        "Backbone": "Res Net-152"
+      }
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "Simple Baseline",
+      "experimental settings": {
+        "Backbone": "Res Net-152"
+      }
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "Simple Baseline + Ours",
+      "experimental settings": {
+        "Backbone": "Res Net-152"
+      }
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "HRNet-W32",
+      "experimental settings": {}
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "HRNet-W32 + Ours",
+      "experimental settings": {}
+    },
+    {
+      "value": "90.5",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "HRNet-W48",
+      "experimental settings": {}
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "dataset": "MPII Human Pose Estimation",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5 score",
+      "model": "HRNet-W48 + Ours",
+      "experimental settings": {}
+    },
+    {
+      "value": "77.1",
+      "type": "Data Stat.",
+      "model": "Baseline(HRNet-W48)",
+      "metric": "AP",
+      "dataset": "COCO validation set"
+    },
+    {
+      "value": "91.8",
+      "type": "Data Stat.",
+      "model": "Baseline(HRNet-W48)",
+      "metric": "AP50",
+      "dataset": "COCO validation set"
+    },
+    {
+      "value": "83.8",
+      "type": "Data Stat.",
+      "model": "Baseline(HRNet-W48)",
+      "metric": "AP75",
+      "dataset": "COCO validation set"
+    },
+    {
+      "value": "73.5",
+      "type": "Data Stat.",
+      "model": "Baseline(HRNet-W48)",
+      "metric": "APM",
+      "dataset": "COCO validation set"
+    },
+    {
+      "value": "83.5",
+      "type": "Data Stat.",
+      "model": "Baseline(HRNet-W48)",
+      "metric": "APL",
+      "dataset": "COCO validation set"
+    },
+    {
+      "value": "81.8",
+      "type": "Data Stat.",
+      "model": "Baseline(HRNet-W48)",
+      "metric": "AR",
+      "dataset": "COCO validation set"
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "metric": "AP",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "metric": "AP50",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "84.9",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "metric": "AP75",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "metric": "APM",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "84.4",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "metric": "APL",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "82.7",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "metric": "AR",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "78.8",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "metric": "AP",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "metric": "AP50",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "metric": "AP75",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "metric": "APM",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "metric": "APL",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "metric": "AR",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "metric": "AP",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "metric": "AP50",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "85.2",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "metric": "AP75",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "metric": "APM",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "85.4",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "metric": "APL",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "83.0",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "metric": "AR",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "77.9",
+      "type": "Result",
+      "model": "Naive demanders formulation",
+      "metric": "AP",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "model": "Naive demanders formulation",
+      "metric": "AP50",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "84.8",
+      "type": "Result",
+      "model": "Naive demanders formulation",
+      "metric": "AP75",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "74.5",
+      "type": "Result",
+      "model": "Naive demanders formulation",
+      "metric": "APM",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "83.9",
+      "type": "Result",
+      "model": "Naive demanders formulation",
+      "metric": "APL",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "model": "Naive demanders formulation",
+      "metric": "AR",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "78.8",
+      "type": "Result",
+      "model": "Sub-pixel demanders formulation",
+      "metric": "AP",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "model": "Sub-pixel demanders formulation",
+      "metric": "AP50",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "Sub-pixel demanders formulation",
+      "metric": "AP75",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "Sub-pixel demanders formulation",
+      "metric": "APM",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "model": "Sub-pixel demanders formulation",
+      "metric": "APL",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "model": "Sub-pixel demanders formulation",
+      "metric": "AR",
+      "dataset": "COCO validation set",
+      "experimental settings": {}
+    }
+  ],
+  "elapsed_seconds": 131.8,
+  "raw_preview": "{\"value\": \"25K\", \"type\": \"Data Stat.\", \"dataset\": \"MPII Human Pose Estimation\", \"attribute name\": \"number of images and person instances\"}\n{\"value\": \"40k\", \"type\": \"Data Stat.\", \"dataset\": \"MPII Human Pose Estimation\", \"attribute name\": \"number of person instances\"}\n{\"value\": \"87.9\", \"type\": \"Result\", \"dataset\": \"MPII Human Pose Estimation\", \"task\": \"Human Pose Estimation\", \"metric\": \"PCKh@0.5 score\", \"model\": \"Integral Pose Regression\", \"experimental settings\": {}}\n{\"value\": \"90.4\", \"type\": \"Re"
+}

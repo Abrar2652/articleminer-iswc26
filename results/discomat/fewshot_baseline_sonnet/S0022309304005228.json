@@ -1,0 +1,103 @@
+{
+  "pdf_id": "S0022309304005228",
+  "predictions": [
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x0",
+      "component": "SnO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x0",
+      "component": "NaPO3",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x5",
+      "component": "SnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x5",
+      "component": "NaPO3",
+      "value": 95.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x15",
+      "component": "SnO",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x15",
+      "component": "NaPO3",
+      "value": 85.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x31",
+      "component": "SnO",
+      "value": 31.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x31",
+      "component": "NaPO3",
+      "value": 69.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x40",
+      "component": "SnO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x40",
+      "component": "NaPO3",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x5_oxidized",
+      "component": "SnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xSnO-(100-x)NaPO3_x5_oxidized",
+      "component": "NaPO3",
+      "value": 95.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ySnO-(100-y)P2O5_y70",
+      "component": "SnO",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ySnO-(100-y)P2O5_y70",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ySnO-(100-y)P2O5_y55",
+      "component": "SnO",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ySnO-(100-y)P2O5_y55",
+      "component": "P2O5",
+      "value": 45.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 23.6,
+  "raw_preview": "Looking through the paper text, I can identify the glass system compositions described. The glasses are xSnO\u2013(100-x)NaPO3 with x values of 0, 5, 15, 31, 40, and a 5% oxidized sample.\n\n{\"sample_id\": \"xSnO-(100-x)NaPO3_x0\", \"component\": \"SnO\", \"value\": 0, \"unit\": \"mol\"}\n{\"sample_id\": \"xSnO-(100-x)NaPO3_x0\", \"component\": \"NaPO3\", \"value\": 100, \"unit\": \"mol\"}\n{\"sample_id\": \"xSnO-(100-x)NaPO3_x5\", \"component\": \"SnO\", \"value\": 5, \"unit\": \"mol\"}\n{\"sample_id\": \"xSnO-(100-x)NaPO3_x5\", \"component\": \"NaPO3"
+}

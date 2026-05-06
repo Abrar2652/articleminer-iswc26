@@ -1,0 +1,61 @@
+{
+  "pii": "S0022309314006735",
+  "predictions": [
+    {
+      "sample_id": "Fe3(P2O7)2",
+      "component": "P",
+      "value": 19.048,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe3(P2O7)2",
+      "component": "O",
+      "value": 66.667,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe(PO3)3",
+      "component": "Fe3+",
+      "value": 7.692,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe(PO3)3",
+      "component": "P",
+      "value": 23.077,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe(PO3)3",
+      "component": "O",
+      "value": 69.231,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe4(P2O7)3",
+      "component": "Fe3+",
+      "value": 12.903,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe4(P2O7)3",
+      "component": "P",
+      "value": 19.355,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe4(P2O7)3",
+      "component": "O",
+      "value": 67.742,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 10,
+  "elapsed_seconds": 43.5,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

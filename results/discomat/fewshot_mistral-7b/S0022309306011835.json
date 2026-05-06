@@ -1,0 +1,25 @@
+{
+  "pdf_id": "S0022309306011835",
+  "predictions": [
+    {
+      "sample_id": "S00223093_C1",
+      "component": "Al2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S00223093_C1",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S00223093_x",
+      "component": "Al2O3",
+      "value": 4.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 21.5,
+  "raw_preview": "Based on the provided paper text, here are the material-composition entries for the (1x)Li2O\u2013x Na2O\u2013Al2O3\u20134Si O2 glasses:\n\n{\"sample_id\": \"S00223093_C1\", \"component\": \"Li2O\", \"value\": 100-x, \"unit\": \"mol\"}\n{\"sample_id\": \"S00223093_C1\", \"component\": \"Na2O\", \"value\": x, \"unit\": \"mol\"}\n{\"sample_id\": \"S00223093_C1\", \"component\": \"Al2O3\", \"value\": 4, \"unit\": \"mol\"}\n{\"sample_id\": \"S00223093_C1\", \"component\": \"SiO2\", \"value\": 4, \"unit\": \"mol\"}\n\n{\"sample_id\": \"S00223093_x\", \"component\": \"Li2O\", \"value\": "
+}

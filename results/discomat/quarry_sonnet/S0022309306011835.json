@@ -1,0 +1,169 @@
+{
+  "pii": "S0022309306011835",
+  "predictions": [
+    {
+      "sample_id": "C\u2081",
+      "component": "Li2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2081",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2081",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2082",
+      "component": "Li2O",
+      "value": 0.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2082",
+      "component": "Na2O",
+      "value": 0.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2082",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2082",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2083",
+      "component": "Li2O",
+      "value": 0.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2083",
+      "component": "Na2O",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2083",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2083",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2084",
+      "component": "Li2O",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2084",
+      "component": "Na2O",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2084",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2084",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2085",
+      "component": "Li2O",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2085",
+      "component": "Na2O",
+      "value": 0.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2085",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2085",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2086",
+      "component": "Li2O",
+      "value": 0.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2086",
+      "component": "Na2O",
+      "value": 0.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2086",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2086",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2087",
+      "component": "Na2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2087",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C\u2087",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 26,
+  "elapsed_seconds": 47.9,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

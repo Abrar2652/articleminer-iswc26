@@ -1,0 +1,37 @@
+{
+  "pdf_id": "S0022309301008122",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_A",
+      "component": "A2O3",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_B",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_C",
+      "component": "CaO",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_D",
+      "component": "SrO",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_E",
+      "component": "BaO",
+      "value": 16.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 9.4,
+  "raw_preview": "{\"sample_id\": \"S0022309303006537_0_1_A\", \"component\": \"A2O3\", \"value\": 16.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_B\", \"component\": \"B2O3\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_C\", \"component\": \"CaO\", \"value\": 16.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_D\", \"component\": \"SrO\", \"value\": 16.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_E\", \"component\": \"BaO\", \"value\": 16.0, \"unit\": \"mol\"}"
+}

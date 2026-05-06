@@ -1,0 +1,42 @@
+{
+  "pdf_id": "PMC4295614",
+  "predictions": [
+    {
+      "value": "0.23",
+      "type": "MIC",
+      "target": "Mycobacterium tuberculosis",
+      "treatment": "rifampicin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.66",
+      "type": "MIC",
+      "target": "Mycobacterium tuberculosis",
+      "treatment": "isoniazid",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.12",
+      "type": "MIC",
+      "target": "Mycobacterium tuberculosis",
+      "treatment": "43b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.15",
+      "type": "MIC",
+      "target": "Mycobacterium tuberculosis",
+      "treatment": "65",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.13",
+      "type": "MIC",
+      "target": "Mycobacterium tuberculosis",
+      "treatment": "67",
+      "unit": "\u00b5M"
+    }
+  ],
+  "elapsed_seconds": 15.7,
+  "raw_preview": "{\"value\": \"0.23\", \"type\": \"MIC\", \"target\": \"Mycobacterium tuberculosis\", \"treatment\": \"rifampicin\", \"unit\": \"\u00b5M\"}\n{\"value\": \"0.66\", \"type\": \"MIC\", \"target\": \"Mycobacterium tuberculosis\", \"treatment\": \"isoniazid\", \"unit\": \"\u00b5M\"}\n{\"value\": \"0.12\", \"type\": \"MIC\", \"target\": \"Mycobacterium tuberculosis\", \"treatment\": \"43b\", \"unit\": \"\u00b5M\"}\n{\"value\": \"0.15\", \"type\": \"MIC\", \"target\": \"Mycobacterium tuberculosis\", \"treatment\": \"65\", \"unit\": \"\u00b5M\"}\n{\"value\": \"0.13\", \"type\": \"MIC\", \"target\": \"Mycobacterium tu"
+}

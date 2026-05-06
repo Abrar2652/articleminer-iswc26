@@ -1,0 +1,244 @@
+{
+  "pii": "S002230930601132X",
+  "predictions": [
+    {
+      "sample_id": "DV",
+      "component": "SiO2",
+      "value": 52.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DV",
+      "component": "Al2O3",
+      "value": 1.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DV",
+      "component": "Fe2O3",
+      "value": 0.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DV",
+      "component": "MgO",
+      "value": 5.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DV",
+      "component": "CaO",
+      "value": 15.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DV",
+      "component": "Na2O",
+      "value": 1.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DV",
+      "component": "K2O",
+      "value": 16.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DV",
+      "component": "TiO2",
+      "value": 0.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DV",
+      "component": "P2O5",
+      "value": 4.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DB",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DB",
+      "component": "Al2O3",
+      "value": 2.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DB",
+      "component": "Fe2O3",
+      "value": 1.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DB",
+      "component": "MnO",
+      "value": 0.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DB",
+      "component": "MgO",
+      "value": 5.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DB",
+      "component": "CaO",
+      "value": 15.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DB",
+      "component": "Na2O",
+      "value": 0.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DB",
+      "component": "K2O",
+      "value": 17.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DB",
+      "component": "TiO2",
+      "value": 0.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "DB",
+      "component": "P2O5",
+      "value": 4.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RVF",
+      "component": "SiO2",
+      "value": 58.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RVF",
+      "component": "Al2O3",
+      "value": 2.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RVF",
+      "component": "Fe2O3",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RVF",
+      "component": "MnO",
+      "value": 0.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RVF",
+      "component": "MgO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RVF",
+      "component": "CaO",
+      "value": 12.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RVF",
+      "component": "Na2O",
+      "value": 1.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RVF",
+      "component": "K2O",
+      "value": 12.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RVF",
+      "component": "TiO2",
+      "value": 0.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RVF",
+      "component": "P2O5",
+      "value": 2.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RBa",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RBa",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RBa",
+      "component": "Fe2O3",
+      "value": 0.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RBa",
+      "component": "MnO",
+      "value": 0.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RBa",
+      "component": "MgO",
+      "value": 0.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RBa",
+      "component": "CaO",
+      "value": 7.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RBa",
+      "component": "Na2O",
+      "value": 13.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RBa",
+      "component": "K2O",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RBa",
+      "component": "TiO2",
+      "value": 0.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "RBa",
+      "component": "P2O5",
+      "value": 0.1,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 40,
+  "elapsed_seconds": 32.2,
+  "backends": [
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "pdf_id": "2210.00698v1",
+  "predictions": [
+    {
+      "value": "5 days",
+      "type": "Time",
+      "metric": "Computation Time",
+      "model": "RSPNet"
+    },
+    {
+      "value": "2 V100 GPUs",
+      "type": "Hardware",
+      "model": "RSPNet"
+    },
+    {
+      "value": "1/4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "So TA performance",
+      "type": "Result",
+      "metric": "Performance",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "1/4 parameter size",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "5,000 images",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "2,975,500 training images",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "1,525 test images",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "20,000 weakly annotated frames",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "1,024 \u00d7 2,048",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "50 cities",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "40%",
+      "type": "Result",
+      "metric": "Validation Accuracy",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "higher accuracy",
+      "type": "Result",
+      "metric": "Validation Accuracy",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "400 epochs",
+      "type": "Training",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "batch size 6",
+      "type": "Training",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "300 epochs",
+      "type": "Training",
+      "model": "DARTS",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "SGD optimizer",
+      "type": "Training",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "0.005 learning rate",
+      "type": "Training",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "0.0001 weight decay",
+      "type": "Training",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "0.95 momentum",
+      "type": "Training",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "40.2 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "Auto-Deep Lab",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "41.4 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "41.6 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "U-Net",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "41.3 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "Nas Unet",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "41.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "So TA",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "41.5 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/o OCR)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "41.7 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "41.8 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "41.9 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.0 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/ pretraining, w/ backbone)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "42.1 mAP50",
+      "type": "Result",
+      "metric": "mAP50",
+      "model": "RSPNet (w/ OCR, w/o pretraining, w/o backbone)",
+      "dataset": "Cityscapes"
+    }
+  ],
+  "elapsed_seconds": 199.6,
+  "raw_preview": "{\"value\": \"5 days\", \"type\": \"Time\", \"metric\": \"Computation Time\", \"model\": \"RSPNet\"}\n{\"value\": \"2 V100 GPUs\", \"type\": \"Hardware\", \"model\": \"RSPNet\"}\n{\"value\": \"1/4\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"RSPNet\", \"dataset\": \"Cityscapes\"}\n{\"value\": \"So TA performance\", \"type\": \"Result\", \"metric\": \"Performance\", \"model\": \"RSPNet\", \"dataset\": \"Cityscapes\"}\n{\"value\": \"1/4 parameter size\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"RSPNet\", \"dataset\": \"Cityscapes\"}\n{\"value\": \"5,000"
+}

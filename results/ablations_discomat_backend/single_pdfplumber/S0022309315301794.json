@@ -1,0 +1,9 @@
+{
+  "pii": "S0022309315301794",
+  "predictions": [],
+  "num_gold_tuples": 12,
+  "elapsed_seconds": 13.6,
+  "backends": [
+    "pdfplumber"
+  ]
+}

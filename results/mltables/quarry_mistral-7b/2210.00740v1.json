@@ -1,0 +1,204 @@
+{
+  "arxiv_id": "2210.00740v1",
+  "predictions": [
+    {
+      "value": 77.1,
+      "type": "Result",
+      "model": "Baseline(HRNet-W48)",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 91.8,
+      "type": "Result",
+      "model": "Baseline(HRNet-W48)",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP 50",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 83.8,
+      "type": "Result",
+      "model": "Baseline(HRNet-W48)",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP 75",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 73.5,
+      "type": "Result",
+      "model": "Baseline(HRNet-W48)",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP M",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 83.5,
+      "type": "Result",
+      "model": "Baseline(HRNet-W48)",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP L",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 81.8,
+      "type": "Result",
+      "model": "Baseline(HRNet-W48)",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 78.3,
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 92.4,
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP 50",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 84.9,
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP 75",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 74.8,
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP M",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 84.4,
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP L",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 82.7,
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 78.8,
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 92.5,
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP 50",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 85.1,
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP 75",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 75,
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP M",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 85.3,
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP L",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 83.1,
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 78.7,
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 92.4,
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP 50",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 85.2,
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP 75",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 74.8,
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP M",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 85.4,
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AP L",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": 83,
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "MPII Human Pose Estimation",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    }
+  ],
+  "num_gold_annotations": 322,
+  "elapsed_seconds": 76.2,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

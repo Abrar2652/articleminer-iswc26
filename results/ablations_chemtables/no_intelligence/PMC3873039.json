@@ -1,0 +1,1583 @@
+{
+  "pdf_id": "PMC3873039",
+  "predictions": [
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "143",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "277",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "9",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "185",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "38",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Cis-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "163",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "128",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "140",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "22",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "211",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "53",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Cis-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "109",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "20",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "217",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "158",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "8",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "220",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "25",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Cis-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "180",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "8",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "328",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "150",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "5",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "225",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "32",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Cis-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "135",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "37",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "180",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "500",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "158",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "450",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "45",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Cis-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "380",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "33",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "350",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "340",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "380",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "13",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "309",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "53",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Cis-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "500",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "155",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "500",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "335",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "169",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "15",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "310",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "85",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Cis-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "250",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "8",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "160",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "217",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "135",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "7",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "250",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "30",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Cis-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "340",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "380",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "150",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Cis-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "25",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "35",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "90",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "40",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "30",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "9",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "130",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "31",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "250",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "310",
+      "type": "EC50",
+      "target": "JURKAT",
+      "treatment": "xx",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "250",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "40",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "200",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "250",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">10",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "150",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "200",
+      "type": "EC50",
+      "target": "CCRF-CEM",
+      "treatment": "xx",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "125",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "140",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "38",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "200",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "265",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "5",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "9",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "150",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "44",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "350",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "400",
+      "type": "EC50",
+      "target": "MOLT-3",
+      "treatment": "xx",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "84",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "129",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "175",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "75",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "8.5",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "6",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "185",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "190",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "31",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "49",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "40",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "HL60",
+      "treatment": "xx",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "110",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "220",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "60",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "7.8",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "10",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "283",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "THP-1",
+      "treatment": "xx",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "205",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "150",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "190",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">10",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "500",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "410",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "460",
+      "type": "EC50",
+      "target": "K562",
+      "treatment": "xx",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "125",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "89",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "235",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">10",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "360",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "350",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "360",
+      "type": "EC50",
+      "target": "KG1a",
+      "treatment": "xx",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "45",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "130",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "150",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "32",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "60",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "140",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "27",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "195",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "8",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "20",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "200",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "225",
+      "type": "EC50",
+      "target": "U937",
+      "treatment": "xx",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Rhein",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">10",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Aloe-Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Quercetin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "Trans-Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "EC50",
+      "target": "CD34+",
+      "treatment": "xx",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "143",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "180",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Chrysin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "195",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "140",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Apigenin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "185",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Aloe - Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "38",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Cis- Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "211",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Aloe - Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "53",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Cis- Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "220",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Aloe - Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "25",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Cis- Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "225",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Aloe - Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "32",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Cis- Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "450",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Aloe - Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "45",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Cis- Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "309",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Aloe - Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "53",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Cis- Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "310",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Aloe - Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "85",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Cis- Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "250",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Aloe - Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "30",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Cis- Stilbene",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Aloe - Emodin",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Cis- Stilbene",
+      "unit": "\u00b5M"
+    }
+  ],
+  "num_gold_annotations": 72,
+  "ablation": "no_intelligence",
+  "elapsed_seconds": 100.3
+}

@@ -1,0 +1,14 @@
+{
+  "pdf_id": "PMC4358631",
+  "predictions": [
+    {
+      "value": "2.3",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "nM"
+    }
+  ],
+  "elapsed_seconds": 6.1,
+  "raw_preview": "{\"value\": \"2.3\", \"type\": \"IC50\", \"target\": \"\u03b13\u03b24 n ACh R\", \"treatment\": \"TP-2212-59\", \"unit\": \"nM\"}"
+}

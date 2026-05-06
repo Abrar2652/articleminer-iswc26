@@ -1,0 +1,105 @@
+{
+  "pdf_id": "2210.00910v1",
+  "predictions": [
+    {
+      "value": "79.4",
+      "type": "Result",
+      "model": "NLI-based zero-shot (baseline)",
+      "dataset": "Hate Check",
+      "metric": "Accuracy (%)"
+    },
+    {
+      "value": "7.9",
+      "type": "Result",
+      "model": "NLI-based zero-shot + all strategies",
+      "dataset": "Hate Check",
+      "metric": "Accuracy improvement (pp)"
+    },
+    {
+      "value": "69.6",
+      "type": "Result",
+      "model": "NLI-based zero-shot (baseline)",
+      "dataset": "ETHOS",
+      "metric": "Accuracy (%)"
+    },
+    {
+      "value": "10.0",
+      "type": "Result",
+      "model": "NLI-based zero-shot + all strategies",
+      "dataset": "ETHOS",
+      "metric": "Accuracy improvement (pp)"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "model": "NLI-based zero-shot (That contains hate speech.)",
+      "dataset": "Hate Check",
+      "metric": "Accuracy improvement over Google Jigsaw API (pp)"
+    },
+    {
+      "value": "66.6",
+      "type": "Result",
+      "model": "NLI-based zero-shot (lowest scoring hypotheses)",
+      "dataset": "Hate Check",
+      "metric": "Accuracy (%)"
+    },
+    {
+      "value": "12",
+      "type": "Result",
+      "model": "NLI-based zero-shot",
+      "dataset": "Hate Check",
+      "metric": "Accuracy difference between best and worst hypothesis (pp)"
+    },
+    {
+      "value": "9.1",
+      "type": "Result",
+      "model": "NLI-based zero-shot + FBT (target characteristics)",
+      "dataset": "ETHOS",
+      "metric": "Accuracy improvement (pp)"
+    },
+    {
+      "value": "1.7",
+      "type": "Result",
+      "model": "NLI-based zero-shot + FRS",
+      "dataset": "ETHOS",
+      "metric": "Accuracy improvement (pp)"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "NLI-based zero-shot + CDC",
+      "dataset": "ETHOS",
+      "metric": "Accuracy decrease (pp)"
+    },
+    {
+      "value": "3",
+      "type": "Result",
+      "model": "NLI-based zero-shot (That contains hate speech.)",
+      "dataset": "ETHOS",
+      "metric": "Accuracy improvement over SVM (pp)"
+    },
+    {
+      "value": "10",
+      "type": "Result",
+      "model": "NLI-based zero-shot (That contains hate speech.)",
+      "dataset": "ETHOS",
+      "metric": "Accuracy gap below fine-tuned BERT (pp)"
+    },
+    {
+      "value": "7.9",
+      "type": "Result",
+      "model": "NLI-based zero-shot + all strategies",
+      "dataset": "Hate Check",
+      "metric": "Accuracy improvement (%)"
+    },
+    {
+      "value": "10.0",
+      "type": "Result",
+      "model": "NLI-based zero-shot + all strategies",
+      "dataset": "ETHOS",
+      "metric": "Accuracy improvement (%)"
+    }
+  ],
+  "elapsed_seconds": 36.3,
+  "raw_preview": "{\"value\": \"79.4\", \"type\": \"Result\", \"model\": \"NLI-based zero-shot (baseline)\", \"dataset\": \"Hate Check\", \"metric\": \"Accuracy (%)\"}\n{\"value\": \"7.9\", \"type\": \"Result\", \"model\": \"NLI-based zero-shot + all strategies\", \"dataset\": \"Hate Check\", \"metric\": \"Accuracy improvement (pp)\"}\n{\"value\": \"69.6\", \"type\": \"Result\", \"model\": \"NLI-based zero-shot (baseline)\", \"dataset\": \"ETHOS\", \"metric\": \"Accuracy (%)\"}\n{\"value\": \"10.0\", \"type\": \"Result\", \"model\": \"NLI-based zero-shot + all strategies\", \"dataset\": \""
+}

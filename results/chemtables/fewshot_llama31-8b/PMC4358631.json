@@ -1,0 +1,637 @@
+{
+  "pdf_id": "PMC4358631",
+  "predictions": [
+    {
+      "value": "2.3",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "nM"
+    },
+    {
+      "value": "1000",
+      "type": "selectivity",
+      "target": "\u03b13\u03b22 and \u03b17 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "fold"
+    },
+    {
+      "value": "1000",
+      "type": "selectivity",
+      "target": "\u03b13\u03b22 and \u03b17 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "fold"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "TP-2212-59",
+      "unit": "\u00b5M"
+    }
+  ],
+  "elapsed_seconds": 216.3,
+  "raw_preview": "{\"value\": \"2.3\", \"type\": \"IC50\", \"target\": \"\u03b13\u03b24 n ACh R\", \"treatment\": \"TP-2212-59\", \"unit\": \"nM\"}\n{\"value\": \"1000\", \"type\": \"selectivity\", \"target\": \"\u03b13\u03b22 and \u03b17 n ACh R\", \"treatment\": \"TP-2212-59\", \"unit\": \"fold\"}\n{\"value\": \"1000\", \"type\": \"selectivity\", \"target\": \"\u03b13\u03b22 and \u03b17 n ACh R\", \"treatment\": \"TP-2212-59\", \"unit\": \"fold\"}\n{\"value\": \"100\", \"type\": \"GI50\", \"target\": \"\u03b13\u03b24 n ACh R\", \"treatment\": \"TP-2212-59\", \"unit\": \"\u00b5M\"}\n{\"value\": \"100\", \"type\": \"GI50\", \"target\": \"\u03b13\u03b24 n ACh R\", \"treatm"
+}

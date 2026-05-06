@@ -1,0 +1,31 @@
+{
+  "pdf_id": "S0022309399006936",
+  "predictions": [
+    {
+      "sample_id": "Martens2000_binary_40B2O3-60SiO2",
+      "component": "B2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Martens2000_binary_40B2O3-60SiO2",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Martens2000_binary_5B2O3-95SiO2",
+      "component": "B2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Martens2000_binary_5B2O3-95SiO2",
+      "component": "SiO2",
+      "value": 95.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 13.5,
+  "raw_preview": "I need to find the composition table (Table 1) referenced throughout the paper. The paper mentions \"The composition of the samples is given in Table 1\" but the actual table data is not included in the provided text. The paper describes 5 binary borosilicate glasses (A-E) and 54 ternary sodium borosilicate glasses (1-54) in the Na2O-B2O3-SiO2 system.\n\nFrom the text, I can extract specific compositions that are explicitly mentioned:\n\nThe paper mentions a binary borosilicate glass: \"40 B2O3\u201360 SiO2"
+}

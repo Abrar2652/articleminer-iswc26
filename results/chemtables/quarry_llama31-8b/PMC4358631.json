@@ -1,0 +1,83 @@
+{
+  "pmc_id": "PMC4358631",
+  "predictions": [
+    {
+      "value": "265",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "BuIA",
+      "unit": "nM"
+    },
+    {
+      "value": "469",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "41",
+      "unit": "nM"
+    },
+    {
+      "value": "397",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "42",
+      "unit": "nM"
+    },
+    {
+      "value": "307",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "43",
+      "unit": "nM"
+    },
+    {
+      "value": "310",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "44",
+      "unit": "nM"
+    },
+    {
+      "value": "463",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "47",
+      "unit": "nM"
+    },
+    {
+      "value": "298",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "57",
+      "unit": "nM"
+    },
+    {
+      "value": "345",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "58",
+      "unit": "nM"
+    },
+    {
+      "value": "183",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "59",
+      "unit": "nM"
+    },
+    {
+      "value": "320",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 n ACh R",
+      "treatment": "60",
+      "unit": "nM"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 36,
+  "elapsed_seconds": 70.6,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "pii": "S0022309305001262",
+  "predictions": [
+    {
+      "sample_id": "7740",
+      "component": "SiO2",
+      "value": 81.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7740",
+      "component": "B2O3",
+      "value": 12.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7740",
+      "component": "Al2O3",
+      "value": 2.18,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7740",
+      "component": "Na2O",
+      "value": 3.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7740",
+      "component": "Fe2O3",
+      "value": 0.018,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740",
+      "component": "SiO2",
+      "value": 82.31,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740",
+      "component": "B2O3",
+      "value": 12.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740",
+      "component": "Al2O3",
+      "value": 2.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740",
+      "component": "Na2O",
+      "value": 2.73,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740",
+      "component": "Fe2O3",
+      "value": 0.28,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 32,
+  "elapsed_seconds": 91.7,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

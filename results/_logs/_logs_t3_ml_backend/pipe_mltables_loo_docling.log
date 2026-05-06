@@ -1,0 +1,561 @@
+/HOME/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+/HOME/.local/lib/python3.10/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+Found 15 MLTables PDFs
+[1/15] 2210.00044v1... Extracting PDF text from 2210.00044v1.pdf...
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Loading Marker models (first call, will be cached)...
+Marker models loaded: ['layout_model', 'recognition_model', 'table_rec_model', 'detection_model', 'ocr_error_model']
+Recognizing Layout:   0%|          | 0/20 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/20 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00044v1.pdf
+Recognizing Layout:   0%|          | 0/20 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/20 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:29:49.700 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:29:51.311 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 32478, cid_chars_radio: 0.0
+MinerU classification for 2210.00044v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:29:52.067 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 20 pages/20 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+  pdfplumber: 13 tables found
+  Running camelot...
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+  camelot: 13 tables found
+Cross-backend dedup: 26 raw → 26 valid → 26 unique (26 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["Visual Question Answering (VQA)", "Continual Learning", "Classification"], "metrics": ["
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 26 -> 25 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00044v1] validation: 601→582 (dropped 19; reason: These entries lack metric and task information, making them unverifiable; values)
+Pipeline: 26 tables → 582 raw → 469 deduped
+469 tuples (157s)
+[2/15] 2210.00055v1... Extracting PDF text from 2210.00055v1.pdf...
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00055v1.pdf
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:32:16.234 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:32:17.933 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 43, text_len: 31945, cid_chars_radio: 0.001359039190897598
+MinerU classification for 2210.00055v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:32:18.327 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 16 pages/16 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+/HOME/.local/lib/python3.10/site-packages/camelot/parsers/base.py:238: UserWarning: No tables found in table area (98.0, 59.848078400000006, 514.6704934076001, 276.968462640861)
+  cols, rows, v_s, h_s = self._generate_columns_and_rows(bbox, user_cols)
+  camelot: 3 tables found
+Cross-backend dedup: 3 raw → 3 valid → 3 unique (3 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["classification", "selective classification (classification with rejection option)"], "me
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 3 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00055v1] validation: 140→137 (dropped 3; reason: Values 2.0, 0.6, and 1.2 are implausibly low for accuracy metrics on CelebA data)
+Pipeline: 3 tables → 137 raw → 137 deduped
+137 tuples (51s)
+[3/15] 2210.00084v1... Extracting PDF text from 2210.00084v1.pdf...
+Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00084v1.pdf
+Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:33:10.154 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:33:11.455 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 7, text_len: 27518, cid_chars_radio: 0.00025485127607674664
+MinerU classification for 2210.00084v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:33:11.812 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 18 pages/18 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+/HOME/.local/lib/python3.10/site-packages/camelot/parsers/base.py:238: UserWarning: No tables found in table area (107.664, 60.06325760000003, 320.30936319999995, 187.47061662000004)
+  cols, rows, v_s, h_s = self._generate_columns_and_rows(bbox, user_cols)
+  camelot: 10 tables found
+Cross-backend dedup: 10 raw → 10 valid → 10 unique (10 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["node classification", "graph classification", "few-shot learning"], "metrics": ["accurac
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 10 -> 10 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00084v1] validation: 217→193 (dropped 24; reason: All entries reference datasets (ogbn-arxiv, Tissue-PPI) and models (CGFL-I, Teac)
+Pipeline: 10 tables → 193 raw → 170 deduped
+170 tuples (87s)
+[4/15] 2210.00193v1... Extracting PDF text from 2210.00193v1.pdf...
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00193v1.pdf
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:34:35.521 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:34:36.804 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 38037, cid_chars_radio: 0.0
+MinerU classification for 2210.00193v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:34:37.048 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 16 pages/16 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["Machine Translation", "Few-shot Learning", "Style-targeted Translation", "Region-aware T
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00193v1] validation: 175→161 (dropped 14; reason: These entries contain scores of 0.0, -1.0, -1.2, etc. and delta values that do n)
+Pipeline: 2 tables → 161 raw → 145 deduped
+145 tuples (65s)
+[5/15] 2210.00213v1... Extracting PDF text from 2210.00213v1.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00213v1.pdf
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:35:36.624 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:35:37.922 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 19, text_len: 42676, cid_chars_radio: 0.00044662795891022776
+MinerU classification for 2210.00213v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:35:38.101 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 9 pages/9 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["time-to-event prediction", "zero-shot learning", "continual learning", "temporal point p
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 48 raw → 45 deduped
+45 tuples (30s)
+[6/15] 2210.00448v1... Extracting PDF text from 2210.00448v1.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00448v1.pdf
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:36:07.609 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:36:08.993 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 43973, cid_chars_radio: 0.0
+MinerU classification for 2210.00448v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:36:09.409 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 12 pages/12 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["image classification", "waste classification", "object classification"], "metrics": ["ac
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00448v1] validation wanted to drop 19 preds but cap is 8 (20%). Keeping first 8 flagged.
+[2210.00448v1] validation: 41→33 (dropped 8; reason: These entries reference EfficientNetB0 and MobileNet models with various accurac)
+Pipeline: 2 tables → 33 raw → 30 deduped
+30 tuples (32s)
+[7/15] 2210.00543v1... Extracting PDF text from 2210.00543v1.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00543v1.pdf
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:36:42.807 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:36:44.055 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 3, text_len: 32682, cid_chars_radio: 9.18526683200147e-05
+MinerU classification for 2210.00543v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:36:44.303 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 12 pages/12 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 1 tables found
+  Running camelot...
+  camelot: 4 tables found
+Cross-backend dedup: 5 raw → 5 valid → 5 unique (5 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["definition generation", "text generation"], "metrics": ["BLEU", "NIST"], "datasets": ["W
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 5 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00543v1] validation: 143→125 (dropped 18; reason: Entries 3-20 contain hyperparameter values (140, 40, 0, 50, 10, etc.) with 'Stag)
+Pipeline: 5 tables → 125 raw → 105 deduped
+105 tuples (51s)
+[8/15] 2210.00627v1... Extracting PDF text from 2210.00627v1.pdf...
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00627v1.pdf
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:37:33.038 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:37:34.457 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 6, text_len: 32512, cid_chars_radio: 0.00018480872297172427
+MinerU classification for 2210.00627v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:37:34.873 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 15 pages/15 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [5, 8, 9, 12] (landscape/rotated: none)
+Rendered 4/4 pages (total 1870.7 KB)
+Vision: rendered 4 data pages
+[2210.00627v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00627v1] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["novel view synthesis", "3D human rendering", "geometry reconstruction", "texture synthes
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 3 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00627v1] validation: 41→37 (dropped 4; reason: Table 3 explicitly states results are 'on ZJU-MoCap' but entries 12-15 have data)
+Pipeline: 3 tables → 37 raw → 17 deduped
+17 tuples (45s)
+[9/15] 2210.00698v1... Extracting PDF text from 2210.00698v1.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00698v1.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:38:14.503 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:38:16.815 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 41, text_len: 32746, cid_chars_radio: 0.001263131951076743
+MinerU classification for 2210.00698v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:38:17.529 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 8 pages/8 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["semantic segmentation", "image segmentation", "neural architecture search (NAS)"], "metr
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00698v1] validation wanted to drop 6 preds but cap is 5 (20%). Keeping first 5 flagged.
+[2210.00698v1] validation: 26→21 (dropped 5; reason: These entries appear to be from a reference table or comparison table, not resul)
+Pipeline: 2 tables → 21 raw → 17 deduped
+17 tuples (27s)
+[10/15] 2210.00705v1... Extracting PDF text from 2210.00705v1.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00705v1.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:38:43.180 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:38:46.430 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 9, text_len: 36163, cid_chars_radio: 0.0002492936679408343
+MinerU classification for 2210.00705v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:38:46.820 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 8 pages/8 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["image-speech retrieval", "zero-shot speech-text retrieval", "keyword retrieval from spee
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 102 raw → 100 deduped
+100 tuples (49s)
+[11/15] 2210.00740v1... Extracting PDF text from 2210.00740v1.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00740v1.pdf
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:39:31.553 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:39:32.850 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 31, text_len: 37587, cid_chars_radio: 0.0008300532840656545
+MinerU classification for 2210.00740v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:39:33.238 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 12 pages/12 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["2D human pose estimation"], "metrics": ["PCKh@0.5", "AP", "AP50", "AP75", "APM", "APL", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00740v1] validation: 96→95 (dropped 1; reason: Entry 0 reports 'Integral Pose Regression' model on MPII dataset, but this model)
+Pipeline: 1 tables → 95 raw → 91 deduped
+91 tuples (38s)
+[12/15] 2210.00910v1... Extracting PDF text from 2210.00910v1.pdf...
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00910v1.pdf
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:40:12.514 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:40:13.928 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 39273, cid_chars_radio: 0.0
+MinerU classification for 2210.00910v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:40:14.181 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 16 pages/16 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 1 tables found
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["hate speech detection", "text classification", "zero-shot classification"], "metrics": [
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00910v1] validation wanted to drop 50 preds but cap is 30 (20%). Keeping first 30 flagged.
+[2210.00910v1] validation: 150→120 (dropped 30; reason: All entries are generic placeholder values (mostly 0s and a few small numbers) w)
+Pipeline: 1 tables → 120 raw → 38 deduped
+38 tuples (32s)
+[13/15] 2210.00912v1... Extracting PDF text from 2210.00912v1.pdf...
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.00912v1.pdf
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:40:46.720 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:40:49.880 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 4, text_len: 38335, cid_chars_radio: 0.00010441955778317279
+MinerU classification for 2210.00912v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:40:50.455 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 15 pages/15 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+/HOME/.local/lib/python3.10/site-packages/camelot/parsers/base.py:238: UserWarning: No tables found in table area (40.112, 651.6590783999998, 555.1137435999997, 768.3746133241748)
+  cols, rows, v_s, h_s = self._generate_columns_and_rows(bbox, user_cols)
+  camelot: 5 tables found
+Cross-backend dedup: 5 raw → 5 valid → 5 unique (5 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["image classification", "domain generalization", "federated learning"], "metrics": ["test
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 5 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00912v1] validation: 289→288 (dropped 1; reason: Entry 10 is missing the 'dataset' field while all other FedAvg results specify e)
+Pipeline: 5 tables → 288 raw → 276 deduped
+276 tuples (86s)
+[14/15] 2210.01091v1... Extracting PDF text from 2210.01091v1.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2210.01091v1.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:42:03.679 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:42:04.229 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 22487, cid_chars_radio: 0.0
+MinerU classification for 2210.01091v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:42:04.359 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 8 pages/8 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 1 tables found
+  Running camelot...
+  camelot: 3 tables found
+Cross-backend dedup: 4 raw → 4 valid → 4 unique (4 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["text classification", "sentiment analysis", "sentence similarity"], "metrics": ["accurac
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 4 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.01091v1] validation: 84→72 (dropped 12; reason: All entries reference 'SmallSMSSpamCollection' and 'FrenchandSpanishReviewsDatas)
+Pipeline: 4 tables → 72 raw → 72 deduped
+72 tuples (35s)
+[15/15] 2211.05783v1... Extracting PDF text from 2211.05783v1.pdf...
+Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]
+  Running marker...
+Marker converting 2211.05783v1.pdf
+Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 02:42:50.685 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 02:42:52.895 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 11, text_len: 55849, cid_chars_radio: 0.00019723158574194938
+MinerU classification for 2211.05783v1.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 02:42:53.252 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 17 pages/17 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 6 tables found
+Cross-backend dedup: 6 raw → 6 valid → 6 unique (6 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["optical flow estimation", "stereo matching", "depth estimation"], "metrics": ["EPE (End-
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 6 -> 6 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2211.05783v1] validation: 450→430 (dropped 20; reason: These entries reference 'cost volume + conv' model and optical flow results that)
+Pipeline: 6 tables → 430 raw → 428 deduped
+428 tuples (127s)
+
+============================================================
+TOTAL: 2140 tuples from 15 papers in 912.3s
+Results saved to /REPO/iswc2026/results/mltables_pipeline_claude-haiku-4-5-20251001_v29_t3_loo_docling

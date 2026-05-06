@@ -1,0 +1,175 @@
+{
+  "pdf_id": "PMC3983390",
+  "predictions": [
+    {
+      "value": "0.10",
+      "type": "EC50",
+      "target": "D3",
+      "treatment": "compound (\u2212)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "159",
+      "type": "EC50",
+      "target": "D2/D3",
+      "treatment": "compound (\u2212)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "464",
+      "type": "Ki",
+      "target": "D2",
+      "treatment": "compound 9b",
+      "unit": "nM"
+    },
+    {
+      "value": "2.11",
+      "type": "Ki",
+      "target": "D3",
+      "treatment": "compound 9b",
+      "unit": "nM"
+    },
+    {
+      "value": "220",
+      "type": "Ki",
+      "target": "D2/D3",
+      "treatment": "compound 9b",
+      "unit": "nM"
+    },
+    {
+      "value": "27.8",
+      "type": "Ki",
+      "target": "D2",
+      "treatment": "compound (\u2212)-11",
+      "unit": "nM"
+    },
+    {
+      "value": "0.77",
+      "type": "Ki",
+      "target": "D3",
+      "treatment": "compound (\u2212)-11",
+      "unit": "nM"
+    },
+    {
+      "value": "36",
+      "type": "Ki",
+      "target": "D2/D3",
+      "treatment": "compound (\u2212)-11",
+      "unit": "nM"
+    },
+    {
+      "value": "735",
+      "type": "Ki",
+      "target": "D2",
+      "treatment": "compound 26a",
+      "unit": "nM"
+    },
+    {
+      "value": "3.65",
+      "type": "Ki",
+      "target": "D3",
+      "treatment": "compound 26a",
+      "unit": "nM"
+    },
+    {
+      "value": "369",
+      "type": "Ki",
+      "target": "D2",
+      "treatment": "(\u2212)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "1.73",
+      "type": "Ki",
+      "target": "D3",
+      "treatment": "(\u2212)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "213",
+      "type": "Ki",
+      "target": "D2/D3",
+      "treatment": "(\u2212)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "1507",
+      "type": "Ki",
+      "target": "D2",
+      "treatment": "(+)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "19.7",
+      "type": "Ki",
+      "target": "D3",
+      "treatment": "(+)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "76",
+      "type": "Ki",
+      "target": "D2/D3",
+      "treatment": "(+)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "343",
+      "type": "Ki",
+      "target": "D2",
+      "treatment": "(\u2212)-8b",
+      "unit": "nM"
+    },
+    {
+      "value": "2.33",
+      "type": "Ki",
+      "target": "D3",
+      "treatment": "(\u2212)-8b",
+      "unit": "nM"
+    },
+    {
+      "value": "147",
+      "type": "Ki",
+      "target": "D2/D3",
+      "treatment": "(\u2212)-8b",
+      "unit": "nM"
+    },
+    {
+      "value": "67",
+      "type": "Ki",
+      "target": "D2",
+      "treatment": "27",
+      "unit": "nM"
+    },
+    {
+      "value": "0.70",
+      "type": "Ki",
+      "target": "D3",
+      "treatment": "27",
+      "unit": "nM"
+    },
+    {
+      "value": "201",
+      "type": "Ki",
+      "target": "D2/D3",
+      "treatment": "27",
+      "unit": "nM"
+    },
+    {
+      "value": "567",
+      "type": "Ki",
+      "target": "D2",
+      "treatment": "9d",
+      "unit": "nM"
+    },
+    {
+      "value": "9.43",
+      "type": "Ki",
+      "target": "D3",
+      "treatment": "9d",
+      "unit": "nM"
+    }
+  ],
+  "elapsed_seconds": 55.2,
+  "raw_preview": "{\"value\": \"0.10\", \"type\": \"EC50\", \"target\": \"D3\", \"treatment\": \"compound (\u2212)-9b\", \"unit\": \"nM\"}\n{\"value\": \"159\", \"type\": \"EC50\", \"target\": \"D2/D3\", \"treatment\": \"compound (\u2212)-9b\", \"unit\": \"nM\"}\n{\"value\": \"464\", \"type\": \"Ki\", \"target\": \"D2\", \"treatment\": \"compound 9b\", \"unit\": \"nM\"}\n{\"value\": \"2.11\", \"type\": \"Ki\", \"target\": \"D3\", \"treatment\": \"compound 9b\", \"unit\": \"nM\"}\n{\"value\": \"220\", \"type\": \"Ki\", \"target\": \"D2/D3\", \"treatment\": \"compound 9b\", \"unit\": \"nM\"}\n{\"value\": \"27.8\", \"type\": \"Ki\", \"ta"
+}

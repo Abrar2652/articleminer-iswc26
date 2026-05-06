@@ -1,0 +1,104 @@
+{
+  "pdf_id": "S0022309304008944",
+  "predictions": [
+    {
+      "sample_id": "Abstract composition",
+      "component": "SiO2",
+      "value": 55.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Abstract composition",
+      "component": "Al2O3",
+      "value": 22.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Abstract composition",
+      "component": "ZnO",
+      "value": 17.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Abstract composition",
+      "component": "TiO2",
+      "value": 3.84,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Znx/2AlxSi3-xO6 at 1193K",
+      "component": "ZnO",
+      "value": 0.63,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Znx/2AlxSi3-xO6 at 1193K",
+      "component": "Al2O3",
+      "value": 1.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Znx/2AlxSi3-xO6 at 1193K",
+      "component": "SiO2",
+      "value": 1.73,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Znx/2AlxSi3-xO6 at 1293K",
+      "component": "ZnO",
+      "value": 0.48,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Znx/2AlxSi3-xO6 at 1293K",
+      "component": "Al2O3",
+      "value": 0.98,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Znx/2AlxSi3-xO6 at 1293K",
+      "component": "SiO2",
+      "value": 2.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Gahnite at 1193K",
+      "component": "ZnO",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Gahnite at 1193K",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Gahnite at 1293K",
+      "component": "ZnO",
+      "value": 1.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Gahnite at 1293K",
+      "component": "Al2O3",
+      "value": 1.96,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Gahnite at 1423K",
+      "component": "ZnO",
+      "value": 1.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Gahnite at 1423K",
+      "component": "Al2O3",
+      "value": 1.94,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 16,
+  "ablation": "no_ontology",
+  "elapsed_seconds": 35.7
+}

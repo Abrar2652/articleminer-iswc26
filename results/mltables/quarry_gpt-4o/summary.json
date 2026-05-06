@@ -1,0 +1,13 @@
+{
+  "dataset": "mltables",
+  "model": "gpt-4o",
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ],
+  "total_papers": 15,
+  "total_tuples": 1474,
+  "total_time": 2169.9
+}

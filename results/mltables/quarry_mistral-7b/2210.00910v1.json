@@ -1,0 +1,1384 @@
+{
+  "arxiv_id": "2210.00910v1",
+  "predictions": [
+    {
+      "value": 66.4,
+      "type": "Result",
+      "model": "SVM",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 80,
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 80.4,
+      "type": "Result",
+      "model": "DistilBERT",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 69.6,
+      "type": "Result",
+      "model": "(That contains hate speech)",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 75.5,
+      "type": "Result",
+      "model": "FBT (TG)",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 78.7,
+      "type": "Result",
+      "model": "FBT (TC)",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 69.6,
+      "type": "Result",
+      "model": "FCS",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 71.3,
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 69.5,
+      "type": "Result",
+      "model": "CDC (TC)",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 78.7,
+      "type": "Result",
+      "model": "FBT (TC) + FCS",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 79.7,
+      "type": "Result",
+      "model": "FBT (TC) + FRS",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 71.3,
+      "type": "Result",
+      "model": "FCS + FRS",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 79.7,
+      "type": "Result",
+      "model": "FBT (TC) + FCS + FRS",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 79.6,
+      "type": "Result",
+      "model": "CDC (TC) + FBT (TC) + FCS + FRS",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 69.6,
+      "type": "Data Stat.",
+      "dataset": "ETHOS",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": 97.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 92,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 93.8,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 90.2,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 97.6,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 90.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 94,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 88,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 94.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 80.7,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 92.7,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 71.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 94,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 79.8,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 91.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 70.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 93.8,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 79.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 92.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 69.5,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 94.6,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 77.5,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 72.6,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 83.1,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 90.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 72.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 91.7,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 59.6,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 89.8,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 70.6,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 94.2,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 56.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 90.5,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 69.8,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 85.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 59.1,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 88.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 67.6,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 89.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 54.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 87.8,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 66.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 51.7,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 87.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 65.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 50.8,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 86.5,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 64.5,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 48.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 84.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 62.1,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 96.1,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 45.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 85.6,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 91.1,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 47.1,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 74.8,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 49.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 95.2,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 33.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 87,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 28.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 19.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 49.7,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 93.1,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 90.7,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 95.6,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.1,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 94.8,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 92.6,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 90.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 95,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 92.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 94.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 93.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 97.8,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 91.6,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 92.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 89.7,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 83.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 96.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 97.7,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 90.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 83.3,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 98.5,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 97.5,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 89.7,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 89.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 85.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 96.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 78.2,
+      "type": "Data Stat.",
+      "dataset": "Hate Check",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": 69.2,
+      "type": "Data Stat.",
+      "dataset": "Hate Check",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": 21.1,
+      "type": "Data Stat.",
+      "dataset": "ETHOS",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": 12.6,
+      "type": "Data Stat.",
+      "dataset": "ETHOS",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": 34.5,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 21.9,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 82.4,
+      "type": "Result",
+      "model": "",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.4,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 93.7,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 90.3,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 97.3,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.4,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 93.5,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 90.1,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 97.1,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 98,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 92.3,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 91.3,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 96.1,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 97.9,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 91.9,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 92.4,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 91.4,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 97.9,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 87,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 97.7,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 91.3,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 93,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 89.6,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 97.7,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 90.9,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 87.2,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 94.8,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 82,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "F1"
+    },
+    {
+      "value": 91.7,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 74.1,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": 94.5,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 81.6,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 94.4,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 71.9,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 99.1,
+      "type": "Result",
+      "model": "That example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 96.7,
+      "type": "Result",
+      "model": "That example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 94.2,
+      "type": "Result",
+      "model": "That example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 99.4,
+      "type": "Result",
+      "model": "That example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 99,
+      "type": "Result",
+      "model": "This example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 96.6,
+      "type": "Result",
+      "model": "This example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 94,
+      "type": "Result",
+      "model": "This example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 99.2,
+      "type": "Result",
+      "model": "This example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.8,
+      "type": "Result",
+      "model": "This text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 95.9,
+      "type": "Result",
+      "model": "This text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 92.9,
+      "type": "Result",
+      "model": "This text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 99,
+      "type": "Result",
+      "model": "This text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.8,
+      "type": "Result",
+      "model": "This is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 95.8,
+      "type": "Result",
+      "model": "This is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 92.6,
+      "type": "Result",
+      "model": "This is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 99.2,
+      "type": "Result",
+      "model": "This is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.5,
+      "type": "Result",
+      "model": "That text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 94.6,
+      "type": "Result",
+      "model": "That text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 90,
+      "type": "Result",
+      "model": "That text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 99.6,
+      "type": "Result",
+      "model": "That text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.4,
+      "type": "Result",
+      "model": "That is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 94.4,
+      "type": "Result",
+      "model": "That is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 90.4,
+      "type": "Result",
+      "model": "That is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 98.8,
+      "type": "Result",
+      "model": "That is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.9,
+      "type": "Data Stat.",
+      "dataset": "Hate Check",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": 6,
+      "type": "Data Stat.",
+      "dataset": "ETHOS",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": 94.3,
+      "type": "Result",
+      "model": "This is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 88.6,
+      "type": "Result",
+      "model": "This is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 81.3,
+      "type": "Result",
+      "model": "This is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 97.5,
+      "type": "Result",
+      "model": "This is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 93.7,
+      "type": "Result",
+      "model": "That example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 87.1,
+      "type": "Result",
+      "model": "That example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 77.9,
+      "type": "Result",
+      "model": "That example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 98.8,
+      "type": "Result",
+      "model": "That example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 93.2,
+      "type": "Result",
+      "model": "This example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 85.9,
+      "type": "Result",
+      "model": "This example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 76.2,
+      "type": "Result",
+      "model": "This example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 98.5,
+      "type": "Result",
+      "model": "This example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 93.1,
+      "type": "Result",
+      "model": "This text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 85.7,
+      "type": "Result",
+      "model": "This text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 76.4,
+      "type": "Result",
+      "model": "This text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 97.5,
+      "type": "Result",
+      "model": "This text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 92.4,
+      "type": "Result",
+      "model": "That is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 84,
+      "type": "Result",
+      "model": "That is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 73.5,
+      "type": "Result",
+      "model": "That is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 98.2,
+      "type": "Result",
+      "model": "That is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 91.7,
+      "type": "Result",
+      "model": "That text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 82.3,
+      "type": "Result",
+      "model": "That text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F1"
+    },
+    {
+      "value": 70.8,
+      "type": "Result",
+      "model": "That text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 98.4,
+      "type": "Result",
+      "model": "That text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    }
+  ],
+  "num_gold_annotations": 126,
+  "elapsed_seconds": 303.8,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "pii": "S0022309315301186",
+  "predictions": [
+    {
+      "sample_id": "S1",
+      "component": "SrO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "Li2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "B2O3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "SrO",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "Li2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "B2O3",
+      "value": 77.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "SrO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "Li2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "B2O3",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "SrO",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "Li2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "B2O3",
+      "value": 72.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5",
+      "component": "SrO",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5",
+      "component": "Li2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5",
+      "component": "B2O3",
+      "value": 70.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 15,
+  "elapsed_seconds": 92.6,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

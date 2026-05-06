@@ -1,0 +1,32 @@
+{
+  "pdf_id": "S0022309305001109",
+  "predictions": [
+    {
+      "sample_id": "P0",
+      "component": "ZrO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P3",
+      "component": "ZrO2",
+      "value": 7.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P4",
+      "component": "ZrO2",
+      "value": 11.09,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P6",
+      "component": "ZrO2",
+      "value": 14.72,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 59,
+  "ablation": "no_ontology",
+  "elapsed_seconds": 36.4
+}

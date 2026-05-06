@@ -1,0 +1,205 @@
+{
+  "pdf_id": "S0022309302011596",
+  "predictions": [
+    {
+      "sample_id": "LnSiAlON_La_equiv",
+      "component": "La3+",
+      "value": 21.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_equiv",
+      "component": "Si4+",
+      "value": 56.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_equiv",
+      "component": "Al3+",
+      "value": 21.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_equiv",
+      "component": "B3+",
+      "value": 1.89,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_equiv",
+      "component": "O2-",
+      "value": 87.52,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_equiv",
+      "component": "N3-",
+      "value": 12.48,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_equiv",
+      "component": "Y3+",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_equiv",
+      "component": "Si4+",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_equiv",
+      "component": "Al3+",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_equiv",
+      "component": "O2-",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_equiv",
+      "component": "N3-",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_atomic",
+      "component": "La3+",
+      "value": 9.15,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_atomic",
+      "component": "Si4+",
+      "value": 18.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_atomic",
+      "component": "Al3+",
+      "value": 9.15,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_atomic",
+      "component": "B3+",
+      "value": 0.82,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_atomic",
+      "component": "O2-",
+      "value": 57.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_atomic",
+      "component": "N3-",
+      "value": 5.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_atomic",
+      "component": "Y3+",
+      "value": 7.89,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_atomic",
+      "component": "Si4+",
+      "value": 15.44,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_atomic",
+      "component": "Al3+",
+      "value": 15.33,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_atomic",
+      "component": "O2-",
+      "value": 52.57,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_atomic",
+      "component": "N3-",
+      "value": 8.76,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LnSiAlON_La_wt",
+      "component": "La3+",
+      "value": 41.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LnSiAlON_La_wt",
+      "component": "Si4+",
+      "value": 41.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LnSiAlON_La_wt",
+      "component": "Al3+",
+      "value": 8.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LnSiAlON_La_wt",
+      "component": "B3+",
+      "value": 0.29,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LnSiAlON_La_wt",
+      "component": "O2-",
+      "value": 31.16,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LnSiAlON_La_wt",
+      "component": "N3-",
+      "value": 2.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_wt",
+      "component": "Y3+",
+      "value": 28.16,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_wt",
+      "component": "Si4+",
+      "value": 17.16,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_wt",
+      "component": "Al3+",
+      "value": 16.43,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_wt",
+      "component": "O2-",
+      "value": 33.38,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LnSiAlON_Y_wt",
+      "component": "N3-",
+      "value": 4.87,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 46.2,
+  "raw_preview": "I'll extract the material composition data from the table in the RESULTS section. The table shows compositions for La\u00b3\u207a and Y\u00b3\u207a glasses with cations Si\u2074\u207a, Al\u00b3\u207a, B\u00b3\u207a, O\u00b2\u207b, N\u00b3\u207b in equivalent %, atomic %, and weight %.\n\n{\"sample_id\": \"LnSiAlON_La_equiv\", \"component\": \"La3+\", \"value\": 21.02, \"unit\": \"mol\"}\n{\"sample_id\": \"LnSiAlON_La_equiv\", \"component\": \"Si4+\", \"value\": 56.05, \"unit\": \"mol\"}\n{\"sample_id\": \"LnSiAlON_La_equiv\", \"component\": \"Al3+\", \"value\": 21.02, \"unit\": \"mol\"}\n{\"sample_id\": \"LnSiAlO"
+}

@@ -1,0 +1,2715 @@
+/HOME/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+/HOME/.local/lib/python3.10/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+Found 111 DiSCoMaT PDFs
+
+[1/111] Processing S0022309300001435...
+Extracting PDF text from S0022309300001435.pdf...
+Loading Marker models (first call, will be cached)...
+Marker models loaded: ['layout_model', 'recognition_model', 'table_rec_model', 'detection_model', 'ocr_error_model']
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309300001435.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 2, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1254.4 KB)
+Vision: rendered 4 data pages
+[S0022309300001435] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300001435] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Li2O", "TeO2", "SiO2"], "unit": "mol", "approx_samples": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300001435] validation wanted to drop 7 preds but cap is 4 (20%). Keeping first 4 flagged.
+[S0022309300001435] validation: 23→19 (dropped 4; reason: Al2O3 and K2O components are not mentioned in the paper's ternary system (0.30Li)
+Pipeline: 1 tables → 23 raw → 19 validated → 19 deduped
+19 tuples (22s)
+  S0022309300001459... Extracting PDF text from S0022309300001459.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309300001459.pdf
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 7, 11] (landscape/rotated: none)
+Rendered 4/4 pages (total 1113.2 KB)
+Vision: rendered 4 data pages
+[S0022309300001459] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300001459] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass and glass-ceramic (blast-furnace slag glass)", "components": ["CaO", "SiO2"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 25 raw → 25 validated → 25 deduped
+25 tuples (31s)
+  S0022309300002453... Extracting PDF text from S0022309300002453.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309300002453.pdf
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 4, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1207.8 KB)
+Vision: rendered 4 data pages
+[S0022309300002453] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300002453] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "bioactive glass and biocompatible glass (porous bodies formed by sintering micros
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300002453:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Continue extracting all remaining rows (Biocompatible 1 SiO2, all of Biocompatible 2) and include dashes as explicit null/absent values rather than skipping them. (Diagnosed cause: Incomplete extraction - stopped mid-table and missed entire rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300002453] validation wanted to drop 18 preds but cap is 3 (20%). Keeping first 3 flagged.
+[S0022309300002453] validation: 18→15 (dropped 3; reason: No composition data appears in the provided paper text; these entries appear to )
+Pipeline: 2 tables → 18 raw → 15 validated → 15 deduped
+15 tuples (27s)
+  S0022309300002805... Extracting PDF text from S0022309300002805.pdf...
+Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309300002805.pdf
+Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 4, 15, 16] (landscape/rotated: none)
+Rendered 4/4 pages (total 1109.2 KB)
+Vision: rendered 4 data pages
+[S0022309300002805] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300002805] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["V2O5", "Sb", "TeO2"], "unit": "mol", "approx_samples": 8}
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (32s)
+  S0022309300003343... Extracting PDF text from S0022309300003343.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309300003343.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 3, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1137.9 KB)
+Vision: rendered 4 data pages
+[S0022309300003343] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300003343] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxynitride glasses", "components": ["Si", "Al", "O", "N", "Y", "La", "Eu", "Er"],
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (23s)
+  S0022309300004130... Extracting PDF text from S0022309300004130.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309300004130.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1029.8 KB)
+Vision: rendered 4 data pages
+[S0022309300004130] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300004130] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["PbBr2", "PbCl2", "PbF2", "PbO", "P2O5"], "unit": "atom%",
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (16s)
+  S0022309301004161... Extracting PDF text from S0022309301004161.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309301004161.pdf
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [5, 6, 7, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1405.5 KB)
+Vision: rendered 4 data pages
+[S0022309301004161] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301004161] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "Na2O", "PbO", "K2O", "CaO", "Al2O3"], "unit": "mo
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (24s)
+  S0022309301006159... Extracting PDF text from S0022309301006159.pdf...
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309301006159.pdf
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [5, 6, 7, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1514.1 KB)
+Vision: rendered 4 data pages
+[S0022309301006159] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301006159] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "Na2O", "K2O", "PbO", "CaO", "Al2O3"], "unit": "mo
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (19s)
+  S0022309301007311... Extracting PDF text from S0022309301007311.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309301007311.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 4, 5, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1544.1 KB)
+Vision: rendered 4 data pages
+[S0022309301007311] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301007311] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "Na2O", "CaO", "Al2O3", "MgO", "K2O", "Fe2O3"], "u
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (14s)
+  S0022309301008122... Extracting PDF text from S0022309301008122.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309301008122.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 3 data-dense pages: [2, 3, 4] (landscape/rotated: none)
+Rendered 3/3 pages (total 940.1 KB)
+Vision: rendered 3 data pages
+[S0022309301008122] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301008122] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "Unable to determine - text corrupted", "components": ["Unable to extract - OCR/sc
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (13s)
+
+[11/111] Processing S0022309301008754...
+Extracting PDF text from S0022309301008754.pdf...
+Recognizing Layout:   0%|          | 0/19 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/19 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309301008754.pdf
+Recognizing Layout:   0%|          | 0/19 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/19 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [9, 10, 11, 12] (landscape/rotated: none)
+Rendered 4/4 pages (total 1407.7 KB)
+Vision: rendered 4 data pages
+[S0022309301008754] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301008754] vision transcribed 0 tables
+Pipeline: 0 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (17s)
+  S002230930100878X... Extracting PDF text from S002230930100878X.pdf...
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230930100878X.pdf
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [5, 6, 7, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1421.1 KB)
+Vision: rendered 4 data pages
+[S002230930100878X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930100878X] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "PbO", "Na2O", "K2O", "CaO", "Al2O3"], "unit": "mo
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (60s)
+  S002230930100936X... Extracting PDF text from S002230930100936X.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230930100936X.pdf
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 6, 10, 11] (landscape/rotated: none)
+Rendered 4/4 pages (total 1292.8 KB)
+Vision: rendered 4 data pages
+[S002230930100936X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930100936X] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["La2O3", "P2O5", "SiO2"], "unit": "mol", "approx
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930100936X] validation wanted to drop 5 preds but cap is 4 (20%). Keeping first 4 flagged.
+[S002230930100936X] validation: 21→17 (dropped 4; reason: SiO2 component appears in extracted entries but is not mentioned anywhere in the)
+Pipeline: 2 tables → 21 raw → 17 validated → 17 deduped
+17 tuples (31s)
+  S0022309301010547... Extracting PDF text from S0022309301010547.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309301010547.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 2, 5, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 908.3 KB)
+Vision: rendered 4 data pages
+[S0022309301010547] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301010547] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (aluminoborate glass)", "components": ["Ag2O", "B2O3", "Al2O3", "Li2O", "K2
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 84 raw → 84 validated → 84 deduped
+84 tuples (33s)
+  S0022309302009481... Extracting PDF text from S0022309302009481.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309302009481.pdf
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 4, 5, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1131.8 KB)
+Vision: rendered 4 data pages
+[S0022309302009481] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302009481] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glasses (silicates, aluminosilicates, borosilicates, titanosilicates)", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302009481] validation: 49→48 (dropped 1; reason: Entry 20 lists B2O3 as 16.67 wt% for sample NTS₄, but the sample ID suggests a t)
+Pipeline: 4 tables → 50 raw → 48 validated → 48 deduped
+48 tuples (41s)
+  S0022309302010463... Extracting PDF text from S0022309302010463.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309302010463.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 2, 3, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1235.7 KB)
+Vision: rendered 4 data pages
+[S0022309302010463] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302010463] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Na2O", "Al2O3", "SiO2"], "unit": "mol", "approx_samples":
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302010463:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Continue extracting all 5 rows completely, including the μD and μC optical property columns as separate measurement entries per sample. (Diagnosed cause: Incomplete extraction - stopped mid-table before capturing all rows and optical properties.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 159 raw → 159 validated → 159 deduped
+159 tuples (56s)
+  S0022309302011596... Extracting PDF text from S0022309302011596.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309302011596.pdf
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 8, 9, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1115.3 KB)
+Vision: rendered 4 data pages
+[S0022309302011596] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302011596] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxynitride glass", "components": ["Si4+", "Al3+", "B3+", "O2-", "N3-", "Y3+", "La
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 0 relevant tables
+Pipeline: 5 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (44s)
+  S0022309302013662... Extracting PDF text from S0022309302013662.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309302013662.pdf
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1140.6 KB)
+Vision: rendered 4 data pages
+[S0022309302013662] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302013662] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass", "components": ["SiO2", "Na2O", "La2O3"], "unit": "mol", "approx_
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 14 raw → 14 validated → 14 deduped
+14 tuples (23s)
+  S0022309302014217... Extracting PDF text from S0022309302014217.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309302014217.pdf
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 11] (landscape/rotated: none)
+Rendered 4/4 pages (total 1154.0 KB)
+Vision: rendered 4 data pages
+[S0022309302014217] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302014217] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass and glass-ceramic", "components": ["CaO", "ZrO2", "SiO2", "V2O5"], "unit": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 31 raw → 31 validated → 31 deduped
+31 tuples (24s)
+  S0022309302015946... Extracting PDF text from S0022309302015946.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309302015946.pdf
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 4, 9, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1284.2 KB)
+Vision: rendered 4 data pages
+[S0022309302015946] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302015946] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (aluminosilicate glass doped with europium)", "components": ["Na2O", "MgO",
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 30 raw → 29 validated → 29 deduped
+29 tuples (27s)
+
+[21/111] Processing S0022309302018641...
+Extracting PDF text from S0022309302018641.pdf...
+Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309302018641.pdf
+Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 2, 9, 11] (landscape/rotated: none)
+Rendered 4/4 pages (total 1180.2 KB)
+Vision: rendered 4 data pages
+[S0022309302018641] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302018641] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "gel-glass (silica-calcia xerogel monoliths)", "components": ["SiO2", "CaO"], "uni
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302018641] validation wanted to drop 10 preds but cap is 6 (20%). Keeping first 6 flagged.
+[S0022309302018641] validation: 30→24 (dropped 6; reason: The paper states compositions are expressed as 'x CaO (1-x)SiO2 where 0 ≤ x ≤ 0.)
+Pipeline: 2 tables → 30 raw → 24 validated → 24 deduped
+24 tuples (47s)
+  S0022309302019658... Extracting PDF text from S0022309302019658.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309302019658.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1260.0 KB)
+Vision: rendered 4 data pages
+[S0022309302019658] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302019658] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (iron phosphate glasses)", "components": ["Na2O", "K2O", "Cs2O", "Fe2O3", "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302019658] validation: 49→45 (dropped 4; reason: NKFP48-00 has batch composition of 0 Na2O and 20 K2O, but extracted entries show)
+Pipeline: 2 tables → 51 raw → 45 validated → 45 deduped
+45 tuples (32s)
+  S0022309303000188... Extracting PDF text from S0022309303000188.pdf...
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309303000188.pdf
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 5, 13, 14] (landscape/rotated: none)
+Rendered 4/4 pages (total 992.7 KB)
+Vision: rendered 4 data pages
+[S0022309303000188] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303000188] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["V2O5", "Bi2O3", "TeO2"], "unit": "wt", "approx_samples": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 18 raw → 17 validated → 17 deduped
+17 tuples (37s)
+  S0022309303000899... Extracting PDF text from S0022309303000899.pdf...
+Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309303000899.pdf
+Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 4, 7, 13] (landscape/rotated: none)
+Rendered 4/4 pages (total 855.3 KB)
+Vision: rendered 4 data pages
+[S0022309303000899] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303000899] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass-forming liquids (inorganic glasses and metallic glass-forming alloys)", "co
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303000899] validation wanted to drop 38 preds but cap is 25 (20%). Keeping first 25 flagged.
+[S0022309303000899] validation: 126→101 (dropped 25; reason: Paper is a theoretical/correlative study on nucleation rates and glass transitio)
+Pipeline: 2 tables → 126 raw → 101 validated → 101 deduped
+101 tuples (59s)
+  S0022309303002813... Extracting PDF text from S0022309303002813.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309303002813.pdf
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 3] (landscape/rotated: none)
+Rendered 4/4 pages (total 1411.2 KB)
+Vision: rendered 4 data pages
+[S0022309303002813] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303002813] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (soda-lime-silica glass, Roman flat window glass)", "components": ["SiO2", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303002813] validation: 40→33 (dropped 7; reason: These entries are from a reference comparison table (Roman glass II-I c. BC from)
+Pipeline: 1 tables → 40 raw → 33 validated → 33 deduped
+33 tuples (23s)
+  S0022309303003132... Extracting PDF text from S0022309303003132.pdf...
+Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309303003132.pdf
+Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [7, 8, 14, 17] (landscape/rotated: none)
+Rendered 4/4 pages (total 1252.9 KB)
+Vision: rendered 4 data pages
+[S0022309303003132] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303003132] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (oxyfluoride tellurite glass and oxide tellurite glass)", "components": ["T
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 0 relevant tables
+Pipeline: 3 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (42s)
+  S0022309303003685... Extracting PDF text from S0022309303003685.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309303003685.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 3, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1218.1 KB)
+Vision: rendered 4 data pages
+[S0022309303003685] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303003685] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "aluminoborosilicate nuclear glass and gels", "components": ["SiO2", "B2O3", "Al2O
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (24s)
+  S0022309303004356... Extracting PDF text from S0022309303004356.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309303004356.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1310.8 KB)
+Vision: rendered 4 data pages
+[S0022309303004356] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303004356] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (oxyfluoride zinc tellurite glass)", "components": ["TeO2", "ZnO", "ZnF2", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 20 raw → 20 validated → 20 deduped
+20 tuples (26s)
+  S0022309303006124... Extracting PDF text from S0022309303006124.pdf...
+Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309303006124.pdf
+Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 7, 11, 12] (landscape/rotated: none)
+Rendered 4/4 pages (total 892.1 KB)
+Vision: rendered 4 data pages
+[S0022309303006124] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303006124] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (glass-ceramic)", "components": ["BaO", "TiO2", "SiO2"], "unit": "mol", "ap
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (23s)
+  S0022309303007592... Extracting PDF text from S0022309303007592.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309303007592.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1553.6 KB)
+Vision: rendered 4 data pages
+[S0022309303007592] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303007592] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["SiO2", "P2O5", "Li2O", "Al2O3", "TiO2"], "unit"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 34 raw → 34 validated → 34 deduped
+34 tuples (28s)
+
+[31/111] Processing S0022309304000237...
+Extracting PDF text from S0022309304000237.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304000237.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1212.0 KB)
+Vision: rendered 4 data pages
+[S0022309304000237] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304000237] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (lead-based borosilicate and lead-borozincsilicate glasses)", "components":
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 74 raw → 74 validated → 74 deduped
+74 tuples (36s)
+  S0022309304000705... Extracting PDF text from S0022309304000705.pdf...
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304000705.pdf
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 4, 5, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1458.8 KB)
+Vision: rendered 4 data pages
+[S0022309304000705] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304000705] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass/melt", "components": ["SiO2", "Al2O3", "CaO"], "unit": "mol", "app
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 30 raw → 30 validated → 30 deduped
+30 tuples (50s)
+  S0022309304004557... Extracting PDF text from S0022309304004557.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304004557.pdf
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 4, 5, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1402.1 KB)
+Vision: rendered 4 data pages
+[S0022309304004557] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304004557] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass (bioactive glass)", "components": ["SiO2", "P2O5", "CaO", "Na2O", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304004557] validation: 141→140 (dropped 1; reason: Entry 18 shows ICIE5 with CaO value of 49.46 mol, which exactly matches the SiO2)
+Pipeline: 3 tables → 141 raw → 140 validated → 140 deduped
+140 tuples (58s)
+  S0022309304004958... Extracting PDF text from S0022309304004958.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304004958.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1289.2 KB)
+Vision: rendered 4 data pages
+[S0022309304004958] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304004958] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass fibers (sodium aluminosilicate)", "components": ["Na2O", "Al2O3", "SiO2"], 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304004958] validation: 26→23 (dropped 3; reason: The paper explicitly states the compositional series range is 0 ≤ x ≤ 32.5, not )
+Pipeline: 1 tables → 27 raw → 23 validated → 23 deduped
+23 tuples (33s)
+  S0022309304005228... Extracting PDF text from S0022309304005228.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304005228.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1501.5 KB)
+Vision: rendered 4 data pages
+[S0022309304005228] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304005228] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["SnO", "Na2O", "P2O5"], "unit": "mol", "approx_s
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304005228:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Extract all 5 rows completely, including the R_xdox values for each sample, and handle the anomalous final row (row 5) which appears to be a duplicate/control with different values. (Diagnosed cause: Incomplete extraction - stopped mid-table and missed R_xdox column plus final rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 15 raw → 15 validated → 15 deduped
+15 tuples (32s)
+  S0022309304005757... Extracting PDF text from S0022309304005757.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304005757.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 3, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1285.6 KB)
+Vision: rendered 4 data pages
+[S0022309304005757] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304005757] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (multiple types: silica, borosilicate, borate, fluoride phosphate)", "compo
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 27 raw → 27 validated → 27 deduped
+27 tuples (29s)
+  S0022309304006957... Extracting PDF text from S0022309304006957.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304006957.pdf
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 3] (landscape/rotated: none)
+Rendered 4/4 pages (total 1334.7 KB)
+Vision: rendered 4 data pages
+[S0022309304006957] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304006957] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["PbO", "SiO2"], "unit": "mol", "approx_samples": 4}
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304006957] validation wanted to drop 8 preds but cap is 1 (20%). Keeping first 1 flagged.
+[S0022309304006957] validation: 8→7 (dropped 1; reason: All entries use incorrect unit 'mol' instead of 'mol%' as specified in the paper)
+Pipeline: 1 tables → 8 raw → 7 validated → 7 deduped
+7 tuples (18s)
+  S0022309304007550... Extracting PDF text from S0022309304007550.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304007550.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1274.7 KB)
+Vision: rendered 4 data pages
+[S0022309304007550] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304007550] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (sodium alumino-borosilicate glass)", "components": ["SiO2", "B2O3", "Na2O"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304007550] validation: 61→53 (dropped 8; reason: Samples R0-Nd32 and R0-Nd60 have RPA=0 (no Na2O), but extracted entries show onl)
+Pipeline: 3 tables → 61 raw → 53 validated → 53 deduped
+53 tuples (47s)
+  S0022309304007872... Extracting PDF text from S0022309304007872.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304007872.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 3, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1607.5 KB)
+Vision: rendered 4 data pages
+[S0022309304007872] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304007872] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (potassium borosilicate glass)", "components": ["SiO2", "B2O3", "K2O", "Al2
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304007872:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Re-examine the table structure: the first column contains sample IDs (A, B), not SiO₂ values. Realign all subsequent values one column to the right. (Diagnosed cause: Column header misalignment causing value shifts.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 10 raw → 10 validated → 10 deduped
+10 tuples (26s)
+  S0022309304008944... Extracting PDF text from S0022309304008944.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304008944.pdf
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 5, 6, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1662.7 KB)
+Vision: rendered 4 data pages
+[S0022309304008944] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304008944] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass and glass-ceramics", "components": ["SiO2", "Al2O3", "ZnO", "TiO2"], "unit"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304008944:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): The table appears to show composition data that should be replicated or expanded across multiple samples; verify if this single row represents multiple glass samples or if additional rows/samples are missing from the provided table. (Diagnosed cause: Single row interpreted as one sample instead of multiple samples.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 4 raw → 4 validated → 4 deduped
+4 tuples (32s)
+
+[41/111] Processing S0022309304009032...
+Extracting PDF text from S0022309304009032.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304009032.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1340.4 KB)
+Vision: rendered 4 data pages
+[S0022309304009032] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304009032] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (mould flux glass)", "components": ["SiO2", "Al2O3", "CaO", "CaF2", "P2O5",
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304009032] validation wanted to drop 25 preds but cap is 5 (20%). Keeping first 5 flagged.
+[S0022309304009032] validation: 25→20 (dropped 5; reason: All entries reference sample IDs (LG35, LG26, CAN4, LD1G24, F1) that do not appe)
+Pipeline: 2 tables → 25 raw → 20 validated → 20 deduped
+20 tuples (36s)
+  S0022309304009342... Extracting PDF text from S0022309304009342.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309304009342.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1254.5 KB)
+Vision: rendered 4 data pages
+[S0022309304009342] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304009342] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Na2O", "Al2O3", "B2O3", "SiO2"], "unit": "mol", "approx_s
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 0 relevant tables
+Pipeline: 3 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (27s)
+  S0022309305001109... Extracting PDF text from S0022309305001109.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309305001109.pdf
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 5, 7, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1595.0 KB)
+Vision: rendered 4 data pages
+[S0022309305001109] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305001109] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass", "components": ["Na2O", "CaO", "ZrO2", "SiO2"], "unit": "mol", "a
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 60 raw → 59 validated → 59 deduped
+59 tuples (32s)
+  S0022309305001262... Extracting PDF text from S0022309305001262.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309305001262.pdf
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 5, 7, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1567.7 KB)
+Vision: rendered 4 data pages
+[S0022309305001262] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305001262] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (sodium aluminoborosilicate glassmelt)", "components": ["SiO2", "Na2O", "Al
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305001262] validation wanted to drop 16 preds but cap is 6 (20%). Keeping first 6 flagged.
+[S0022309305001262] validation: 32→26 (dropped 6; reason: Units listed as 'mol' are invalid for composition data; should be 'wt%' (weight )
+Pipeline: 1 tables → 32 raw → 26 validated → 23 deduped
+23 tuples (28s)
+  S0022309305003959... Extracting PDF text from S0022309305003959.pdf...
+  Running marker...
+Marker converting S0022309305003959.pdf
+Marker extraction failed: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 12.44 MiB is free. Process 3029993 has 10.35 GiB memory in use. Including non-PyTorch memory, this process has 4.17 GiB memory in use. Process 3044686 has 4.15 GiB memory in use. Process 3047440 has 4.98 GiB memory in use. Of the allocated memory 3.76 GiB is allocated by PyTorch, and 177.28 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 11] (landscape/rotated: none)
+Rendered 4/4 pages (total 1770.3 KB)
+Vision: rendered 4 data pages
+[S0022309305003959] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305003959] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Bi2O3", "ZnO", "B2O3"], "unit": "mol", "approx_samples": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305003959] validation: 11→9 (dropped 2; reason: BZH6 composition shows only ZnO and B2O3 without Bi2O3, but the paper states all)
+Pipeline: 2 tables → 11 raw → 9 validated → 9 deduped
+9 tuples (27s)
+  S0022309305005041... Extracting PDF text from S0022309305005041.pdf...
+  Running marker...
+Marker converting S0022309305005041.pdf
+Marker extraction failed: CUDA out of memory. Tried to allocate 12.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3029993 has 10.35 GiB memory in use. Including non-PyTorch memory, this process has 4.18 GiB memory in use. Process 3044686 has 4.15 GiB memory in use. Process 3047440 has 4.98 GiB memory in use. Of the allocated memory 3.73 GiB is allocated by PyTorch, and 220.26 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 3, 4, 9] (landscape/rotated: none)
+Rendered 4/4 pages (total 1187.1 KB)
+Vision: rendered 4 data pages
+[S0022309305005041] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305005041] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["P2O5", "Fe2O3", "MnO"], "unit": "wt", "approx_s
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305005041] validation: 42→39 (dropped 3; reason: Sample PF-1 does not appear in the paper; all samples discussed are PFM series ()
+Pipeline: 2 tables → 42 raw → 39 validated → 39 deduped
+39 tuples (36s)
+  S002230930600593X... Extracting PDF text from S002230930600593X.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230930600593X.pdf
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 3, 6, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1651.2 KB)
+Vision: rendered 4 data pages
+[S002230930600593X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930600593X] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "borosilicate glass (phospho-borosilicate glass)", "components": ["Na2O", "B2O3", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930600593X] validation: 87→81 (dropped 6; reason: Units should be 'mol%' (mole percent) not 'mol' for glass composition data, as s)
+Pipeline: 2 tables → 87 raw → 81 validated → 81 deduped
+81 tuples (40s)
+  S0022309306011033... Extracting PDF text from S0022309306011033.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309306011033.pdf
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Detected page-level landscape: [3]
+Rendering 4 data-dense pages: [2, 3, 4, 8] (landscape/rotated: [3])
+Rendered 4/4 pages (total 1060.4 KB)
+Vision: rendered 4 data pages
+[S0022309306011033] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309306011033] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["Na2O", "P2O5", "CaO", "MgO", "Fe2O3"], "unit": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 51 raw → 51 validated → 51 deduped
+51 tuples (40s)
+  S002230930601132X... Extracting PDF text from S002230930601132X.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230930601132X.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1708.6 KB)
+Vision: rendered 4 data pages
+[S002230930601132X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930601132X] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (medieval stained-glass)", "components": ["SiO2", "Al2O3", "Fe2O3", "MnO", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930601132X] validation: 40→39 (dropped 1; reason: Entry 3 shows DV MnO = 7.7 wt%, but the table clearly shows DV MnO = 0.7 ± 0.1 w)
+Pipeline: 2 tables → 40 raw → 39 validated → 39 deduped
+39 tuples (28s)
+  S0022309306011331... Extracting PDF text from S0022309306011331.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309306011331.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 6, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1281.1 KB)
+Vision: rendered 4 data pages
+[S0022309306011331] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309306011331] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass (bioactive glass)", "components": ["P2O5", "Na2O", "CaO", "TiO2"]
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 24 raw → 23 validated → 23 deduped
+23 tuples (23s)
+
+[51/111] Processing S0022309306011835...
+Extracting PDF text from S0022309306011835.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309306011835.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1524.7 KB)
+Vision: rendered 4 data pages
+[S0022309306011835] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309306011835] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Li2O", "Na2O", "Al2O3", "SiO2"], "unit": "mol", "approx_s
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (16s)
+  S0022309306013238... Extracting PDF text from S0022309306013238.pdf...
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309306013238.pdf
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 5, 9] (landscape/rotated: none)
+Rendered 4/4 pages (total 1767.9 KB)
+Vision: rendered 4 data pages
+[S0022309306013238] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309306013238] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxide glass and gel", "components": ["SiO2", "Al2O3", "B2O3", "Na2O", "CaO", "Li2
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 0 relevant tables
+Pipeline: 5 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (42s)
+  S002230930601324X... Extracting PDF text from S002230930601324X.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230930601324X.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 4, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1708.1 KB)
+Vision: rendered 4 data pages
+[S002230930601324X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930601324X] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass and glass-ceramics", "components": ["SiO2", "Al2O3", "Fe2O3", "CaO", "MgO",
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930601324X] validation: 94→91 (dropped 3; reason: These entries (Fe2O3, Al2O3, Na2CO3 as pure materials with 99.5 wt% values) are )
+Pipeline: 3 tables → 94 raw → 91 validated → 91 deduped
+91 tuples (43s)
+  S0022309307002116... Extracting PDF text from S0022309307002116.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307002116.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1512.9 KB)
+Vision: rendered 4 data pages
+[S0022309307002116] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307002116] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxide glass (borate glass)", "components": ["Li2O", "Rb2O", "B2O3"], "unit": "mol
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307002116:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): The extractor stopped prematurely and failed to extract the Rb2O value (20.00 mol%) for the RhB4 sample, which is the last row of the table. (Diagnosed cause: Missing final composition entry for RhB4.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307002116] validation wanted to drop 6 preds but cap is 2 (20%). Keeping first 2 flagged.
+[S0022309307002116] validation: 11→9 (dropped 2; reason: Sample IDs 'RhB2', 'RhB3', 'RhB4' do not appear in the paper; the paper discusse)
+Pipeline: 2 tables → 11 raw → 9 validated → 9 deduped
+9 tuples (24s)
+  S0022309307002463... Extracting PDF text from S0022309307002463.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307002463.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1566.5 KB)
+Vision: rendered 4 data pages
+[S0022309307002463] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307002463] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxide glass (borosilicate)", "components": ["SiO2", "B2O3", "Na2O", "BaO", "ZrO2"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (19s)
+  S002230930700364X... Extracting PDF text from S002230930700364X.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230930700364X.pdf
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 3, 4, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1449.0 KB)
+Vision: rendered 4 data pages
+[S002230930700364X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930700364X] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (glass ceramics with nanoparticles)", "components": ["ZnO", "Fe2O3", "SiO2"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (28s)
+  S002230930700395X... Extracting PDF text from S002230930700395X.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230930700395X.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1650.1 KB)
+Vision: rendered 4 data pages
+[S002230930700395X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930700395X] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (borate glass)", "components": ["Li2O", "Na2O", "B2O3", "MnO2"], "unit": "m
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (23s)
+  S0022309307004747... Extracting PDF text from S0022309307004747.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307004747.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 3, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1311.0 KB)
+Vision: rendered 4 data pages
+[S0022309307004747] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307004747] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "Na2O", "CaO"], "unit": "not specified in provided
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307004747] validation wanted to drop 12 preds but cap is 2 (20%). Keeping first 2 flagged.
+[S0022309307004747] validation: 12→10 (dropped 2; reason: All composition entries are absent from the provided paper text; the excerpt con)
+Pipeline: 1 tables → 12 raw → 10 validated → 10 deduped
+10 tuples (18s)
+  S0022309307006758... Extracting PDF text from S0022309307006758.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307006758.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 4, 6, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1487.8 KB)
+Vision: rendered 4 data pages
+[S0022309307006758] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307006758] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "borosilicate glass", "components": ["SiO2", "B2O3", "Na2O", "Li2O", "Cs2O", "Al2O
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307006758:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Continue extracting all 5 rows completely, ensuring each sample's full composition is captured including the R column values, and handle the footnote marker 'ᵃ' in 'CsMgᵃMW' correctly. (Diagnosed cause: Extraction stopped prematurely after first two samples.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 29 raw → 29 validated → 29 deduped
+29 tuples (30s)
+  S0022309307006813... Extracting PDF text from S0022309307006813.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307006813.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 3, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1397.6 KB)
+Vision: rendered 4 data pages
+[S0022309307006813] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307006813] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "metallic glasses / amorphous metals", "components": ["Ti", "Zr", "Hf", "Nb", "Ni"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (40s)
+
+[61/111] Processing S0022309307011088...
+Extracting PDF text from S0022309307011088.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307011088.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 3, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1470.2 KB)
+Vision: rendered 4 data pages
+[S0022309307011088] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307011088] vision transcribed 0 tables
+Pipeline: 0 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (8s)
+  S002230930701112X... Extracting PDF text from S002230930701112X.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230930701112X.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 5, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1844.7 KB)
+Vision: rendered 4 data pages
+[S002230930701112X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930701112X] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["P2O5", "CaO", "Al2O3"], "unit": "mol", "approx_
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 0 relevant tables
+Pipeline: 3 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (18s)
+  S0022309307011659... Extracting PDF text from S0022309307011659.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307011659.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1518.1 KB)
+Vision: rendered 4 data pages
+[S0022309307011659] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307011659] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "borosilicate glass", "components": ["SiO2", "B2O3", "Al2O3", "CaO", "Na2O", "K2O"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 5 tables → 15 raw → 15 validated → 15 deduped
+15 tuples (22s)
+  S0022309307011684... Extracting PDF text from S0022309307011684.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307011684.pdf
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 3] (landscape/rotated: none)
+Rendered 4/4 pages (total 1524.4 KB)
+Vision: rendered 4 data pages
+[S0022309307011684] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307011684] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glasses", "components": ["P2O5", "Na2O", "Al2O3", "B2O3", "ZnO", "TiO2"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (13s)
+  S0022309307012100... Extracting PDF text from S0022309307012100.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307012100.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1577.1 KB)
+Vision: rendered 4 data pages
+[S0022309307012100] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307012100] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (aluminophosphate)", "components": ["Al2O3", "P2O5", "Na2O"], "unit": "mol"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307012100] validation: 35→32 (dropped 3; reason: Sample '33.3-33.3-33.3' with equal mol% of all three components does not appear )
+Pipeline: 1 tables → 36 raw → 32 validated → 32 deduped
+32 tuples (27s)
+  S0022309307012458... Extracting PDF text from S0022309307012458.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307012458.pdf
+Marker extraction failed: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 10.44 MiB is free. Process 3029993 has 10.35 GiB memory in use. Including non-PyTorch memory, this process has 4.21 GiB memory in use. Process 3047440 has 5.29 GiB memory in use. Process 3049464 has 3.80 GiB memory in use. Of the allocated memory 3.81 GiB is allocated by PyTorch, and 182.10 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 2, 3, 11] (landscape/rotated: none)
+Rendered 4/4 pages (total 1363.5 KB)
+Vision: rendered 4 data pages
+[S0022309307012458] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307012458] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (aluminophosphate glass)", "components": ["K2O", "Al2O3", "P2O5"], "unit": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307012458] validation: 24→21 (dropped 3; reason: Sample KAIP_17.5 is not mentioned in the paper; composition range is 0 < x < 20%)
+Pipeline: 2 tables → 24 raw → 21 validated → 21 deduped
+21 tuples (28s)
+  S0022309307012938... Extracting PDF text from S0022309307012938.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307012938.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1416.2 KB)
+Vision: rendered 4 data pages
+[S0022309307012938] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307012938] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (silicate and borosilicate)", "components": ["SiO2", "B2O3", "Li2O", "Na2O"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 43 raw → 43 validated → 42 deduped
+42 tuples (31s)
+  S0022309307012951... Extracting PDF text from S0022309307012951.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309307012951.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 2, 3, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1976.9 KB)
+Vision: rendered 4 data pages
+[S0022309307012951] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307012951] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "GeO2"], "unit": "mol", "approx_samples": 4}
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (16s)
+  S0022309308000744... Extracting PDF text from S0022309308000744.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309308000744.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1488.3 KB)
+Vision: rendered 4 data pages
+[S0022309308000744] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308000744] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxide glass (borate glass)", "components": ["La2O3", "CaO", "B2O3"], "unit": "mol
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 42 raw → 42 validated → 42 deduped
+42 tuples (40s)
+  S0022309308001853... Extracting PDF text from S0022309308001853.pdf...
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309308001853.pdf
+Marker extraction failed: CUDA out of memory. Tried to allocate 12.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3029993 has 10.35 GiB memory in use. Including non-PyTorch memory, this process has 4.21 GiB memory in use. Process 3047440 has 5.30 GiB memory in use. Process 3049464 has 3.80 GiB memory in use. Of the allocated memory 3.71 GiB is allocated by PyTorch, and 277.13 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 9] (landscape/rotated: none)
+Rendered 4/4 pages (total 1762.8 KB)
+Vision: rendered 4 data pages
+[S0022309308001853] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308001853] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (soda-lime borosilicate glass with zirconium)", "components": ["SiO2", "Na2
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 0 relevant tables
+Pipeline: 4 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (26s)
+
+[71/111] Processing S0022309308002366...
+Extracting PDF text from S0022309308002366.pdf...
+  Running marker...
+Marker converting S0022309308002366.pdf
+Marker extraction failed: CUDA out of memory. Tried to allocate 12.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 8.44 MiB is free. Process 3029993 has 10.35 GiB memory in use. Including non-PyTorch memory, this process has 4.21 GiB memory in use. Process 3047440 has 5.29 GiB memory in use. Process 3049464 has 3.80 GiB memory in use. Of the allocated memory 3.74 GiB is allocated by PyTorch, and 254.41 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 8, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1282.5 KB)
+Vision: rendered 4 data pages
+[S0022309308002366] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308002366] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass / glass-ceramic", "components": ["SiO2", "K2O", "MgO", "CaO", "Al2
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308002366:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Extract uncertainty ranges (±values) as separate entries, include Na2O and F measurements, and capture all measurable data points including the Σ (sum) verification column. (Diagnosed cause: Incomplete extraction of uncertainty values and missing components.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 4 tables → 11 raw → 11 validated → 11 deduped
+11 tuples (39s)
+  S0022309308007886... Extracting PDF text from S0022309308007886.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309308007886.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 2219.6 KB)
+Vision: rendered 4 data pages
+[S0022309308007886] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308007886] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "bulk metallic glass (BMG)", "components": ["Zr", "Nb", "Cu", "Ag", "Al"], "unit":
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (17s)
+  S0022309309000568... Extracting PDF text from S0022309309000568.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309309000568.pdf
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 3] (landscape/rotated: none)
+Rendered 4/4 pages (total 1293.0 KB)
+Vision: rendered 4 data pages
+[S0022309309000568] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309000568] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (bioactive glass)", "components": ["Na2O", "CaO", "SiO2", "P2O5"], "unit": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 48 raw → 48 validated → 48 deduped
+48 tuples (27s)
+  S0022309309001586... Extracting PDF text from S0022309309001586.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309309001586.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1709.3 KB)
+Vision: rendered 4 data pages
+[S0022309309001586] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309001586] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["La2O3", "P2O5", "BaCO3", "SrCO3", "CaCO3", "H3P
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 0 relevant tables
+Pipeline: 3 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (33s)
+  S0022309309003883... Extracting PDF text from S0022309309003883.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309309003883.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1618.1 KB)
+Vision: rendered 4 data pages
+[S0022309309003883] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309003883] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "chalcogenide glass", "components": ["Ga", "Ge", "S"], "unit": "mol", "approx_samp
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (22s)
+  S0022309309004104... Extracting PDF text from S0022309309004104.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309309004104.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 3, 5, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1818.1 KB)
+Vision: rendered 4 data pages
+[S0022309309004104] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309004104] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "tellurite glass", "components": ["TeO2", "ZnO", "Na2O", "Yb2O3", "Tm2O3"], "unit"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (15s)
+  S0022309309004979... Extracting PDF text from S0022309309004979.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309309004979.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1724.3 KB)
+Vision: rendered 4 data pages
+[S0022309309004979] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309004979] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass-ceramic", "components": ["Li2O", "Al2O3", "GeO2", "P2O5"], "unit": "mol", "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (31s)
+  S002230930900578X... Extracting PDF text from S002230930900578X.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230930900578X.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 2370.9 KB)
+Vision: rendered 4 data pages
+[S002230930900578X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930900578X] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "metallic glass / amorphous metal alloy", "components": ["Fe", "Si", "B"], "unit":
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (15s)
+  S0022309309006243... Extracting PDF text from S0022309309006243.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309309006243.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 5, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1962.3 KB)
+Vision: rendered 4 data pages
+[S0022309309006243] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309006243] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["ZnO", "MgO", "P2O5"], "unit": "mol", "approx_samples": 5}
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (17s)
+  S0022309309006899... Extracting PDF text from S0022309309006899.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309309006899.pdf
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 3] (landscape/rotated: none)
+Rendered 4/4 pages (total 1921.7 KB)
+Vision: rendered 4 data pages
+[S0022309309006899] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309006899] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass", "components": ["SiO2", "BaO", "Al2O3", "Li2O", "Na2O", "K2O", "D
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309006899] validation wanted to drop 38 preds but cap is 9 (20%). Keeping first 9 flagged.
+[S0022309309006899] validation: 48→39 (dropped 9; reason: All extracted composition data do not appear anywhere in the provided paper text)
+Pipeline: 2 tables → 48 raw → 39 validated → 39 deduped
+39 tuples (24s)
+
+[81/111] Processing S0022309309007212...
+Extracting PDF text from S0022309309007212.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309309007212.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1721.7 KB)
+Vision: rendered 4 data pages
+[S0022309309007212] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309007212] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass-ceramic", "components": ["SiO2", "Li2O", "Al2O3", "CaO", "TiO2", "ZrO2", "P
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309007212] validation wanted to drop 6 preds but cap is 5 (20%). Keeping first 5 flagged.
+[S0022309309007212] validation: 26→21 (dropped 5; reason: Sample compositions show Nb2O5 values that are inconsistent with the paper's des)
+Pipeline: 3 tables → 26 raw → 21 validated → 21 deduped
+21 tuples (32s)
+  S002230930900739X... Extracting PDF text from S002230930900739X.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230930900739X.pdf
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 3] (landscape/rotated: none)
+Rendered 4/4 pages (total 1321.8 KB)
+Vision: rendered 4 data pages
+[S002230930900739X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930900739X] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["CdO", "ZnO", "V2O5"], "unit": "wt", "approx_samples": 36}
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930900739X:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Ensure all rows are fully processed; G4 is missing ZnO and V₂O₅ values (30 and 10 wt.% respectively). (Diagnosed cause: Incomplete extraction - missing final two entries from G4.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 12 raw → 12 validated → 12 deduped
+12 tuples (19s)
+  S0022309310000591... Extracting PDF text from S0022309310000591.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309310000591.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 4, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1701.8 KB)
+Vision: rendered 4 data pages
+[S0022309310000591] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309310000591] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxide glass", "components": ["K2O", "Nb2O5", "SiO2"], "unit": "mol", "approx_samp
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309310000591] validation wanted to drop 9 preds but cap is 8 (20%). Keeping first 8 flagged.
+[S0022309310000591] validation: 40→32 (dropped 8; reason: Paper states x varies from 0 to 35 mol% SiO2; samples with x>35 (KNS-50, KNS-56,)
+Pipeline: 1 tables → 40 raw → 32 validated → 32 deduped
+32 tuples (39s)
+  S0022309313005486... Extracting PDF text from S0022309313005486.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309313005486.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1796.4 KB)
+Vision: rendered 4 data pages
+[S0022309313005486] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309313005486] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["K2O", "Nb2O5", "P2O5", "Al2O3"], "unit": "mol",
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309313005486:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Extract each uncertainty value (±) as a separate entry with appropriate sample_id and component, treating the ± values as distinct data points. (Diagnosed cause: Missing uncertainty values as separate entries.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309313005486] validation: 7→6 (dropped 1; reason: Al2O3 is not mentioned in the paper's nominal or measured composition; only K2O,)
+Pipeline: 1 tables → 7 raw → 6 validated → 6 deduped
+6 tuples (48s)
+  S0022309314000611... Extracting PDF text from S0022309314000611.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309314000611.pdf
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 4, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1574.7 KB)
+Vision: rendered 4 data pages
+[S0022309314000611] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314000611] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "B2O3", "TiO2", "BaO", "Bi2O3"], "unit": "mol", "a
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314000611] validation: 68→66 (dropped 2; reason: The paper specifies composition as (70-x)SiO2–30B2O3–xHMOs where x varies from 0)
+Pipeline: 5 tables → 68 raw → 66 validated → 66 deduped
+66 tuples (62s)
+  S0022309314001094... Extracting PDF text from S0022309314001094.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309314001094.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 4, 5, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1583.7 KB)
+Vision: rendered 4 data pages
+[S0022309314001094] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314001094] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["Na2O", "ZnO", "P2O5"], "unit": "mol", "approx_s
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 0 relevant tables
+Pipeline: 4 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (46s)
+  S0022309314002579... Extracting PDF text from S0022309314002579.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309314002579.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 2093.6 KB)
+Vision: rendered 4 data pages
+[S0022309314002579] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314002579] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "bioactive glass and glass ceramics", "components": ["SiO2", "P2O5", "CaO", "CaF2"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 0 relevant tables
+Pipeline: 3 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (30s)
+  S0022309314003688... Extracting PDF text from S0022309314003688.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309314003688.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1720.3 KB)
+Vision: rendered 4 data pages
+[S0022309314003688] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314003688] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "borosilicate glass (silver-doped)", "components": ["Ag2O", "B2O3", "SiO2", "CaO"]
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 0 relevant tables
+Pipeline: 3 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (32s)
+  S0022309314004086... Extracting PDF text from S0022309314004086.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309314004086.pdf
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [4, 6, 8, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1507.9 KB)
+Vision: rendered 4 data pages
+[S0022309314004086] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314004086] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (oxyfluorophosphate glass)", "components": ["ZnO", "CaF2", "P2O5", "Fe2O3"]
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 0 relevant tables
+Pipeline: 4 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (45s)
+  S0022309314004165... Extracting PDF text from S0022309314004165.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309314004165.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 6, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 2342.8 KB)
+Vision: rendered 4 data pages
+[S0022309314004165] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314004165] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (borosilicate peraluminous glass with rare earth dopant)", "components": ["
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 5 tables → 70 raw → 70 validated → 70 deduped
+70 tuples (48s)
+
+[91/111] Processing S0022309314005110...
+Extracting PDF text from S0022309314005110.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309314005110.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 5, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1707.0 KB)
+Vision: rendered 4 data pages
+[S0022309314005110] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314005110] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (iron phosphate glass)", "components": ["P2O5", "Fe2O3", "Cs2O"], "unit": "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 21 raw → 20 validated → 20 deduped
+20 tuples (98s)
+  S0022309314005432... Extracting PDF text from S0022309314005432.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309314005432.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 4, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 2580.9 KB)
+Vision: rendered 4 data pages
+[S0022309314005432] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314005432] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Li2O", "TiO2", "P2O5", "Fe2O3"], "unit": "wt", "approx_sa
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 15 raw → 15 validated → 15 deduped
+15 tuples (25s)
+  S0022309314005481... Extracting PDF text from S0022309314005481.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309314005481.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 5, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1548.9 KB)
+Vision: rendered 4 data pages
+[S0022309314005481] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314005481] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass-ceramics", "components": ["CaO", "MgO", "Al2O3", "SiO2", "Na2O", "K2O", "Li
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314005481] validation wanted to drop 10 preds but cap is 9 (20%). Keeping first 9 flagged.
+[S0022309314005481] validation: 46→37 (dropped 9; reason: Entries 0-9 contain sample_id '1' with composition values that do not appear in )
+Pipeline: 5 tables → 46 raw → 37 validated → 37 deduped
+37 tuples (54s)
+  S002230931400670X... Extracting PDF text from S002230931400670X.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230931400670X.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 5, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1459.2 KB)
+Vision: rendered 4 data pages
+[S002230931400670X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230931400670X] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate and aluminate melts/glasses", "components": ["CaO", "SiO2", "Al2O3"], "u
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230931400670X:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Continue extracting mole fraction data for all remaining samples (CA4–CA7); each row with non-'/' values should yield one entry per component. (Diagnosed cause: Extraction stopped prematurely at row 10 instead of completing all 9 rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 18 raw → 18 validated → 18 deduped
+18 tuples (31s)
+  S0022309314006735... Extracting PDF text from S0022309314006735.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309314006735.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 4, 6, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1765.8 KB)
+Vision: rendered 4 data pages
+[S0022309314006735] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314006735] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (iron phosphate glass)", "components": ["Fe2O3", "P2O5", "Fe2+", "Fe3+"], "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 0 relevant tables
+Pipeline: 4 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (30s)
+  S0022309315000563... Extracting PDF text from S0022309315000563.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309315000563.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 6, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1815.6 KB)
+Vision: rendered 4 data pages
+[S0022309315000563] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315000563] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (sodium borosilicate)", "components": ["Na2O", "B2O3", "SiO2"], "unit": "no
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 33 raw → 33 validated → 33 deduped
+33 tuples (32s)
+  S0022309315001131... Extracting PDF text from S0022309315001131.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309315001131.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1449.5 KB)
+Vision: rendered 4 data pages
+[S0022309315001131] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315001131] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (oxyfluoride glass)", "components": ["SiO2", "Al2O3", "CaO", "CaF2", "Y2O3"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 21 raw → 21 validated → 21 deduped
+21 tuples (22s)
+  S002230931530017X... Extracting PDF text from S002230931530017X.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S002230931530017X.pdf
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 3] (landscape/rotated: none)
+Rendered 4/4 pages (total 2193.3 KB)
+Vision: rendered 4 data pages
+[S002230931530017X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230931530017X] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (scintillating borate glass)", "components": ["Li2O", "B2O3", "Gd2O3", "CeO
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (14s)
+  S0022309315300922... Extracting PDF text from S0022309315300922.pdf...
+Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309315300922.pdf
+Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [4, 5, 12, 13] (landscape/rotated: none)
+Rendered 4/4 pages (total 1654.0 KB)
+Vision: rendered 4 data pages
+[S0022309315300922] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315300922] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "B2O3", "Na2O", "MoO3"], "unit": "mol", "approx_sa
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315300922] validation: 31→26 (dropped 5; reason: MoO3 values for 2Mo, 3Mo, 4Mo, 5Mo, and 10Mo samples are listed as 1.4 mol, but )
+Pipeline: 3 tables → 31 raw → 26 validated → 26 deduped
+26 tuples (41s)
+  S0022309315301186... Extracting PDF text from S0022309315301186.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309315301186.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 4, 6, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 2283.1 KB)
+Vision: rendered 4 data pages
+[S0022309315301186] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315301186] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (borate glass)", "components": ["H3BO3", "Li2CO3", "SrO"], "unit": "mol", "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (26s)
+
+[101/111] Processing S0022309315301794...
+Extracting PDF text from S0022309315301794.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309315301794.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1495.5 KB)
+Vision: rendered 4 data pages
+[S0022309315301794] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315301794] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Li2O", "BaO", "B2O3"], "unit": "mol", "approx_samples": 4
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (15s)
+  S0022309315302015... Extracting PDF text from S0022309315302015.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309315302015.pdf
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 4, 7, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1863.2 KB)
+Vision: rendered 4 data pages
+[S0022309315302015] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315302015] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (fluoride-phosphate glasses)", "components": ["Sr(PO3)2", "fluorides", "Al"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (28s)
+  S0022309315302106... Extracting PDF text from S0022309315302106.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309315302106.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 4, 5, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 2326.4 KB)
+Vision: rendered 4 data pages
+[S0022309315302106] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315302106] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (phosphate/oxyfluorophosphate)", "components": ["BaO", "CaF2", "P2O5"], "un
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 0 relevant tables
+Pipeline: 4 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (27s)
+  S0022309399000289... Extracting PDF text from S0022309399000289.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309399000289.pdf
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 3] (landscape/rotated: none)
+Rendered 4/4 pages (total 1217.3 KB)
+Vision: rendered 4 data pages
+[S0022309399000289] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399000289] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxyfluoride glass", "components": ["MoO3", "BaF2", "NaF", "ZnF2", "NbO2.5", "LiNb
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399000289] validation: 71→67 (dropped 4; reason: Sample V1 composition not mentioned in paper; paper discusses systems with LiNbO)
+Pipeline: 1 tables → 71 raw → 67 validated → 67 deduped
+67 tuples (27s)
+  S0022309399003683... Extracting PDF text from S0022309399003683.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309399003683.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 3, 4, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1444.4 KB)
+Vision: rendered 4 data pages
+[S0022309399003683] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399003683] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass-ceramic", "components": ["SiO2", "Al2O3", "ZnO", "MgO", "TiO2", "ZrO2", "Ba
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399003683] validation: 35→33 (dropped 2; reason: CaO is not listed in the paper's composition system (Si O2±Al2O3±Zn O±Mg O±Ti O2)
+Pipeline: 3 tables → 35 raw → 33 validated → 33 deduped
+33 tuples (34s)
+  S0022309399006250... Extracting PDF text from S0022309399006250.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309399006250.pdf
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 4, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1146.3 KB)
+Vision: rendered 4 data pages
+[S0022309399006250] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006250] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glasses and glass-ceramics", "components": ["P2O5", "CaO", "Na2O", "Al2O3"], "uni
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006250:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Continue extracting all remaining rows (G1/2 Al2O3, G1I, G1I/1, G1I/2 with all their components) and include Tg values as a fifth component for each sample. (Diagnosed cause: Extraction stopped prematurely; only 10 of 24 expected entries extracted.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006250] validation: 22→19 (dropped 3; reason: Sample 'G1' does not appear in the provided paper text; only GI/1, GI/2, and GII)
+Pipeline: 3 tables → 24 raw → 19 validated → 19 deduped
+19 tuples (32s)
+  S0022309399006407... Extracting PDF text from S0022309399006407.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309399006407.pdf
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 4, 5, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 959.6 KB)
+Vision: rendered 4 data pages
+[S0022309399006407] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006407] vision transcribed 6 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["PbCl2", "PbBr2", "P2O5", "PbF2", "PbO"], "unit": "mol", "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 6 -> 0 relevant tables
+Pipeline: 6 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (34s)
+  S0022309399006791... Extracting PDF text from S0022309399006791.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309399006791.pdf
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1286.2 KB)
+Vision: rendered 4 data pages
+[S0022309399006791] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006791] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (vanadium phosphate semiconducting glass and lead silicate glass)", "compon
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006791] validation wanted to drop 6 preds but cap is 2 (20%). Keeping first 2 flagged.
+[S0022309399006791] validation: 11→9 (dropped 2; reason: These entries appear to be from a reference table or different paper - no compos)
+Pipeline: 1 tables → 11 raw → 9 validated → 9 deduped
+9 tuples (16s)
+  S0022309399006936... Extracting PDF text from S0022309399006936.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0022309399006936.pdf
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 3, 4, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1149.8 KB)
+Vision: rendered 4 data pages
+[S0022309399006936] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006936] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "borosilicate glass", "components": ["SiO2", "B2O3", "Na2O", "MnCO3"], "unit": "mo
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006936:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Extract all composition columns (Na₂O, B₂O₃, SiO₂) for all 6 samples, plus all spectroscopic data columns (N₄, δ(BO₄), δ(BO₃), δ(Si), δ'(Na)) for each sample, handling missing values (–) appropriately. (Diagnosed cause: Extractor stopped prematurely after 10 entries instead of continuing through all 6 samples and all columns.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006936] validation: 172→162 (dropped 10; reason: Binary borosilicate samples A-E should contain only B2O3 and SiO2, but the extra)
+Pipeline: 2 tables → 172 raw → 162 validated → 162 deduped
+162 tuples (60s)
+  S0167273813004840... Extracting PDF text from S0167273813004840.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0167273813004840.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 3326.0 KB)
+Vision: rendered 4 data pages
+[S0167273813004840] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0167273813004840] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate-lead glass (iron-doped)", "components": ["SiO2", "PbO", "Fe2O3"], "unit"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 27 raw → 27 validated → 27 deduped
+27 tuples (22s)
+
+[111/111] Processing S0167273814000617...
+Extracting PDF text from S0167273814000617.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running marker...
+Marker converting S0167273814000617.pdf
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  marker: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 3] (landscape/rotated: none)
+Rendered 4/4 pages (total 1921.2 KB)
+Vision: rendered 4 data pages
+[S0167273814000617] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0167273814000617] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (lead-borate glass with iron oxide)", "components": ["Fe2O3", "B2O3", "PbO"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0167273814000617] validation wanted to drop 14 preds but cap is 4 (20%). Keeping first 4 flagged.
+[S0167273814000617] validation: 21→17 (dropped 4; reason: Paper specifies composition as xFe2O3–(100−x)(B2O3–2PbO), meaning B2O3 and PbO a)
+Pipeline: 1 tables → 21 raw → 17 validated → 17 deduped
+17 tuples (21s)
+
+============================================================
+TOTAL: 2542 tuples from 111 papers in 3436.0s
+Results saved to /REPO/iswc2026/results/discomat_pipeline_claude-haiku-4-5-20251001_v29_t3_single_marker

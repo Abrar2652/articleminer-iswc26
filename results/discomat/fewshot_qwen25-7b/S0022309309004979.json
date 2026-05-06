@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309309004979",
+  "predictions": [],
+  "elapsed_seconds": 12.1,
+  "raw_preview": "{\n  \"sample_id\": \"Li1_5_Al0_5_Ge1_5_PO4_3\",\n  \"component\": \"Li2O\",\n  \"value\": 1.5,\n  \"unit\": \"mol\"\n}\n{\n  \"sample_id\": \"Li1_5_Al0_5_Ge1_5_PO4_3\",\n  \"component\": \"Al2O3\",\n  \"value\": 0.5,\n  \"unit\": \"mol\"\n}\n{\n  \"sample_id\": \"Li1_5_Al0_5_Ge1_5_PO4_3\",\n  \"component\": \"GeO2\",\n  \"value\": 1.5,\n  \"unit\": \"mol\"\n}\n{\n  \"sample_id\": \"Li1_5_Al0_5_Ge1_5_PO4_3\",\n  \"component\": \"P2O5\",\n  \"value\": 3.0,\n  \"unit\": \"mol\"\n}"
+}

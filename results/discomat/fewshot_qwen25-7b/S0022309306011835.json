@@ -1,0 +1,79 @@
+{
+  "pdf_id": "S0022309306011835",
+  "predictions": [
+    {
+      "sample_id": "C1",
+      "component": "Li2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "Al2O3",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C6",
+      "component": "Li2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C6",
+      "component": "Na2O",
+      "value": 0.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C6",
+      "component": "Al2O3",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C6",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C7",
+      "component": "Li2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C7",
+      "component": "Na2O",
+      "value": 0.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C7",
+      "component": "Al2O3",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C7",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 13.6,
+  "raw_preview": "```json\n{\"sample_id\": \"C1\", \"component\": \"Li2O\", \"value\": 1.0, \"unit\": \"mol\"}\n{\"sample_id\": \"C1\", \"component\": \"Na2O\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_id\": \"C1\", \"component\": \"Al2O3\", \"value\": 0.4, \"unit\": \"mol\"}\n{\"sample_id\": \"C1\", \"component\": \"SiO2\", \"value\": 4.0, \"unit\": \"mol\"}\n{\"sample_id\": \"C6\", \"component\": \"Li2O\", \"value\": 1.0, \"unit\": \"mol\"}\n{\"sample_id\": \"C6\", \"component\": \"Na2O\", \"value\": 0.6, \"unit\": \"mol\"}\n{\"sample_id\": \"C6\", \"component\": \"Al2O3\", \"value\": 0.4, \"unit\": \"mol\"}\n"
+}

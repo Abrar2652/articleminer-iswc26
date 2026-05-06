@@ -1,0 +1,91 @@
+{
+  "pdf_id": "S0022309301007311",
+  "predictions": [
+    {
+      "sample_id": "table1_sample1",
+      "component": "Al2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample1",
+      "component": "La2O3",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample1",
+      "component": "Si3N4",
+      "value": 21.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample1",
+      "component": "Er2O3",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample1",
+      "component": "Yb2O3",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample1",
+      "component": "Nd2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample1",
+      "component": "B2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample2",
+      "component": "Al2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample2",
+      "component": "La2O3",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample2",
+      "component": "Si3N4",
+      "value": 21.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample2",
+      "component": "Er2O3",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample2",
+      "component": "Yb2O3",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample2",
+      "component": "Nd2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_sample2",
+      "component": "B2O3",
+      "value": 2.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 21.5,
+  "raw_preview": "Looking at the paper text, I can identify two tables with composition data:\n\n**Table 1 (< 1):** Contains compositions with components %C*, #C(8, 3*, \"*, Q*, R., -. for samples 1 and 2.\n\n**Table 2 (< *):** Contains Er2O3 (-.)/B2O3 concentrations for different samples.\n\nFrom the text, I can extract the composition from Table 1:\n\nComponents appear to be: Al2O3 (AlC*\u2192Al2O3), La2O3 (#C(8\u2192La2O3 or similar), Si3N4 (3*), Er2O3 (\"*), Yb2O3 (Q*), Nd2O3 (R.), B2O3 (-.)\n\nFrom the readable table (< 1 / Table"
+}

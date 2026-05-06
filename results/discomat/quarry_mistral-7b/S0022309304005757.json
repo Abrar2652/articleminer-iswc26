@@ -1,0 +1,66 @@
+{
+  "pii": "S0022309304005757",
+  "predictions": [
+    {
+      "sample_id": "T m",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Composition (mol%).UBK7",
+      "component": "SiO2",
+      "value": 74.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Composition (mol%).UV-DURAN",
+      "component": "SiO2",
+      "value": 82.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Composition (mol%).BAP",
+      "component": "B2O3",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Composition (mol%).BB",
+      "component": "B2O3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Composition (mol%).FP10",
+      "component": "Al2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Composition (mol%).FP20",
+      "component": "Al2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Composition (mol%).BAP",
+      "component": "PbO",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Composition (mol%).BB",
+      "component": "Bi2O3",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 24,
+  "elapsed_seconds": 49.6,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

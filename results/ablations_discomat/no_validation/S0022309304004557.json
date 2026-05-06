@@ -1,0 +1,938 @@
+{
+  "pdf_id": "S0022309304004557",
+  "predictions": [
+    {
+      "sample_id": "ICIE1",
+      "component": "SiO2",
+      "value": 49.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE1",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE1",
+      "component": "CaO",
+      "value": 23.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE1",
+      "component": "Na2O",
+      "value": 26.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE2",
+      "component": "SiO2",
+      "value": 49.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE2",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE2",
+      "component": "CaO",
+      "value": 29.64,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE2",
+      "component": "Na2O",
+      "value": 19.79,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE3",
+      "component": "SiO2",
+      "value": 49.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE3",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE3",
+      "component": "CaO",
+      "value": 36.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE3",
+      "component": "Na2O",
+      "value": 13.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE4",
+      "component": "SiO2",
+      "value": 49.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE4",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE4",
+      "component": "CaO",
+      "value": 42.87,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE4",
+      "component": "Na2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE5",
+      "component": "SiO2",
+      "value": 49.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE5",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE5",
+      "component": "CaO",
+      "value": 49.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE6",
+      "component": "SiO2",
+      "value": 48.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE6",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE6",
+      "component": "CaO",
+      "value": 37.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE6",
+      "component": "Na2O",
+      "value": 13.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE7",
+      "component": "SiO2",
+      "value": 53.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE7",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE7",
+      "component": "CaO",
+      "value": 33.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE7",
+      "component": "Na2O",
+      "value": 13.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE8",
+      "component": "SiO2",
+      "value": 56.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE8",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE8",
+      "component": "CaO",
+      "value": 30.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE8",
+      "component": "Na2O",
+      "value": 13.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE9",
+      "component": "SiO2",
+      "value": 61.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE9",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE9",
+      "component": "CaO",
+      "value": 25.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE9",
+      "component": "Na2O",
+      "value": 13.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE10",
+      "component": "SiO2",
+      "value": 48.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE10",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE10",
+      "component": "CaO",
+      "value": 37.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE10",
+      "component": "K2O",
+      "value": 13.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE11",
+      "component": "SiO2",
+      "value": 49.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE11",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE11",
+      "component": "CaO",
+      "value": 36.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE11",
+      "component": "K2O",
+      "value": 13.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE12",
+      "component": "SiO2",
+      "value": 53.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE12",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE12",
+      "component": "CaO",
+      "value": 33.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE12",
+      "component": "K2O",
+      "value": 13.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE13",
+      "component": "SiO2",
+      "value": 56.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE13",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE13",
+      "component": "CaO",
+      "value": 30.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE13",
+      "component": "K2O",
+      "value": 13.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE14",
+      "component": "SiO2",
+      "value": 61.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE14",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE14",
+      "component": "CaO",
+      "value": 25.17,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE14",
+      "component": "K2O",
+      "value": 13.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE15",
+      "component": "SiO2",
+      "value": 48.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE15",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE15",
+      "component": "CaO",
+      "value": 37.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE15",
+      "component": "Na2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE15",
+      "component": "K2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE16",
+      "component": "SiO2",
+      "value": 49.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE16",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE16",
+      "component": "CaO",
+      "value": 36.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE16",
+      "component": "Na2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE16",
+      "component": "K2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE17",
+      "component": "SiO2",
+      "value": 53.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE17",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE17",
+      "component": "CaO",
+      "value": 33.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE17",
+      "component": "Na2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE17",
+      "component": "K2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE18",
+      "component": "SiO2",
+      "value": 56.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE18",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE18",
+      "component": "CaO",
+      "value": 30.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE18",
+      "component": "Na2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE18",
+      "component": "K2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE19",
+      "component": "SiO2",
+      "value": 61.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE19",
+      "component": "P2O5",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE19",
+      "component": "CaO",
+      "value": 25.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE19",
+      "component": "Na2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE19",
+      "component": "K2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE1",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE1",
+      "component": "CaO",
+      "value": 0.2308,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE1",
+      "component": "Na2O",
+      "value": 0.2638,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE20.4946",
+      "component": "SiO2",
+      "value": 0.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE3",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE3",
+      "component": "CaO",
+      "value": 0.3627,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE3",
+      "component": "Na2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE4",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE4",
+      "component": "CaO",
+      "value": 0.4287,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE4",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE5",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE5",
+      "component": "CaO",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE6",
+      "component": "SiO2",
+      "value": 0.4846,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE6",
+      "component": "CaO",
+      "value": 0.3727,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE6",
+      "component": "Na2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE7",
+      "component": "SiO2",
+      "value": 0.5346,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE7",
+      "component": "CaO",
+      "value": 0.3327,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE7",
+      "component": "Na2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE8",
+      "component": "SiO2",
+      "value": 0.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE8",
+      "component": "CaO",
+      "value": 0.3027,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE8",
+      "component": "Na2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE9",
+      "component": "SiO2",
+      "value": 0.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE9",
+      "component": "CaO",
+      "value": 0.2527,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE9",
+      "component": "Na2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE10",
+      "component": "SiO2",
+      "value": 0.4846,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE10",
+      "component": "CaO",
+      "value": 0.3727,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE10",
+      "component": "K2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE11",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE11",
+      "component": "CaO",
+      "value": 0.3627,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE11",
+      "component": "K2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE12",
+      "component": "SiO2",
+      "value": 0.5346,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE12",
+      "component": "CaO",
+      "value": 0.3327,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE12",
+      "component": "K2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE13",
+      "component": "SiO2",
+      "value": 0.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE13",
+      "component": "CaO",
+      "value": 0.3027,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE13",
+      "component": "K2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE14",
+      "component": "SiO2",
+      "value": 0.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE14",
+      "component": "CaO",
+      "value": 0.2527,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE14",
+      "component": "K2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE15",
+      "component": "SiO2",
+      "value": 0.4846,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE15",
+      "component": "CaO",
+      "value": 0.3727,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE15",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE15",
+      "component": "K2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE16",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE16",
+      "component": "CaO",
+      "value": 0.3627,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE16",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE16",
+      "component": "K2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE17",
+      "component": "SiO2",
+      "value": 0.5346,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE17",
+      "component": "CaO",
+      "value": 0.3327,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE17",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE17",
+      "component": "K2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE18",
+      "component": "SiO2",
+      "value": 0.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE18",
+      "component": "CaO",
+      "value": 0.3027,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE18",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE18",
+      "component": "K2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE19",
+      "component": "SiO2",
+      "value": 0.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE19",
+      "component": "CaO",
+      "value": 0.2527,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE19",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE19",
+      "component": "K2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE2",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE2",
+      "component": "CaO",
+      "value": 0.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE2",
+      "component": "Na2O",
+      "value": 0.1979,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_et_al_1",
+      "component": "SiO2",
+      "value": 0.489,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_et_al_1",
+      "component": "CaO",
+      "value": 0.105,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_et_al_1",
+      "component": "Na2O",
+      "value": 0.379,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_et_al_2",
+      "component": "SiO2",
+      "value": 0.487,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_et_al_2",
+      "component": "CaO",
+      "value": 0.156,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_et_al_2",
+      "component": "Na2O",
+      "value": 0.33,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICIE2",
+      "component": "CaO",
+      "value": 0.2968,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_comp1",
+      "component": "SiO2",
+      "value": 0.489,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_comp1",
+      "component": "CaO",
+      "value": 0.105,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_comp1",
+      "component": "Na2O",
+      "value": 0.379,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_comp2",
+      "component": "SiO2",
+      "value": 0.487,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_comp2",
+      "component": "CaO",
+      "value": 0.156,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Lockyer_comp2",
+      "component": "Na2O",
+      "value": 0.33,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 214,
+  "ablation": "no_validation",
+  "elapsed_seconds": 101.5
+}

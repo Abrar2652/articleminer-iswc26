@@ -1,0 +1,77 @@
+{
+  "pdf_id": "PMC3241339",
+  "predictions": [
+    {
+      "value": "1.0",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.5",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "4",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "n.d.",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "4",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "3.2",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "5",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "28",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "5",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.43",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "6",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "3.4",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "6",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.29",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    }
+  ],
+  "elapsed_seconds": 23.5,
+  "raw_preview": "{\"value\": \"1.0\", \"type\": \"IC50\", \"target\": \"CHK1\", \"treatment\": \"2\", \"unit\": \"\u00b5M\"}\n{\"value\": \"50\", \"type\": \"IC50\", \"target\": \"CHK2\", \"treatment\": \"2\", \"unit\": \"\u00b5M\"}\n{\"value\": \"1.5\", \"type\": \"IC50\", \"target\": \"CHK1\", \"treatment\": \"4\", \"unit\": \"\u00b5M\"}\n{\"value\": \"n.d.\", \"type\": \"IC50\", \"target\": \"CHK2\", \"treatment\": \"4\", \"unit\": \"\u00b5M\"}\n{\"value\": \"3.2\", \"type\": \"IC50\", \"target\": \"CHK1\", \"treatment\": \"5\", \"unit\": \"\u00b5M\"}\n{\"value\": \"28\", \"type\": \"IC50\", \"target\": \"CHK2\", \"treatment\": \"5\", \"unit\": \"\u00b5M\"}\n{\"v"
+}

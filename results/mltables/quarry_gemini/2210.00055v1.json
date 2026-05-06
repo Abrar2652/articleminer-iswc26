@@ -1,0 +1,655 @@
+{
+  "arxiv_id": "2210.00055v1",
+  "predictions": [
+    {
+      "value": "100",
+      "type": "Other",
+      "attribute name": "Target Coverage",
+      "unit": "%"
+    },
+    {
+      "value": "11.07",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "10.81",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "9.74",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "99.99",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "std": "0.02",
+      "dataset": null
+    },
+    {
+      "value": "8.96",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "std": "0.48",
+      "dataset": null
+    },
+    {
+      "value": "6.54",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "std": "0.39",
+      "dataset": null
+    },
+    {
+      "value": "95",
+      "type": "Other",
+      "attribute name": "Target Coverage",
+      "unit": "%"
+    },
+    {
+      "value": "95.2",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "8.74",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "94.7",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "8.34",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "8.21",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "6.98",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "94.86",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "std": "0.18",
+      "dataset": null
+    },
+    {
+      "value": "90",
+      "type": "Other",
+      "attribute name": "Target Coverage",
+      "unit": "%"
+    },
+    {
+      "value": "90.5",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "6.52",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "6.45",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "6.14",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "90",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "4.67",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "89.73",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "std": "0.22",
+      "dataset": null
+    },
+    {
+      "value": "4.74",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "std": "0.31",
+      "dataset": null
+    },
+    {
+      "value": "99.97",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "3.86",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "4.27",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "4.03",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "4.27",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "100.0",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "std": "0.00",
+      "dataset": null
+    },
+    {
+      "value": "3.68",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "std": "0.16",
+      "dataset": null
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "1.86",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "2.53",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "95",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "2.05",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "1.83",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "95.19",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "std": "0.09",
+      "dataset": null
+    },
+    {
+      "value": "1.84",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "std": "0.23",
+      "dataset": null
+    },
+    {
+      "value": "90",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "1.04",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "1.31",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "90",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "1.06",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "1.01",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "89.55",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "std": "0.26",
+      "dataset": null
+    },
+    {
+      "value": "0.96",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "std": "0.11",
+      "dataset": null
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "5.72",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "7.36",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "6.16",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "5.93",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "99.98",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "std": "0.00",
+      "dataset": null
+    },
+    {
+      "value": "4.83",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "std": "0.17",
+      "dataset": null
+    },
+    {
+      "value": "95",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "3.46",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "95.2",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "5.1",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "4.28",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "2.97",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "95.01",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "std": "0.14",
+      "dataset": null
+    },
+    {
+      "value": "2.96",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "std": "0.15",
+      "dataset": null
+    },
+    {
+      "value": "2.28",
+      "type": "Result",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "3.3",
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "1.74",
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "dataset": null
+    },
+    {
+      "value": "90.78",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification",
+      "std": "0.16",
+      "dataset": null
+    },
+    {
+      "value": "1.94",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification",
+      "std": "0.18",
+      "dataset": null
+    }
+  ],
+  "num_gold_annotations": 187,
+  "elapsed_seconds": 114.8,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

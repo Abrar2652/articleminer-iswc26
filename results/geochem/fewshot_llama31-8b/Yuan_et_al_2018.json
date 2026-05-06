@@ -1,0 +1,60 @@
+{
+  "paper": "Yuan_et_al_2018",
+  "model": "llama31-8b",
+  "n_rows": 4,
+  "rows": [
+    {
+      "sample_id": "WG-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cu": 12.3,
+        "Zn": 650000,
+        "Pb": 4500,
+        "Ag": -0.1,
+        "As": 2.4
+      }
+    },
+    {
+      "sample_id": "WG-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cu": 8.2,
+        "Zn": 640000,
+        "Pb": 3900,
+        "Ag": 0.8
+      }
+    },
+    {
+      "sample_id": "WG-3",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cu": 10.5,
+        "Zn": 630000,
+        "Pb": 4100,
+        "Ag": -0.5,
+        "As": 1.9
+      }
+    },
+    {
+      "sample_id": "Daliangzi Pb-Zn deposit",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ga": 0.0,
+        "Fe": 0.0,
+        "Mn": 0.0,
+        "Co": 0.0,
+        "Cu": 0.0,
+        "Ag": 0.0,
+        "Zn": 0.0,
+        "Pb": 0.0
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "{\"sample_id\":\"WG-1\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Cu\":12.3,\"Zn\":650000,\"Pb\":4500,\"Ag\":-0.1,\"As\":2.4}}\n{\"sample_id\":\"WG-2\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Cu\":8.2,\"Zn\":640000,\"Pb\":3900,\"Ag\":0.8}}\n{\"sample_id\":\"WG-3\",\"mineral\":\"sphalerite\",\"method\":\"LA",
+  "elapsed_seconds": 18.8
+}

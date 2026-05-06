@@ -1,0 +1,31 @@
+{
+  "pdf_id": "S002230930900739X",
+  "predictions": [
+    {
+      "sample_id": "G1",
+      "component": "ZnO:V2O5",
+      "value": 20.0,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "G2",
+      "component": "CdO:V2O5",
+      "value": 20.0,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "G3",
+      "component": "CdO:V2O5",
+      "value": 20.0,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "G4",
+      "component": "CdO",
+      "value": 10.0,
+      "unit": "wt%"
+    }
+  ],
+  "elapsed_seconds": 21.4,
+  "raw_preview": "Based on the given paper text, here are the material-composition entries for each glass sample (G1, G2, G3, and G4) with their respective components, values, and units:\n\n1. G1:\n{\"sample_id\": \"G1\", \"component\": \"CdO\", \"value\": 70.0, \"unit\": \"wt%\"},\n{\"sample_id\": \"G1\", \"component\": \"ZnO\", \"value\": 10.0, \"unit\": \"wt%\"},\n{\"sample_id\": \"G1\", \"component\": \"ZnO:V2O5\", \"value\": 20.0, \"unit\": \"wt%\"}\n\n2. G2:\n{\"sample_id\": \"G2\", \"component\": \"CdO:ZnO\", \"value\": 50.0, \"unit\": \"wt%\"},\n{\"sample_id\": \"G2\", \"co"
+}

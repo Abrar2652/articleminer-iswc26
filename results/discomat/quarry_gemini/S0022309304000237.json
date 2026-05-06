@@ -1,0 +1,425 @@
+{
+  "pii": "S0022309304000237",
+  "predictions": [
+    {
+      "sample_id": "G1",
+      "component": "PbO",
+      "value": 65.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G1",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G1",
+      "component": "SiO2",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G2",
+      "component": "PbO",
+      "value": 65.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G2",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G2",
+      "component": "SiO2",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G3",
+      "component": "PbO",
+      "value": 65.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G3",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G3",
+      "component": "SiO2",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G4",
+      "component": "PbO",
+      "value": 65.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G4",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G4",
+      "component": "SiO2",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G4",
+      "component": "Nd2O3",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F1",
+      "component": "PbO",
+      "value": 68.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F1",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F1",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F1",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F1",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F2",
+      "component": "PbO",
+      "value": 68.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F2",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F2",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F2",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F2",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F2",
+      "component": "Nd2O3",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F3",
+      "component": "PbO",
+      "value": 68.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F3",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F3",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F3",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F3",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F3",
+      "component": "Nd2O3",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F4",
+      "component": "PbO",
+      "value": 68.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F4",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F4",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F4",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F4",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F4",
+      "component": "Nd2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B1",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B1",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B1",
+      "component": "MgO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B1",
+      "component": "Nd2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B2",
+      "component": "PbO",
+      "value": 60.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B2",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B2",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B2",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B2",
+      "component": "MgO",
+      "value": 18.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B2",
+      "component": "Nd2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B3",
+      "component": "PbO",
+      "value": 60.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B3",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B3",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B3",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B3",
+      "component": "CaO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B3",
+      "component": "Nd2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B4",
+      "component": "PbO",
+      "value": 60.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B4",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B4",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B4",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B4",
+      "component": "BaO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B4",
+      "component": "Nd2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B5",
+      "component": "PbO",
+      "value": 60.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B5",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B5",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B5",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B5",
+      "component": "Nd2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "PbO",
+      "value": 80.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "BaO",
+      "value": 18.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "Nd2O3",
+      "value": 15.0,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 74,
+  "elapsed_seconds": 72.0,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

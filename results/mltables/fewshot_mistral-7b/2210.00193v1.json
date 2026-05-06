@@ -1,0 +1,6 @@
+{
+  "pdf_id": "2210.00193v1",
+  "predictions": [],
+  "elapsed_seconds": 241.7,
+  "raw_preview": "[\n{\"value\": 2.1, \"type\": \"Result\", \"model\": \"Pa LM\", \"metric\": \"MQM Score\", \"dataset\": \"Portuguese\"},\n{\"value\": 2.7, \"type\": \"Result\", \"model\": \"Pa LM\", \"metric\": \"MQM Score\", \"dataset\": \"Portuguese\", \"gold translation\": true},\n{\"value\": 3.03, \"type\": \"Result\", \"model\": \"M4-Prompts\", \"metric\": \"MQM Score\", \"dataset\": \"Portuguese\", \"rater region\": \"pt-PT\"},\n{\"value\": 3.13, \"type\": \"Result\", \"model\": \"Gold translations\", \"metric\": \"MQM Score\", \"dataset\": \"Portuguese\", \"rater region\": \"pt-PT\"},\n{\"v"
+}

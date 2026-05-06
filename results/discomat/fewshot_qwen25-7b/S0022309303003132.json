@@ -1,0 +1,73 @@
+{
+  "pdf_id": "S0022309303003132",
+  "predictions": [
+    {
+      "sample_id": "ETZ",
+      "component": "Te O2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZ",
+      "component": "Zn O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "Te O2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "Zn O",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "Zn F2",
+      "value": 7.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "Te O2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "Zn O",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "Zn F2",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "Te O2",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "Zn O",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "Zn F2",
+      "value": 35.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 19.9,
+  "raw_preview": "```json\n{\"sample_id\": \"ETZ\", \"component\": \"Te O2\", \"value\": 75.0, \"unit\": \"mol\"}\n{\"sample_id\": \"ETZ\", \"component\": \"Zn O\", \"value\": 25.0, \"unit\": \"mol\"}\n{\"sample_id\": \"ETZF-1\", \"component\": \"Te O2\", \"value\": 75.0, \"unit\": \"mol\"}\n{\"sample_id\": \"ETZF-1\", \"component\": \"Zn O\", \"value\": 18.0, \"unit\": \"mol\"}\n{\"sample_id\": \"ETZF-1\", \"component\": \"Zn F2\", \"value\": 7.0, \"unit\": \"mol\"}\n{\"sample_id\": \"ETZF-2\", \"component\": \"Te O2\", \"value\": 75.0, \"unit\": \"mol\"}\n{\"sample_id\": \"ETZF-2\", \"component\": \"Zn O\", "
+}

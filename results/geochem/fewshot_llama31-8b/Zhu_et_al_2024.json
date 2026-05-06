@@ -1,0 +1,97 @@
+{
+  "paper": "Zhu_et_al_2024",
+  "model": "llama31-8b",
+  "n_rows": 7,
+  "rows": [
+    {
+      "sample_id": "Sp1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cu": 12.3,
+        "Zn": 650000,
+        "Pb": 4500,
+        "Ag": -0.1,
+        "As": 2.4
+      }
+    },
+    {
+      "sample_id": "Sp2a",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cu": 8.2,
+        "Zn": 640000,
+        "Pb": 3900,
+        "Ag": 0.8
+      }
+    },
+    {
+      "sample_id": "Sp2b",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cu": 8.2,
+        "Zn": 640000,
+        "Pb": 3900,
+        "Ag": 0.8
+      }
+    },
+    {
+      "sample_id": "Sp2b",
+      "mineral": "dolomite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ca": 20000,
+        "Zn": 640000,
+        "Pb": 3900,
+        "Ag": 0.8
+      }
+    },
+    {
+      "sample_id": "Py1",
+      "mineral": "pyrite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Cu": 50000,
+        "Co": 15000,
+        "Sb": 1500,
+        "Zn": 1000,
+        "As": 51000,
+        "Pb": 1000,
+        "Mn": 4
+      }
+    },
+    {
+      "sample_id": "Py2",
+      "mineral": "pyrite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Cu": 600,
+        "Co": 7,
+        "Sb": 600,
+        "Zn": 10,
+        "As": 130000,
+        "Pb": 12000,
+        "Mn": 2000
+      }
+    },
+    {
+      "sample_id": "Sp2",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Cu": 0.1,
+        "Bi": 0.1,
+        "As": 2.4,
+        "Ag": 0.1,
+        "Fe": 0.1,
+        "Ge": 0.1,
+        "Mn": 0.1
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "{\"sample_id\":\"Sp1\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Cu\":12.3,\"Zn\":650000,\"Pb\":4500,\"Ag\":-0.1,\"As\":2.4}}\n{\"sample_id\":\"Sp2a\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Cu\":8.2,\"Zn\":640000,\"Pb\":3900,\"Ag\":0.8}}\n{\"sample_id\":\"Sp2b\",\"mineral\":\"sphalerite\",\"method\":\"LA-",
+  "elapsed_seconds": 55.6
+}

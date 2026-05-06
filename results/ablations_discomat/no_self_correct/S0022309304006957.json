@@ -1,0 +1,50 @@
+{
+  "pdf_id": "S0022309304006957",
+  "predictions": [
+    {
+      "sample_id": "Sample number.1",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample number.2",
+      "component": "PbO",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample number.2",
+      "component": "SiO2",
+      "value": 67.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample number.3",
+      "component": "PbO",
+      "value": 43.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample number.3",
+      "component": "SiO2",
+      "value": 57.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample number.4",
+      "component": "PbO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample number.4",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 8,
+  "ablation": "no_self_correct",
+  "elapsed_seconds": 22.7
+}

@@ -1,0 +1,91 @@
+{
+  "pdf_id": "S0022309307011684",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_Glass1",
+      "component": "P2O5",
+      "value": 31.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass1",
+      "component": "Na2O",
+      "value": 31.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass1",
+      "component": "Al2O3",
+      "value": 31.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass1",
+      "component": "B2O3",
+      "value": 5.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass2",
+      "component": "P2O5",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass2",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass2",
+      "component": "Al2O3",
+      "value": 37.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass3",
+      "component": "P2O5",
+      "value": 34.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass3",
+      "component": "Na2O",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass3",
+      "component": "Al2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass4",
+      "component": "P2O5",
+      "value": 41.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass4",
+      "component": "Na2O",
+      "value": 38.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass4",
+      "component": "TiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Glass4",
+      "component": "O2",
+      "value": 15.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 33.8,
+  "raw_preview": "Based on the provided paper text, here are the material-composition entries for the phosphate glasses:\n\n{\"sample_id\": \"S0022309303006537_0_1_Glass1\", \"component\": \"P2O5\", \"value\": 31.4, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Glass1\", \"component\": \"Na2O\", \"value\": 31.4, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Glass1\", \"component\": \"Al2O3\", \"value\": 31.4, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Glass1\", \"component\": \"B2O3\", \"value\": 5.8, \"unit\": \"mol\"}\n{\"sample"
+}

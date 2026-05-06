@@ -1,0 +1,504 @@
+{
+  "arxiv_id": "2210.00193v1",
+  "predictions": [
+    {
+      "value": "43.5",
+      "type": "Result",
+      "metric": "Kendall's \u03c4",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "48.3",
+      "type": "Result",
+      "metric": "Pearson \u03c1",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "44.3",
+      "type": "Result",
+      "metric": "BLEU",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "56.6",
+      "type": "Result",
+      "metric": "Pearson \u03c1",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "49.5",
+      "type": "Result",
+      "metric": "BLEURT-D3",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "61.7",
+      "type": "Result",
+      "metric": "Pearson \u03c1",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "50.4",
+      "type": "Result",
+      "metric": "BLEURT-D6",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "62.8",
+      "type": "Result",
+      "metric": "Pearson \u03c1",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "51",
+      "type": "Result",
+      "metric": "BLEURT-D12",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "63.7",
+      "type": "Result",
+      "metric": "Pearson \u03c1",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "52.2",
+      "type": "Result",
+      "metric": "BLEURT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "65.2",
+      "type": "Result",
+      "metric": "Pearson \u03c1",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "98.6",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "50.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "50.6",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "51.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "50.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "50",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "51",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "93.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "83.6",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "50",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Data Stat.",
+      "dataset": "FRMT",
+      "attribute name": "Lexical.pt-BR"
+    },
+    {
+      "value": "0.1",
+      "type": "Data Stat.",
+      "dataset": "FRMT",
+      "attribute name": "Random.pt-BR"
+    },
+    {
+      "value": "51.3",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "38.2",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "56.5",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "47.5",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "53.7",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Random.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "51.8",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "38.8",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "57.3",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "46.9",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "52.9",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Random.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "52.8",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.6",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "57.9",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "46.8",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "54.5",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Random.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "54.0",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "40.6",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "58.3",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "48.2",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "54.6",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Random.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "37.2",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "25.7",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "47.4",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "37.7",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.7",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Random.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "27.0",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "48.3",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "38.5",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.3",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Random.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "26.4",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "48.4",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.0",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.9",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Random.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "37.6",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "25.5",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Lexical.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "48.1",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-BR",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "38.6",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Entities.pt-PT",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "38.9",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT",
+      "metric": "Random.pt-BR",
+      "task": "Machine Translation"
+    }
+  ],
+  "num_gold_annotations": 302,
+  "elapsed_seconds": 242.1,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

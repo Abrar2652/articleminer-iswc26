@@ -1,0 +1,79 @@
+{
+  "pdf_id": "S0022309314003688",
+  "predictions": [
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0",
+      "component": "Ag2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0",
+      "component": "[1.5B2O3 \u00b7 Si O2 \u00b7 Ca O]",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0_3",
+      "component": "Ag2O",
+      "value": 0.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0_3",
+      "component": "[1.5B2O3 \u00b7 Si O2 \u00b7 Ca O]",
+      "value": 99.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0_5",
+      "component": "Ag2O",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0_5",
+      "component": "[1.5B2O3 \u00b7 Si O2 \u00b7 Ca O]",
+      "value": 99.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0_7",
+      "component": "Ag2O",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0_7",
+      "component": "[1.5B2O3 \u00b7 Si O2 \u00b7 Ca O]",
+      "value": 99.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_1",
+      "component": "Ag2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_1",
+      "component": "[1.5B2O3 \u00b7 Si O2 \u00b7 Ca O]",
+      "value": 99.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_3",
+      "component": "Ag2O",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_3",
+      "component": "[1.5B2O3 \u00b7 Si O2 \u00b7 Ca O]",
+      "value": 97.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 40.5,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0\", \"component\": \"Ag2O\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0\", \"component\": \"[1.5B2O3 \u00b7 Si O2 \u00b7 Ca O]\", \"value\": 100.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0_3\", \"component\": \"Ag2O\", \"value\": 0.3, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309314006537_0_1_x_Ag2O_100-x_1_5B2O3_SiO2_CaO_0_3\", \"component\": \"[1.5B2O3 \u00b7 Si O2 \u00b7"
+}

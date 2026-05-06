@@ -1,0 +1,102 @@
+{
+  "pmc_id": "PMC4257840",
+  "predictions": [
+    {
+      "value": "8",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "5",
+      "unit": "nM"
+    },
+    {
+      "value": "17",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "5",
+      "unit": "nM"
+    },
+    {
+      "value": "18",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "19a",
+      "unit": "nM"
+    },
+    {
+      "value": "52",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "19a",
+      "unit": "nM"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "20",
+      "unit": "nM"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "20",
+      "unit": "nM"
+    },
+    {
+      "value": "9167",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "21",
+      "unit": "nM"
+    },
+    {
+      "value": "14",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "22",
+      "unit": "nM"
+    },
+    {
+      "value": "378",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "22",
+      "unit": "nM"
+    },
+    {
+      "value": "42",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "23",
+      "unit": "nM"
+    },
+    {
+      "value": "446",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "23",
+      "unit": "nM"
+    },
+    {
+      "value": "164",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "24",
+      "unit": "nM"
+    },
+    {
+      "value": "67",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "24",
+      "unit": "nM"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 13,
+  "elapsed_seconds": 37.3,
+  "backends": [
+    "docling"
+  ]
+}

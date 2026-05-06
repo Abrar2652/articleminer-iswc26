@@ -1,0 +1,31 @@
+{
+  "pdf_id": "S0022309307002116",
+  "predictions": [
+    {
+      "sample_id": "7LB2",
+      "component": "Li2O",
+      "value": 7.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Rb B2",
+      "component": "Rb2O",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Rb B3",
+      "component": "Rb2O",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Rb B4",
+      "component": "Rb2O",
+      "value": 4.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 5.5,
+  "raw_preview": "{\"sample_id\": \"7LB2\", \"component\": \"Li2O\", \"value\": 7.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Rb B2\", \"component\": \"Rb2O\", \"value\": 2.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Rb B3\", \"component\": \"Rb2O\", \"value\": 3.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Rb B4\", \"component\": \"Rb2O\", \"value\": 4.0, \"unit\": \"mol\"}"
+}

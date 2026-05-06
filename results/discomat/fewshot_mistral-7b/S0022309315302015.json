@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309315302015",
+  "predictions": [],
+  "elapsed_seconds": 21.0,
+  "raw_preview": "{\"sample\\_id\": \"FP00\", \"component\": \"SrF2\", \"value\": 0.0, \"unit\": \"mol\"},\n{\"sample\\_id\": \"FP00\", \"component\": \"CaF2\", \"value\": 100.0, \"unit\": \"mol\"},\n{\"sample\\_id\": \"FP100\", \"component\": \"SrPO3\", \"value\": 100.0, \"unit\": \"mol\"},\n{\"sample\\_id\": \"FP100\", \"component\": \"P2O5\", \"value\": 0.0, \"unit\": \"mol\"},\n{\"sample\\_id\": \"FP50\", \"component\": \"SrPO3\", \"value\": 50.0, \"unit\": \"mol\"},\n{\"sample\\_id\": \"FP50\", \"component\": \"P2O5\", \"value\": 50.0, \"unit\": \"mol\"},\n{\"sample\\_id\": \"FP70\", \"component\": \"SrPO3\", \""
+}

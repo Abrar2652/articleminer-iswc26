@@ -1,0 +1,3062 @@
+{
+  "arxiv_id": "2210.00193v1",
+  "predictions": [
+    {
+      "value": "37.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.9",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "32.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "68.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "46.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "76.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "40.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "73.6",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "70.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "35.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "42.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "71.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "22.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "58.5",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "13.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "56.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "26.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "67.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "19.5",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "65.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "26.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "66.2",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "20.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "61.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "21.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "61.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "46.7",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "74.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "32.7",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.7",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "53.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "79.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "45.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "77.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "43.1",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "70.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "68.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "42.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "33.3",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "65.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "18.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "58.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "43.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "31.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "70.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "40.8",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "65.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "30.3",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "63.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "25.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "54.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "72.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "56.9",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "47.3",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "78.4",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "45.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "77.5",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "41.0",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "73.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "48.2",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "76.6",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "38.5",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "67.5",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "18.8",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "59.0",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "44.8",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "73.2",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "31.6",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.8",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "42.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "31.5",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "64.0",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "33.2",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "66.4",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "45.5",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "70.1",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "32.5",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "67.4",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "48.6",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "73.8",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "40.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "72.8",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "48.1",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "70.5",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.0",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "41.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "70.6",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "17.6",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "55.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "13.3",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "52.3",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "28.1",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "65.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "24.4",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "63.9",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "21.6",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "56.3",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "18.2",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "56.1",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "20.4",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "58.3",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "38.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "26.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "65.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "45.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "75.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "38.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "73.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "32.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "67.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "36.5",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "70.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "29.2",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "62.2",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "20.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "59.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "40.2",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "71.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "33.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "34.5",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "64.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "26.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "63.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "30.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "65.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "49.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "75.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "36.7",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "72.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "55.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "80.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "46.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "77.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "50.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "75.2",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "41.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "46.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "75.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "34.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "66.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "24.6",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "63.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "44.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "74.7",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "35.2",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "72.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "40.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "67.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "29.6",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "66.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "34.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "68.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "53.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "40.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "73.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "59.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "81.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "49.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "79.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "54.8",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "76.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "45.6",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "75.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "50.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "77.3",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "68.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "21.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "61.8",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "50.4",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "37.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "72.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "56.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "72.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "68.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.6",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "56.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "35.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "72.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "56.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "81.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "46.9",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "65.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "80.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "49.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "49.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "77.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.7",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "68.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "21.9",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "61.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "50.4",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "37.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "72.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "56.1",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "72.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "39.9",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "68.7",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "40.1",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "98.6",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "pt"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "zh"
+    },
+    {
+      "value": "50.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "pt"
+    },
+    {
+      "value": "50.6",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "zh"
+    },
+    {
+      "value": "51.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "pt"
+    },
+    {
+      "value": "50.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "zh"
+    },
+    {
+      "value": "56.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "pt"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "zh"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "pt"
+    },
+    {
+      "value": "51.0",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "zh"
+    },
+    {
+      "value": "85.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "pt"
+    },
+    {
+      "value": "69.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "zh"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "pt"
+    },
+    {
+      "value": "70.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "zh"
+    },
+    {
+      "value": "93.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "pt"
+    },
+    {
+      "value": "83.6",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "zh"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation",
+      "language": "pt"
+    },
+    {
+      "value": "8.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-7.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "6.9",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-6.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "5.2",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-4.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "4.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-3.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "5.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-4.9",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "3.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-3.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "13.9",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-13.0",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "8.2",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-7.9",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "9.7",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-9.3",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "14.5",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-14.4",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "11.7",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-11.5",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "10.0",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-10.1",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "M4 UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "19.5",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-13.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "10.5",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-7.8",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "15.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-12.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "14.4",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-14.4",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "11.7",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-10.9",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "10.7",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-11.0",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "14.8",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-9.8",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "8.7",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-6.4",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "11.8",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-9.2",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "1.6",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "14.2",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-13.5",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "11.9",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-11.1",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "9.9",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-9.6",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "13.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-5.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "8.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-3.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "7.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-2.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "6.2",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-2.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "4.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-0.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "4.5",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-1.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "1.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "18.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "11.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-0.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "6.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "12.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-2.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "8.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-3.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "8.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-2.6",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "3.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "20.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "13.4",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "13.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-0.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "7.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "15.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-0.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "10.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-3.3",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "9.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-1.4",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "4.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "20.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-20.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "9.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-9.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "22.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-22.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "17.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-17.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "13.4",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-13.4",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "16.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "-16.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "99.8",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "99.4",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "98.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "69.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "14.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "14.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "98.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "1.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "98.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "98.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "98.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "99.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "0.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation"
+    },
+    {
+      "value": "99.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation"
+    }
+  ],
+  "num_gold_annotations": 302,
+  "elapsed_seconds": 317.3,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

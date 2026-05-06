@@ -1,0 +1,169 @@
+{
+  "pdf_id": "S0022309304005757",
+  "predictions": [
+    {
+      "sample_id": "FP10",
+      "component": "SiO2",
+      "value": 65.63,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP10",
+      "component": "B2O3",
+      "value": 24.37,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP10",
+      "component": "Al2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP20",
+      "component": "SiO2",
+      "value": 65.63,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP20",
+      "component": "B2O3",
+      "value": 24.37,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP20",
+      "component": "Al2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP20",
+      "component": "PO4",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP0",
+      "component": "SiO2",
+      "value": 65.63,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP0",
+      "component": "B2O3",
+      "value": 24.37,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP0",
+      "component": "Al2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP0",
+      "component": "PO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BK7",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BK7",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BK7",
+      "component": "K2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BK7",
+      "component": "Li2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BK7",
+      "component": "B2O3",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Duran",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Duran",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Duran",
+      "component": "K2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Duran",
+      "component": "B2O3",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Duran",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BB",
+      "component": "Bi2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BB",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BB",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP10",
+      "component": "PO4",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP20",
+      "component": "PO4",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP0",
+      "component": "PO4",
+      "value": 0.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 30.3,
+  "raw_preview": "```json\n{\"sample_id\": \"FP10\", \"component\": \"SiO2\", \"value\": 65.63, \"unit\": \"mol\"}\n{\"sample_id\": \"FP10\", \"component\": \"B2O3\", \"value\": 24.37, \"unit\": \"mol\"}\n{\"sample_id\": \"FP10\", \"component\": \"Al2O3\", \"value\": 10.0, \"unit\": \"mol\"}\n{\"sample_id\": \"FP20\", \"component\": \"SiO2\", \"value\": 65.63, \"unit\": \"mol\"}\n{\"sample_id\": \"FP20\", \"component\": \"B2O3\", \"value\": 24.37, \"unit\": \"mol\"}\n{\"sample_id\": \"FP20\", \"component\": \"Al2O3\", \"value\": 10.0, \"unit\": \"mol\"}\n{\"sample_id\": \"FP20\", \"component\": \"PO4\", \"value"
+}

@@ -1,0 +1,1015 @@
+{
+  "pdf_id": "S0022309306011033",
+  "predictions": [
+    {
+      "sample_id": "1Fe",
+      "component": "NaH2PO4",
+      "value": 99.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1Fe",
+      "component": "NaH2PO4",
+      "value": 98.45,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 1.55,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Fe",
+      "component": "NaH2PO4",
+      "value": 97.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Fe",
+      "component": "NaH2PO4",
+      "value": 95.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 4.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Fe",
+      "component": "NaH2PO4",
+      "value": 95.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Fe",
+      "component": "NaH2PO4",
+      "value": 92.42,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 7.58,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Fe",
+      "component": "NaH2PO4",
+      "value": 90.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Fe",
+      "component": "NaH2PO4",
+      "value": 85.25,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 14.75,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "15Fe",
+      "component": "NaH2PO4",
+      "value": 85.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe",
+      "component": "NaH2PO4",
+      "value": 78.45,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "15Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 21.55,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "20Fe",
+      "component": "NaH2PO4",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe",
+      "component": "NaH2PO4",
+      "value": 71.99,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "20Fe",
+      "component": "FePO4\u00b72H2O",
+      "value": 28.01,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Ca",
+      "component": "NaH2PO4",
+      "value": 90.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Ca",
+      "component": "CaHPO4",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Ca",
+      "component": "NaH2PO4",
+      "value": 88.81,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Ca",
+      "component": "CaHPO4",
+      "value": 11.19,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "20Ca",
+      "component": "NaH2PO4",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Ca",
+      "component": "CaHPO4",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Ca",
+      "component": "NaH2PO4",
+      "value": 77.92,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "20Ca",
+      "component": "CaHPO4",
+      "value": 22.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "30Ca",
+      "component": "NaH2PO4",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Ca",
+      "component": "CaHPO4",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Ca",
+      "component": "NaH2PO4",
+      "value": 67.32,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "30Ca",
+      "component": "CaHPO4",
+      "value": 32.68,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "40Ca",
+      "component": "NaH2PO4",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Ca",
+      "component": "CaHPO4",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Ca",
+      "component": "NaH2PO4",
+      "value": 56.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "40Ca",
+      "component": "CaHPO4",
+      "value": 43.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mg",
+      "component": "NaH2PO4",
+      "value": 90.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Mg",
+      "component": "MgHPO4\u00b73H2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Mg",
+      "component": "NaH2PO4",
+      "value": 86.09,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mg",
+      "component": "MgHPO4\u00b73H2O",
+      "value": 13.91,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "20Mg",
+      "component": "NaH2PO4",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Mg",
+      "component": "MgHPO4\u00b73H2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Mg",
+      "component": "NaH2PO4",
+      "value": 73.33,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "20Mg",
+      "component": "MgHPO4\u00b73H2O",
+      "value": 26.67,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "30Mg",
+      "component": "NaH2PO4",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Mg",
+      "component": "MgHPO4\u00b73H2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Mg",
+      "component": "NaH2PO4",
+      "value": 61.69,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "30Mg",
+      "component": "MgHPO4\u00b73H2O",
+      "value": 38.31,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "40Mg",
+      "component": "NaH2PO4",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Mg",
+      "component": "MgHPO4\u00b73H2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Mg",
+      "component": "NaH2PO4",
+      "value": 50.74,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "40Mg",
+      "component": "MgHPO4\u00b73H2O",
+      "value": 49.26,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "50Mg",
+      "component": "NaH2PO4",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50Mg",
+      "component": "MgHPO4\u00b73H2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50Mg",
+      "component": "NaH2PO4",
+      "value": 40.83,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "50Mg",
+      "component": "MgHPO4\u00b73H2O",
+      "value": 59.17,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "0Fe_feed",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Fe_feed",
+      "component": "Na2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Fe_feed",
+      "component": "Fe2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Fe_EDX",
+      "component": "P2O5",
+      "value": 53.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Fe_EDX",
+      "component": "Na2O",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Fe_EDX",
+      "component": "Fe2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1Fe_feed",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1Fe_feed",
+      "component": "Na2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1Fe_feed",
+      "component": "Fe2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1Fe_EDX",
+      "component": "P2O5",
+      "value": 53.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1Fe_EDX",
+      "component": "Na2O",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1Fe_EDX",
+      "component": "Fe2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Fe_feed",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Fe_feed",
+      "component": "Na2O",
+      "value": 49.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Fe_feed",
+      "component": "Fe2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Fe_EDX",
+      "component": "P2O5",
+      "value": 54.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Fe_EDX",
+      "component": "Na2O",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Fe_EDX",
+      "component": "Fe2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Fe_feed",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Fe_feed",
+      "component": "Na2O",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Fe_feed",
+      "component": "Fe2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Fe_EDX",
+      "component": "P2O5",
+      "value": 53.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Fe_EDX",
+      "component": "Na2O",
+      "value": 44.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Fe_EDX",
+      "component": "Fe2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Fe_feed",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Fe_feed",
+      "component": "Na2O",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Fe_feed",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Fe_EDX",
+      "component": "P2O5",
+      "value": 53.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Fe_EDX",
+      "component": "Na2O",
+      "value": 42.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Fe_EDX",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe_feed",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe_feed",
+      "component": "Na2O",
+      "value": 43.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe_feed",
+      "component": "Fe2O3",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe_EDX",
+      "component": "P2O5",
+      "value": 52.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe_EDX",
+      "component": "Na2O",
+      "value": 41.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe_EDX",
+      "component": "Fe2O3",
+      "value": 7.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe_feed",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe_feed",
+      "component": "Na2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe_feed",
+      "component": "Fe2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe_EDX",
+      "component": "P2O5",
+      "value": 52.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe_EDX",
+      "component": "Na2O",
+      "value": 39.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe_EDX",
+      "component": "Fe2O3",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Ca_feed",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Ca_feed",
+      "component": "Na2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Ca_feed",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Ca_EDX",
+      "component": "P2O5",
+      "value": 53.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Ca_EDX",
+      "component": "Na2O",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Ca_EDX",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Ca_feed",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Ca_feed",
+      "component": "Na2O",
+      "value": 43.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Ca_feed",
+      "component": "CaO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Ca_EDX",
+      "component": "P2O5",
+      "value": 53.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Ca_EDX",
+      "component": "Na2O",
+      "value": 38.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Ca_EDX",
+      "component": "CaO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Ca_feed",
+      "component": "P2O5",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Ca_feed",
+      "component": "Na2O",
+      "value": 36.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Ca_feed",
+      "component": "CaO",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Ca_EDX",
+      "component": "P2O5",
+      "value": 49.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Ca_EDX",
+      "component": "Na2O",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Ca_EDX",
+      "component": "CaO",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Ca_feed",
+      "component": "P2O5",
+      "value": 44.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Ca_feed",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Ca_feed",
+      "component": "CaO",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Ca_EDX",
+      "component": "P2O5",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Ca_EDX",
+      "component": "Na2O",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Ca_EDX",
+      "component": "CaO",
+      "value": 27.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Ca_feed",
+      "component": "P2O5",
+      "value": 42.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Ca_feed",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Ca_feed",
+      "component": "CaO",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Ca_EDX",
+      "component": "P2O5",
+      "value": 44.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Ca_EDX",
+      "component": "Na2O",
+      "value": 22.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Ca_EDX",
+      "component": "CaO",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Mg_feed",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Mg_feed",
+      "component": "Na2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Mg_feed",
+      "component": "MgO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Mg_EDX",
+      "component": "P2O5",
+      "value": 53.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Mg_EDX",
+      "component": "Na2O",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Mg_EDX",
+      "component": "MgO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Mg_feed",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Mg_feed",
+      "component": "Na2O",
+      "value": 43.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Mg_feed",
+      "component": "MgO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Mg_EDX",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Mg_EDX",
+      "component": "Na2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Mg_EDX",
+      "component": "MgO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Mg_feed",
+      "component": "P2O5",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Mg_feed",
+      "component": "Na2O",
+      "value": 36.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Mg_feed",
+      "component": "MgO",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Mg_EDX",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Mg_EDX",
+      "component": "Na2O",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Mg_EDX",
+      "component": "MgO",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Mg_feed",
+      "component": "P2O5",
+      "value": 44.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Mg_feed",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Mg_feed",
+      "component": "MgO",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Mg_EDX",
+      "component": "P2O5",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Mg_EDX",
+      "component": "Na2O",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30Mg_EDX",
+      "component": "MgO",
+      "value": 27.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Mg_feed",
+      "component": "P2O5",
+      "value": 42.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Mg_feed",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Mg_feed",
+      "component": "MgO",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Mg_EDX",
+      "component": "P2O5",
+      "value": 44.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Mg_EDX",
+      "component": "Na2O",
+      "value": 22.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Mg_EDX",
+      "component": "MgO",
+      "value": 34.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50Mg_feed",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50Mg_feed",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50Mg_feed",
+      "component": "MgO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50Mg_EDX",
+      "component": "P2O5",
+      "value": 42.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50Mg_EDX",
+      "component": "Na2O",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50Mg_EDX",
+      "component": "MgO",
+      "value": 40.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 66.3,
+  "raw_preview": "I'll extract all material-composition entries from Table 1 (Glass compositions) and Table 3 (Feed and EDX derived compositions).\n\nFrom Table 1 (mole percent and mass percent of precursor salts):\n\n{\"sample_id\": \"1Fe\", \"component\": \"NaH2PO4\", \"value\": 99, \"unit\": \"mol\"}\n{\"sample_id\": \"1Fe\", \"component\": \"FePO4\u00b72H2O\", \"value\": 1, \"unit\": \"mol\"}\n{\"sample_id\": \"1Fe\", \"component\": \"NaH2PO4\", \"value\": 98.45, \"unit\": \"wt\"}\n{\"sample_id\": \"1Fe\", \"component\": \"FePO4\u00b72H2O\", \"value\": 1.55, \"unit\": \"wt\"}\n{\"sa"
+}

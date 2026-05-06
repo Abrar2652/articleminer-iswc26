@@ -1,0 +1,31 @@
+{
+  "pdf_id": "S0022309315302015",
+  "predictions": [
+    {
+      "sample_id": "FP100",
+      "component": "Sr(PO3)2",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP00",
+      "component": "Sr(PO3)2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP02",
+      "component": "Sr(PO3)2",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP30",
+      "component": "Sr(PO3)2",
+      "value": 30.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 8.4,
+  "raw_preview": "```json\n{\"sample_id\": \"FP100\", \"component\": \"Sr(PO3)2\", \"value\": 100.0, \"unit\": \"mol\"}\n{\"sample_id\": \"FP00\", \"component\": \"Sr(PO3)2\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_id\": \"FP02\", \"component\": \"Sr(PO3)2\", \"value\": 2.0, \"unit\": \"mol\"}\n{\"sample_id\": \"FP30\", \"component\": \"Sr(PO3)2\", \"value\": 30.0, \"unit\": \"mol\"}\n```"
+}

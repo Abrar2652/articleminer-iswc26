@@ -1,0 +1,49 @@
+{
+  "pdf_id": "S0022309304000237",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_G_series",
+      "component": "Nd2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G_series",
+      "component": "Nd2O3",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G_series",
+      "component": "Nd2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_F_series",
+      "component": "Nd2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_F_series",
+      "component": "Nd2O3",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_F_series",
+      "component": "Nd2O3",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_B_series",
+      "component": "Nd2O3",
+      "value": 15.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 15.4,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_G_series\", \"component\": \"Nd2O3\", \"value\": 0.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_1_G_series\", \"component\": \"Nd2O3\", \"value\": 8.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_1_G_series\", \"component\": \"Nd2O3\", \"value\": 15.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_1_F_series\", \"component\": \"Nd2O3\", \"value\": 0.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_1_F_series\", \"component\": \"Nd2O3\", \"value\": 5.0, \"unit\": \"wt\"}\n{"
+}

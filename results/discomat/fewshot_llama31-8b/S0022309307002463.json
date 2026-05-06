@@ -1,0 +1,877 @@
+{
+  "pdf_id": "S0022309307002463",
+  "predictions": [
+    {
+      "sample_id": "UB5",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 207.3,
+  "raw_preview": "{\"sample_id\": \"UB5\", \"component\": \"SiO2\", \"value\": 65, \"unit\": \"mol\"}\n{\"sample_id\": \"UB5\", \"component\": \"B2O3\", \"value\": 10, \"unit\": \"mol\"}\n{\"sample_id\": \"UB5\", \"component\": \"Na2O\", \"value\": 25, \"unit\": \"wt\"}\n{\"sample_id\": \"UB5\", \"component\": \"BaO\", \"value\": 5, \"unit\": \"wt\"}\n{\"sample_id\": \"UB5\", \"component\": \"ZrO2\", \"value\": 5, \"unit\": \"wt\"}\n{\"sample_id\": \"UB5\", \"component\": \"UO3\", \"value\": 30, \"unit\": \"wt\"}\n{\"sample_id\": \"UB10\", \"component\": \"SiO2\", \"value\": 65, \"unit\": \"mol\"}\n{\"sample_id\": \"UB"
+}

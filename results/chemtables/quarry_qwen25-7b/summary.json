@@ -1,0 +1,49 @@
+{
+  "dataset": "chemtables",
+  "model": "qwen25-7b",
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ],
+  "total_papers": 9,
+  "total_tuples": 514,
+  "total_time": 1501.4,
+  "per_paper": {
+    "PMC3241339": {
+      "tuples": 42,
+      "gold": 59
+    },
+    "PMC3654564": {
+      "tuples": 0,
+      "gold": 14
+    },
+    "PMC3873039": {
+      "tuples": 251,
+      "gold": 72
+    },
+    "PMC3983390": {
+      "tuples": 7,
+      "gold": 8
+    },
+    "PMC3983391": {
+      "tuples": 0,
+      "gold": 74
+    },
+    "PMC4251525": {
+      "tuples": 6,
+      "gold": 7
+    },
+    "PMC4257840": {
+      "tuples": 4,
+      "gold": 13
+    },
+    "PMC4295614": {
+      "tuples": 194,
+      "gold": 179
+    },
+    "PMC4358631": {
+      "tuples": 10,
+      "gold": 36
+    }
+  }
+}

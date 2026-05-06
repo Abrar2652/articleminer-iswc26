@@ -1,0 +1,112 @@
+{
+  "pii": "S0022309314000611",
+  "predictions": [
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nb2O5",
+      "component": "Nb2O5",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201312WO3\u20133Nd2O3",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201312WO3\u20133Nd2O3",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201312WO3\u20133Nd2O3",
+      "component": "WO3",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201312WO3\u20133Nd2O3",
+      "component": "Nd2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nd2O3",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nd2O3",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nd2O3",
+      "component": "WO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nd2O3",
+      "component": "Nd2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Er2O3",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Er2O3",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Er2O3",
+      "component": "WO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Er2O3",
+      "component": "Er2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u201320MoO3",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u201320MoO3",
+      "component": "MoO3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u201320V2O5",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u201320V2O5",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 47,
+  "elapsed_seconds": 67.4,
+  "backends": [
+    "camelot"
+  ]
+}

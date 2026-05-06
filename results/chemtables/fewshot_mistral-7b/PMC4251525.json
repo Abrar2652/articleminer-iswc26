@@ -1,0 +1,518 @@
+{
+  "pdf_id": "PMC4251525",
+  "predictions": [
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "M. smegmatis",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "P. aeruginosa",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "S. aureus",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "S. agalactiae",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "A. baumannii",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "E. coli",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "0.32",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "5b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "38.6",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "1",
+      "unit": "% control"
+    },
+    {
+      "value": "94.5",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4a",
+      "unit": "% control"
+    },
+    {
+      "value": "39.2",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4b",
+      "unit": "% control"
+    },
+    {
+      "value": "47.8",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4c",
+      "unit": "% control"
+    },
+    {
+      "value": "-80.0",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4d",
+      "unit": "% control"
+    },
+    {
+      "value": "47.5",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "5a",
+      "unit": "% control"
+    },
+    {
+      "value": "24.6",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "5b",
+      "unit": "% control"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "% control"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "% control"
+    },
+    {
+      "value": "0.91",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4b",
+      "unit": "% control"
+    },
+    {
+      "value": "0.16",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4c",
+      "unit": "% control"
+    },
+    {
+      "value": "0.03",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "5b",
+      "unit": "% control"
+    },
+    {
+      "value": "0.21",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "5a",
+      "unit": "% control"
+    },
+    {
+      "value": "0.41",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4a",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(1)"
+    },
+    {
+      "value": "0.02",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4d",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.16",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4c",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(1)"
+    },
+    {
+      "value": "0.03",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "5b",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(1)"
+    },
+    {
+      "value": "0.21",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "5a",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(1)"
+    },
+    {
+      "value": "0.41",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4a",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.02",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4d",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.16",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4c",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.03",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "5b",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.21",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "5a",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.41",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4a",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(1)"
+    },
+    {
+      "value": "0.02",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4d",
+      "unit": "p(1)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.16",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4c",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.03",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "5b",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.21",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "5a",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.41",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4a",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.02",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4d",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "DMSO",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "0.16",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "4c",
+      "unit": "p(DMSO)"
+    },
+    {
+      "value": "<0.01",
+      "type": "MCF-7 proliferation",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "p(DMSO)"
+    }
+  ],
+  "elapsed_seconds": 236.8,
+  "raw_preview": "\", \"target\": \"M. chloro\", \"treatment\": \"9c\", \"unit\": \"\\u03bcgmL\\u22121\"}\n{\"value\": \"200\", \"type\": \"MIC\", \"target\": \"M. smegmatis\", \"treatment\": \"9c\", \"unit\": \"\\u03bcgmL\\u22121\"}\n{\"value\": \"200\", \"type\": \"MIC\", \"target\": \"P. aeruginosa\", \"treatment\": \"9c\", \"unit\": \"\\u03bcgmL\\u22121\"}\n{\"value\": \"200\", \"type\": \"MIC\", \"target\": \"S. aureus\", \"treatment\": \"9c\", \"unit\": \"\\u03bcgmL\\u22121\"}\n{\"value\": \"200\", \"type\": \"MIC\", \"target\": \"S. agalactiae\", \"treatment\": \"9c\", \"unit\": \"\\u03bcgmL\\u22121\"}\n{\"value\""
+}

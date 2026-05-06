@@ -1,0 +1,55 @@
+{
+  "pdf_id": "S0022309309003883",
+  "predictions": [
+    {
+      "sample_id": "Ga0",
+      "component": "Ga",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ge",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "S",
+      "value": 72.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ga",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ge",
+      "value": 27.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "S",
+      "value": 71.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ga",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ge",
+      "value": 26.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 22.9,
+  "raw_preview": "Looking at the paper, the compositions are given in the table as atomic percentages for Ga, Ge, and S components. From Table 1, I can extract the following compositions:\n\nFrom the text: \"Ga0: 0 28 72\", \"Ga2: 2 27 71\", and \"Ga5: 5 26 6...\" (truncated). Based on the pattern S/Ge=2.6 constant and progressive Ga substitution, I can reconstruct: Ga5=5,26,69; Ga10=10,24,66 (approximately); Ga15=15,23,62 (approximately). However, I'll only output what's explicitly stated in the text.\n\n{\"sample_id\": \"Ga"
+}

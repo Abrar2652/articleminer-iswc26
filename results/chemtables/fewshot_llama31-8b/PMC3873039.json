@@ -1,0 +1,189 @@
+{
+  "pdf_id": "PMC3873039",
+  "predictions": [
+    {
+      "value": "5",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "emodin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "22",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "emodin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "8",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "quercetin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "33",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "quercetin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "25",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "cis-stilbene",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "85",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "cis-stilbene",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "2",
+      "type": "AP50",
+      "target": "K562",
+      "treatment": "emodin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "27",
+      "type": "AP50",
+      "target": "K562",
+      "treatment": "emodin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "19",
+      "type": "AP50",
+      "target": "K562",
+      "treatment": "quercetin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "50",
+      "type": "AP50",
+      "target": "K562",
+      "treatment": "quercetin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "8",
+      "type": "AP50",
+      "target": "K562",
+      "treatment": "cis-stilbene",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "50",
+      "type": "AP50",
+      "target": "K562",
+      "treatment": "cis-stilbene",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.61",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "1",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.87",
+      "type": "IC50",
+      "target": "ITP",
+      "treatment": "1",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "2",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.36",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "16c",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.60",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "16f",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.36",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "16h",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "P. aeruginosa",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "B. subtilis",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": ">200",
+      "type": "MIC",
+      "target": "S. aureus",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "A. baumannii",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "E. coli",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "S. agalactiae",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "M. smegmatis",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "M. chloro",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    }
+  ],
+  "elapsed_seconds": 43.9,
+  "raw_preview": "{\"value\": \"5\", \"type\": \"IC50\", \"target\": \"K562\", \"treatment\": \"emodin\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"22\", \"type\": \"IC50\", \"target\": \"K562\", \"treatment\": \"emodin\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"8\", \"type\": \"IC50\", \"target\": \"K562\", \"treatment\": \"quercetin\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"33\", \"type\": \"IC50\", \"target\": \"K562\", \"treatment\": \"quercetin\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"25\", \"type\": \"IC50\", \"target\": \"K562\", \"treatment\": \"cis-stilbene\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"85\", \"type\": \"IC50\""
+}

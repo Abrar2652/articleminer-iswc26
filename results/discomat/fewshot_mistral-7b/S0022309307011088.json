@@ -1,0 +1,73 @@
+{
+  "pdf_id": "S0022309307011088",
+  "predictions": [
+    {
+      "sample_id": "LZBS-1",
+      "component": "SiO2",
+      "value": 52.0,
+      "unit": "mol%"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "B2O3",
+      "value": 23.0,
+      "unit": "mol%"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "Al2O3",
+      "value": 12.0,
+      "unit": "mol%"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol%"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "K2O",
+      "value": 2.0,
+      "unit": "mol%"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "SiO2",
+      "value": 53.0,
+      "unit": "mol%"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "B2O3",
+      "value": 24.0,
+      "unit": "mol%"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "Al2O3",
+      "value": 11.0,
+      "unit": "mol%"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol%"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "K2O",
+      "value": 2.0,
+      "unit": "mol%"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "ZnO",
+      "value": 1.0,
+      "unit": "mol%"
+    }
+  ],
+  "elapsed_seconds": 20.9,
+  "raw_preview": "Based on the given paper text, I have identified some material compositions mentioned in the form of oxide formulas and their corresponding values. I have extracted these entries as JSON objects below:\n\n{\"sample_id\": \"LZBS-1\", \"component\": \"SiO2\", \"value\": 52.0, \"unit\": \"mol%\"}\n{\"sample_id\": \"LZBS-1\", \"component\": \"B2O3\", \"value\": 23.0, \"unit\": \"mol%\"}\n{\"sample_id\": \"LZBS-1\", \"component\": \"Al2O3\", \"value\": 12.0, \"unit\": \"mol%\"}\n{\"sample_id\": \"LZBS-1\", \"component\": \"Na2O\", \"value\": 10.0, \"unit\": "
+}

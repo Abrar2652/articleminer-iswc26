@@ -1,0 +1,108 @@
+{
+  "arxiv_id": "2210.00084v1",
+  "predictions": [
+    {
+      "value": 169343,
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "# Node"
+    },
+    {
+      "value": 1166243,
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "# Edge"
+    },
+    {
+      "value": 128,
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "# Feature"
+    },
+    {
+      "value": 40,
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "# Label"
+    },
+    {
+      "value": 51194,
+      "type": "Data Stat.",
+      "dataset": "Tissue-PPI",
+      "attribute name": "# Node"
+    },
+    {
+      "value": 1350412,
+      "type": "Data Stat.",
+      "dataset": "Tissue-PPI",
+      "attribute name": "# Edge"
+    },
+    {
+      "value": 50,
+      "type": "Data Stat.",
+      "dataset": "Tissue-PPI",
+      "attribute name": "# Feature"
+    },
+    {
+      "value": 10,
+      "type": "Data Stat.",
+      "dataset": "Tissue-PPI",
+      "attribute name": "# Label"
+    },
+    {
+      "value": 274606,
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "# Node"
+    },
+    {
+      "value": 3666563,
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "# Edge"
+    },
+    {
+      "value": 512,
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "# Feature"
+    },
+    {
+      "value": 29,
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "# Label"
+    },
+    {
+      "value": 2708,
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "# Node"
+    },
+    {
+      "value": 10556,
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "# Edge"
+    },
+    {
+      "value": 1433,
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "# Feature"
+    },
+    {
+      "value": 7,
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "# Label"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 59.1,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

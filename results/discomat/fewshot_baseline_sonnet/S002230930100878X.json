@@ -1,0 +1,91 @@
+{
+  "pdf_id": "S002230930100878X",
+  "predictions": [
+    {
+      "sample_id": "table1_4%$).",
+      "component": "La2O3",
+      "value": 4.76,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_4%$).",
+      "component": "Al2O3",
+      "value": 19.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_4%$).",
+      "component": "SiO2",
+      "value": 57.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_4%$).",
+      "component": "H2O",
+      "value": 19.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_4%$).",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_4%$)%$",
+      "component": "P2O5",
+      "value": 0.92,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_4%$)#$",
+      "component": "P2O5",
+      "value": 3.76,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_4%$),",
+      "component": "P2O5",
+      "value": 7.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_4%$),",
+      "component": "P2O5",
+      "value": 13.47,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_K2O5",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_K2O20",
+      "component": "P2O5",
+      "value": 0.92,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_K2O30",
+      "component": "P2O5",
+      "value": 3.76,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_K2O40",
+      "component": "P2O5",
+      "value": 7.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "table1_K2O40",
+      "component": "P2O5",
+      "value": 13.47,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 66.5,
+  "raw_preview": "Looking at the paper text, I can identify a table with glass compositions. The table appears to contain data for samples labeled 4%$)., 4%$)%$, 4%$)#$, and 4%$), (which appear to be K2O compositions with varying amounts), with components '%*# (La2O3?), 4%*# (Al2O3?), 8%* (H2O?), and )%*# (P2O5?).\n\nBased on the table data visible in the text:\n\n| | 4%$). | 4%$)%$ | 4%$)#$ | 4%$), |\n|'%*#| , -< | , -% | , &. | , ,# | , &% |\n|4%*#| &6 $. | &/ /- | &< <$ | &- -$ | &< ,< |\n|*%| .- &, | .< <& | ,6 /& |"
+}

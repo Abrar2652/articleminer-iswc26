@@ -1,0 +1,238 @@
+{
+  "pdf_id": "2210.00213v1",
+  "predictions": [
+    {
+      "value": "0.70",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "dataset": "Yelp/Meme",
+      "metric": "train split (seen sequences)"
+    },
+    {
+      "value": "0.20",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "dataset": "Yelp/Meme",
+      "metric": "validation unseen sequence split"
+    },
+    {
+      "value": "0.20",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "dataset": "Yelp/Meme",
+      "metric": "test unseen sequence split"
+    },
+    {
+      "value": "32",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "dataset": null,
+      "metric": "hypernetwork units"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "dataset": null,
+      "metric": "hypernetwork layers"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Neural Hawkes Process (RNN)",
+      "dataset": null,
+      "metric": "RNN layers"
+    },
+    {
+      "value": "16",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Neural Hawkes Process (RNN)",
+      "dataset": null,
+      "metric": "RNN units"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Neural Hawkes Process (FNN)",
+      "dataset": null,
+      "metric": "FNN layers"
+    },
+    {
+      "value": "16",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Neural Hawkes Process (FNN)",
+      "dataset": null,
+      "metric": "FNN units per layer"
+    },
+    {
+      "value": "0.0001",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "dataset": null,
+      "metric": "learning rate"
+    },
+    {
+      "value": "0.90",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "dataset": null,
+      "metric": "Adam beta1"
+    },
+    {
+      "value": "0.99",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "dataset": null,
+      "metric": "Adam beta2"
+    },
+    {
+      "value": "0.001",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "dataset": null,
+      "metric": "regularization parameter range lower bound"
+    },
+    {
+      "value": "0.9",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "dataset": null,
+      "metric": "regularization parameter range upper bound"
+    },
+    {
+      "value": "0.5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "dataset": "Yelp",
+      "metric": "beta (regularization parameter)"
+    },
+    {
+      "value": "2.10",
+      "type": "Hyper-parameter/Architecture",
+      "model": null,
+      "dataset": null,
+      "metric": "CPU clock speed (GHz)"
+    },
+    {
+      "value": "128",
+      "type": "Hyper-parameter/Architecture",
+      "model": null,
+      "dataset": null,
+      "metric": "RAM (GB)"
+    },
+    {
+      "value": "-4.8627",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MNLL (Without CL)"
+    },
+    {
+      "value": "-5.6928",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MNLL (With CL)"
+    },
+    {
+      "value": "0.00159",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE (Without CL)"
+    },
+    {
+      "value": "0.00149",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE (With CL)"
+    },
+    {
+      "value": "-5.2629",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Yelp",
+      "metric": "MNLL (Without CL)"
+    },
+    {
+      "value": "-5.7727",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Yelp",
+      "metric": "MNLL (With CL)"
+    },
+    {
+      "value": "0.00152",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE (Without CL)"
+    },
+    {
+      "value": "0.00150",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE (With CL)"
+    },
+    {
+      "value": "-2.8550",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MNLL (Without CL)"
+    },
+    {
+      "value": "-5.1462",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MNLL (With CL)"
+    },
+    {
+      "value": "0.00548",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MAE (Without CL)"
+    },
+    {
+      "value": "0.00471",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MAE (With CL)"
+    },
+    {
+      "value": "-3.8254",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Meme",
+      "metric": "MNLL (Without CL)"
+    },
+    {
+      "value": "-5.1192",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Meme",
+      "metric": "MNLL (With CL)"
+    },
+    {
+      "value": "0.00508",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Meme",
+      "metric": "MAE (Without CL)"
+    },
+    {
+      "value": "0.00471",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Meme",
+      "metric": "MAE (With CL)"
+    }
+  ],
+  "elapsed_seconds": 27.7,
+  "raw_preview": "{\"value\": \"0.70\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"Hyper Hawkes\", \"dataset\": \"Yelp/Meme\", \"metric\": \"train split (seen sequences)\"}\n{\"value\": \"0.20\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"Hyper Hawkes\", \"dataset\": \"Yelp/Meme\", \"metric\": \"validation unseen sequence split\"}\n{\"value\": \"0.20\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"Hyper Hawkes\", \"dataset\": \"Yelp/Meme\", \"metric\": \"test unseen sequence split\"}\n{\"value\": \"32\", \"type\": \"Hyper-parameter/Architectu"
+}

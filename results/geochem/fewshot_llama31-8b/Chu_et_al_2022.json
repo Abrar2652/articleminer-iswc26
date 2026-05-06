@@ -1,0 +1,310 @@
+{
+  "paper": "Chu_et_al_2022",
+  "model": "llama31-8b",
+  "n_rows": 22,
+  "rows": [
+    {
+      "sample_id": "WG-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cu": 12.3,
+        "Zn": 650000,
+        "Pb": 4500,
+        "Ag": -0.1,
+        "As": 2.4
+      }
+    },
+    {
+      "sample_id": "WG-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cu": 8.2,
+        "Zn": 640000,
+        "Pb": 3900,
+        "Ag": 0.8
+      }
+    },
+    {
+      "sample_id": "DL-3",
+      "mineral": "galena",
+      "method": "EPMA",
+      "elements": {
+        "Pb": 850000,
+        "S": 135000,
+        "Ag": 120
+      }
+    },
+    {
+      "sample_id": "Huangshaping deposit",
+      "mineral": "scheelite",
+      "method": "not specified",
+      "elements": {
+        "W": 1000000,
+        "Mo": 100000,
+        "Fe": 100000
+      }
+    },
+    {
+      "sample_id": "Huangshaping deposit",
+      "mineral": "magnetite",
+      "method": "not specified",
+      "elements": {
+        "W": 100000,
+        "Mo": 100000,
+        "Fe": 1000000
+      }
+    },
+    {
+      "sample_id": "Huangshaping deposit",
+      "mineral": "molybdenite",
+      "method": "not specified",
+      "elements": {
+        "W": 100000,
+        "Mo": 1000000,
+        "Fe": 100000
+      }
+    },
+    {
+      "sample_id": "Huangshaping deposit",
+      "mineral": "bismuthate",
+      "method": "not specified",
+      "elements": {
+        "W": 100000,
+        "Mo": 100000,
+        "Fe": 100000
+      }
+    },
+    {
+      "sample_id": "Huangshaping deposit",
+      "mineral": "bornite",
+      "method": "not specified",
+      "elements": {
+        "W": 100000,
+        "Mo": 100000,
+        "Fe": 100000
+      }
+    },
+    {
+      "sample_id": "Huangshaping deposit",
+      "mineral": "chalcopyrite",
+      "method": "not specified",
+      "elements": {
+        "W": 100000,
+        "Mo": 100000,
+        "Fe": 100000
+      }
+    },
+    {
+      "sample_id": "Huangshaping deposit",
+      "mineral": "pyrite",
+      "method": "not specified",
+      "elements": {
+        "W": 100000,
+        "Mo": 100000,
+        "Fe": 1000000
+      }
+    },
+    {
+      "sample_id": "Huangshaping deposit",
+      "mineral": "cassiterite",
+      "method": "not specified",
+      "elements": {
+        "W": 100000,
+        "Mo": 100000,
+        "Fe": 100000
+      }
+    },
+    {
+      "sample_id": "Huangshaping deposit",
+      "mineral": "galena",
+      "method": "not specified",
+      "elements": {
+        "Pb": 1000000,
+        "Zn": 100000,
+        "Ag": 100000
+      }
+    },
+    {
+      "sample_id": "Huangshaping deposit",
+      "mineral": "sphalerite",
+      "method": "not specified",
+      "elements": {
+        "Pb": 100000,
+        "Zn": 1000000,
+        "Ag": 100000
+      }
+    },
+    {
+      "sample_id": "HSP5",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 118000,
+        "Cu": 2125,
+        "Mn": 1336,
+        "Cd": 2915,
+        "Pb": 19.114,
+        "Sn": 8.63,
+        "In": 7.53,
+        "Ag": 24.1,
+        "As": 9.8,
+        "W": 68.2
+      }
+    },
+    {
+      "sample_id": "HSP6",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 118000,
+        "Cu": 2125,
+        "Mn": 1336,
+        "Cd": 2915,
+        "Pb": 19.114,
+        "Sn": 8.63,
+        "In": 7.53,
+        "Ag": 24.1,
+        "As": 9.8,
+        "W": 68.2
+      }
+    },
+    {
+      "sample_id": "HSP7",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 118000,
+        "Cu": 2125,
+        "Mn": 1336,
+        "Cd": 2915,
+        "Pb": 19.114,
+        "Sn": 8.63,
+        "In": 7.53,
+        "Ag": 24.1,
+        "As": 9.8,
+        "W": 68.2
+      }
+    },
+    {
+      "sample_id": "HSP8",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 118000,
+        "Cu": 2125,
+        "Mn": 1336,
+        "Cd": 2915,
+        "Pb": 19.114,
+        "Sn": 8.63,
+        "In": 7.53,
+        "Ag": 24.1,
+        "As": 9.8,
+        "W": 68.2
+      }
+    },
+    {
+      "sample_id": "HSP10",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 118000,
+        "Cu": 2125,
+        "Mn": 1336,
+        "Cd": 2915,
+        "Pb": 19.114,
+        "Sn": 8.63,
+        "In": 7.53,
+        "Ag": 24.1,
+        "As": 9.8,
+        "W": 68.2
+      }
+    },
+    {
+      "sample_id": "HSP12",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 118000,
+        "Cu": 2125,
+        "Mn": 1336,
+        "Cd": 2915,
+        "Pb": 19.114,
+        "Sn": 8.63,
+        "In": 7.53,
+        "Ag": 24.1,
+        "As": 9.8,
+        "W": 68.2
+      }
+    },
+    {
+      "sample_id": "HSP9",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Sn": 103,
+        "Ni": 7.12,
+        "Sb": 3.65,
+        "Se": 0.5,
+        "As": 0.5,
+        "W": 0.5,
+        "Mo": 57,
+        "La": 0.5,
+        "Ta": 0.5,
+        "Au": 0.5,
+        "Nb": 0.5,
+        "Cr": 0.5,
+        "Bi": 0.5,
+        "V": 0.5,
+        "Te": 0.5,
+        "Co": 0.5,
+        "Tl": 0.5,
+        "Sc": 0.5,
+        "Ga": 0.5,
+        "Ti": 0.5,
+        "Cu": 0.5,
+        "Ag": 0.5,
+        "In": 0.5,
+        "Pb": 0.5,
+        "S": 0.5,
+        "Fe": 0.5,
+        "Mn": 0.5,
+        "Cd": 0.5
+      }
+    },
+    {
+      "sample_id": "sphalerite",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Fe": 10000,
+        "Mn": 10000,
+        "Cd": 10000,
+        "Zn": 10000,
+        "Cu": 1,
+        "Ag": 10,
+        "Sn": 1,
+        "Pb": 1,
+        "S": 10000
+      }
+    },
+    {
+      "sample_id": "pyrrhotite",
+      "mineral": "pyrrhotite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Ge": 11,
+        "Ti": 7.39,
+        "Zn": 95.4,
+        "Pb": 17.1,
+        "Se": 14.9,
+        "Ni": 3.02,
+        "Ag": 3.77
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "{\"sample_id\":\"WG-1\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Cu\":12.3,\"Zn\":650000,\"Pb\":4500,\"Ag\":-0.1,\"As\":2.4}}\n{\"sample_id\":\"WG-2\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Cu\":8.2,\"Zn\":640000,\"Pb\":3900,\"Ag\":0.8}}\n{\"sample_id\":\"DL-3\",\"mineral\":\"galena\",\"method\":\"EPMA\",",
+  "elapsed_seconds": 92.4
+}

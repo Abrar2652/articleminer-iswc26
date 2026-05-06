@@ -1,0 +1,853 @@
+{
+  "pmc_id": "PMC4295614",
+  "predictions": [
+    {
+      "value": "25",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "26a",
+      "unit": "\u00b5g/mL"
+    },
+    {
+      "value": "50",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "26b",
+      "unit": "\u00b5g/mL"
+    },
+    {
+      "value": "50",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "26c",
+      "unit": "\u00b5g/mL"
+    },
+    {
+      "value": "25",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "26d",
+      "unit": "\u00b5g/mL"
+    },
+    {
+      "value": "25",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "26e",
+      "unit": "\u00b5g/mL"
+    },
+    {
+      "value": "11.00",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "35a",
+      "unit": "M"
+    },
+    {
+      "value": "5.15",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "35b",
+      "unit": "M"
+    },
+    {
+      "value": "20.94",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "35c",
+      "unit": "M"
+    },
+    {
+      "value": "18.91",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "35d",
+      "unit": "M"
+    },
+    {
+      "value": "1.34",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "36a",
+      "unit": "M"
+    },
+    {
+      "value": "4.93",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "36b",
+      "unit": "M"
+    },
+    {
+      "value": "10.01",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "36c",
+      "unit": "M"
+    },
+    {
+      "value": "0.58",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "36d",
+      "unit": "M"
+    },
+    {
+      "value": "9.81",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "37a",
+      "unit": "M"
+    },
+    {
+      "value": "0.59",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "37b",
+      "unit": "M"
+    },
+    {
+      "value": "8.60",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "37c",
+      "unit": "M"
+    },
+    {
+      "value": "1.09",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "37d",
+      "unit": "M"
+    },
+    {
+      "value": "4.93",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "38a",
+      "unit": "M"
+    },
+    {
+      "value": "4.66",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "38b",
+      "unit": "M"
+    },
+    {
+      "value": "9.47",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "38c",
+      "unit": "M"
+    },
+    {
+      "value": "2.15",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "38d",
+      "unit": "M"
+    },
+    {
+      "value": "0.53",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "39a",
+      "unit": "M"
+    },
+    {
+      "value": "1.01",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "39b",
+      "unit": "M"
+    },
+    {
+      "value": "7.46",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "39c",
+      "unit": "M"
+    },
+    {
+      "value": "0.47",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "39d",
+      "unit": "M"
+    },
+    {
+      "value": "20.87",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "40a",
+      "unit": "M"
+    },
+    {
+      "value": "0.63",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "40b",
+      "unit": "M"
+    },
+    {
+      "value": "9.08",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "40c",
+      "unit": "M"
+    },
+    {
+      "value": "1.15",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "40d",
+      "unit": "M"
+    },
+    {
+      "value": "20.87",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "41a",
+      "unit": "M"
+    },
+    {
+      "value": "0.63",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "41b",
+      "unit": "M"
+    },
+    {
+      "value": "4.52",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "41c",
+      "unit": "M"
+    },
+    {
+      "value": "4.51",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "41d",
+      "unit": "M"
+    },
+    {
+      "value": "9.78",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "42a",
+      "unit": "M"
+    },
+    {
+      "value": "1.18",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "42b",
+      "unit": "M"
+    },
+    {
+      "value": "4.27",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "42c",
+      "unit": "M"
+    },
+    {
+      "value": "4.26",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "42d",
+      "unit": "M"
+    },
+    {
+      "value": "4.24",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "43a",
+      "unit": "M"
+    },
+    {
+      "value": "0.12",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "43b",
+      "unit": "M"
+    },
+    {
+      "value": "3.78",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "43c",
+      "unit": "M"
+    },
+    {
+      "value": "1.88",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "43d",
+      "unit": "M"
+    },
+    {
+      "value": "17.68",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "44a",
+      "unit": "M"
+    },
+    {
+      "value": "1.07",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "44b",
+      "unit": "M"
+    },
+    {
+      "value": "7.85",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "44c",
+      "unit": "M"
+    },
+    {
+      "value": "7.83",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "44d",
+      "unit": "M"
+    },
+    {
+      "value": "16.11",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "45a",
+      "unit": "M"
+    },
+    {
+      "value": "0.49",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "45b",
+      "unit": "M"
+    },
+    {
+      "value": "1.80",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "45c",
+      "unit": "M"
+    },
+    {
+      "value": "0.92",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "45d",
+      "unit": "M"
+    },
+    {
+      "value": "0.76",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "46a",
+      "unit": "M"
+    },
+    {
+      "value": "1.44",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "46b",
+      "unit": "M"
+    },
+    {
+      "value": "5.51",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "46c",
+      "unit": "M"
+    },
+    {
+      "value": "0.35",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "46d",
+      "unit": "M"
+    },
+    {
+      "value": "0.78",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "47a",
+      "unit": "M"
+    },
+    {
+      "value": "2.95",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "47b",
+      "unit": "M"
+    },
+    {
+      "value": "5.63",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "47c",
+      "unit": "M"
+    },
+    {
+      "value": "0.17",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "47d",
+      "unit": "M"
+    },
+    {
+      "value": "2.88",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "48a",
+      "unit": "M"
+    },
+    {
+      "value": "2.79",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "48b",
+      "unit": "M"
+    },
+    {
+      "value": "5.34",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "48c",
+      "unit": "M"
+    },
+    {
+      "value": "1.32",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "48d",
+      "unit": "M"
+    },
+    {
+      "value": "2.75",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "49a",
+      "unit": "M"
+    },
+    {
+      "value": "0.34",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "49b",
+      "unit": "M"
+    },
+    {
+      "value": "2.55",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "49c",
+      "unit": "M"
+    },
+    {
+      "value": "1.27",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "49d",
+      "unit": "M"
+    },
+    {
+      "value": "0.67",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "50a",
+      "unit": "M"
+    },
+    {
+      "value": "0.32",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "50b",
+      "unit": "M"
+    },
+    {
+      "value": "2.44",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "50c",
+      "unit": "M"
+    },
+    {
+      "value": "0.15",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "50d",
+      "unit": "M"
+    },
+    {
+      "value": ">123",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "INH",
+      "unit": "M"
+    },
+    {
+      "value": "0.23",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "RIFAM PICIN",
+      "unit": "M"
+    },
+    {
+      "value": "4.71",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "Ciprofloxacin",
+      "unit": "M"
+    },
+    {
+      "value": "20",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "52",
+      "unit": "M"
+    },
+    {
+      "value": "18",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "53",
+      "unit": "M"
+    },
+    {
+      "value": "22",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "54",
+      "unit": "M"
+    },
+    {
+      "value": "32",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "54h",
+      "unit": "M"
+    },
+    {
+      "value": "35",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "54i",
+      "unit": "M"
+    },
+    {
+      "value": "38",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "54n",
+      "unit": "M"
+    },
+    {
+      "value": "40",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "54k",
+      "unit": "M"
+    },
+    {
+      "value": "41",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55n",
+      "unit": "M"
+    },
+    {
+      "value": "42",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55l",
+      "unit": "M"
+    },
+    {
+      "value": "43",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55m",
+      "unit": "M"
+    },
+    {
+      "value": "45",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55p",
+      "unit": "M"
+    },
+    {
+      "value": "50",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "54q",
+      "unit": "M"
+    },
+    {
+      "value": "52",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "54s",
+      "unit": "M"
+    },
+    {
+      "value": "53",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55r",
+      "unit": "M"
+    },
+    {
+      "value": "55",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55a",
+      "unit": "M"
+    },
+    {
+      "value": "55",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55b",
+      "unit": "M"
+    },
+    {
+      "value": "60",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55c",
+      "unit": "M"
+    },
+    {
+      "value": "60",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55d",
+      "unit": "M"
+    },
+    {
+      "value": "68",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55e",
+      "unit": "M"
+    },
+    {
+      "value": "70",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55f",
+      "unit": "M"
+    },
+    {
+      "value": "70",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55g",
+      "unit": "M"
+    },
+    {
+      "value": "70",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55h",
+      "unit": "M"
+    },
+    {
+      "value": "74",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56b",
+      "unit": "M"
+    },
+    {
+      "value": "75",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "55g",
+      "unit": "M"
+    },
+    {
+      "value": "80",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56c",
+      "unit": "M"
+    },
+    {
+      "value": "80",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56d",
+      "unit": "M"
+    },
+    {
+      "value": 78,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56e",
+      "unit": "M"
+    },
+    {
+      "value": 79,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56f",
+      "unit": "M"
+    },
+    {
+      "value": 76,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56g",
+      "unit": "M"
+    },
+    {
+      "value": 82,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56h",
+      "unit": "M"
+    },
+    {
+      "value": 83,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56i",
+      "unit": "M"
+    },
+    {
+      "value": 81,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56j",
+      "unit": "M"
+    },
+    {
+      "value": 81,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56k",
+      "unit": "M"
+    },
+    {
+      "value": 65,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56m",
+      "unit": "M"
+    },
+    {
+      "value": 63,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56l",
+      "unit": "M"
+    },
+    {
+      "value": 65,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56s",
+      "unit": "M"
+    },
+    {
+      "value": 76,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56q",
+      "unit": "M"
+    },
+    {
+      "value": 70,
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "56r",
+      "unit": "M"
+    },
+    {
+      "value": "0.15",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "65",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.44",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "66",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.13",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "67",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.87",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "68",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.44",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "69",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.73",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "70",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.47",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "71",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.83",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "72",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "52.2",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "74",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "3.7",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "75",
+      "unit": "\u00b5M"
+    }
+  ],
+  "num_tables_in_pdf": 4,
+  "num_gold_annotations": 179,
+  "elapsed_seconds": 232.0,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

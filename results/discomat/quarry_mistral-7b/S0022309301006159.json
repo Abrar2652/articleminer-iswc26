@@ -1,0 +1,234 @@
+{
+  "pii": "S0022309301006159",
+  "predictions": [
+    {
+      "sample_id": "NAP3",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAP3",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAP3",
+      "component": "P2O5",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP1",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP1",
+      "component": "Al2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP1",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP2",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP2",
+      "component": "Al2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP2",
+      "component": "Fe2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP3",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP3",
+      "component": "Al2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP3",
+      "component": "Fe2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NFP3",
+      "component": "Fe2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZAP1",
+      "component": "B2O3",
+      "value": 17.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZAFP2",
+      "component": "Al2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZAFP2",
+      "component": "P2O5",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZAFP1",
+      "component": "Al2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZAFP1",
+      "component": "Fe2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZFP1",
+      "component": "Fe2O3",
+      "value": 17.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZFT1",
+      "component": "Fe2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SiO 2 c",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E glass c",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S-Glass c",
+      "component": "SiO2",
+      "value": 87.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NaPO 3 c",
+      "component": "Na2O.3PO3",
+      "value": 36.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Zn PO 3 \u0086 2 c",
+      "component": "ZnO.2PO3",
+      "value": 42.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F40",
+      "component": "SiO2",
+      "value": 69.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAP3",
+      "component": "Na2O.3Al2O3.3P2O5",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP1",
+      "component": "Na2O.Al2O3.P2O5",
+      "value": 67.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP2",
+      "component": "Na2O.Al2O3.P2O5",
+      "value": 67.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NAFP3",
+      "component": "Na2O.Al2O3.P2O5",
+      "value": 68.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NFP3",
+      "component": "Na2O.3Al2O3.P2O5",
+      "value": 69.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZAP1",
+      "component": "ZnO.Al2O3.P2O5",
+      "value": 67.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZAFP2",
+      "component": "ZnO.Al2O3.P2O5",
+      "value": 66.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZAFP1",
+      "component": "ZnO.Al2O3.P2O5",
+      "value": 72.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZFP1",
+      "component": "ZnO.Al2O3.P2O5",
+      "value": 68.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZFT2",
+      "component": "ZnO.Al2O3.P2O5",
+      "value": 72.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZAP2",
+      "component": "ZnO.Al2O3.P2O5",
+      "value": 89.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 38,
+  "elapsed_seconds": 76.0,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

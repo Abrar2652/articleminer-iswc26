@@ -1,0 +1,767 @@
+{
+  "pii": "S0022309304004557",
+  "predictions": [
+    {
+      "sample_id": "ICE10",
+      "component": "Na2O",
+      "value": 37.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE11",
+      "component": "SiO2",
+      "value": 49.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE11",
+      "component": "CaO",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE11",
+      "component": "Na2O",
+      "value": 36.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE12",
+      "component": "SiO2",
+      "value": 53.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE12",
+      "component": "CaO",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE12",
+      "component": "Na2O",
+      "value": 33.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE13",
+      "component": "SiO2",
+      "value": 56.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE13",
+      "component": "CaO",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE13",
+      "component": "Na2O",
+      "value": 30.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE14",
+      "component": "SiO2",
+      "value": 61.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE14",
+      "component": "CaO",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE14",
+      "component": "Na2O",
+      "value": 25.17,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE15",
+      "component": "SiO2",
+      "value": 48.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE15",
+      "component": "CaO",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE15",
+      "component": "Na2O",
+      "value": 37.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE15",
+      "component": "K2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE16",
+      "component": "SiO2",
+      "value": 49.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE16",
+      "component": "CaO",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE16",
+      "component": "Na2O",
+      "value": 36.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE16",
+      "component": "K2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE17",
+      "component": "SiO2",
+      "value": 53.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE17",
+      "component": "CaO",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE17",
+      "component": "Na2O",
+      "value": 32.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE17",
+      "component": "K2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE18",
+      "component": "SiO2",
+      "value": 56.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE18",
+      "component": "CaO",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE18",
+      "component": "Na2O",
+      "value": 30.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE18",
+      "component": "K2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE19",
+      "component": "SiO2",
+      "value": 61.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE19",
+      "component": "CaO",
+      "value": 1.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE19",
+      "component": "Na2O",
+      "value": 25.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE19",
+      "component": "K2O",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE1",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE1",
+      "component": "CaO",
+      "value": 0.2308,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE1",
+      "component": "Na2O",
+      "value": 0.2638,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE2",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE2",
+      "component": "CaO",
+      "value": 0.2968,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE2",
+      "component": "Na2O",
+      "value": 0.1979,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE3",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE3",
+      "component": "CaO",
+      "value": 0.3627,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE3",
+      "component": "Na2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE4",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE4",
+      "component": "CaO",
+      "value": 0.4297,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE4",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE5",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE5",
+      "component": "CaO",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE6",
+      "component": "SiO2",
+      "value": 0.4846,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE6",
+      "component": "CaO",
+      "value": 0.3727,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE6",
+      "component": "Na2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE7",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE7",
+      "component": "CaO",
+      "value": 0.3627,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE7",
+      "component": "Na2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE8",
+      "component": "SiO2",
+      "value": 0.5346,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE8",
+      "component": "CaO",
+      "value": 0.3227,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE8",
+      "component": "Na2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE9",
+      "component": "SiO2",
+      "value": 0.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE9",
+      "component": "CaO",
+      "value": 0.3027,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE9",
+      "component": "Na2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE10",
+      "component": "SiO2",
+      "value": 0.4846,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE10",
+      "component": "CaO",
+      "value": 0.3727,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE10",
+      "component": "K2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE11",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE11",
+      "component": "CaO",
+      "value": 0.3627,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE11",
+      "component": "K2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE12",
+      "component": "SiO2",
+      "value": 0.5346,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE12",
+      "component": "CaO",
+      "value": 0.3227,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE12",
+      "component": "K2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE13",
+      "component": "SiO2",
+      "value": 0.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE13",
+      "component": "CaO",
+      "value": 0.3027,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE13",
+      "component": "K2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE14",
+      "component": "SiO2",
+      "value": 0.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE14",
+      "component": "CaO",
+      "value": 0.2527,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE14",
+      "component": "K2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE15",
+      "component": "SiO2",
+      "value": 0.4846,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE15",
+      "component": "CaO",
+      "value": 0.3727,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE15",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE15",
+      "component": "K2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE16",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE16",
+      "component": "CaO",
+      "value": 0.3627,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE16",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE16",
+      "component": "K2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE17",
+      "component": "SiO2",
+      "value": 0.5346,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE17",
+      "component": "CaO",
+      "value": 0.3227,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE17",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE17",
+      "component": "K2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE18",
+      "component": "SiO2",
+      "value": 0.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE18",
+      "component": "CaO",
+      "value": 0.3027,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE18",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE18",
+      "component": "K2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE19",
+      "component": "SiO2",
+      "value": 0.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE19",
+      "component": "CaO",
+      "value": 0.2527,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE19",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE19",
+      "component": "K2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE10",
+      "component": "SiO2",
+      "value": 0.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE10",
+      "component": "CaO",
+      "value": 0.2527,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE10",
+      "component": "Na2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE11",
+      "component": "SiO2",
+      "value": 0.4846,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE11",
+      "component": "CaO",
+      "value": 0.3727,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE12",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE12",
+      "component": "CaO",
+      "value": 0.3627,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE13",
+      "component": "SiO2",
+      "value": 0.5346,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE13",
+      "component": "CaO",
+      "value": 0.3227,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE14",
+      "component": "SiO2",
+      "value": 0.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE14",
+      "component": "CaO",
+      "value": 0.3027,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE15",
+      "component": "SiO2",
+      "value": 0.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE15",
+      "component": "CaO",
+      "value": 0.2527,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE15",
+      "component": "K2O",
+      "value": 0.1319,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE16",
+      "component": "SiO2",
+      "value": 0.4846,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE16",
+      "component": "CaO",
+      "value": 0.3727,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE17",
+      "component": "SiO2",
+      "value": 0.4946,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE17",
+      "component": "CaO",
+      "value": 0.3627,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE18",
+      "component": "SiO2",
+      "value": 0.5346,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE18",
+      "component": "CaO",
+      "value": 0.3227,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE19",
+      "component": "SiO2",
+      "value": 0.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE19",
+      "component": "CaO",
+      "value": 0.3027,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE20",
+      "component": "SiO2",
+      "value": 0.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE20",
+      "component": "CaO",
+      "value": 0.2527,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE20",
+      "component": "Na2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICE20",
+      "component": "K2O",
+      "value": 0.066,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Comp. from Lockyer et al. 1",
+      "component": "SiO2",
+      "value": 0.489,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Comp. from Lockyer et al. 1",
+      "component": "CaO",
+      "value": 0.105,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Comp. from Lockyer et al. 1",
+      "component": "Na2O",
+      "value": 0.37,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Comp. from Lockyer et al. 2",
+      "component": "SiO2",
+      "value": 0.487,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Comp. from Lockyer et al. 2",
+      "component": "CaO",
+      "value": 0.156,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Comp. from Lockyer et al. 2",
+      "component": "Na2O",
+      "value": 0.33,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 214,
+  "elapsed_seconds": 99.4,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

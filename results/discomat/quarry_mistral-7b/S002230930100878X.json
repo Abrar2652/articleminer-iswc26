@@ -1,0 +1,120 @@
+{
+  "pii": "S002230930100878X",
+  "predictions": [
+    {
+      "sample_id": "Al 2 O 3",
+      "component": "Al2O3",
+      "value": 4.76,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al 2 O 3",
+      "component": "Al2O3",
+      "value": 4.15,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al 2 O 3",
+      "component": "Al2O3",
+      "value": 4.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B 2 O 3",
+      "component": "B2O3",
+      "value": 19.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B 2 O 3",
+      "component": "B2O3",
+      "value": 18.87,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B 2 O 3",
+      "component": "B2O3",
+      "value": 16.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B 2 O 3",
+      "component": "B2O3",
+      "value": 17.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B 2 O 3",
+      "component": "B2O3",
+      "value": 16.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SiO 2",
+      "component": "SiO2",
+      "value": 57.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SiO 2",
+      "component": "SiO2",
+      "value": 56.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SiO 2",
+      "component": "SiO2",
+      "value": 49.81,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SiO 2",
+      "component": "SiO2",
+      "value": 53.11,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SiO 2",
+      "component": "SiO2",
+      "value": 49.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Na 2 O",
+      "component": "Na2O",
+      "value": 19.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Na 2 O",
+      "component": "Na2O",
+      "value": 18.87,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Na 2 O",
+      "component": "Na2O",
+      "value": 16.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Na 2 O",
+      "component": "Na2O",
+      "value": 17.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Na 2 O",
+      "component": "Na2O",
+      "value": 16.46,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 24,
+  "elapsed_seconds": 75.4,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

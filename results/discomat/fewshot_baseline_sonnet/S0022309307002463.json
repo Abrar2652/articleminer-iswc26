@@ -1,0 +1,115 @@
+{
+  "pdf_id": "S0022309307002463",
+  "predictions": [
+    {
+      "sample_id": "UB5",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "B2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB5",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "SiO2",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB10",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UB15",
+      "component": "UO3",
+      "value": 30.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 18.6,
+  "raw_preview": "I'll extract the composition information from the paper. The samples are described as:\n70 wt% [(65-x)SiO2 \u00b7 x B2O3 \u00b7 25Na2O \u00b7 5BaO \u00b7 5ZrO2] + 30 wt% UO3\n\nFor UB5 (x=5): host glass portion has 60SiO2\u00b75B2O3\u00b725Na2O\u00b75BaO\u00b75ZrO2 (mol%), combined with 30 wt% UO3\nFor UB10 (x=10): host glass portion has 55SiO2\u00b710B2O3\u00b725Na2O\u00b75BaO\u00b75ZrO2 (mol%), combined with 30 wt% UO3\nFor UB15 (x=15): host glass portion has 50SiO2\u00b715B2O3\u00b725Na2O\u00b75BaO\u00b75ZrO2 (mol%), combined with 30 wt% UO3\n\n{\"sample_id\": \"UB5\", \"component\":"
+}

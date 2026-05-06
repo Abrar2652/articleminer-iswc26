@@ -1,0 +1,193 @@
+{
+  "pdf_id": "S0022309303003685",
+  "predictions": [
+    {
+      "sample_id": "Glass",
+      "component": "Si",
+      "value": 22.82,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Al",
+      "value": 2.62,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "B",
+      "value": 4.68,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "P",
+      "value": 0.13,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Y",
+      "value": 0.15,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Zn",
+      "value": 2.01,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Ni",
+      "value": 0.58,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Eu",
+      "value": 0.81,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "La",
+      "value": 2.54,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Co",
+      "value": 0.09,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "O",
+      "value": 50.63,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "Si",
+      "value": 21.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "Al",
+      "value": 6.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "P",
+      "value": 0.37,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "Y",
+      "value": 0.45,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "Zn",
+      "value": 6.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "Ni",
+      "value": 1.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "Eu",
+      "value": 2.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "La",
+      "value": 8.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "Co",
+      "value": 0.28,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "O",
+      "value": 39.05,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "Si",
+      "value": 18.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "Al",
+      "value": 5.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "P",
+      "value": 0.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "Y",
+      "value": 0.54,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "Zn",
+      "value": 7.33,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "Ni",
+      "value": 2.12,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "Eu",
+      "value": 3.56,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "La",
+      "value": 11.17,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "Co",
+      "value": 0.35,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "O",
+      "value": 36.54,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 19.0,
+  "raw_preview": "I'll extract the composition data from Table 1 in the paper, which gives Glass, LR gel, and HR gel compositions in elemental wt%.\n\n{\"sample_id\": \"Glass\", \"component\": \"Si\", \"value\": 22.82, \"unit\": \"wt\"}\n{\"sample_id\": \"Glass\", \"component\": \"Al\", \"value\": 2.62, \"unit\": \"wt\"}\n{\"sample_id\": \"Glass\", \"component\": \"B\", \"value\": 4.68, \"unit\": \"wt\"}\n{\"sample_id\": \"Glass\", \"component\": \"P\", \"value\": 0.13, \"unit\": \"wt\"}\n{\"sample_id\": \"Glass\", \"component\": \"Y\", \"value\": 0.15, \"unit\": \"wt\"}\n{\"sample_id\": \"G"
+}

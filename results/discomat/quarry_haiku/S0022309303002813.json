@@ -1,0 +1,251 @@
+{
+  "pii": "S0022309303002813",
+  "predictions": [
+    {
+      "sample_id": "Chemical analysis",
+      "component": "SiO2",
+      "value": 65.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis",
+      "component": "Al2O3",
+      "value": 2.05,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis",
+      "component": "Fe2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis",
+      "component": "CaO",
+      "value": 5.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis",
+      "component": "MgO",
+      "value": 0.82,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis",
+      "component": "Mn2O3",
+      "value": 1.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis",
+      "component": "CuO",
+      "value": 1.02,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis",
+      "component": "K2O",
+      "value": 0.57,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis",
+      "component": "Na2O",
+      "value": 23.39,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis",
+      "component": "SiO2",
+      "value": 71.36,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis",
+      "component": "Al2O3",
+      "value": 2.06,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis",
+      "component": "Fe2O3",
+      "value": 0.54,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis",
+      "component": "CaO",
+      "value": 7.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis",
+      "component": "Mn2O3",
+      "value": 0.79,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis",
+      "component": "K2O",
+      "value": 0.37,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis",
+      "component": "Na2O",
+      "value": 17.88,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II\u2013I c. BC",
+      "component": "SiO2",
+      "value": 72.26,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II\u2013I c. BC",
+      "component": "Al2O3",
+      "value": 1.98,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II\u2013I c. BC",
+      "component": "Fe2O3",
+      "value": 0.78,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II\u2013I c. BC",
+      "component": "CaO",
+      "value": 7.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II\u2013I c. BC",
+      "component": "Mn2O3",
+      "value": 1.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II\u2013I c. BC",
+      "component": "K2O",
+      "value": 0.38,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II\u2013I c. BC",
+      "component": "Na2O",
+      "value": 16.38,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass IV c. AD",
+      "component": "SiO2",
+      "value": 63.63,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass IV c. AD",
+      "component": "Al2O3",
+      "value": 2.62,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass IV c. AD",
+      "component": "Fe2O3",
+      "value": 1.26,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass IV c. AD",
+      "component": "CaO",
+      "value": 8.28,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass IV c. AD",
+      "component": "MgO",
+      "value": 2.53,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass IV c. AD",
+      "component": "Mn2O3",
+      "value": 0.58,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass IV c. AD",
+      "component": "CuO",
+      "value": 0.62,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass IV c. AD",
+      "component": "K2O",
+      "value": 0.98,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass IV c. AD",
+      "component": "Na2O",
+      "value": 18.28,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glasses IV\u2013V AD",
+      "component": "SiO2",
+      "value": 68.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glasses IV\u2013V AD",
+      "component": "Al2O3",
+      "value": 2.52,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glasses IV\u2013V AD",
+      "component": "Fe2O3",
+      "value": 0.81,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glasses IV\u2013V AD",
+      "component": "CaO",
+      "value": 6.98,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glasses IV\u2013V AD",
+      "component": "MgO",
+      "value": 1.03,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glasses IV\u2013V AD",
+      "component": "Mn2O3",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glasses IV\u2013V AD",
+      "component": "K2O",
+      "value": 1.13,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glasses IV\u2013V AD",
+      "component": "Na2O",
+      "value": 18.63,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 48,
+  "elapsed_seconds": 25.2,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

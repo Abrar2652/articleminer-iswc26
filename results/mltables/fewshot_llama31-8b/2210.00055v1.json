@@ -1,0 +1,674 @@
+{
+  "pdf_id": "2210.00055v1",
+  "predictions": [
+    {
+      "value": "5",
+      "type": "Other",
+      "dataset": "None",
+      "metric": "None"
+    },
+    {
+      "value": "4",
+      "type": "Other",
+      "dataset": "None",
+      "metric": "None"
+    },
+    {
+      "value": "99",
+      "type": "Data Stat.",
+      "dataset": "MNIST",
+      "sub-set/group name": "training set",
+      "attribute name": "percentage of class 0 data",
+      "dataset features": "None"
+    },
+    {
+      "value": "1",
+      "type": "Data Stat.",
+      "dataset": "MNIST",
+      "sub-set/group name": "training set",
+      "attribute name": "percentage of class 1 data",
+      "dataset features": "None"
+    },
+    {
+      "value": "60",
+      "type": "Result",
+      "training data/set": "ERM",
+      "test data/set": "Waterbirds",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": "80.8",
+      "type": "Result",
+      "training data/set": "ERM",
+      "test data/set": "Waterbirds",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": "78",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "Waterbirds",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": "91.3",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "Waterbirds",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": "88.3",
+      "type": "Result",
+      "training data/set": "Group DRO",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "91.8",
+      "type": "Result",
+      "training data/set": "Group DRO",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "64.4",
+      "type": "Result",
+      "training data/set": "CVaR DRO",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "training data/set": "CVaR DRO",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "77.2",
+      "type": "Result",
+      "training data/set": "LFF",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "training data/set": "LFF",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "83.2",
+      "type": "Result",
+      "training data/set": "SD",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "91.6",
+      "type": "Result",
+      "training data/set": "SD",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "training data/set": "JTT",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "88",
+      "type": "Result",
+      "training data/set": "JTT",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "training data/set": "CIM",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "training data/set": "CIM",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "47.2",
+      "type": "Result",
+      "training data/set": "ERM",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "training data/set": "ERM",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "36.1",
+      "type": "Result",
+      "training data/set": "CVaR DRO",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "training data/set": "CVaR DRO",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "24.4",
+      "type": "Result",
+      "training data/set": "LFF",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "training data/set": "LFF",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "40.6",
+      "type": "Result",
+      "training data/set": "JTT",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "88",
+      "type": "Result",
+      "training data/set": "JTT",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "55",
+      "type": "Result",
+      "training data/set": "Div Dis",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "90.8",
+      "type": "Result",
+      "training data/set": "Div Dis",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "78",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "Celeb A",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "91.3",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "Celeb A",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": "89.3",
+      "type": "Result",
+      "training data/set": "Group DRO",
+      "test data/set": "Waterbirds",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "training data/set": "Group DRO",
+      "test data/set": "Waterbirds",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": "86.4",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "Waterbirds",
+      "task": "Worst-group accuracy",
+      "metric": "accuracy",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": "93",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "Waterbirds",
+      "task": "Average accuracy",
+      "metric": "accuracy",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": "96.3",
+      "type": "Result",
+      "training data/set": "Baseline",
+      "test data/set": "Background Challenge",
+      "task": "Original",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "training data/set": "Baseline",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-same",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "75.6",
+      "type": "Result",
+      "training data/set": "Baseline",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-rand",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "85.6",
+      "type": "Result",
+      "training data/set": "Baseline",
+      "test data/set": "Background Challenge",
+      "task": "Only-FG",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "97.7",
+      "type": "Result",
+      "training data/set": "CIM",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-same",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "training data/set": "CIM",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-rand",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "training data/set": "CIM",
+      "test data/set": "Background Challenge",
+      "task": "Only-FG",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "training data/set": "SIN",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-rand",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "73.1",
+      "type": "Result",
+      "training data/set": "SIN",
+      "test data/set": "Background Challenge",
+      "task": "Only-FG",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "63.7",
+      "type": "Result",
+      "training data/set": "SIN",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-same",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "94.7",
+      "type": "Result",
+      "training data/set": "INSIN",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-same",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "85.9",
+      "type": "Result",
+      "training data/set": "INSIN",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-rand",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "78.5",
+      "type": "Result",
+      "training data/set": "INSIN",
+      "test data/set": "Background Challenge",
+      "task": "Only-FG",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "94.2",
+      "type": "Result",
+      "training data/set": "INCGN",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-same",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "83.4",
+      "type": "Result",
+      "training data/set": "INCGN",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-rand",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "80.1",
+      "type": "Result",
+      "training data/set": "INCGN",
+      "test data/set": "Background Challenge",
+      "task": "Only-FG",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-same",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "Background Challenge",
+      "task": "Mixed-rand",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "Background Challenge",
+      "task": "Only-FG",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "Background Challenge",
+      "task": "Original",
+      "metric": "accuracy",
+      "dataset": "Background Challenge"
+    },
+    {
+      "value": "99.99",
+      "type": "Result",
+      "training data/set": "SR",
+      "test data/set": "CIFAR-10",
+      "task": "100% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "9.58",
+      "type": "Result",
+      "training data/set": "SR",
+      "test data/set": "CIFAR-10",
+      "task": "100% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "training data/set": "SN",
+      "test data/set": "CIFAR-10",
+      "task": "100% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "11.07",
+      "type": "Result",
+      "training data/set": "SN",
+      "test data/set": "CIFAR-10",
+      "task": "100% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "training data/set": "DG",
+      "test data/set": "CIFAR-10",
+      "task": "100% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "10.81",
+      "type": "Result",
+      "training data/set": "DG",
+      "test data/set": "CIFAR-10",
+      "task": "100% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "training data/set": "OSP",
+      "test data/set": "CIFAR-10",
+      "task": "100% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "9.74",
+      "type": "Result",
+      "training data/set": "OSP",
+      "test data/set": "CIFAR-10",
+      "task": "100% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "99.99",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "CIFAR-10",
+      "task": "100% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "8.96",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "CIFAR-10",
+      "task": "100% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "95.2",
+      "type": "Result",
+      "training data/set": "SR",
+      "test data/set": "CIFAR-10",
+      "task": "95% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "8.74",
+      "type": "Result",
+      "training data/set": "SR",
+      "test data/set": "CIFAR-10",
+      "task": "95% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "94.7",
+      "type": "Result",
+      "training data/set": "SN",
+      "test data/set": "CIFAR-10",
+      "task": "95% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "8.34",
+      "type": "Result",
+      "training data/set": "SN",
+      "test data/set": "CIFAR-10",
+      "task": "95% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "training data/set": "DG",
+      "test data/set": "CIFAR-10",
+      "task": "95% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "8.21",
+      "type": "Result",
+      "training data/set": "DG",
+      "test data/set": "CIFAR-10",
+      "task": "95% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "training data/set": "OSP",
+      "test data/set": "CIFAR-10",
+      "task": "95% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "6.98",
+      "type": "Result",
+      "training data/set": "OSP",
+      "test data/set": "CIFAR-10",
+      "task": "95% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    },
+    {
+      "value": "94.86",
+      "type": "Result",
+      "training data/set": "Mask Tune",
+      "test data/set": "CIFAR-10",
+      "task": "95% coverage",
+      "metric": "coverage error",
+      "dataset": "CIFAR-10"
+    }
+  ],
+  "elapsed_seconds": 210.2,
+  "raw_preview": "{\"value\": \"5\", \"type\": \"Other\", \"dataset\": \"None\", \"metric\": \"None\"}\n{\"value\": \"4\", \"type\": \"Other\", \"dataset\": \"None\", \"metric\": \"None\"}\n{\"value\": \"99\", \"type\": \"Data Stat.\", \"dataset\": \"MNIST\", \"sub-set/group name\": \"training set\", \"attribute name\": \"percentage of class 0 data\", \"dataset features\": \"None\"}\n{\"value\": \"1\", \"type\": \"Data Stat.\", \"dataset\": \"MNIST\", \"sub-set/group name\": \"training set\", \"attribute name\": \"percentage of class 1 data\", \"dataset features\": \"None\"}\n{\"value\": \"60\", \"ty"
+}

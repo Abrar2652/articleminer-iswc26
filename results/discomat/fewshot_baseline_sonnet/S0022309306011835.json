@@ -1,0 +1,139 @@
+{
+  "pdf_id": "S0022309306011835",
+  "predictions": [
+    {
+      "sample_id": "C1",
+      "component": "Li2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C2",
+      "component": "Li2O",
+      "value": 0.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C2",
+      "component": "Na2O",
+      "value": 0.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C2",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C2",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C3",
+      "component": "Li2O",
+      "value": 0.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C3",
+      "component": "Na2O",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C3",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C3",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C4",
+      "component": "Li2O",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C4",
+      "component": "Na2O",
+      "value": 0.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C4",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C4",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C5",
+      "component": "Li2O",
+      "value": 0.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C5",
+      "component": "Na2O",
+      "value": 0.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C5",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C5",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C7",
+      "component": "Na2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C7",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C7",
+      "component": "SiO2",
+      "value": 4.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 23.8,
+  "raw_preview": "Looking at the paper text, I can identify the glass system (1-x)Li2O\u2013xNa2O\u2013Al2O3\u20134SiO2 with samples C1 through C7, and a table reference \"Table 1 Stoichiometry of mixed alkali\" with sample C1 at x=0 mentioned. The text describes x ranging from 0 to 1 with samples C1-C7.\n\nFrom the system formula and the context (x values 0, 0.2, 0.4, 0.6, 0.8, 1.0 implied for C1-C7, with Al2O3=1 mol and SiO2=4 mol constant), I can extract the compositions:\n\n{\"sample_id\": \"C1\", \"component\": \"Li2O\", \"value\": 1.0, \""
+}

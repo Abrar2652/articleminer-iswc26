@@ -1,0 +1,217 @@
+{
+  "pii": "S0022309303007592",
+  "predictions": [
+    {
+      "sample_id": "T1",
+      "component": "SiO2",
+      "value": 21.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T1",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T1",
+      "component": "Li2O",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T1",
+      "component": "Al2O3",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T2",
+      "component": "SiO2",
+      "value": 13.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T2",
+      "component": "P2O5",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T2",
+      "component": "Li2O",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T2",
+      "component": "Al2O3",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T2",
+      "component": "TiO2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T3",
+      "component": "SiO2",
+      "value": 11.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T3",
+      "component": "P2O5",
+      "value": 41.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T3",
+      "component": "Li2O",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T3",
+      "component": "Al2O3",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T3",
+      "component": "TiO2",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T4",
+      "component": "SiO2",
+      "value": 10.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T4",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T4",
+      "component": "Li2O",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T4",
+      "component": "Al2O3",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "T4",
+      "component": "TiO2",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "SiO2",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "P2O5",
+      "value": 42.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "Li2O",
+      "value": 32.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "Al2O3",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "TiO2",
+      "value": 8.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "SiO2",
+      "value": 14.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "P2O5",
+      "value": 42.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "Li2O",
+      "value": 30.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "Al2O3",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "TiO2",
+      "value": 8.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "SiO2",
+      "value": 17.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "P2O5",
+      "value": 42.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "Li2O",
+      "value": 27.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "Al2O3",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "TiO2",
+      "value": 8.5,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 34,
+  "elapsed_seconds": 27.6,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

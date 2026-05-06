@@ -1,0 +1,157 @@
+{
+  "pdf_id": "S0022309307006758",
+  "predictions": [
+    {
+      "sample_id": "Table1_MW",
+      "component": "SiO2",
+      "value": 60.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_MW",
+      "component": "B2O3",
+      "value": 18.57,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_MW",
+      "component": "Na2O",
+      "value": 10.53,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_MW",
+      "component": "Li2O",
+      "value": 10.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_MW",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsAlMW",
+      "component": "SiO2",
+      "value": 60.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsAlMW",
+      "component": "B2O3",
+      "value": 18.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsAlMW",
+      "component": "Na2O",
+      "value": 10.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsAlMW",
+      "component": "Li2O",
+      "value": 10.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsAlMW",
+      "component": "Al2O3",
+      "value": 0.95,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsAlMW",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsLaMW",
+      "component": "SiO2",
+      "value": 59.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsLaMW",
+      "component": "B2O3",
+      "value": 18.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsLaMW",
+      "component": "Na2O",
+      "value": 10.35,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsLaMW",
+      "component": "Li2O",
+      "value": 10.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsLaMW",
+      "component": "La2O3",
+      "value": 1.68,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table1_CsLaMW",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table2_Danburite",
+      "component": "Cs2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table2_Danburite",
+      "component": "B2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table2_Danburite",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table2_Danburite",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table2_Reedmergnerite",
+      "component": "Cs2O",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table2_Reedmergnerite",
+      "component": "B2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table2_Reedmergnerite",
+      "component": "SiO2",
+      "value": 75.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Table2_Reedmergnerite",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 23.7,
+  "raw_preview": "I'll extract all material-composition entries from the paper text, focusing on Table 1 and Table 2.\n\nFrom Table 1 (Starting compositions of the borosilicate glass systems):\n\n{\"sample_id\": \"Table1_MW\", \"component\": \"SiO2\", \"value\": 60.61, \"unit\": \"mol\"}\n{\"sample_id\": \"Table1_MW\", \"component\": \"B2O3\", \"value\": 18.57, \"unit\": \"mol\"}\n{\"sample_id\": \"Table1_MW\", \"component\": \"Na2O\", \"value\": 10.53, \"unit\": \"mol\"}\n{\"sample_id\": \"Table1_MW\", \"component\": \"Li2O\", \"value\": 10.29, \"unit\": \"mol\"}\n{\"sample_i"
+}

@@ -1,0 +1,55 @@
+{
+  "pdf_id": "S0022309307012951",
+  "predictions": [
+    {
+      "sample_id": "SG30",
+      "component": "SiO2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG30",
+      "component": "GeO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG50",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG50",
+      "component": "GeO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG65",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG65",
+      "component": "GeO2",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG80",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG80",
+      "component": "GeO2",
+      "value": 20.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 13.7,
+  "raw_preview": "Looking at the paper, the glass compositions are described as (SiO2)x(GeO2)100-x with x = 30%, 50%, 65%, and 80% SiO2. The samples are designated SG30, SG50, SG65, and SG80 where x represents the amount of SiO2 in mol%.\n\n{\"sample_id\": \"SG30\", \"component\": \"SiO2\", \"value\": 30.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG30\", \"component\": \"GeO2\", \"value\": 70.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG50\", \"component\": \"SiO2\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG50\", \"component\": \"GeO2\", \"value\": 50.0, \"u"
+}

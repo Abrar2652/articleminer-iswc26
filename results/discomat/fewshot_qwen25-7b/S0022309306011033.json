@@ -1,0 +1,49 @@
+{
+  "pdf_id": "S0022309306011033",
+  "predictions": [
+    {
+      "sample_id": "Fe",
+      "component": "Na2O",
+      "value": 98.45,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe",
+      "component": "Fe2O3",
+      "value": 1.55,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca",
+      "component": "Na2O",
+      "value": 88.81,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca",
+      "component": "CaO",
+      "value": 11.19,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Mg",
+      "component": "Na2O",
+      "value": 86.09,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Mg",
+      "component": "MgO",
+      "value": 13.91,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Mg",
+      "component": "Fe2O3",
+      "value": 0.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 12.7,
+  "raw_preview": ", applying this to the given paper:\n\nFe Glasses:\n{\"sample_id\": \"Fe\", \"component\": \"Na2O\", \"value\": 98.45, \"unit\": \"wt\"}\n{\"sample_id\": \"Fe\", \"component\": \"Fe2O3\", \"value\": 1.55, \"unit\": \"wt\"}\n\nCa Glasses:\n{\"sample_id\": \"Ca\", \"component\": \"Na2O\", \"value\": 88.81, \"unit\": \"wt\"}\n{\"sample_id\": \"Ca\", \"component\": \"CaO\", \"value\": 11.19, \"unit\": \"wt\"}\n\nMg Glasses:\n{\"sample_id\": \"Mg\", \"component\": \"Na2O\", \"value\": 86.09, \"unit\": \"wt\"}\n{\"sample_id\": \"Mg\", \"component\": \"MgO\", \"value\": 13.91, \"unit\": \"wt\"}\n{"
+}

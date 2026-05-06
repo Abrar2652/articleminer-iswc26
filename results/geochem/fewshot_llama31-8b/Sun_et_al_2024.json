@@ -1,0 +1,217 @@
+{
+  "paper": "Sun_et_al_2024",
+  "model": "llama31-8b",
+  "n_rows": 19,
+  "rows": [
+    {
+      "sample_id": "Sp2",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 0.1,
+        "Mn": 0.1,
+        "Cd": 0.1,
+        "In": 0.1,
+        "Ga": 0.1,
+        "Cu": 0.1,
+        "Ag": 0.1,
+        "Sb": 0.1
+      }
+    },
+    {
+      "sample_id": "Sp1",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Zn": 61300,
+        "Fe": 299,
+        "Mn": -0.5,
+        "Co": 137,
+        "Cu": 33.7,
+        "Ga": 0.27,
+        "Ge": 2.04,
+        "As": 24.1,
+        "Se": -0.5,
+        "Ag": 5020,
+        "Cd": -0.5,
+        "In": -0.5,
+        "Sn": -0.5,
+        "Sb": -0.5,
+        "Pb": -0.5
+      }
+    },
+    {
+      "sample_id": "Sp 13-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04928439,
+        "Zn": 4.44e-06,
+        "Fe": 0.008489406
+      }
+    },
+    {
+      "sample_id": "Sp 13-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04928773,
+        "Zn": 3.73e-06,
+        "Fe": 0.008496112
+      }
+    },
+    {
+      "sample_id": "Sp 13-3",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04930844,
+        "Zn": 4.11e-06,
+        "Fe": 0.008480907
+      }
+    },
+    {
+      "sample_id": "Sp 13-4",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04929799,
+        "Zn": 3.51e-06,
+        "Fe": 0.008472637
+      }
+    },
+    {
+      "sample_id": "Sp 13-5",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04928793,
+        "Zn": 3.38e-06,
+        "Fe": 0.008468424
+      }
+    },
+    {
+      "sample_id": "Sp 13-6",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04931123,
+        "Zn": 3.21e-06,
+        "Fe": 0.008467549
+      }
+    },
+    {
+      "sample_id": "Sp 13-7",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04927738,
+        "Zn": 3.61e-06,
+        "Fe": 0.008466566
+      }
+    },
+    {
+      "sample_id": "Sp 13-8",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04929779,
+        "Zn": 3.48e-06,
+        "Fe": 0.008465699
+      }
+    },
+    {
+      "sample_id": "Sp 15-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04927597,
+        "Zn": 3.51e-06,
+        "Fe": 0.008545215
+      }
+    },
+    {
+      "sample_id": "Sp 15-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04929378,
+        "Zn": 3.57e-06,
+        "Fe": 0.008526817
+      }
+    },
+    {
+      "sample_id": "Sp 15-3",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04927701,
+        "Zn": 3.51e-06,
+        "Fe": 0.008537929
+      }
+    },
+    {
+      "sample_id": "Sp 15-4",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04929392,
+        "Zn": 3.41e-06,
+        "Fe": 0.008549706
+      }
+    },
+    {
+      "sample_id": "Sp 15-5",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04928202,
+        "Zn": 3.2e-06,
+        "Fe": 0.008530514
+      }
+    },
+    {
+      "sample_id": "Sp 15-6",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04928862,
+        "Zn": 4.04e-06,
+        "Fe": 0.008530525
+      }
+    },
+    {
+      "sample_id": "Sp 15-7",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04929135,
+        "Zn": 4.57e-06,
+        "Fe": 0.008527371
+      }
+    },
+    {
+      "sample_id": "Sp 15-8",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04929792,
+        "Zn": 5.02e-06,
+        "Fe": 0.008529363
+      }
+    },
+    {
+      "sample_id": "Sp 15-9",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Pb": 0.04930753,
+        "Zn": 3.74e-06,
+        "Fe": 0.008515428
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "{\"sample_id\":\"Sp2\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Fe\":0.1,\"Mn\":0.1,\"Cd\":0.1,\"In\":0.1,\"Ga\":0.1,\"Cu\":0.1,\"Ag\":0.1,\"Sb\":0.1}}",
+  "elapsed_seconds": 346.3
+}

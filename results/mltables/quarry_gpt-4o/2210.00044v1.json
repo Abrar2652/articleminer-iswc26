@@ -1,0 +1,69 @@
+{
+  "arxiv_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": "0.27",
+      "type": "Result",
+      "model": "Unknown",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "0.15",
+      "type": "Result",
+      "model": "Unknown",
+      "dataset": "VQA",
+      "metric": "BWT",
+      "task": "classification"
+    },
+    {
+      "value": "0.25",
+      "type": "Result",
+      "model": "Unknown",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "0.18",
+      "type": "Result",
+      "model": "Unknown",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "classification"
+    },
+    {
+      "value": "0.22",
+      "type": "Result",
+      "model": "Unknown",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "0.16",
+      "type": "Result",
+      "model": "Unknown",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "0.12",
+      "type": "Result",
+      "model": "Unknown",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "classification"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 172.6,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

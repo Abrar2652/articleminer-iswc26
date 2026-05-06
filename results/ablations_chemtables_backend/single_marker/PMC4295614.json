@@ -1,0 +1,536 @@
+{
+  "pmc_id": "PMC4295614",
+  "predictions": [
+    {
+      "value": "11.00",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "35a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "11.00",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "35a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "5.15",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "35b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "5.19",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "35b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "20.94",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "35c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "20.94",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "35c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "18.91",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "35d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "9.47",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "35d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.34",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "36a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2.64",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "36a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.93",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "36b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "39.50",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "36b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "10.01",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "36c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "5.02",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "36c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.58",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "36d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2.29",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "36d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "9.81",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "37a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19.60",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "37a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.59",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "37b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2.34",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "37b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "8.60",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "37c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "17.17",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "37c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.09",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "37d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.30",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "37d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.93",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "38a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19.75",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "38a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.66",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "38b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "9.36",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "38b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "9.47",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "38c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "18.91",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "38c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2.15",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "38d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "8.63",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "38d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.53",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "39a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2.08",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "39a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.01",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "39b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "7.97",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "39b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "7.46",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "39c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "29.80",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "39c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.47",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "39d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.87",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "39d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "20.87",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "40a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "20.87",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "40a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.63",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "40b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2.48",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "40b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "9.08",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "40c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "18.14",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "40c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.15",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "40d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2.28",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "40d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "20.87",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "41a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "10.45",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "41a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.63",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "41b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2.48",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "41b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.52",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "41c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "18.14",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "41c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.51",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "41d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.51",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "41d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "9.78",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "42a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.87",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "42a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.18",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "42b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.64",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "42b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.27",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "42c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "17.13",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "42c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.26",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "42d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "4.26",
+      "type": "MIC",
+      "target": "M. tuberculosis MC2",
+      "treatment": "42d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.15",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "65",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.44",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "66",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.13",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "67",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.87",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "68",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.44",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "69",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.73",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "70",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.47",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "71",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.83",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "72",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.60",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "73",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "52.2",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "74",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "3.7",
+      "type": "MIC",
+      "target": "MTB",
+      "treatment": "75",
+      "unit": "\u00b5M"
+    }
+  ],
+  "num_tables_in_pdf": 4,
+  "num_gold_annotations": 179,
+  "elapsed_seconds": 61.9,
+  "backends": [
+    "marker"
+  ]
+}

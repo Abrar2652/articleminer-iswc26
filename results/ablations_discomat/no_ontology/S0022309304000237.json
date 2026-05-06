@@ -1,0 +1,26 @@
+{
+  "pdf_id": "S0022309304000237",
+  "predictions": [
+    {
+      "sample_id": "B6",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_annotations": 74,
+  "ablation": "no_ontology",
+  "elapsed_seconds": 36.7
+}

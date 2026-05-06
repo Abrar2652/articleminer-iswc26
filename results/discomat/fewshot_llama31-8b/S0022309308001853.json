@@ -1,0 +1,661 @@
+{
+  "pdf_id": "S0022309308001853",
+  "predictions": [
+    {
+      "sample_id": "24Na2O\u201376Si O2",
+      "component": "SiO2",
+      "value": 76.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "24Na2O\u201376Si O2",
+      "component": "Na2O",
+      "value": 24.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "B2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "ZrO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 72.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Na",
+      "value": 27.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 36.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "B2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "ZrO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "B\u2013O\u2013B",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013Zr",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "NBO",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 71.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Na",
+      "value": 28.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 36.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "B\u2013O\u2013B",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013Zr",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "NBO",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 72.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Na",
+      "value": 27.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 36.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "B\u2013O\u2013B",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013Zr",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "NBO",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 72.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Na",
+      "value": 27.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 36.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "B\u2013O\u2013B",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013Zr",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "NBO",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 72.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Na",
+      "value": 27.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 36.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "B\u2013O\u2013B",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013Zr",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "NBO",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 72.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Na",
+      "value": 27.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 36.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "B\u2013O\u2013B",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013Zr",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "NBO",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 72.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Na",
+      "value": 27.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 36.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "B\u2013O\u2013B",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013Zr",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Zr\u2013O\u2013B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "NBO",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 72.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Na",
+      "value": 27.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013B",
+      "value": 36.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013(Ca,Na)",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si glass",
+      "component": "Si\u2013O\u2013Zr",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O\u2013Si\u2013Zr glass",
+      "component": "Si\u2013O\u2013Si",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 211.6,
+  "raw_preview": "Here are the extracted material-composition entries in JSON format, one per line:\n\n{\"sample_id\": \"24Na2O\u201376Si O2\", \"component\": \"SiO2\", \"value\": 76.0, \"unit\": \"mol\"}\n{\"sample_id\": \"24Na2O\u201376Si O2\", \"component\": \"Na2O\", \"value\": 24.0, \"unit\": \"mol\"}\n{\"sample_id\": \"17O\u2013Si glass\", \"component\": \"SiO2\", \"value\": 100.0, \"unit\": \"mol\"}\n{\"sample_id\": \"17O\u2013Si glass\", \"component\": \"Na2O\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_id\": \"17O\u2013Si glass\", \"component\": \"B2O3\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_"
+}

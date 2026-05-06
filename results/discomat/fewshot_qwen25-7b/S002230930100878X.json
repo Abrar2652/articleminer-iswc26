@@ -1,0 +1,19 @@
+{
+  "pdf_id": "S002230930100878X",
+  "predictions": [
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "V2O5",
+      "value": 10.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 18.3,
+  "raw_preview": "S0022309315000526_0_1_TV-10\", \"component\": \"ZnO\", \"value\": 5.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309315000526_0_1_TV-10\", \"component\": \"TiO2\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309315000526_0_1_TV-10\", \"component\": \"V2O5\", \"value\": 10.0, \"unit\": \"mol\"}"
+}

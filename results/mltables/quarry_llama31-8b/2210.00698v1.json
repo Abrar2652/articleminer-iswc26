@@ -1,0 +1,66 @@
+{
+  "arxiv_id": "2210.00698v1",
+  "predictions": [
+    {
+      "value": "81.8",
+      "type": "Result",
+      "metric": "mIOU(%)",
+      "dataset": "Mapillary"
+    },
+    {
+      "value": "81.6",
+      "type": "Result",
+      "metric": "mIOU(%)",
+      "dataset": "Mapillary"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "metric": "mIOU(%)",
+      "dataset": "Mapillary"
+    },
+    {
+      "value": "81.4",
+      "type": "Result",
+      "metric": "mIOU(%)",
+      "dataset": "Mapillary"
+    },
+    {
+      "value": "82.1",
+      "type": "Result",
+      "metric": "mIOU(%)",
+      "dataset": "Mapillary"
+    },
+    {
+      "value": "81.7",
+      "type": "Result",
+      "metric": "mIOU(%)",
+      "dataset": "Mapillary"
+    },
+    {
+      "value": "68.67",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "Ours"
+    },
+    {
+      "value": "17.20",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "Ours + RSP"
+    },
+    {
+      "value": "70.37",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "HRNetV2+OCR"
+    }
+  ],
+  "num_gold_annotations": 33,
+  "elapsed_seconds": 46.0,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

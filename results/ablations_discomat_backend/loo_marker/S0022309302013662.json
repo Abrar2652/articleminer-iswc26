@@ -1,0 +1,97 @@
+{
+  "pii": "S0022309302013662",
+  "predictions": [
+    {
+      "sample_id": "Na3S4",
+      "component": "La2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Na3S4",
+      "component": "Na2O",
+      "value": 24.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Na3S4",
+      "component": "SiO2",
+      "value": 72.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Na3S10",
+      "component": "La2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Na3S10",
+      "component": "Na2O",
+      "value": 22.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Na3S10",
+      "component": "SiO2",
+      "value": 67.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NaLa4",
+      "component": "La2O3",
+      "value": 1.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NaLa4",
+      "component": "Na2O",
+      "value": 21.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NaLa4",
+      "component": "SiO2",
+      "value": 77.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NaLa12",
+      "component": "La2O3",
+      "value": 4.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NaLa12",
+      "component": "Na2O",
+      "value": 14.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NaLa12",
+      "component": "SiO2",
+      "value": 81.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SiLa4",
+      "component": "La2O3",
+      "value": 1.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SiLa4",
+      "component": "SiO2",
+      "value": 98.3,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 17,
+  "elapsed_seconds": 23.8,
+  "backends": [
+    "docling",
+    "mineru",
+    "pdfplumber",
+    "camelot"
+  ]
+}

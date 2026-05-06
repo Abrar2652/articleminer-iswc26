@@ -1,0 +1,31 @@
+{
+  "pdf_id": "S0022309301006159",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1",
+      "component": "GeO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1",
+      "component": "La2O3",
+      "value": 29.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1",
+      "component": "Er2O3",
+      "value": 0.5,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 9.7,
+  "raw_preview": "{\"sample_id\": \"S0022309303006537_0_1\", \"component\": \"SiO2\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1\", \"component\": \"GeO2\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1\", \"component\": \"La2O3\", \"value\": 29.5, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1\", \"component\": \"Er2O3\", \"value\": 0.5, \"unit\": \"mol\"}"
+}

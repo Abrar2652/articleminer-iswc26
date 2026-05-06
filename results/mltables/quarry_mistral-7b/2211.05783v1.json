@@ -1,0 +1,3050 @@
+{
+  "arxiv_id": "2211.05783v1",
+  "predictions": [
+    {
+      "value": 18.83,
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 3.42,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 6.49,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 49.65,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 6.45,
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.75,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 7.17,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 38.19,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 1.7,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 3.41,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 29.78,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 3.32,
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.73,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 3.84,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 20.58,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 4.93,
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.99,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 5.71,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 2.1,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param",
+      "model": "cost volume + conv"
+    },
+    {
+      "value": 18.83,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 8.57,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 11.13,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 52.07,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 8.44,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 2.71,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 11.6,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 42.1,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 10.28,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 3.11,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 13.83,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 53.34,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "Param"
+    },
+    {
+      "value": 1,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": 11.45,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 2.98,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 4.68,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 28.35,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 4.12,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.27,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 5.08,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 22.25,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 6.11,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 7.89,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 8.59,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.8,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 3.28,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 21.99,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 3.09,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.9,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 3.66,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 17.37,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 2.43,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.67,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 2.73,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 14.23,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 3.78,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.01,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 4.27,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 22.37,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 3.1,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": 7.19,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.4,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 2.62,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 18.66,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 6.67,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.26,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 2.4,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 2.28,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.58,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 2.49,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 13.89,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 3.44,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.8,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 3.97,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 21.02,
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 4.2,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": 6.67,
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 5.79,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 7.74,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 40.03,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 6.36,
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 2.15,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 8.53,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 31.53,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 8,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param",
+      "model": "conv + softmax"
+    },
+    {
+      "value": 6.67,
+      "type": "Result",
+      "model": "full",
+      "dataset": "Things (val).clean",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 2.28,
+      "type": "Result",
+      "model": "full",
+      "dataset": "Sintel (train).clean",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 3.44,
+      "type": "Result",
+      "model": "full",
+      "dataset": "Sintel (train).final",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 10.84,
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Things (val).clean",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 4.48,
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Sintel (train).clean",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 6.32,
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Sintel (train).final",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 8.38,
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Things (val).clean",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 2.85,
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Sintel (train).clean",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 4.28,
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Sintel (train).final",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 8.71,
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Things (val).clean",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 3.1,
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Sintel (train).clean",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 4.43,
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Sintel (train).final",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 7.04,
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Things (val).clean",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 2.49,
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Sintel (train).clean",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 3.69,
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Sintel (train).final",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 4.2,
+      "type": "Data Stat.",
+      "dataset": "Things (val).clean",
+      "attribute name": "number of parameters (M)"
+    },
+    {
+      "value": 4.2,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train).clean",
+      "attribute name": "number of parameters (M)"
+    },
+    {
+      "value": 3.8,
+      "type": "Hyper-parameter/Architecture",
+      "model": "w/o cross attn.",
+      "parameter/architecture name": "number of parameters (M)"
+    },
+    {
+      "value": 3.8,
+      "type": "Hyper-parameter/Architecture",
+      "model": "w/o position",
+      "parameter/architecture name": "number of parameters (M)"
+    },
+    {
+      "value": 3.8,
+      "type": "Hyper-parameter/Architecture",
+      "model": "w/o FFN",
+      "parameter/architecture name": "number of parameters (M)"
+    },
+    {
+      "value": 3.8,
+      "type": "Hyper-parameter/Architecture",
+      "model": "w/o self attn.",
+      "parameter/architecture name": "number of parameters (M)"
+    },
+    {
+      "value": 1.8,
+      "type": "Hyper-parameter/Architecture",
+      "model": "w/o FFN",
+      "parameter/architecture name": "number of parameters (M)"
+    },
+    {
+      "value": 6.67,
+      "type": "Result",
+      "model": "global",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.26,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 0-10, number of samples"
+    },
+    {
+      "value": 2.4,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 10-40, number of samples"
+    },
+    {
+      "value": 17.37,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 40+, number of samples"
+    },
+    {
+      "value": 52.6,
+      "type": "Data Stat.",
+      "dataset": "global",
+      "attribute name": "Time (ms)"
+    },
+    {
+      "value": 31.78,
+      "type": "Result",
+      "model": "local 3 \u00d7 3",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.19,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 0-10, number of samples"
+    },
+    {
+      "value": 12.4,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 10-40, number of samples"
+    },
+    {
+      "value": 85.39,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 40+, number of samples"
+    },
+    {
+      "value": 51.2,
+      "type": "Data Stat.",
+      "dataset": "local 3 \u00d7 3",
+      "attribute name": "Time (ms)"
+    },
+    {
+      "value": 26.51,
+      "type": "Result",
+      "model": "local 5 \u00d7 5",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.89,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 0-10, number of samples"
+    },
+    {
+      "value": 6.67,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 10-40, number of samples"
+    },
+    {
+      "value": 76.76,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 40+, number of samples"
+    },
+    {
+      "value": 51.5,
+      "type": "Data Stat.",
+      "dataset": "local 5 \u00d7 5",
+      "attribute name": "Time (ms)"
+    },
+    {
+      "value": 19.88,
+      "type": "Result",
+      "model": "local 9 \u00d7 9",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.01,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 0-10, number of samples"
+    },
+    {
+      "value": 2.44,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 10-40, number of samples"
+    },
+    {
+      "value": 61.06,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 40+, number of samples"
+    },
+    {
+      "value": 61.06,
+      "type": "Data Stat.",
+      "dataset": "local 9 \u00d7 9",
+      "attribute name": "Time (ms)"
+    },
+    {
+      "value": 14.28,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.47,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 3.62,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 40.48,
+      "type": "Data Stat.",
+      "dataset": "Things (val, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 4.04,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.77,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 4.3,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 26.66,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 5.45,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.99,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, final)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 6.3,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, final)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 35.19,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, final)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 1.92,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.47,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 2.32,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 11.37,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, clean)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 3.25,
+      "type": "Result",
+      "model": "<unknown>",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.65,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, final)",
+      "attribute name": "s 0-10"
+    },
+    {
+      "value": 4,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, final)",
+      "attribute name": "s 10-40"
+    },
+    {
+      "value": 20.04,
+      "type": "Data Stat.",
+      "dataset": "Sintel (train, final)",
+      "attribute name": "s 40+"
+    },
+    {
+      "value": 5.3,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.",
+      "model": "<unknown>"
+    },
+    {
+      "value": 25,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.",
+      "model": "0"
+    },
+    {
+      "value": 14,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Time.",
+      "model": "0"
+    },
+    {
+      "value": 39,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.",
+      "model": "3"
+    },
+    {
+      "value": 21,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Time.",
+      "model": "3"
+    },
+    {
+      "value": 58,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.",
+      "model": "7"
+    },
+    {
+      "value": 31,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Time.",
+      "model": "7"
+    },
+    {
+      "value": 78,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.",
+      "model": "11"
+    },
+    {
+      "value": 41,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Time.",
+      "model": "11"
+    },
+    {
+      "value": 133,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.",
+      "model": "23"
+    },
+    {
+      "value": 71,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Time.",
+      "model": "23"
+    },
+    {
+      "value": 170,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.",
+      "model": "31"
+    },
+    {
+      "value": 91,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Time.",
+      "model": "31"
+    },
+    {
+      "value": 57,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.",
+      "model": "0 (unspecified)"
+    },
+    {
+      "value": 26,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Time.",
+      "model": "0 (unspecified)"
+    },
+    {
+      "value": 151,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.",
+      "model": "1"
+    },
+    {
+      "value": 66,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Time.",
+      "model": "1"
+    },
+    {
+      "value": 5.32,
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "C + T",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 17.46,
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "C + T",
+      "metric": "F1-all"
+    },
+    {
+      "value": 0.67,
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "C + T",
+      "metric": "s 0-10"
+    },
+    {
+      "value": 1.58,
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "C + T",
+      "metric": "s 10-40"
+    },
+    {
+      "value": 13.68,
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "C + T",
+      "metric": "s 40+"
+    },
+    {
+      "value": 7.77,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "C + T",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 23.4,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "C + T",
+      "metric": "F1-all"
+    },
+    {
+      "value": 0.74,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "C + T",
+      "metric": "s 0-10"
+    },
+    {
+      "value": 2.19,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "C + T",
+      "metric": "s 10-40"
+    },
+    {
+      "value": 20.34,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "C + T",
+      "metric": "s 40+"
+    },
+    {
+      "value": 5.7,
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "C + T + VK",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 7.9,
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "C + T + VK",
+      "metric": "F1-all"
+    },
+    {
+      "value": 0.43,
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "C + T + VK",
+      "metric": "s 0-10"
+    },
+    {
+      "value": 1.18,
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "C + T + VK",
+      "metric": "s 10-40"
+    },
+    {
+      "value": 2.85,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "C + T + VK",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 10.77,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "C + T + VK",
+      "metric": "F1-all"
+    },
+    {
+      "value": 0.49,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "C + T + VK",
+      "metric": "s 0-10"
+    },
+    {
+      "value": 1.16,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "C + T + VK",
+      "metric": "s 10-40"
+    },
+    {
+      "value": 6.87,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "C + T + VK",
+      "metric": "s 40+"
+    },
+    {
+      "value": 2.25,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "C + T + VK",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 7.2,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "C + T + VK",
+      "metric": "F1-all"
+    },
+    {
+      "value": 0.48,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "C + T + VK",
+      "metric": "s 0-10"
+    },
+    {
+      "value": 1.1,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "C + T + VK",
+      "metric": "s 10-40"
+    },
+    {
+      "value": 5.12,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "C + T + VK",
+      "metric": "s 40+"
+    },
+    {
+      "value": 1.22,
+      "type": "Result",
+      "model": "full",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 3.7,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.D1"
+    },
+    {
+      "value": 1.61,
+      "type": "Result",
+      "model": "full",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 10.53,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 1.96,
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "metric": "Things.EPE"
+    },
+    {
+      "value": 7.84,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.D1"
+    },
+    {
+      "value": 5.4,
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 31.97,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 1.24,
+      "type": "Result",
+      "model": "w/o position",
+      "metric": "Things.EPE"
+    },
+    {
+      "value": 4.46,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.D1"
+    },
+    {
+      "value": 1.72,
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 12.07,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 1.39,
+      "type": "Result",
+      "model": "w/o FFN",
+      "metric": "Things.EPE"
+    },
+    {
+      "value": 4.93,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.D1"
+    },
+    {
+      "value": 14.86,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 1.35,
+      "type": "Result",
+      "model": "w/o self attn.",
+      "metric": "Things.EPE"
+    },
+    {
+      "value": 4.47,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.D1"
+    },
+    {
+      "value": 13.04,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 1.87,
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.76,
+      "type": "Result",
+      "model": "w/o propagation",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 6.08,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 10.09,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 4.7,
+      "type": "Hyper-parameter/Architecture",
+      "parameter name": "Param",
+      "model": "full"
+    },
+    {
+      "value": 4.3,
+      "type": "Hyper-parameter/Architecture",
+      "parameter name": "Param",
+      "model": "w/o cross attn."
+    },
+    {
+      "value": 4.3,
+      "type": "Hyper-parameter/Architecture",
+      "parameter name": "Param",
+      "model": "w/o self attn."
+    },
+    {
+      "value": 4.6,
+      "type": "Hyper-parameter/Architecture",
+      "parameter name": "Param",
+      "model": "w/o propagation"
+    },
+    {
+      "value": 0.074,
+      "type": "Result",
+      "model": "full",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.028,
+      "type": "Result",
+      "model": "full",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.225,
+      "type": "Result",
+      "model": "full",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.103,
+      "type": "Result",
+      "model": "full",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.095,
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.043,
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.284,
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.132,
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.078,
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.031,
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.237,
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.109,
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 4.7,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param",
+      "model": "w/o position"
+    },
+    {
+      "value": 0.089,
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.041,
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.276,
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.127,
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 2.3,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param",
+      "model": "w/o FFN"
+    },
+    {
+      "value": 0.081,
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.034,
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.248,
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.114,
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.091,
+      "type": "Result",
+      "model": "w/o propagation",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.045,
+      "type": "Result",
+      "model": "w/o propagation",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.293,
+      "type": "Result",
+      "model": "w/o propagation",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.144,
+      "type": "Result",
+      "model": "w/o propagation",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 75.24,
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 96.06,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.EPE (baseline)"
+    },
+    {
+      "value": 2.58,
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 18.19,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.D1 (baseline)"
+    },
+    {
+      "value": 103.47,
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 96.95,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.EPE (baseline)"
+    },
+    {
+      "value": 1.98,
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 17.6,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1 (baseline)"
+    },
+    {
+      "value": 1.22,
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.61,
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.1,
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 3.04,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.EPE (flow init, ft (50K))"
+    },
+    {
+      "value": 1.39,
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 7.56,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.EPE (flow init, ft (50K))"
+    },
+    {
+      "value": 1.11,
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 3.05,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.EPE (rand init, ft (100K))"
+    },
+    {
+      "value": 1.58,
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 9.93,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.EPE (rand init, ft (100K))"
+    },
+    {
+      "value": 1,
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 2.77,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.EPE (flow init, ft (100K))"
+    },
+    {
+      "value": 1.37,
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 7.38,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.EPE (flow init, ft (100K))"
+    },
+    {
+      "value": 0.536,
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "dataset": "N/A",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.198,
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "dataset": "N/A",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.074,
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "dataset": "N/A",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.066,
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "dataset": "N/A",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.069,
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "dataset": "N/A",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.063,
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "dataset": "N/A",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.599,
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "dataset": "N/A",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.364,
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "dataset": "N/A",
+      "metric": "RMSE"
+    },
+    {
+      "value": 1.3,
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "dataset": "N/A",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.225,
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "dataset": "N/A",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.203,
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "dataset": "N/A",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.211,
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "dataset": "N/A",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.193,
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "dataset": "N/A",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.584,
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "dataset": "N/A",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.235,
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "dataset": "N/A",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.103,
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "dataset": "N/A",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.092,
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "dataset": "N/A",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.097,
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "dataset": "N/A",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.088,
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "dataset": "N/A",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 2.8,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.53,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10"
+    },
+    {
+      "value": 1.01,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40"
+    },
+    {
+      "value": 7.31,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+"
+    },
+    {
+      "value": 2.52,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.46,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10"
+    },
+    {
+      "value": 0.88,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40"
+    },
+    {
+      "value": 6.63,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+"
+    },
+    {
+      "value": 2.29,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.34,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10"
+    },
+    {
+      "value": 0.69,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40"
+    },
+    {
+      "value": 5.97,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+"
+    },
+    {
+      "value": 1.03,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.08,
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Sintel (clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 2.2,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.3,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10"
+    },
+    {
+      "value": 0.91,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+"
+    },
+    {
+      "value": 0.94,
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.94,
+      "type": "Result",
+      "model": "baseline",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 2.95,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.D1"
+    },
+    {
+      "value": 1.31,
+      "type": "Result",
+      "model": "baseline",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 6.79,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 0.84,
+      "type": "Result",
+      "model": "1D correlation 2D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.83,
+      "type": "Result",
+      "model": "1D correlation 2D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 2.46,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.D1"
+    },
+    {
+      "value": 2.42,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.D1"
+    },
+    {
+      "value": 1.27,
+      "type": "Result",
+      "model": "1D correlation 2D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.25,
+      "type": "Result",
+      "model": "1D correlation 2D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.32,
+      "type": "Result",
+      "model": "1D correlation 2D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 1.24,
+      "type": "Result",
+      "model": "1D correlation 2D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 6.22,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 5.96,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 0.82,
+      "type": "Result",
+      "model": "1D correlation 2D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 0.77,
+      "type": "Result",
+      "model": "1D correlation 2D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error"
+    },
+    {
+      "value": 2.32,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.D1"
+    },
+    {
+      "value": 2.22,
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "attribute name": "Things.D1"
+    },
+    {
+      "value": 6.5,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 6,
+      "type": "Data Stat.",
+      "dataset": "KITTI",
+      "attribute name": "KITTI.D1"
+    },
+    {
+      "value": 1.65,
+      "type": "Result",
+      "model": "LEAStereo",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (All)"
+    },
+    {
+      "value": 1.51,
+      "type": "Result",
+      "model": "LEAStereo",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (Noc)"
+    },
+    {
+      "value": 0.3,
+      "type": "Result",
+      "model": "LEAStereo",
+      "dataset": "Chairs and Things",
+      "metric": "Time"
+    },
+    {
+      "value": 1.69,
+      "type": "Result",
+      "model": "CREStereo",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (All)"
+    },
+    {
+      "value": 1.54,
+      "type": "Result",
+      "model": "CREStereo",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (Noc)"
+    },
+    {
+      "value": 0.41,
+      "type": "Result",
+      "model": "CREStereo",
+      "dataset": "Chairs and Things",
+      "metric": "Time"
+    },
+    {
+      "value": 1.81,
+      "type": "Result",
+      "model": "GANet-deep",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (All)"
+    },
+    {
+      "value": 1.63,
+      "type": "Result",
+      "model": "GANet-deep",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (Noc)"
+    },
+    {
+      "value": 1.8,
+      "type": "Result",
+      "model": "GANet-deep",
+      "dataset": "Chairs and Things",
+      "metric": "Time"
+    },
+    {
+      "value": 1.88,
+      "type": "Result",
+      "model": "CFNet",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (All)"
+    },
+    {
+      "value": 1.73,
+      "type": "Result",
+      "model": "CFNet",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (Noc)"
+    },
+    {
+      "value": 0.18,
+      "type": "Result",
+      "model": "CFNet",
+      "dataset": "Chairs and Things",
+      "metric": "Time"
+    },
+    {
+      "value": 1.85,
+      "type": "Result",
+      "model": "AANet+",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (Noc)"
+    },
+    {
+      "value": 0.06,
+      "type": "Result",
+      "model": "AANet+",
+      "dataset": "Chairs and Things",
+      "metric": "Time"
+    },
+    {
+      "value": 2.03,
+      "type": "Result",
+      "model": "AANet+",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (All)"
+    },
+    {
+      "value": 1.85,
+      "type": "Result",
+      "model": "PSMNet",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (Noc)"
+    },
+    {
+      "value": 0.41,
+      "type": "Result",
+      "model": "PSMNet",
+      "dataset": "Chairs and Things",
+      "metric": "Time"
+    },
+    {
+      "value": 2.32,
+      "type": "Result",
+      "model": "PSMNet",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (All)"
+    },
+    {
+      "value": 1.61,
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (Noc)"
+    },
+    {
+      "value": 0.17,
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "Chairs and Things",
+      "metric": "Time"
+    },
+    {
+      "value": 1.77,
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "Chairs and Things",
+      "metric": "D1-all (All)"
+    },
+    {
+      "value": 2.04,
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "bad 4.0",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 1.15,
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "AvgErr",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 7.7,
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "Time (s)",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 4.74,
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "bad 2.0",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 2.75,
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "bad 4.0",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 1.27,
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "AvgErr",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 8.41,
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "Time (s)",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 7.15,
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "bad 2.0",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 2.75,
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "bad 4.0",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 1.43,
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "AvgErr",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 8.11,
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "Time (s)",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 10.2,
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "bad 2.0",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 4.83,
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "bad 4.0",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 2.07,
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "AvgErr",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 10.3,
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "RMS",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 10.1,
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "bad 2.0",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 6.49,
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "bad 4.0",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 3.49,
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "AvgErr",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 15.4,
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "Time (s)",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 7.14,
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "bad 2.0",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 2.96,
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "bad 4.0",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 1.31,
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "AvgErr",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 6.45,
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "Time (s)",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 3.55,
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "Time (s)",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 11.6,
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "Time (s)",
+      "dataset": "Not specified",
+      "task": "Optical Flow"
+    },
+    {
+      "value": 2.9,
+      "type": "Data Stat.",
+      "dataset": "Not specified",
+      "attribute name": "number of features"
+    },
+    {
+      "value": 54,
+      "type": "Hyper-parameter/Architecture",
+      "model": "CREStereo",
+      "parameter/architecture name": "number of parameters"
+    },
+    {
+      "value": 26,
+      "type": "Hyper-parameter/Architecture",
+      "model": "RAFT-Stereo",
+      "parameter/architecture name": "number of parameters"
+    },
+    {
+      "value": 96,
+      "type": "Hyper-parameter/Architecture",
+      "model": "LEAStereo",
+      "parameter/architecture name": "number of parameters"
+    },
+    {
+      "value": 97,
+      "type": "Hyper-parameter/Architecture",
+      "model": "HSMNet",
+      "parameter/architecture name": "number of parameters"
+    },
+    {
+      "value": 53,
+      "type": "Hyper-parameter/Architecture",
+      "model": "CFNet",
+      "parameter/architecture name": "number of parameters"
+    },
+    {
+      "value": 0.51,
+      "type": "Hyper-parameter/Architecture",
+      "model": "HSMNet",
+      "parameter/architecture name": "inference time (s)"
+    },
+    {
+      "value": 0.69,
+      "type": "Hyper-parameter/Architecture",
+      "model": "CFNet",
+      "parameter/architecture name": "inference time (s)"
+    },
+    {
+      "value": 6.56,
+      "type": "Result",
+      "model": "GANet",
+      "dataset": "Chairs and Things",
+      "metric": "bad 1.0"
+    },
+    {
+      "value": 1.1,
+      "type": "Result",
+      "model": "GANet",
+      "dataset": "Chairs and Things",
+      "metric": "bad 2.0"
+    },
+    {
+      "value": 0.54,
+      "type": "Result",
+      "model": "GANet",
+      "dataset": "Chairs and Things",
+      "metric": "bad 4.0"
+    },
+    {
+      "value": 5.01,
+      "type": "Result",
+      "model": "AANet",
+      "dataset": "Chairs and Things",
+      "metric": "bad 1.0"
+    },
+    {
+      "value": 1.66,
+      "type": "Result",
+      "model": "AANet",
+      "dataset": "Chairs and Things",
+      "metric": "bad 2.0"
+    },
+    {
+      "value": 0.75,
+      "type": "Result",
+      "model": "AANet",
+      "dataset": "Chairs and Things",
+      "metric": "bad 4.0"
+    },
+    {
+      "value": 3.31,
+      "type": "Result",
+      "model": "CFNet",
+      "dataset": "Chairs and Things",
+      "metric": "bad 1.0"
+    },
+    {
+      "value": 0.77,
+      "type": "Result",
+      "model": "CFNet",
+      "dataset": "Chairs and Things",
+      "metric": "bad 2.0"
+    },
+    {
+      "value": 0.31,
+      "type": "Result",
+      "model": "CFNet",
+      "dataset": "Chairs and Things",
+      "metric": "bad 4.0"
+    },
+    {
+      "value": 2.44,
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "dataset": "Chairs and Things",
+      "metric": "bad 1.0"
+    },
+    {
+      "value": 0.44,
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "dataset": "Chairs and Things",
+      "metric": "bad 2.0"
+    },
+    {
+      "value": 0.15,
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "dataset": "Chairs and Things",
+      "metric": "bad 4.0"
+    },
+    {
+      "value": 0.98,
+      "type": "Result",
+      "model": "CREStereo",
+      "dataset": "Chairs and Things",
+      "metric": "bad 1.0"
+    },
+    {
+      "value": 0.22,
+      "type": "Result",
+      "model": "CREStereo",
+      "dataset": "Chairs and Things",
+      "metric": "bad 2.0"
+    },
+    {
+      "value": 0.1,
+      "type": "Result",
+      "model": "CREStereo",
+      "dataset": "Chairs and Things",
+      "metric": "bad 4.0"
+    },
+    {
+      "value": 1.83,
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "Chairs and Things",
+      "metric": "bad 1.0"
+    },
+    {
+      "value": 0.25,
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "Chairs and Things",
+      "metric": "bad 2.0"
+    },
+    {
+      "value": 0.08,
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "Chairs and Things",
+      "metric": "bad 4.0"
+    },
+    {
+      "value": 25,
+      "type": "Hyper-parameter/Architecture",
+      "model": "GANet",
+      "parameter": "Millions of parameters"
+    },
+    {
+      "value": 4.06,
+      "type": "Result",
+      "model": "ACVNet",
+      "dataset": "all",
+      "metric": "all:10"
+    },
+    {
+      "value": 6.46,
+      "type": "Result",
+      "model": "ACVNet",
+      "dataset": "all",
+      "metric": "all:5"
+    },
+    {
+      "value": 10.1,
+      "type": "Result",
+      "model": "ACVNet",
+      "dataset": "all",
+      "metric": "all:3"
+    },
+    {
+      "value": 236,
+      "type": "Result",
+      "model": "ACVNet",
+      "dataset": "all",
+      "metric": "Time (ms)"
+    },
+    {
+      "value": 3.78,
+      "type": "Result",
+      "model": "Odepth",
+      "dataset": "all",
+      "metric": "all:10"
+    },
+    {
+      "value": 7.55,
+      "type": "Result",
+      "model": "Odepth",
+      "dataset": "all",
+      "metric": "all:5"
+    },
+    {
+      "value": 12.33,
+      "type": "Result",
+      "model": "Odepth",
+      "dataset": "all",
+      "metric": "all:3"
+    },
+    {
+      "value": 199,
+      "type": "Result",
+      "model": "Odepth",
+      "dataset": "all",
+      "metric": "Time (ms)"
+    },
+    {
+      "value": 2.47,
+      "type": "Result",
+      "model": "LRM",
+      "dataset": "all",
+      "metric": "all:10"
+    },
+    {
+      "value": 4.71,
+      "type": "Result",
+      "model": "LRM",
+      "dataset": "all",
+      "metric": "all:5"
+    },
+    {
+      "value": 8.44,
+      "type": "Result",
+      "model": "LRM",
+      "dataset": "all",
+      "metric": "all:3"
+    },
+    {
+      "value": 191,
+      "type": "Result",
+      "model": "LRM",
+      "dataset": "all",
+      "metric": "Time (ms)"
+    },
+    {
+      "value": 2.39,
+      "type": "Result",
+      "model": "MSCLab",
+      "dataset": "all",
+      "metric": "all:10"
+    },
+    {
+      "value": 6.29,
+      "type": "Result",
+      "model": "MSCLab",
+      "dataset": "all",
+      "metric": "all:5"
+    },
+    {
+      "value": 11.65,
+      "type": "Result",
+      "model": "MSCLab",
+      "dataset": "all",
+      "metric": "all:3"
+    },
+    {
+      "value": 150,
+      "type": "Result",
+      "model": "MSCLab",
+      "dataset": "all",
+      "metric": "Time (ms)"
+    },
+    {
+      "value": 1.61,
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "all",
+      "metric": "all:10"
+    },
+    {
+      "value": 3.19,
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "all",
+      "metric": "all:5"
+    },
+    {
+      "value": 6.86,
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "all",
+      "metric": "all:3"
+    },
+    {
+      "value": 190,
+      "type": "Result",
+      "model": "GMStereo",
+      "dataset": "all",
+      "metric": "Time (ms)"
+    },
+    {
+      "value": 0.231,
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.161,
+      "type": "Result",
+      "model": "BA-Net",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.057,
+      "type": "Result",
+      "model": "DeepV2D",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.059,
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.52,
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.092,
+      "type": "Result",
+      "model": "BA-Net",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.01,
+      "type": "Result",
+      "model": "DeepV2D",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.019,
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.761,
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.346,
+      "type": "Result",
+      "model": "BA-Net",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.168,
+      "type": "Result",
+      "model": "DeepV2D",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.179,
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.289,
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.214,
+      "type": "Result",
+      "model": "BA-Net",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.08,
+      "type": "Result",
+      "model": "DeepV2D",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.082,
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.69,
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "Chairs and Things",
+      "metric": "Time"
+    },
+    {
+      "value": 0.38,
+      "type": "Result",
+      "model": "BA-Net",
+      "dataset": "Chairs and Things",
+      "metric": "Time"
+    },
+    {
+      "value": 0.69,
+      "type": "Result",
+      "model": "DeepV2D",
+      "dataset": "Chairs and Things",
+      "metric": "Time"
+    },
+    {
+      "value": 0.04,
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Chairs and Things",
+      "metric": "Time"
+    },
+    {
+      "value": 0.157,
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "RGBD-SLAM",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.154,
+      "type": "Result",
+      "model": "DPSNet",
+      "dataset": "RGBD-SLAM",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.101,
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "RGBD-SLAM",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.214,
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.282,
+      "type": "Result",
+      "model": "DeepMVS",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.147,
+      "type": "Result",
+      "model": "DPSNet",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.112,
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.556,
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.21,
+      "type": "Result",
+      "model": "DeepMVS",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.056,
+      "type": "Result",
+      "model": "DPSNet",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.05,
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": 0.43,
+      "type": "Result",
+      "model": "DeepMVS",
+      "dataset": "RGBD-SLAM",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.215,
+      "type": "Result",
+      "model": "DPSNet",
+      "dataset": "RGBD-SLAM",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": 0.524,
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "RGBD-SLAM",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.205,
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "SUN3D",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.363,
+      "type": "Result",
+      "model": "DeepMVS",
+      "dataset": "SUN3D",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.191,
+      "type": "Result",
+      "model": "DPSNet",
+      "dataset": "SUN3D",
+      "metric": "RMSE"
+    },
+    {
+      "value": 3.402,
+      "type": "Result",
+      "model": "",
+      "dataset": "Scenes11",
+      "metric": "RMSE"
+    },
+    {
+      "value": 0.391,
+      "type": "Result",
+      "model": "",
+      "dataset": "Scenes11",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.206,
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "SUN3D",
+      "metric": "RMSE log"
+    },
+    {
+      "value": 0.167,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "GMDepth",
+      "model": "GMDepth"
+    },
+    {
+      "value": 0.068,
+      "type": "Data Stat.",
+      "dataset": "SUN3D",
+      "attribute name": "RMSE variance"
+    },
+    {
+      "value": 0.146,
+      "type": "Data Stat.",
+      "dataset": "SUN3D",
+      "attribute name": "RMSE variance"
+    },
+    {
+      "value": 0.106,
+      "type": "Data Stat.",
+      "dataset": "Scenes11",
+      "attribute name": "RMSE variance"
+    }
+  ],
+  "num_gold_annotations": 122,
+  "elapsed_seconds": 786.4,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

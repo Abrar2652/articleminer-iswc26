@@ -1,0 +1,133 @@
+{
+  "pdf_id": "S0022309307012458",
+  "predictions": [
+    {
+      "sample_id": "KAl P_2.5",
+      "component": "Al O4",
+      "value": 21.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_2.5",
+      "component": "Al O5",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_2.5",
+      "component": "Al O6",
+      "value": 61.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_5",
+      "component": "Al O4",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_5",
+      "component": "Al O5",
+      "value": 21.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_5",
+      "component": "Al O6",
+      "value": 54.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_7.5",
+      "component": "Al O4",
+      "value": 29.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_7.5",
+      "component": "Al O5",
+      "value": 21.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_7.5",
+      "component": "Al O6",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_10",
+      "component": "Al O4",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_10",
+      "component": "Al O5",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_10",
+      "component": "Al O6",
+      "value": 23.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_12.5",
+      "component": "Al O4",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_12.5",
+      "component": "Al O5",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_12.5",
+      "component": "Al O6",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_15",
+      "component": "Al O4",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_15",
+      "component": "Al O5",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_15",
+      "component": "Al O6",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_20",
+      "component": "Al O6",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_20",
+      "component": "Al O4",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_20",
+      "component": "Al O5",
+      "value": 25.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 29.4,
+  "raw_preview": "```json\n{\"sample_id\": \"KAl P_2.5\", \"component\": \"Al O4\", \"value\": 21, \"unit\": \"mol\"}\n{\"sample_id\": \"KAl P_2.5\", \"component\": \"Al O5\", \"value\": 18, \"unit\": \"mol\"}\n{\"sample_id\": \"KAl P_2.5\", \"component\": \"Al O6\", \"value\": 61, \"unit\": \"mol\"}\n{\"sample_id\": \"KAl P_5\", \"component\": \"Al O4\", \"value\": 25, \"unit\": \"mol\"}\n{\"sample_id\": \"KAl P_5\", \"component\": \"Al O5\", \"value\": 21, \"unit\": \"mol\"}\n{\"sample_id\": \"KAl P_5\", \"component\": \"Al O6\", \"value\": 54, \"unit\": \"mol\"}\n{\"sample_id\": \"KAl P_7.5\", \"componen"
+}

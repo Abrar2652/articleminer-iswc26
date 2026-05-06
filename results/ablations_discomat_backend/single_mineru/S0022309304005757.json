@@ -1,0 +1,172 @@
+{
+  "pii": "S0022309304005757",
+  "predictions": [
+    {
+      "sample_id": "SiO2",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UBK7",
+      "component": "SiO2",
+      "value": 74.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UBK7",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UBK7",
+      "component": "Na2O",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UBK7",
+      "component": "K2O",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UBK7",
+      "component": "BaO",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UV-DURAN",
+      "component": "SiO2",
+      "value": 82.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UV-DURAN",
+      "component": "B2O3",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UV-DURAN",
+      "component": "Na2O",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UV-DURAN",
+      "component": "K2O",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "UV-DURAN",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BAP",
+      "component": "B2O3",
+      "value": 74.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BAP",
+      "component": "Al2O3",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BAP",
+      "component": "PbO",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BB",
+      "component": "B2O3",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP10",
+      "component": "SiO2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP10",
+      "component": "P2O5",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP10",
+      "component": "AlF3",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP10",
+      "component": "CaF2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP10",
+      "component": "SrF2",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP10",
+      "component": "MgF2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP20",
+      "component": "SiO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP20",
+      "component": "P2O5",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP20",
+      "component": "AlF3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP20",
+      "component": "CaF2",
+      "value": 22.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP20",
+      "component": "SrF2",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FP20",
+      "component": "MgF2",
+      "value": 10.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 24,
+  "elapsed_seconds": 29.9,
+  "backends": [
+    "mineru"
+  ]
+}

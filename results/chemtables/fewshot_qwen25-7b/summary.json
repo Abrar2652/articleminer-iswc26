@@ -1,0 +1,8 @@
+{
+  "domain": "chemtables",
+  "model": "qwen25-7b",
+  "shots": 3,
+  "n_pdfs": 9,
+  "total_preds": 61,
+  "elapsed_seconds": 131.6
+}

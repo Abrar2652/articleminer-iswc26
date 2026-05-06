@@ -1,0 +1,531 @@
+{
+  "pdf_id": "2210.00910v1",
+  "predictions": [
+    {
+      "value": "79.4%",
+      "type": "Result",
+      "dataset": "Hate Check",
+      "task": "Hate Speech Detection",
+      "metric": "Accuracy",
+      "model": "Zero-shot baseline"
+    },
+    {
+      "value": "69.6%",
+      "type": "Result",
+      "dataset": "ETHOS",
+      "task": "Hate Speech Detection",
+      "metric": "Accuracy",
+      "model": "Zero-shot baseline"
+    },
+    {
+      "value": "2.8pp",
+      "type": "Result",
+      "model": "Proposed approach",
+      "metric": "Improvement over Google Jigsaw API",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "7.9pp",
+      "type": "Result",
+      "model": "Proposed strategies",
+      "metric": "Improvement over Zero-shot baseline on Hate Check",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "10.0pp",
+      "type": "Result",
+      "model": "Proposed strategies",
+      "metric": "Improvement over Zero-shot baseline on ETHOS",
+      "dataset": "ETHOS"
+    },
+    {
+      "value": "66.6%",
+      "type": "Result",
+      "model": "Unlucky choice of hypothesis",
+      "metric": "Accuracy",
+      "dataset": "N/A"
+    },
+    {
+      "value": "0.755",
+      "type": "Data Stat.",
+      "model": "Zero Shot",
+      "dataset": [
+        "SGD",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.762",
+      "type": "Data Stat.",
+      "model": "Zero Shot",
+      "dataset": [
+        "SGD",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.787",
+      "type": "Data Stat.",
+      "model": "Zero Shot",
+      "dataset": [
+        "SGD",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.379",
+      "type": "Data Stat.",
+      "model": "Zero Shot",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.448",
+      "type": "Data Stat.",
+      "model": "Zero Shot",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.467",
+      "type": "Data Stat.",
+      "model": "Zero Shot",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.69",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.81",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.84",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.69",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "345M",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.81",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "1.3B",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.84",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "5B",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.793",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": "0.72",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": "0.939",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": "0.74",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "345M",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": "0.84",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "1.3B",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": "0.91",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "5B",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": "0.79",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "345M",
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": "0.87",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "1.3B",
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": "0.91",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "5B",
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": "0.74",
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "345M",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    },
+    {
+      "value": 0.84,
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "1.3B",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    },
+    {
+      "value": 0.91,
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "5B",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    },
+    {
+      "value": 0.793,
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    },
+    {
+      "value": 0.72,
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    },
+    {
+      "value": 0.939,
+      "type": "Data Stat.",
+      "model": "Train Size",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    },
+    {
+      "value": 0.77,
+      "type": "Data Stat.",
+      "model": "BERT",
+      "dataset": [
+        "SGD",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": 0.75,
+      "type": "Data Stat.",
+      "model": "BERT",
+      "dataset": [
+        "SGD",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": 0.757,
+      "type": "Data Stat.",
+      "model": "BERT",
+      "dataset": [
+        "SGD",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": 0.379,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": 0.448,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": 0.467,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": 0.69,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "345M",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": 0.81,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "1.3B",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": 0.84,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "5B",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy"
+    },
+    {
+      "value": 0.793,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": 0.72,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": 0.939,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Train"
+    },
+    {
+      "value": 0.74,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "345M",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    },
+    {
+      "value": 0.84,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "1.3B",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    },
+    {
+      "value": 0.91,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "5B",
+        "Schema Guided Dialogue"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    },
+    {
+      "value": 0.79,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "345M",
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    },
+    {
+      "value": 0.87,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "1.3B",
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    },
+    {
+      "value": 0.91,
+      "type": "Data Stat.",
+      "model": "SVM",
+      "dataset": [
+        "5B",
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "metric": "Accuracy",
+      "sub-set/group name": "Validation"
+    }
+  ],
+  "elapsed_seconds": 192.5,
+  "raw_preview": "{\"value\": \"79.4%\", \"type\": \"Result\", \"dataset\": \"Hate Check\", \"task\": \"Hate Speech Detection\", \"metric\": \"Accuracy\", \"model\": \"Zero-shot baseline\"}\n{\"value\": \"69.6%\", \"type\": \"Result\", \"dataset\": \"ETHOS\", \"task\": \"Hate Speech Detection\", \"metric\": \"Accuracy\", \"model\": \"Zero-shot baseline\"}\n{\"value\": \"2.8pp\", \"type\": \"Result\", \"model\": \"Proposed approach\", \"metric\": \"Improvement over Google Jigsaw API\", \"dataset\": \"Hate Check\"}\n{\"value\": \"7.9pp\", \"type\": \"Result\", \"model\": \"Proposed strategies\", "
+}

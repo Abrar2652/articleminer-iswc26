@@ -1,0 +1,1058 @@
+{
+  "pdf_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": "-6.58",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-5.21",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-4.84",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-7.09",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-4.55",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-5.61",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-4.51",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-4.99",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-4.64",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-8.39",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-7.37",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-11.66",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-4.69",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-7.10",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-7.40",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-9.63",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-5.82",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-6.09",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-3.80",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-8.06",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-3.63",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-5.84",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-4.35",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-16.38",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-17.08",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-11.94",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-5.75",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-5.19",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-7.63",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-2.83",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-11.63",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-18.20",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-9.60",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-9.47",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-4.19",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-8.48",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-2.62",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-3.67",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-68.40",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-90.45",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-19.59",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-12.58",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-88.89",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-99.65",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-27.75",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-62.46",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-99.17",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-99.68",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-97.52",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-87.00",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-10.91",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-34.40",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-77.73",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-15.22",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-31.73",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-85.45",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-96.15",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "-30.55",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Relative accuracy drop (%)"
+    },
+    {
+      "value": "0.567",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Spearman correlation (answer distribution dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "0.791",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Spearman correlation (answer distribution dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "0.795",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Spearman correlation (answer distribution dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "0.248",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Spearman correlation (image embedding dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "0.492",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Spearman correlation (image embedding dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "-0.640",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Spearman correlation (image embedding dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "0.184",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Spearman correlation (question embedding dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "0.531",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Spearman correlation (question embedding dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "0.631",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Spearman correlation (question embedding dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "0.220",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Spearman correlation (joint embedding dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "0.622",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Spearman correlation (joint embedding dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "-0.223",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Spearman correlation (joint embedding dissimilarity vs accuracy drop)"
+    },
+    {
+      "value": "0.009",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "p-value (Spearman correlation, answer distribution)"
+    },
+    {
+      "value": "0.000",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "p-value (Spearman correlation, answer distribution)"
+    },
+    {
+      "value": "0.000",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "p-value (Spearman correlation, answer distribution)"
+    },
+    {
+      "value": "0.293",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "p-value (Spearman correlation, image embedding)"
+    },
+    {
+      "value": "0.028",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "p-value (Spearman correlation, image embedding)"
+    },
+    {
+      "value": "0.002",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "p-value (Spearman correlation, image embedding)"
+    },
+    {
+      "value": "0.437",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "p-value (Spearman correlation, question embedding)"
+    },
+    {
+      "value": "0.016",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "p-value (Spearman correlation, question embedding)"
+    },
+    {
+      "value": "0.003",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "p-value (Spearman correlation, question embedding)"
+    },
+    {
+      "value": "0.350",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "p-value (Spearman correlation, joint embedding)"
+    },
+    {
+      "value": "0.003",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "p-value (Spearman correlation, joint embedding)"
+    },
+    {
+      "value": "0.344",
+      "type": "Result",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "p-value (Spearman correlation, joint embedding)"
+    },
+    {
+      "value": "33.09",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "13.38",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "54.38",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "32.42",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "25.14",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "32.11",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "48.18",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "15.67",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "83.48",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "7.61",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "62.81",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "13.67",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "73.11",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "0.70",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "89.04",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "2.80",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "87.20",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "1.84",
+      "type": "Result",
+      "model": "UNITER (w/o Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "75.07",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "3.54",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "83.26",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "12.47",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "69.92",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "14.14",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, Finetuning)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "81.75",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "1.42",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "94.32",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "0.88",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "90.82",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "1.36",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, EWC)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "80.73",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "0.37",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What animal questions"
+    },
+    {
+      "value": "94.10",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "1.39",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What room questions"
+    },
+    {
+      "value": "90.92",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "0.71",
+      "type": "Result",
+      "model": "UNITER (w/ Pretraining, ER)",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Standard deviation of Accuracy",
+      "metric_detail": "What sport questions"
+    },
+    {
+      "value": "18",
+      "type": "Result",
+      "model": "Pseudo Replay",
+      "dataset": "VQA-v2",
+      "metric": "Performance improvement over naive finetuning (%)"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Pseudo Replay",
+      "dataset": "VQA-v2",
+      "metric": "Memory size (samples per task)"
+    },
+    {
+      "value": "15",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Accuracy variation due to task order (%)"
+    },
+    {
+      "value": "10",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Accuracy fluctuation due to task order (%)"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Batch size"
+    },
+    {
+      "value": "8e-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "LwF lambda"
+    },
+    {
+      "value": "400",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains",
+      "metric": "EWC lambda"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains (w/ Pretraining)",
+      "metric": "Batch size"
+    },
+    {
+      "value": "8e-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains (w/ Pretraining)",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "0.7",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains (w/ Pretraining)",
+      "metric": "LwF lambda"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Diverse Domains (w/ Pretraining)",
+      "metric": "EWC lambda"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Batch size"
+    },
+    {
+      "value": "8e-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "LwF lambda"
+    },
+    {
+      "value": "600",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains",
+      "metric": "EWC lambda"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains (w/ Pretraining)",
+      "metric": "Batch size"
+    },
+    {
+      "value": "5e-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains (w/ Pretraining)",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "0.5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains (w/ Pretraining)",
+      "metric": "LwF lambda"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Taxonomy Domains (w/ Pretraining)",
+      "metric": "EWC lambda"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Batch size"
+    },
+    {
+      "value": "1e-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "0.9",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "LwF lambda"
+    },
+    {
+      "value": "50000",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types",
+      "metric": "EWC lambda"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2 Question Types (w/ Pretraining)",
+      "metric": "Batch size"
+    }
+  ],
+  "elapsed_seconds": 109.1,
+  "raw_preview": "{\"value\": \"-6.58\", \"type\": \"Result\", \"model\": \"UNITER\", \"dataset\": \"VQA-v2 Diverse Domains\", \"metric\": \"Relative accuracy drop (%)\"}\n{\"value\": \"-5.21\", \"type\": \"Result\", \"model\": \"UNITER\", \"dataset\": \"VQA-v2 Diverse Domains\", \"metric\": \"Relative accuracy drop (%)\"}\n{\"value\": \"-4.84\", \"type\": \"Result\", \"model\": \"UNITER\", \"dataset\": \"VQA-v2 Diverse Domains\", \"metric\": \"Relative accuracy drop (%)\"}\n{\"value\": \"-7.09\", \"type\": \"Result\", \"model\": \"UNITER\", \"dataset\": \"VQA-v2 Diverse Domains\", \"metric\""
+}

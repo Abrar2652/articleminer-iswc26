@@ -1,0 +1,120 @@
+{
+  "pii": "S0022309300003343",
+  "predictions": [
+    {
+      "sample_id": "YSi17G16",
+      "component": "SiO2",
+      "value": 56.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "O",
+      "value": 83.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "N",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B phase",
+      "component": "SiO2",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B phase",
+      "component": "O",
+      "value": 83.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B phase",
+      "component": "N",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q phase",
+      "component": "SiO2",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q phase",
+      "component": "O",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q phase",
+      "component": "N",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W phase",
+      "component": "SiO2",
+      "value": 57.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W phase",
+      "component": "O",
+      "value": 87.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W phase",
+      "component": "N",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B phase",
+      "component": "SiO2",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B phase",
+      "component": "O",
+      "value": 83.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B phase",
+      "component": "N",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu 3 Si 6 Al 6 O 21 N 2",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu 3 Si 6 Al 6 O 21 N 2",
+      "component": "O",
+      "value": 87.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu 3 Si 6 Al 6 O 21 N 2",
+      "component": "N",
+      "value": 12.5,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 30,
+  "elapsed_seconds": 41.4,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "pdf_id": "PMC3654564",
+  "predictions": [
+    {
+      "value": "267",
+      "type": "IC50",
+      "target": "COX-2",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "COX-1",
+      "treatment": "indomethacin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "COX-1",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "180",
+      "type": "IC50",
+      "target": "COX-2",
+      "treatment": "indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": "27",
+      "type": "IC50",
+      "target": "COX-1",
+      "treatment": "indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": "127",
+      "type": "IC50",
+      "target": "COX-2",
+      "treatment": "indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": "388",
+      "type": "IC50",
+      "target": "COX-2",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": "267",
+      "type": "IC50",
+      "target": "COX-2",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": "0.15",
+      "type": "IC50",
+      "target": "COX-2",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.7",
+      "type": "EC50",
+      "target": "rat paw edema",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "mg/kg"
+    },
+    {
+      "value": "1.0",
+      "type": "EC50",
+      "target": "rat paw edema",
+      "treatment": "indomethacin",
+      "unit": "mg/kg"
+    }
+  ],
+  "elapsed_seconds": 26.0,
+  "raw_preview": "{\"value\": \"267\", \"type\": \"IC50\", \"target\": \"COX-2\", \"treatment\": \"CF3\u2212indomethacin\", \"unit\": \"nM\"}\n{\"value\": \"100\", \"type\": \"GI50\", \"target\": \"COX-1\", \"treatment\": \"indomethacin\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"100\", \"type\": \"GI50\", \"target\": \"COX-1\", \"treatment\": \"CF3\u2212indomethacin\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"180\", \"type\": \"IC50\", \"target\": \"COX-2\", \"treatment\": \"indomethacin\", \"unit\": \"nM\"}\n{\"value\": \"27\", \"type\": \"IC50\", \"target\": \"COX-1\", \"treatment\": \"indomethacin\", \"unit\": \"nM\"}\n{\"value\""
+}

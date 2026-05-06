@@ -1,0 +1,40 @@
+{
+  "pii": "S0022309304000237",
+  "predictions": [
+    {
+      "sample_id": "B6",
+      "component": "PbO",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B6",
+      "component": "ZnO",
+      "value": 15.0,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 74,
+  "elapsed_seconds": 25.7,
+  "backends": [
+    "camelot"
+  ]
+}

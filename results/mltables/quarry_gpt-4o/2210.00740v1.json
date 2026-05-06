@@ -1,0 +1,1085 @@
+{
+  "arxiv_id": "2210.00740v1",
+  "predictions": [
+    {
+      "value": "64.9",
+      "type": "Result",
+      "model": "G-RMI",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.7",
+      "type": "Result",
+      "model": "G-RMI",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "71.3",
+      "type": "Result",
+      "model": "G-RMI",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "62.3",
+      "type": "Result",
+      "model": "G-RMI",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "70.0",
+      "type": "Result",
+      "model": "G-RMI",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "69.7",
+      "type": "Result",
+      "model": "G-RMI",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "63.1",
+      "type": "Result",
+      "model": "Mask-RCNN",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "87.3",
+      "type": "Result",
+      "model": "Mask-RCNN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "68.0",
+      "type": "Result",
+      "model": "Mask-RCNN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "57.8",
+      "type": "Result",
+      "model": "Mask-RCNN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "71.4",
+      "type": "Result",
+      "model": "Mask-RCNN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "72.3",
+      "type": "Result",
+      "model": "RMPE",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "RMPE",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "79.1",
+      "type": "Result",
+      "model": "RMPE",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "68.0",
+      "type": "Result",
+      "model": "RMPE",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "model": "RMPE",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "72.6",
+      "type": "Result",
+      "model": "CFN",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "model": "CFN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "69.7",
+      "type": "Result",
+      "model": "CFN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "model": "CFN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "64.1",
+      "type": "Result",
+      "model": "CFN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "72.1",
+      "type": "Result",
+      "model": "CPN",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.4",
+      "type": "Result",
+      "model": "CPN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.3",
+      "type": "Result",
+      "model": "CPN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "68.7",
+      "type": "Result",
+      "model": "CPN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "77.2",
+      "type": "Result",
+      "model": "CPN",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.5",
+      "type": "Result",
+      "model": "CPN",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "model": "CPN(ensemble)",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.7",
+      "type": "Result",
+      "model": "CPN(ensemble)",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "model": "CPN(ensemble)",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "68.9",
+      "type": "Result",
+      "model": "CPN(ensemble)",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "77.5",
+      "type": "Result",
+      "model": "CPN(ensemble)",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "79.0",
+      "type": "Result",
+      "model": "CPN(ensemble)",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "67.8",
+      "type": "Result",
+      "model": "Integral Pose Regression",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "88.2",
+      "type": "Result",
+      "model": "Integral Pose Regression",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "model": "Integral Pose Regression",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "63.9",
+      "type": "Result",
+      "model": "Integral Pose Regression",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.0",
+      "type": "Result",
+      "model": "Integral Pose Regression",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.6",
+      "type": "Result",
+      "model": "PoseFix",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.8",
+      "type": "Result",
+      "model": "PoseFix",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.0",
+      "type": "Result",
+      "model": "PoseFix",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "70.3",
+      "type": "Result",
+      "model": "PoseFix",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.9",
+      "type": "Result",
+      "model": "PoseFix",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "79.0",
+      "type": "Result",
+      "model": "PoseFix",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "76.2",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.6",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "76.5",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.7",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.0",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.6",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "75.9",
+      "type": "Result",
+      "model": "TokenPose",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.3",
+      "type": "Result",
+      "model": "TokenPose",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "model": "TokenPose",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "72.2",
+      "type": "Result",
+      "model": "TokenPose",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.1",
+      "type": "Result",
+      "model": "TokenPose",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.8",
+      "type": "Result",
+      "model": "TokenPose",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "76.1",
+      "type": "Result",
+      "model": "Removing Bias",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "model": "Removing Bias",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.0",
+      "type": "Result",
+      "model": "Removing Bias",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "model": "Removing Bias",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.1",
+      "type": "Result",
+      "model": "Removing Bias",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.0",
+      "type": "Result",
+      "model": "Removing Bias",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.8",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.5",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.2",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "70.3",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.1",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "79.1",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.3",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.6",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.1",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "71.7",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.3",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.9",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.8",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "71.3",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.0",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "75.6",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.3",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.5",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "75.7",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.3",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "71.9",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.5",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "76.3",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "93.0",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.3",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.9",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.0",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "77.2",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.7",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.3",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.2",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "77.4",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "93.1",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.7",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.8",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.0",
+      "type": "Result",
+      "model": "+ Ours",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "model": "Baseline(HRNet-W48)",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.3",
+      "type": "Result",
+      "model": "Baseline(HRNet-W48)",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.3",
+      "type": "Result",
+      "model": "Baseline(HRNet-W48)",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "Baseline(HRNet-W48)",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.8",
+      "type": "Result",
+      "model": "Baseline(HRNet-W48)",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.1",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.8",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.3",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.3",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "model": "500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.8",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "model": "1000 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.2",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{M}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.4",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "\\text{AP}^{\\text{L}}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.0",
+      "type": "Result",
+      "model": "1500 Sinkhorn iterations",
+      "dataset": "COCO",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    }
+  ],
+  "num_gold_annotations": 322,
+  "elapsed_seconds": 152.2,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

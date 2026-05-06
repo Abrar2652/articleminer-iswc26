@@ -1,0 +1,665 @@
+{
+  "pdf_id": "PMC3241339",
+  "predictions": [
+    {
+      "value": "1.0",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "2",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "2",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.43",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "6",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "3.4",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "6",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.88",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "3.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "23",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.67",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "16",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.29",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.88",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "3.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "23",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.67",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "16",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.29",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.88",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "3.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "23",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.67",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "16",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.29",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.88",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "3.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "23",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.67",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "16",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.29",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.88",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "3.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "23",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.67",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "16",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.29",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.88",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "3.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "23",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.67",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "16",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.29",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.88",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "3.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "23",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.67",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "16",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.29",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.88",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "3.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "23",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.67",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "16",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.29",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.88",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "8",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "3.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "9",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "23",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "10",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.67",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "16",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "12",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.29",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "13",
+      "unit": "\u03bcM"
+    }
+  ],
+  "elapsed_seconds": 243.9,
+  "raw_preview": "{\"value\": \"1.0\", \"type\": \"IC50\", \"target\": \"CHK1\", \"treatment\": \"2\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"50\", \"type\": \"IC50\", \"target\": \"CHK2\", \"treatment\": \"2\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"0.43\", \"type\": \"IC50\", \"target\": \"CHK1\", \"treatment\": \"6\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"3.4\", \"type\": \"IC50\", \"target\": \"CHK2\", \"treatment\": \"6\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"0.88\", \"type\": \"IC50\", \"target\": \"CHK1\", \"treatment\": \"8\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"19\", \"type\": \"IC50\", \"target\": \"CHK2\", \"treatmen"
+}

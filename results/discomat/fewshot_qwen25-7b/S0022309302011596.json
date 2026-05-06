@@ -1,0 +1,343 @@
+{
+  "pdf_id": "S0022309302011596",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "Si4+",
+      "value": 21.02,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "Al3+",
+      "value": 47.0,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "B3+",
+      "value": 15.33,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "O2-",
+      "value": 80.0,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "N3-",
+      "value": 18.3,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "Si4+",
+      "value": 7.89,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "Al3+",
+      "value": 15.44,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "B3+",
+      "value": 16.43,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "O2-",
+      "value": 52.57,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "N3-",
+      "value": 8.76,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "La3+",
+      "value": 9.15,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "La3+",
+      "value": 35.0,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "Y3+",
+      "value": 18.0,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "Y3+",
+      "value": 15.33,
+      "unit": "atomic"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "SiO2",
+      "value": 21.02,
+      "unit": "weight%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "SiO2",
+      "value": 15.33,
+      "unit": "weight%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "Y2O3",
+      "value": 35.0,
+      "unit": "weight%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "Y2O3",
+      "value": 15.33,
+      "unit": "weight%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "La2O3",
+      "value": 21.02,
+      "unit": "weight%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "La2O3",
+      "value": 8.14,
+      "unit": "weight%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "SiO2",
+      "value": 41.93,
+      "unit": "atomic%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "SiO2",
+      "value": 41.93,
+      "unit": "atomic%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "Y2O3",
+      "value": 41.93,
+      "unit": "atomic%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "Y2O3",
+      "value": 41.93,
+      "unit": "atomic%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "La2O3",
+      "value": 8.14,
+      "unit": "atomic%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "La2O3",
+      "value": 8.14,
+      "unit": "atomic%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "SiO2",
+      "value": 41.93,
+      "unit": "equivalent%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "SiO2",
+      "value": 41.93,
+      "unit": "equivalent%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "Y2O3",
+      "value": 41.93,
+      "unit": "equivalent%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "Y2O3",
+      "value": 41.93,
+      "unit": "equivalent%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "La2O3",
+      "value": 8.14,
+      "unit": "equivalent%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "La2O3",
+      "value": 8.14,
+      "unit": "equivalent%"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "SiO2",
+      "value": 38.5,
+      "unit": "density g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "SiO2",
+      "value": 34.0,
+      "unit": "density g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "Y2O3",
+      "value": 18.3,
+      "unit": "density g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "Y2O3",
+      "value": 18.3,
+      "unit": "density g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "La2O3",
+      "value": 5.43,
+      "unit": "density g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "La2O3",
+      "value": 5.43,
+      "unit": "density g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "SiO2",
+      "value": 5.4,
+      "unit": "linear thermal expansion coefficient 10^-6 K^-1"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "SiO2",
+      "value": 5.4,
+      "unit": "linear thermal expansion coefficient 10^-6 K^-1"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "Y2O3",
+      "value": 0.29,
+      "unit": "linear thermal expansion coefficient 10^-6 K^-1"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "Y2O3",
+      "value": 0.29,
+      "unit": "linear thermal expansion coefficient 10^-6 K^-1"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "La2O3",
+      "value": 0.29,
+      "unit": "linear thermal expansion coefficient 10^-6 K^-1"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "La2O3",
+      "value": 0.29,
+      "unit": "linear thermal expansion coefficient 10^-6 K^-1"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "SiO2",
+      "value": 891.0,
+      "unit": "glass transition temperature C"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "SiO2",
+      "value": 962.0,
+      "unit": "glass transition temperature C"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "Y2O3",
+      "value": 10.0,
+      "unit": "glass transition temperature C"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "Y2O3",
+      "value": 10.0,
+      "unit": "glass transition temperature C"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "La2O3",
+      "value": 10.0,
+      "unit": "glass transition temperature C"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "La2O3",
+      "value": 10.0,
+      "unit": "glass transition temperature C"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "SiO2",
+      "value": 964.0,
+      "unit": "softening temperature C"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "SiO2",
+      "value": 1016.0,
+      "unit": "softening temperature C"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "Y2O3",
+      "value": 10.0,
+      "unit": "softening temperature C"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "Y2O3",
+      "value": 10.0,
+      "unit": "softening temperature C"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_La",
+      "component": "La2O3",
+      "value": 10.0,
+      "unit": "softening temperature C"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Y",
+      "component": "La2O3",
+      "value": 10.0,
+      "unit": "softening temperature C"
+    }
+  ],
+  "elapsed_seconds": 126.2,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_La\", \"component\": \"Si4+\", \"value\": 21.02, \"unit\": \"atomic\"}\n{\"sample_id\": \"S0022309303006537_0_1_La\", \"component\": \"Al3+\", \"value\": 47.0, \"unit\": \"atomic\"}\n{\"sample_id\": \"S0022309303006537_0_1_La\", \"component\": \"B3+\", \"value\": 15.33, \"unit\": \"atomic\"}\n{\"sample_id\": \"S0022309303006537_0_1_La\", \"component\": \"O2-\", \"value\": 80.0, \"unit\": \"atomic\"}\n{\"sample_id\": \"S0022309303006537_0_1_La\", \"component\": \"N3-\", \"value\": 18.3, \"unit\": \"atomic\"}\n{\"sample_id\":"
+}

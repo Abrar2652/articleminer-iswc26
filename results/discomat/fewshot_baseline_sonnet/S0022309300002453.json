@@ -1,0 +1,43 @@
+{
+  "pdf_id": "S0022309300002453",
+  "predictions": [
+    {
+      "sample_id": "bioactive_glass",
+      "component": "SiO2",
+      "value": 53.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "biocompatible_glass_2",
+      "component": "SiO2",
+      "value": 58.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "body_B",
+      "component": "bioactive_glass",
+      "value": 35.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "body_B",
+      "component": "biocompatible_glass_1",
+      "value": 65.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "body_C",
+      "component": "bioactive_glass",
+      "value": 35.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "body_C",
+      "component": "biocompatible_glass_2",
+      "value": 65.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 13.1,
+  "raw_preview": "Looking through the paper text, I can find compositional information mentioned in the text (not in tables). The paper mentions:\n\n- Bioactive glass with SiO2 content of 53 wt%\n- Biocompatible glass 2 with SiO2 content of 58.5 wt%\n\nAlso, the body types are described:\n- Body A: 100% bioactive glass spheres\n- Body B: 35% bioactive glass + 65% biocompatible glass 1\n- Body C: 35% bioactive glass + 65% biocompatible glass 2\n- Body D: 100% biocompatible glass 2 spheres\n\n{\"sample_id\": \"bioactive_glass\", "
+}

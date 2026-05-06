@@ -1,0 +1,959 @@
+{
+  "paper": "Zhang_et_al_2022",
+  "model": "llama31-8b",
+  "n_rows": 48,
+  "rows": [
+    {
+      "sample_id": "sphalerite I",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "In": 83,
+        "Sn": 22,
+        "Te": 4.8
+      }
+    },
+    {
+      "sample_id": "sphalerite II-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "In": 1172,
+        "Sn": 116.5,
+        "Te": 23.3
+      }
+    },
+    {
+      "sample_id": "sphalerite II-2a",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "In": 1023,
+        "Sn": 1731,
+        "Te": 275
+      }
+    },
+    {
+      "sample_id": "sphalerite II-2b",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "In": 969,
+        "Sn": 2654,
+        "Te": 489
+      }
+    },
+    {
+      "sample_id": "sphalerite II-2c",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "In": 430,
+        "Sn": 1952,
+        "Te": 392
+      }
+    },
+    {
+      "sample_id": "sphalerite II-3a",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "In": 59,
+        "Sn": 1073,
+        "Te": 196
+      }
+    },
+    {
+      "sample_id": "sphalerite II-3b",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "In": 31,
+        "Sn": 1516,
+        "Te": 392
+      }
+    },
+    {
+      "sample_id": "BY-B4-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 53.37,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.05,
+        "Bi": 0,
+        "Sn": 0,
+        "Fe": 0,
+        "Cu": 11.88,
+        "Mn": 0,
+        "Ni": 0,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.02,
+        "Total": 99.69
+      }
+    },
+    {
+      "sample_id": "BY-B4-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 53.4,
+        "As": 0.03,
+        "Se": 0.04,
+        "Ag": 0,
+        "Cd": 0.1,
+        "Bi": 0.04,
+        "Sn": 0.04,
+        "Fe": 0.04,
+        "Cu": 11.79,
+        "Mn": 0,
+        "Ni": 0,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.02,
+        "Total": 100.05
+      }
+    },
+    {
+      "sample_id": "BY-B4-3",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 53.31,
+        "As": 0,
+        "Se": 0.06,
+        "Ag": 0,
+        "Cd": 0.1,
+        "Bi": 0,
+        "Fe": 0.02,
+        "Cu": 11.69,
+        "Mn": 0.05,
+        "Ni": 0.05,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.04,
+        "Co": 0.03,
+        "Total": 99.41
+      }
+    },
+    {
+      "sample_id": "BY-B4-4",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 53.04,
+        "As": 0,
+        "Se": 0.06,
+        "Ag": 0,
+        "Cd": 0.09,
+        "Bi": 0,
+        "Fe": 0,
+        "Mn": 0.01,
+        "Ni": 0.01,
+        "S": 0.03,
+        "Te": 0,
+        "Sb": 0.12,
+        "Co": 0,
+        "Total": 100.01
+      }
+    },
+    {
+      "sample_id": "BY-B4-5",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 53.57,
+        "As": 0,
+        "Se": 0.04,
+        "Ag": 0,
+        "Cd": 0.05,
+        "Bi": 0,
+        "Fe": 0.03,
+        "Cu": 11.76,
+        "Mn": 0,
+        "Ni": 0,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.26,
+        "Co": 0,
+        "Total": 99.69
+      }
+    },
+    {
+      "sample_id": "BY-B4-6",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 54.91,
+        "As": 0.16,
+        "Se": 0.04,
+        "Ag": 0,
+        "Cd": 0.05,
+        "Bi": 0,
+        "Fe": 0,
+        "Mn": 0.01,
+        "Ni": 0.01,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.32,
+        "Co": 0,
+        "Total": 100.24
+      }
+    },
+    {
+      "sample_id": "BY-B4-7",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 54.91,
+        "As": 0.01,
+        "Se": 0.02,
+        "Ag": 0.08,
+        "Cd": 0.04,
+        "Bi": 0.04,
+        "Fe": 0,
+        "Cu": 11.24,
+        "Mn": 0.06,
+        "Ni": 0.06,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.17,
+        "Co": 0.03,
+        "Total": 100.39
+      }
+    },
+    {
+      "sample_id": "BY-B4-8",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 54.19,
+        "As": 0.01,
+        "Se": 0.01,
+        "Ag": 0.07,
+        "Cd": 0,
+        "Fe": 0.03,
+        "Mn": 0,
+        "Ni": 0,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.16,
+        "Co": 0.02,
+        "Total": 99.98
+      }
+    },
+    {
+      "sample_id": "BY-B7-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 53.73,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.1,
+        "Bi": 0,
+        "Fe": 0,
+        "Mn": 0,
+        "Ni": 0,
+        "S": 0.01,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0,
+        "Total": 99.9
+      }
+    },
+    {
+      "sample_id": "BY-B8-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 53.88,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.13,
+        "Bi": 0,
+        "Fe": 0.29,
+        "Cu": 8.02,
+        "Mn": 0,
+        "Ni": 4.4,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.07,
+        "Co": 0.03,
+        "Total": 101.61
+      }
+    },
+    {
+      "sample_id": "BY-B8-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 52.3,
+        "As": 0.06,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.09,
+        "Bi": 0,
+        "Fe": 0,
+        "Cu": 11.97,
+        "Mn": 0.07,
+        "Ni": 0.07,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.03,
+        "Total": 99.29
+      }
+    },
+    {
+      "sample_id": "BY-B8-3",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 52.78,
+        "As": 0.05,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.06,
+        "Bi": 0,
+        "Fe": 0,
+        "Cu": 12.08,
+        "Mn": 0.08,
+        "Ni": 0.08,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.31,
+        "Co": 0.02,
+        "Total": 99.86
+      }
+    },
+    {
+      "sample_id": "BY-B8-4",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 52.88,
+        "As": 0.01,
+        "Se": 0,
+        "Ag": 0.11,
+        "Cd": 0,
+        "Fe": 0,
+        "Cu": 12.18,
+        "Mn": 0.03,
+        "Ni": 0.04,
+        "S": 0.02,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.04,
+        "Total": 99.82
+      }
+    },
+    {
+      "sample_id": "BY-B8-5",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 52.8,
+        "As": 0.07,
+        "Se": 0,
+        "Ag": 0.16,
+        "Cd": 0,
+        "Fe": 0,
+        "Cu": 12.15,
+        "Mn": 0.01,
+        "Ni": 0.04,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.02,
+        "Total": 98.65
+      }
+    },
+    {
+      "sample_id": "BY-B8-6",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 51.88,
+        "As": 0.01,
+        "Se": 0,
+        "Ag": 0.1,
+        "Cd": 0,
+        "Fe": 0,
+        "Cu": 11.92,
+        "Mn": 0.03,
+        "Ni": 0,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.04,
+        "Total": 98.19
+      }
+    },
+    {
+      "sample_id": "BY-B9-1-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 58.6,
+        "As": 0.01,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.09,
+        "Bi": 0.02,
+        "Fe": 0.04,
+        "Cu": 6.91,
+        "Mn": 0.12,
+        "Ni": 0.06,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.09,
+        "Co": 0,
+        "Total": 99.8
+      }
+    },
+    {
+      "sample_id": "BY-B9-1-3",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 55.92,
+        "As": 0.04,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.09,
+        "Bi": 0,
+        "Fe": 0.02,
+        "Cu": 9.49,
+        "Mn": 0.03,
+        "Ni": 0.03,
+        "S": 0.02,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0,
+        "Total": 99.6
+      }
+    },
+    {
+      "sample_id": "BY-B9-1-4",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 54.27,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.11,
+        "Bi": 0,
+        "Fe": 0,
+        "Cu": 7.98,
+        "Mn": 0,
+        "Ni": 3.33,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.03,
+        "Total": 100.07
+      }
+    },
+    {
+      "sample_id": "BY-B9-1-5",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 57.06,
+        "As": 0.01,
+        "Se": 0,
+        "Ag": 0.08,
+        "Cd": 0,
+        "Fe": 0,
+        "Cu": 7.35,
+        "Mn": 0.31,
+        "Ni": 0.02,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.04,
+        "Total": 99.11
+      }
+    },
+    {
+      "sample_id": "BY-B9-1-6",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 59.19,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0.08,
+        "Cd": 0,
+        "Fe": 0.02,
+        "Cu": 6.17,
+        "Mn": 0.1,
+        "Ni": 0.03,
+        "S": 0.02,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.02,
+        "Total": 99.26
+      }
+    },
+    {
+      "sample_id": "BY-B9-1-7",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 59.09,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0.09,
+        "Cd": 0,
+        "Fe": 0,
+        "Cu": 6.35,
+        "Mn": 0.13,
+        "Ni": 0.03,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.15,
+        "Co": 0,
+        "Total": 99.59
+      }
+    },
+    {
+      "sample_id": "BY-B9-1-8",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 55.3,
+        "As": 0.04,
+        "Se": 0,
+        "Ag": 0.11,
+        "Cd": 0,
+        "Fe": 0,
+        "Cu": 9.69,
+        "Mn": 0.04,
+        "Ni": 0.02,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.03,
+        "Total": 99.29
+      }
+    },
+    {
+      "sample_id": "BY-B19-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 57.32,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.05,
+        "Bi": 0.02,
+        "Fe": 0,
+        "Cu": 7.47,
+        "Mn": 0.32,
+        "Ni": 0.07,
+        "S": 0.02,
+        "Te": 0.02,
+        "Sb": 0.21,
+        "Co": 0,
+        "Total": 99.81
+      }
+    },
+    {
+      "sample_id": "BY-B19-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 56.59,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.1,
+        "Bi": 0,
+        "Fe": 0,
+        "Cu": 7.83,
+        "Mn": 0.25,
+        "Ni": 0.07,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.03,
+        "Co": 0,
+        "Total": 99.54
+      }
+    },
+    {
+      "sample_id": "BY-B19-3",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 55.9,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.08,
+        "Bi": 0,
+        "Fe": 0,
+        "Cu": 8.93,
+        "Mn": 0.16,
+        "Ni": 0.05,
+        "S": 0.02,
+        "Te": 0.02,
+        "Sb": 0.1,
+        "Co": 0.01,
+        "Total": 99.78
+      }
+    },
+    {
+      "sample_id": "BY-B19-4",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 59.53,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.06,
+        "Bi": 0.02,
+        "Fe": 0.17,
+        "Cu": 3.46,
+        "Mn": 2.34,
+        "Ni": 0.02,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.23,
+        "Co": 0,
+        "Total": 99.52
+      }
+    },
+    {
+      "sample_id": "BY-B19-5",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 56.73,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.04,
+        "Bi": 0,
+        "Fe": 0,
+        "Cu": 5.98,
+        "Mn": 4.75,
+        "Ni": 0.06,
+        "S": 0.01,
+        "Te": 0.01,
+        "Sb": 0,
+        "Co": 0.01,
+        "Total": 101.41
+      }
+    },
+    {
+      "sample_id": "BY-B19-6",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 55.02,
+        "As": 0.02,
+        "Se": 0,
+        "Ag": 0.11,
+        "Cd": 0,
+        "Fe": 0,
+        "Cu": 9.27,
+        "Mn": 0.06,
+        "Ni": 0.03,
+        "S": 0.02,
+        "Te": 0.02,
+        "Sb": 0.14,
+        "Co": 0,
+        "Total": 99.34
+      }
+    },
+    {
+      "sample_id": "BY-B37-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 57.12,
+        "As": 0.02,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.1,
+        "Bi": 0,
+        "Fe": 0.05,
+        "Cu": 7.63,
+        "Mn": 0.3,
+        "Ni": 0.06,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.02,
+        "Co": 0,
+        "Total": 99.54
+      }
+    },
+    {
+      "sample_id": "BY-B37-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 58.5,
+        "As": 0.02,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.05,
+        "Bi": 0,
+        "Fe": 0.05,
+        "Cu": 7.06,
+        "Mn": 0.09,
+        "Ni": 0.03,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0,
+        "Total": 99.9
+      }
+    },
+    {
+      "sample_id": "BY-B37-3",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 58.21,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.09,
+        "Bi": 0,
+        "Fe": 0,
+        "Cu": 7.02,
+        "Mn": 0.22,
+        "Ni": 0.05,
+        "S": 0.01,
+        "Te": 0.01,
+        "Sb": 0,
+        "Co": 0.01,
+        "Total": 99.64
+      }
+    },
+    {
+      "sample_id": "BY-B37-4",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 58.82,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.08,
+        "Bi": 0.03,
+        "Fe": 0.03,
+        "Cu": 6.79,
+        "Mn": 0.2,
+        "Ni": 0.07,
+        "S": 0.01,
+        "Te": 0,
+        "Sb": 0.38,
+        "Co": 0.01,
+        "Total": 99.01
+      }
+    },
+    {
+      "sample_id": "BY-B37-5",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 58.99,
+        "As": 0.04,
+        "Se": 0,
+        "Ag": 0.07,
+        "Cd": 0,
+        "Fe": 0,
+        "Cu": 6.67,
+        "Mn": 0.25,
+        "Ni": 0.05,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0.1,
+        "Co": 0,
+        "Total": 100.29
+      }
+    },
+    {
+      "sample_id": "BY-B37-6",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 59.8,
+        "As": 0.04,
+        "Se": 0,
+        "Ag": 0.1,
+        "Cd": 0,
+        "Fe": 0.01,
+        "Cu": 4.65,
+        "Mn": 1.15,
+        "Ni": 0.07,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.01,
+        "Total": 99.46
+      }
+    },
+    {
+      "sample_id": "BY-B37-7",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 59.35,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0.02,
+        "Cd": 0,
+        "Fe": 0,
+        "Cu": 5.67,
+        "Mn": 1.13,
+        "Ni": 0.05,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.01,
+        "Total": 100.42
+      }
+    },
+    {
+      "sample_id": "BY-B37-8",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 58.3,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0.05,
+        "Cd": 0,
+        "Fe": 0,
+        "Cu": 6.48,
+        "Mn": 0.4,
+        "Ni": 0.02,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.01,
+        "Total": 99.47
+      }
+    },
+    {
+      "sample_id": "BY-B37-9",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 57.06,
+        "As": 0,
+        "Se": 0,
+        "Ag": 0.16,
+        "Cd": 0,
+        "Fe": 0.16,
+        "Cu": 5.51,
+        "Mn": 3.59,
+        "Ni": 0.05,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.01,
+        "Total": 99.94
+      }
+    },
+    {
+      "sample_id": "BY-B9-2-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 65.37,
+        "As": 0.03,
+        "Se": 0,
+        "Ag": 0,
+        "Cd": 0.03,
+        "Bi": 0,
+        "Fe": 0,
+        "Cu": 0.03,
+        "Mn": 0,
+        "Ni": 0.96,
+        "S": 0,
+        "Te": 0,
+        "Sb": 0,
+        "Co": 0.95,
+        "Total": 100.97
+      }
+    },
+    {
+      "sample_id": "BY-B7-L_1",
+      "mineral": "Sphalerite I",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Mn": 3.46,
+        "Co": 469,
+        "Cu": 0.5,
+        "Ga": 0.13,
+        "Ag": 7.4,
+        "Cd": 4175,
+        "In": 88.3,
+        "Sn": 102.4,
+        "Sb": 19.4,
+        "Se": 9.26,
+        "Te": 24.3,
+        "Pb": 36.2,
+        "Bi": 0.08
+      }
+    },
+    {
+      "sample_id": "BY-B8-L_5",
+      "mineral": "Sphalerite II-1",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Mn": 397.4,
+        "Co": 9580.9,
+        "Cu": 2.9,
+        "Ga": 0.6,
+        "Ag": 27.4,
+        "Cd": 6281.2,
+        "In": 1075.7,
+        "Sn": 326.7,
+        "Sb": 195.8,
+        "Se": 25.79,
+        "Te": 68.3,
+        "Pb": 3.4,
+        "Bi": 0.1
+      }
+    },
+    {
+      "sample_id": "BY-B9-1L_9",
+      "mineral": "Sphalerite II-2b",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Mn": 379.9,
+        "Co": 18027,
+        "Cu": 2,
+        "Ag": 2,
+        "Cd": 0,
+        "In": 0,
+        "Sn": 0,
+        "Sb": 0,
+        "Se": 0,
+        "Te": 0,
+        "Pb": 0,
+        "Bi": 0
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "No analyses are present in this chunk.",
+  "elapsed_seconds": 302.6
+}

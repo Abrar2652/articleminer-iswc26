@@ -1,0 +1,45 @@
+{
+  "paper": "He_et_al_2024",
+  "model": "llama31-8b",
+  "n_rows": 3,
+  "rows": [
+    {
+      "sample_id": "WG-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "In": 12.3,
+        "Zn": 650000,
+        "Pb": 4500,
+        "Ag": -0.1,
+        "As": 2.4
+      }
+    },
+    {
+      "sample_id": "WG-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "In": 8.2,
+        "Zn": 640000,
+        "Pb": 3900,
+        "Ag": 0.8
+      }
+    },
+    {
+      "sample_id": "Bainiuchang Zn-Sn polymetallic deposit",
+      "mineral": "sphalerite",
+      "method": "in-situ trace element geochemistry",
+      "elements": {
+        "In": 790,
+        "Cd": 0.5,
+        "Pb": -0.5,
+        "S": 152,
+        "Ag": -0.5
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "{\"sample_id\":\"WG-1\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"In\":12.3,\"Zn\":650000,\"Pb\":4500,\"Ag\":-0.1,\"As\":2.4}}\n{\"sample_id\":\"WG-2\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"In\":8.2,\"Zn\":640000,\"Pb\":3900,\"Ag\":0.8}}",
+  "elapsed_seconds": 179.8
+}

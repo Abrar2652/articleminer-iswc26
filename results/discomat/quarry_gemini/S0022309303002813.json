@@ -1,0 +1,245 @@
+{
+  "pii": "S0022309303002813",
+  "predictions": [
+    {
+      "sample_id": "Chemical analysis 1",
+      "component": "SiO2",
+      "value": 65.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis 2",
+      "component": "SiO2",
+      "value": 71.36,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis 1",
+      "component": "Al2O3",
+      "value": 2.05,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis 2",
+      "component": "Al2O3",
+      "value": 2.06,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis 1",
+      "component": "Fe2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis 2",
+      "component": "Fe2O3",
+      "value": 0.54,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II",
+      "component": "Fe2O3",
+      "value": 0.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass I",
+      "component": "Fe2O3",
+      "value": 1.26,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass II",
+      "component": "Fe2O3",
+      "value": 0.81,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis 1",
+      "component": "CaO",
+      "value": 8.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis 2",
+      "component": "CaO",
+      "value": 7.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass I",
+      "component": "CaO",
+      "value": 7.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II",
+      "component": "CaO",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass I",
+      "component": "CaO",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass II",
+      "component": "CaO",
+      "value": 6.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis 1",
+      "component": "MgO",
+      "value": 0.82,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II",
+      "component": "MgO",
+      "value": 0.73,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass I",
+      "component": "MgO",
+      "value": 1.24,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass II",
+      "component": "MgO",
+      "value": 1.03,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis 1",
+      "component": "MnO2",
+      "value": 1.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis 2",
+      "component": "MnO2",
+      "value": 0.79,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass I",
+      "component": "MnO2",
+      "value": 1.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II",
+      "component": "MnO2",
+      "value": 0.07,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass I",
+      "component": "MnO2",
+      "value": 0.58,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass II",
+      "component": "MnO2",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis 1",
+      "component": "Cr2O",
+      "value": 1.02,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II",
+      "component": "Cr2O",
+      "value": 0.62,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis 1",
+      "component": "K2O",
+      "value": 0.37,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis 2",
+      "component": "K2O",
+      "value": 0.37,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass I",
+      "component": "K2O",
+      "value": 0.38,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II",
+      "component": "K2O",
+      "value": 0.41,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass I",
+      "component": "K2O",
+      "value": 0.98,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass II",
+      "component": "K2O",
+      "value": 1.13,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Chemical analysis 1",
+      "component": "Na2O",
+      "value": 23.39,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Electron probe microanalysis 2",
+      "component": "Na2O",
+      "value": 17.88,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass I",
+      "component": "Na2O",
+      "value": 16.38,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman glass II",
+      "component": "Na2O",
+      "value": 23.86,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass I",
+      "component": "Na2O",
+      "value": 18.28,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine glass II",
+      "component": "Na2O",
+      "value": 18.63,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 48,
+  "elapsed_seconds": 72.4,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

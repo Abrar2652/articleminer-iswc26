@@ -1,0 +1,2770 @@
+{
+  "arxiv_id": "2210.00910v1",
+  "predictions": [
+    {
+      "value": "100.0",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F1: Expression of strong negative emotions (explicit)"
+    },
+    {
+      "value": "98.6",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F2: Description using very negative attributes (explicit)"
+    },
+    {
+      "value": "89.3",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F4: Implicit derogation"
+    },
+    {
+      "value": "99.3",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F6: Threat as normative statement"
+    },
+    {
+      "value": "85.4",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F7: Hate expressed using slur"
+    },
+    {
+      "value": "76.7",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F8: Non-hateful homonyms of slurs"
+    },
+    {
+      "value": "33.3",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F9: Reclaimed slurs"
+    },
+    {
+      "value": "97.9",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F10: Hate expressed using profanity"
+    },
+    {
+      "value": "43.0",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F11: Non-hateful use of profanity"
+    },
+    {
+      "value": "97.7",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F13: Hate expressed through reference in subsequent sentences"
+    },
+    {
+      "value": "33.1",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F15: Non-hate expressed using negated hateful statement"
+    },
+    {
+      "value": "96.0",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F18: Neutral statements using protected group identifiers"
+    },
+    {
+      "value": "97.4",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F19: Positive statements using protected group identifiers"
+    },
+    {
+      "value": "63.1",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F22: Abuse targeted at objects"
+    },
+    {
+      "value": "7.7",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F23: Abuse targeted at individuals (not as member of a prot. group)"
+    },
+    {
+      "value": "11.3",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F24: Abuse targeted at nonprotected groups (e.g. professions)"
+    },
+    {
+      "value": "88.6",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F26: Missing characters"
+    },
+    {
+      "value": "87.9",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F27: Missing word boundaries"
+    },
+    {
+      "value": "93.1",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F29: Leet speak spellings"
+    },
+    {
+      "value": "79.4",
+      "type": "Result",
+      "model": "No Strat.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection",
+      "functionality": "Overall"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F1: Expression of strong negative emotions (explicit)"
+    },
+    {
+      "value": "-5.0",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F4: Implicit derogation"
+    },
+    {
+      "value": "-14.6",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F7: Hate expressed using slur"
+    },
+    {
+      "value": "6.7",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F8: Non-hateful homonyms of slurs"
+    },
+    {
+      "value": "-0.7",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F10: Hate expressed using profanity"
+    },
+    {
+      "value": "49.0",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F11: Non-hateful use of profanity"
+    },
+    {
+      "value": "-2.9",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F14: Hate expressed using negated hateful statement"
+    },
+    {
+      "value": "5.3",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F15: Non-hate expressed using negated hateful statement"
+    },
+    {
+      "value": "8.7",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F20: Denouncements of hate that quote it"
+    },
+    {
+      "value": "7.8",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F21: Denouncements of hate that make direct reference to it"
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F22: Abuse targeted at objects"
+    },
+    {
+      "value": "70.8",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F23: Abuse targeted at individuals (not as member of a prot. group)"
+    },
+    {
+      "value": "82.0",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F24: Abuse targeted at nonprotected groups (e.g. professions)"
+    },
+    {
+      "value": "-1.4",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F26: Missing characters"
+    },
+    {
+      "value": "-4.3",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F27: Missing word boundaries"
+    },
+    {
+      "value": "-11.0",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F28: Added spaces between chars"
+    },
+    {
+      "value": "-12.7",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F29: Leet speak spellings"
+    },
+    {
+      "value": "3.3",
+      "type": "Result",
+      "model": "FBT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "Overall"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "FCS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F1: Expression of strong negative emotions (explicit)"
+    },
+    {
+      "value": "100.0",
+      "type": "Result",
+      "model": "FCS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F20: Denouncements of hate that quote it"
+    },
+    {
+      "value": "4.6",
+      "type": "Result",
+      "model": "FCS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "Overall"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F1: Expression of strong negative emotions (explicit)"
+    },
+    {
+      "value": "-10.0",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F4: Implicit derogation"
+    },
+    {
+      "value": "-3.0",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F5: Direct threat"
+    },
+    {
+      "value": "32.1",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F9: Reclaimed slurs"
+    },
+    {
+      "value": "23.0",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F11: Non-hateful use of profanity"
+    },
+    {
+      "value": "-2.9",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F12: Hate expressed through reference in subsequent clauses"
+    },
+    {
+      "value": "-5.0",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F16: Hate phrased as a question"
+    },
+    {
+      "value": "-2.3",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F17: Hate phrased as an opinion"
+    },
+    {
+      "value": "1.4",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F21: Denouncements of hate that make direct reference to it"
+    },
+    {
+      "value": "49.2",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F22: Abuse targeted at objects"
+    },
+    {
+      "value": "3.2",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F24: Abuse targeted at nonprotected groups (e.g. professions)"
+    },
+    {
+      "value": "-0.6",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F28: Added spaces between chars"
+    },
+    {
+      "value": "0.7",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "Overall"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "CDC",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F1: Expression of strong negative emotions (explicit)"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "model": "CDC",
+      "dataset": "Hate Check",
+      "metric": "Accuracy Change",
+      "task": "zero-shot hate speech detection",
+      "functionality": "F7: Hate expressed using slur"
+    },
+    {
+      "value": "66.4",
+      "type": "Result",
+      "model": "SVM",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "80.0",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "80.4",
+      "type": "Result",
+      "model": "DistilBERT",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "69.6",
+      "type": "Result",
+      "model": "That contains hate speech.",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "78.5",
+      "type": "Result",
+      "model": "FBT (TG)",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "model": "FBT (TC)",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "69.6",
+      "type": "Result",
+      "model": "FCS",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "71.3",
+      "type": "Result",
+      "model": "FRS",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "69.5",
+      "type": "Result",
+      "model": "CDC (TC)",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "model": "FBT (TC) + FCS",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "79.7",
+      "type": "Result",
+      "model": "FBT (TC) + FRS",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "71.3",
+      "type": "Result",
+      "model": "FCS + FRS",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "79.7",
+      "type": "Result",
+      "model": "FBT (TC) + FCS + FRS",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "79.6",
+      "type": "Result",
+      "model": "CDC (TC) + FBT (TC) + FCS + FRS",
+      "dataset": "ETHOS",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "97.9",
+      "type": "Result",
+      "hypothesis": "That example is about black people.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "92.0",
+      "type": "Result",
+      "hypothesis": "That example is about black people.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "93.8",
+      "type": "Result",
+      "hypothesis": "That example is about black people.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "hypothesis": "That example is about black people.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "97.6",
+      "type": "Result",
+      "hypothesis": "This example is about black people.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "hypothesis": "This example is about black people.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.0",
+      "type": "Result",
+      "hypothesis": "This example is about black people.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "88.0",
+      "type": "Result",
+      "hypothesis": "This example is about black people.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "96.4",
+      "type": "Result",
+      "hypothesis": "That text is about black people.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "87.1",
+      "type": "Result",
+      "hypothesis": "That text is about black people.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "93.2",
+      "type": "Result",
+      "hypothesis": "That text is about black people.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "81.8",
+      "type": "Result",
+      "hypothesis": "That text is about black people.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "95.8",
+      "type": "Result",
+      "hypothesis": "That is about black people.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "85.0",
+      "type": "Result",
+      "hypothesis": "That is about black people.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "hypothesis": "That is about black people.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "hypothesis": "That is about black people.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "95.2",
+      "type": "Result",
+      "hypothesis": "This text is about black people.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "83.6",
+      "type": "Result",
+      "hypothesis": "This text is about black people.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "hypothesis": "This text is about black people.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "hypothesis": "This text is about black people.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "95.0",
+      "type": "Result",
+      "hypothesis": "This is about black people.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "83.0",
+      "type": "Result",
+      "hypothesis": "This is about black people.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "93.6",
+      "type": "Result",
+      "hypothesis": "This is about black people.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "74.5",
+      "type": "Result",
+      "hypothesis": "This is about black people.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.3",
+      "type": "Result",
+      "hypothesis": "That example is about people of colour.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "80.7",
+      "type": "Result",
+      "hypothesis": "That example is about people of colour.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "92.7",
+      "type": "Result",
+      "hypothesis": "That example is about people of colour.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "71.4",
+      "type": "Result",
+      "hypothesis": "That example is about people of colour.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "79.8",
+      "type": "Result",
+      "hypothesis": "That example is about race.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "91.3",
+      "type": "Result",
+      "hypothesis": "That example is about race.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "70.9",
+      "type": "Result",
+      "hypothesis": "That example is about race.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "79.3",
+      "type": "Result",
+      "hypothesis": "This example is about people of colour.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "92.3",
+      "type": "Result",
+      "hypothesis": "This example is about people of colour.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "69.5",
+      "type": "Result",
+      "hypothesis": "This example is about people of colour.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.6",
+      "type": "Result",
+      "hypothesis": "That is about race.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "77.5",
+      "type": "Result",
+      "hypothesis": "That is about race.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "72.6",
+      "type": "Result",
+      "hypothesis": "That is about race.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "hypothesis": "That is about race.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "72.3",
+      "type": "Result",
+      "hypothesis": "This example is about race.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "91.7",
+      "type": "Result",
+      "hypothesis": "This example is about race.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "59.6",
+      "type": "Result",
+      "hypothesis": "This example is about race.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "hypothesis": "That text is about people of colour.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "70.6",
+      "type": "Result",
+      "hypothesis": "That text is about people of colour.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.2",
+      "type": "Result",
+      "hypothesis": "That text is about people of colour.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "56.4",
+      "type": "Result",
+      "hypothesis": "That text is about people of colour.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.5",
+      "type": "Result",
+      "hypothesis": "That example is about ethnicity.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "69.8",
+      "type": "Result",
+      "hypothesis": "That example is about ethnicity.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "hypothesis": "That example is about ethnicity.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "59.1",
+      "type": "Result",
+      "hypothesis": "That example is about ethnicity.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "88.9",
+      "type": "Result",
+      "hypothesis": "This is about race.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "67.6",
+      "type": "Result",
+      "hypothesis": "This is about race.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "89.4",
+      "type": "Result",
+      "hypothesis": "This is about race.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "54.4",
+      "type": "Result",
+      "hypothesis": "This is about race.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "87.8",
+      "type": "Result",
+      "hypothesis": "That text is about race.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "66.3",
+      "type": "Result",
+      "hypothesis": "That text is about race.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "51.7",
+      "type": "Result",
+      "hypothesis": "That text is about race.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "87.4",
+      "type": "Result",
+      "hypothesis": "That is about people of colour.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "65.9",
+      "type": "Result",
+      "hypothesis": "That is about people of colour.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "50.8",
+      "type": "Result",
+      "hypothesis": "That is about people of colour.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "86.5",
+      "type": "Result",
+      "hypothesis": "This is about race.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "64.5",
+      "type": "Result",
+      "hypothesis": "This is about race.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "48.9",
+      "type": "Result",
+      "hypothesis": "This is about race.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "84.9",
+      "type": "Result",
+      "hypothesis": "This text is about people of colour.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "62.1",
+      "type": "Result",
+      "hypothesis": "This text is about people of colour.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "96.1",
+      "type": "Result",
+      "hypothesis": "This text is about people of colour.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "45.9",
+      "type": "Result",
+      "hypothesis": "This text is about people of colour.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "85.6",
+      "type": "Result",
+      "hypothesis": "This example is about ethnicity.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "hypothesis": "This example is about ethnicity.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "47.1",
+      "type": "Result",
+      "hypothesis": "This example is about ethnicity.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "85.4",
+      "type": "Result",
+      "hypothesis": "This is about ethnicity.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "58.1",
+      "type": "Result",
+      "hypothesis": "This is about ethnicity.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "78.4",
+      "type": "Result",
+      "hypothesis": "This is about ethnicity.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "46.2",
+      "type": "Result",
+      "hypothesis": "This is about ethnicity.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "81.5",
+      "type": "Result",
+      "hypothesis": "That text is about ethnicity.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "56.1",
+      "type": "Result",
+      "hypothesis": "That text is about ethnicity.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "40.5",
+      "type": "Result",
+      "hypothesis": "That text is about ethnicity.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "80.2",
+      "type": "Result",
+      "hypothesis": "This text is about ethnicity.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "55.0",
+      "type": "Result",
+      "hypothesis": "This text is about ethnicity.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "38.9",
+      "type": "Result",
+      "hypothesis": "This text is about ethnicity.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "hypothesis": "This text is about people of colour.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "49.4",
+      "type": "Result",
+      "hypothesis": "This text is about people of colour.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "33.3",
+      "type": "Result",
+      "hypothesis": "This text is about people of colour.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "87.0",
+      "type": "Result",
+      "hypothesis": "That is about ethnicity.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "28.4",
+      "type": "Result",
+      "hypothesis": "That is about ethnicity.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "19.9",
+      "type": "Result",
+      "hypothesis": "That is about ethnicity.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "49.7",
+      "type": "Result",
+      "hypothesis": "That is about ethnicity.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "98.3",
+      "type": "Result",
+      "hypothesis": "That example is about Muslims.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "93.1",
+      "type": "Result",
+      "hypothesis": "That example is about Muslims.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "hypothesis": "That example is about Muslims.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "hypothesis": "That example is about Muslims.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "98.1",
+      "type": "Result",
+      "hypothesis": "This example is about Muslims.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.8",
+      "type": "Result",
+      "hypothesis": "This example is about Muslims.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "92.6",
+      "type": "Result",
+      "hypothesis": "This text is about Muslims.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "hypothesis": "This text is about Muslims.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "98.0",
+      "type": "Result",
+      "hypothesis": "That text is about Muslims.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "93.4",
+      "type": "Result",
+      "hypothesis": "That example is about Muslim people.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "93.0",
+      "type": "Result",
+      "hypothesis": "This example is about Muslim people.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "97.8",
+      "type": "Result",
+      "hypothesis": "This is about Muslims.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "91.6",
+      "type": "Result",
+      "hypothesis": "This is about Muslims.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "hypothesis": "This is about Muslims.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "91.5",
+      "type": "Result",
+      "hypothesis": "This text is about Muslim people.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "92.2",
+      "type": "Result",
+      "hypothesis": "This text is about Muslim people.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "97.7",
+      "type": "Result",
+      "hypothesis": "That text is about Muslim people.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "hypothesis": "That text is about Muslim people.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "83.3",
+      "type": "Result",
+      "hypothesis": "This example is about religion.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "98.5",
+      "type": "Result",
+      "hypothesis": "This example is about religion.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "97.5",
+      "type": "Result",
+      "hypothesis": "This is about religion.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "89.7",
+      "type": "Result",
+      "hypothesis": "This is about religion.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "83.9",
+      "type": "Result",
+      "hypothesis": "This is about religion.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "97.3",
+      "type": "Result",
+      "hypothesis": "This is about Muslim people.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "hypothesis": "This is about Muslim people.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "89.9",
+      "type": "Result",
+      "hypothesis": "This is about Muslim people.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "89.3",
+      "type": "Result",
+      "hypothesis": "This is about Muslim people.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "89.5",
+      "type": "Result",
+      "hypothesis": "That text is about religion.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "82.9",
+      "type": "Result",
+      "hypothesis": "That text is about religion.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "97.2",
+      "type": "Result",
+      "hypothesis": "That is about Muslims.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "89.1",
+      "type": "Result",
+      "hypothesis": "That is about Muslims.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "88.6",
+      "type": "Result",
+      "hypothesis": "That is about Muslims.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "88.5",
+      "type": "Result",
+      "hypothesis": "That example is about religion.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "98.7",
+      "type": "Result",
+      "hypothesis": "That example is about religion.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "96.8",
+      "type": "Result",
+      "hypothesis": "That is about Muslim people.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "85.9",
+      "type": "Result",
+      "hypothesis": "That is about Muslim people.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "84.5",
+      "type": "Result",
+      "hypothesis": "This is about religion.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "hypothesis": "This is about religion.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "78.2",
+      "type": "Result",
+      "hypothesis": "This example is about faith.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "69.2",
+      "type": "Result",
+      "hypothesis": "This example is about faith.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "78.1",
+      "type": "Result",
+      "hypothesis": "This text is about faith.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "69.0",
+      "type": "Result",
+      "hypothesis": "This text is about faith.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "hypothesis": "This text is about faith.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "74.2",
+      "type": "Result",
+      "hypothesis": "That text is about faith.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "62.4",
+      "type": "Result",
+      "hypothesis": "That text is about faith.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "68.9",
+      "type": "Result",
+      "hypothesis": "That example is about faith.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "56.6",
+      "type": "Result",
+      "hypothesis": "That example is about faith.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "hypothesis": "That example is about faith.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "63.3",
+      "type": "Result",
+      "hypothesis": "This is about faith.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "52.9",
+      "type": "Result",
+      "hypothesis": "This is about faith.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "78.8",
+      "type": "Result",
+      "hypothesis": "This is about faith.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "34.5",
+      "type": "Result",
+      "hypothesis": "That is about religion.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "21.1",
+      "type": "Result",
+      "hypothesis": "That is about religion.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "95.3",
+      "type": "Result",
+      "hypothesis": "That is about religion.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "88.3",
+      "type": "Result",
+      "hypothesis": "That is about faith.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "21.9",
+      "type": "Result",
+      "hypothesis": "That is about faith.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "12.6",
+      "type": "Result",
+      "hypothesis": "That is about faith.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "hypothesis": "That is about faith.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "91.2",
+      "type": "Result",
+      "hypothesis": "That example is about immigrants.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.8",
+      "type": "Result",
+      "hypothesis": "This example is about immigrants.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "hypothesis": "This example is about immigrants.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "88.8",
+      "type": "Result",
+      "hypothesis": "That is about immigrants.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "88.4",
+      "type": "Result",
+      "hypothesis": "That is about immigrants.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "97.0",
+      "type": "Result",
+      "hypothesis": "That text is about immigrants.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "85.2",
+      "type": "Result",
+      "hypothesis": "That text is about immigrants.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "96.3",
+      "type": "Result",
+      "hypothesis": "This text is about immigrants.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "86.4",
+      "type": "Result",
+      "hypothesis": "This text is about immigrants.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "93.7",
+      "type": "Result",
+      "hypothesis": "This text is about immigrants.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "80.1",
+      "type": "Result",
+      "hypothesis": "This text is about immigrants.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "86.2",
+      "type": "Result",
+      "hypothesis": "This is about immigrants.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "81.4",
+      "type": "Result",
+      "hypothesis": "This is about immigrants.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "77.7",
+      "type": "Result",
+      "hypothesis": "This text is about national origin.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "42.2",
+      "type": "Result",
+      "hypothesis": "This text is about national origin.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "65.4",
+      "type": "Result",
+      "hypothesis": "This text is about national origin.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "31.1",
+      "type": "Result",
+      "hypothesis": "This text is about national origin.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "78.0",
+      "type": "Result",
+      "hypothesis": "That text is about national origin.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "41.3",
+      "type": "Result",
+      "hypothesis": "That text is about national origin.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "30.9",
+      "type": "Result",
+      "hypothesis": "That text is about national origin.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "83.4",
+      "type": "Result",
+      "hypothesis": "This is about national origin.",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "37.0",
+      "type": "Result",
+      "hypothesis": "This is about national origin.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "39.3",
+      "type": "Result",
+      "hypothesis": "This is about national origin.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "35.0",
+      "type": "Result",
+      "hypothesis": "This is about national origin.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "30.0",
+      "type": "Result",
+      "hypothesis": "That example is about national origin.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "32.2",
+      "type": "Result",
+      "hypothesis": "That example is about national origin.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "28.1",
+      "type": "Result",
+      "hypothesis": "That example is about national origin.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "34.8",
+      "type": "Result",
+      "hypothesis": "This example is about national origin.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "26.3",
+      "type": "Result",
+      "hypothesis": "This example is about national origin.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "24.6",
+      "type": "Result",
+      "hypothesis": "That is about national origin.",
+      "metric": "F\u2081 (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "17.7",
+      "type": "Result",
+      "hypothesis": "That is about national origin.",
+      "metric": "recall (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "40.2",
+      "type": "Result",
+      "hypothesis": "That is about national origin.",
+      "metric": "precision (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "98.4",
+      "type": "Result",
+      "hypothesis": "That example is about disabled people.",
+      "metric": "accuracy",
+      "unit": "%"
+    },
+    {
+      "value": "93.5",
+      "type": "Result",
+      "hypothesis": "This example is about disabled people.",
+      "metric": "F1",
+      "unit": "%"
+    },
+    {
+      "value": "91.9",
+      "type": "Result",
+      "hypothesis": "That example is about disability.",
+      "metric": "F1",
+      "unit": "%"
+    },
+    {
+      "value": "91.4",
+      "type": "Result",
+      "hypothesis": "That example is about disability.",
+      "metric": "Precision",
+      "unit": "%"
+    },
+    {
+      "value": "87.2",
+      "type": "Result",
+      "hypothesis": "That is about disabled people.",
+      "metric": "Recall",
+      "unit": "%"
+    },
+    {
+      "value": "97.4",
+      "type": "Result",
+      "hypothesis": "This is about disabled people.",
+      "metric": "accuracy",
+      "unit": "%"
+    },
+    {
+      "value": "96.6",
+      "type": "Result",
+      "hypothesis": "That text is about disability.",
+      "metric": "accuracy",
+      "unit": "%"
+    },
+    {
+      "value": "87.6",
+      "type": "Result",
+      "hypothesis": "That text is about disability.",
+      "metric": "F1",
+      "unit": "%"
+    },
+    {
+      "value": "84.1",
+      "type": "Result",
+      "hypothesis": "That text is about disability.",
+      "metric": "Precision",
+      "unit": "%"
+    },
+    {
+      "value": "86.0",
+      "type": "Result",
+      "hypothesis": "That is about disability.",
+      "metric": "F1",
+      "unit": "%"
+    },
+    {
+      "value": "80.4",
+      "type": "Result",
+      "hypothesis": "That is about disability.",
+      "metric": "Recall",
+      "unit": "%"
+    },
+    {
+      "value": "82.0",
+      "type": "Result",
+      "hypothesis": "This is about disability.",
+      "metric": "F1",
+      "unit": "%"
+    },
+    {
+      "value": "74.1",
+      "type": "Result",
+      "hypothesis": "This is about disability.",
+      "metric": "Precision",
+      "unit": "%"
+    },
+    {
+      "value": "94.5",
+      "type": "Result",
+      "hypothesis": "This text is about disability.",
+      "metric": "accuracy",
+      "unit": "%"
+    },
+    {
+      "value": "81.6",
+      "type": "Result",
+      "hypothesis": "This text is about disability.",
+      "metric": "F1",
+      "unit": "%"
+    },
+    {
+      "value": "71.9",
+      "type": "Result",
+      "hypothesis": "This text is about disability.",
+      "metric": "Precision",
+      "unit": "%"
+    },
+    {
+      "value": "99.1",
+      "type": "Result",
+      "model": "That example is about gay people",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "96.7",
+      "type": "Result",
+      "model": "That example is about gay people",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.2",
+      "type": "Result",
+      "model": "That example is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "99.4",
+      "type": "Result",
+      "model": "That example is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "99.0",
+      "type": "Result",
+      "model": "This example is about gay people",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "96.6",
+      "type": "Result",
+      "model": "This example is about gay people",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.0",
+      "type": "Result",
+      "model": "This example is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "99.2",
+      "type": "Result",
+      "model": "This example is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "98.8",
+      "type": "Result",
+      "model": "This text is about gay people",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "This text is about gay people",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "92.9",
+      "type": "Result",
+      "model": "This text is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "99.0",
+      "type": "Result",
+      "model": "This text is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "98.8",
+      "type": "Result",
+      "model": "This is about gay people",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "95.8",
+      "type": "Result",
+      "model": "This is about gay people",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "92.6",
+      "type": "Result",
+      "model": "This is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "99.2",
+      "type": "Result",
+      "model": "This is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "98.5",
+      "type": "Result",
+      "model": "That text is about gay people",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.6",
+      "type": "Result",
+      "model": "That text is about gay people",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "model": "That text is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "99.6",
+      "type": "Result",
+      "model": "That text is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "98.4",
+      "type": "Result",
+      "model": "That is about gay people",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "model": "That is about gay people",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "model": "That is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "98.8",
+      "type": "Result",
+      "model": "That is about gay people",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "99.0",
+      "type": "Result",
+      "hypothesis": "That example is about transgender people.",
+      "metric": "accuracy",
+      "unit": "%"
+    },
+    {
+      "value": "99.1",
+      "type": "Result",
+      "hypothesis": "That example is about transgender people.",
+      "metric": "Precision",
+      "unit": "%"
+    },
+    {
+      "value": "99.3",
+      "type": "Result",
+      "hypothesis": "That text is about transgender people.",
+      "metric": "Precision",
+      "unit": "%"
+    },
+    {
+      "value": "98.9",
+      "type": "Result",
+      "hypothesis": "This text is about transgender people.",
+      "metric": "accuracy",
+      "unit": "%"
+    },
+    {
+      "value": "92.9",
+      "type": "Result",
+      "hypothesis": "This text is about transgender people.",
+      "metric": "Recall",
+      "unit": "%"
+    },
+    {
+      "value": "95.4",
+      "type": "Result",
+      "hypothesis": "This example is about transgender people.",
+      "metric": "F1",
+      "unit": "%"
+    },
+    {
+      "value": "98.8",
+      "type": "Result",
+      "hypothesis": "This example is about transgender people.",
+      "metric": "Precision",
+      "unit": "%"
+    },
+    {
+      "value": "94.9",
+      "type": "Result",
+      "hypothesis": "That is about transgender people.",
+      "metric": "F1",
+      "unit": "%"
+    },
+    {
+      "value": "97.2",
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.1",
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "86.6",
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "97.2",
+      "type": "Result",
+      "model": "That example is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "That example is about women.",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.1",
+      "type": "Result",
+      "model": "That example is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "86.5",
+      "type": "Result",
+      "model": "That example is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "96.2",
+      "type": "Result",
+      "model": "That is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "86.6",
+      "type": "Result",
+      "model": "That is about women.",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "88.6",
+      "type": "Result",
+      "model": "That is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "84.6",
+      "type": "Result",
+      "model": "That is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "This text is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "model": "This text is about women.",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "93.9",
+      "type": "Result",
+      "model": "This text is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "79.5",
+      "type": "Result",
+      "model": "This text is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "95.7",
+      "type": "Result",
+      "model": "That text is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "model": "That text is about women.",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "91.6",
+      "type": "Result",
+      "model": "That text is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "79.8",
+      "type": "Result",
+      "model": "That text is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "94.8",
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "83.0",
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "92.7",
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "85.8",
+      "type": "Result",
+      "hypothesis": "That example is about gender.",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "89.0",
+      "type": "Result",
+      "hypothesis": "This example is about gender.",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "80.5",
+      "type": "Result",
+      "hypothesis": "This example is about gender.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "74.9",
+      "type": "Result",
+      "hypothesis": "This example is about gender.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "79.6",
+      "type": "Result",
+      "hypothesis": "That text is about gender.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "86.8",
+      "type": "Result",
+      "hypothesis": "That text is about gender.",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "hypothesis": "That text is about gender.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "87.9",
+      "type": "Result",
+      "hypothesis": "This text is about gender.",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "71.5",
+      "type": "Result",
+      "hypothesis": "This text is about gender.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "75.1",
+      "type": "Result",
+      "hypothesis": "This is about gender.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "74.7",
+      "type": "Result",
+      "hypothesis": "This is about gender.",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "75.5",
+      "type": "Result",
+      "hypothesis": "This is about gender.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "39.5",
+      "type": "Result",
+      "hypothesis": "That is about gender.",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "38.5",
+      "type": "Result",
+      "hypothesis": "That text is about myself.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "40.0",
+      "type": "Result",
+      "hypothesis": "That text is about myself.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "33.7",
+      "type": "Result",
+      "hypothesis": "This text is about myself.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "42.0",
+      "type": "Result",
+      "hypothesis": "This text is about myself.",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "36.2",
+      "type": "Result",
+      "hypothesis": "That is about myself.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "31.3",
+      "type": "Result",
+      "hypothesis": "This is about myself.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "31.6",
+      "type": "Result",
+      "hypothesis": "This is about myself.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "96.2",
+      "type": "Result",
+      "hypothesis": "That example is about myself.",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "31.2",
+      "type": "Result",
+      "hypothesis": "That example is about myself.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "25.8",
+      "type": "Result",
+      "hypothesis": "That example is about myself.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "hypothesis": "This example is about myself.",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "hypothesis": "This text is about us.",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "16.8",
+      "type": "Result",
+      "hypothesis": "This text is about us.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "69.1",
+      "type": "Result",
+      "hypothesis": "This text is about us.",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "9.6",
+      "type": "Result",
+      "hypothesis": "This text is about us.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "16.2",
+      "type": "Result",
+      "hypothesis": "That text is about us.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "46.9",
+      "type": "Result",
+      "hypothesis": "That text is about us.",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "9.8",
+      "type": "Result",
+      "hypothesis": "That text is about us.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "14.8",
+      "type": "Result",
+      "hypothesis": "That is about us.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "8.8",
+      "type": "Result",
+      "hypothesis": "That is about us.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "77.4",
+      "type": "Result",
+      "hypothesis": "This example is about us.",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "12.8",
+      "type": "Result",
+      "hypothesis": "This example is about us.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "76.5",
+      "type": "Result",
+      "hypothesis": "This example is about us.",
+      "metric": "Recall",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "7.0",
+      "type": "Result",
+      "hypothesis": "This example is about us.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "75.8",
+      "type": "Result",
+      "hypothesis": "That example is about us.",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "12.1",
+      "type": "Result",
+      "hypothesis": "That example is about us.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "6.6",
+      "type": "Result",
+      "hypothesis": "That example is about us.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "73.9",
+      "type": "Result",
+      "hypothesis": "This is about us.",
+      "metric": "accuracy",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "10.3",
+      "type": "Result",
+      "hypothesis": "This is about us.",
+      "metric": "F1",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "5.6",
+      "type": "Result",
+      "hypothesis": "This is about us.",
+      "metric": "Precision",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "100.0",
+      "type": "Result",
+      "hypothesis": "This text supports [X].",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "85.5",
+      "type": "Result",
+      "hypothesis": "That text supports [X].",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "69.4",
+      "type": "Result",
+      "hypothesis": "This text is for [X].",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "50.9",
+      "type": "Result",
+      "hypothesis": "This is for [X].",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "46.8",
+      "type": "Result",
+      "hypothesis": "That is for [X].",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "38.7",
+      "type": "Result",
+      "hypothesis": "That text is for [X].",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "18.5",
+      "type": "Result",
+      "hypothesis": "This example is for [X].",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "hypothesis": "That example is for [X].",
+      "metric": "accuracy (%)",
+      "task": "zero-shot hate speech detection"
+    }
+  ],
+  "num_gold_annotations": 126,
+  "elapsed_seconds": 187.1,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "camelot"
+  ]
+}

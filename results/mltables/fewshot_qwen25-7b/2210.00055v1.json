@@ -1,0 +1,682 @@
+{
+  "pdf_id": "2210.00055v1",
+  "predictions": [
+    {
+      "value": "99%",
+      "type": "Data Stat.",
+      "dataset": "Celeb A",
+      "sub-set/group name": "Test",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "99%"
+      }
+    },
+    {
+      "value": "95%",
+      "type": "Data Stat.",
+      "dataset": "Celeb A",
+      "sub-set/group name": "Test",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "95%"
+      }
+    },
+    {
+      "value": "90%",
+      "type": "Data Stat.",
+      "dataset": "Celeb A",
+      "sub-set/group name": "Test",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "90%"
+      }
+    },
+    {
+      "value": "99.99\u00b10.02",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "sub-set/group name": "Validation",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "100%"
+      }
+    },
+    {
+      "value": "94.86\u00b10.18",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "sub-set/group name": "Validation",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "95%"
+      }
+    },
+    {
+      "value": "89.73\u00b10.22",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "sub-set/group name": "Validation",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "90%"
+      }
+    },
+    {
+      "value": "100.0\u00b10.00",
+      "type": "Result",
+      "dataset": "SVHN",
+      "sub-set/group name": "Validation",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "100%"
+      }
+    },
+    {
+      "value": "95.19\u00b10.09",
+      "type": "Result",
+      "dataset": "SVHN",
+      "sub-set/group name": "Validation",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "95%"
+      }
+    },
+    {
+      "value": "89.55\u00b10.26",
+      "type": "Result",
+      "dataset": "SVHN",
+      "sub-set/group name": "Validation",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "90%"
+      }
+    },
+    {
+      "value": "99.98\u00b10.00",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "sub-set/group name": "Validation",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "100%"
+      }
+    },
+    {
+      "value": "95.01\u00b10.14",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "sub-set/group name": "Validation",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "95%"
+      }
+    },
+    {
+      "value": "90.78\u00b10.16",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "sub-set/group name": "Validation",
+      "attribute name": "Coverage",
+      "metric": "Accuracy",
+      "model": "Mask Tune",
+      "experimental settings": {
+        "coverage": "90%"
+      }
+    },
+    {
+      "value": "80.8\u00b11.3",
+      "type": "Result",
+      "dataset": "Waterbirds",
+      "sub-set/group name": "Test",
+      "attribute name": "Worst-group accuracy",
+      "metric": "Accuracy",
+      "model": "ERM"
+    },
+    {
+      "value": "86.4\u00b11.9",
+      "type": "Result",
+      "dataset": "Waterbirds",
+      "sub-set/group name": "Test",
+      "attribute name": "Worst-group accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "93.0\u00b10.7",
+      "type": "Result",
+      "dataset": "Waterbirds",
+      "sub-set/group name": "Test",
+      "attribute name": "Average accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "98.61\u00b10.61",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "98.88\u00b10.60",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "1 Iteration Mask Tune Accumulative"
+    },
+    {
+      "value": "99.00\u00b10.14",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "1 Iteration Mask Tune Non-Accumulative"
+    },
+    {
+      "value": "99.00\u00b10.14",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "1 Iteration Mask Tune Accumulative"
+    },
+    {
+      "value": "98.61\u00b10.61",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "1 Iteration Mask Tune Non-Accumulative"
+    },
+    {
+      "value": "78.862",
+      "type": "Result",
+      "dataset": "Image Net-9L",
+      "sub-set/group name": "Test",
+      "attribute name": "Test accuracy",
+      "metric": "Accuracy",
+      "model": "ERM"
+    },
+    {
+      "value": "78.213",
+      "type": "Result",
+      "dataset": "Image Net-9L",
+      "sub-set/group name": "Test",
+      "attribute name": "Test accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "80.8\u00b11.3",
+      "type": "Result",
+      "dataset": "Waterbirds",
+      "sub-set/group name": "Test",
+      "attribute name": "Worst-group accuracy",
+      "metric": "Accuracy",
+      "model": "ERM"
+    },
+    {
+      "value": "86.4\u00b11.9",
+      "type": "Result",
+      "dataset": "Waterbirds",
+      "sub-set/group name": "Test",
+      "attribute name": "Worst-group accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "93.0\u00b10.7",
+      "type": "Result",
+      "dataset": "Waterbirds",
+      "sub-set/group name": "Test",
+      "attribute name": "Average accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "89.3\u00b13.1",
+      "type": "Result",
+      "dataset": "Waterbirds",
+      "sub-set/group name": "Test",
+      "attribute name": "Worst-group accuracy",
+      "metric": "Accuracy",
+      "model": "Group DRO"
+    },
+    {
+      "value": "94.4\u00b10.7",
+      "type": "Result",
+      "dataset": "Waterbirds",
+      "sub-set/group name": "Test",
+      "attribute name": "Average accuracy",
+      "metric": "Accuracy",
+      "model": "Group DRO"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "SIN"
+    },
+    {
+      "value": "73.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "INSIN"
+    },
+    {
+      "value": "63.7",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "INCGN"
+    },
+    {
+      "value": "94.7",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "CIM"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Baseline"
+    },
+    {
+      "value": "85.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Baseline"
+    },
+    {
+      "value": "75.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-rand",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Baseline"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "CIM"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-rand",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "CIM"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "CIM"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "96.3",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Baseline"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Baseline"
+    },
+    {
+      "value": "75.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-rand",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Baseline"
+    },
+    {
+      "value": "85.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Baseline"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-rand",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-rand",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-rand",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-rand",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-rand",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-same",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Mixed-rand",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "dataset": "Background Challenge",
+      "sub-set/group name": "Only-FG",
+      "attribute name": "Accuracy",
+      "metric": "Accuracy",
+      "model": "Mask Tune"
+    }
+  ],
+  "elapsed_seconds": 165.4,
+  "raw_preview": "```json\n{\"value\": \"99%\", \"type\": \"Data Stat.\", \"dataset\": \"Celeb A\", \"sub-set/group name\": \"Test\", \"attribute name\": \"Coverage\", \"metric\": \"Accuracy\", \"model\": \"Mask Tune\", \"experimental settings\": {\"coverage\": \"99%\"}}\n{\"value\": \"95%\", \"type\": \"Data Stat.\", \"dataset\": \"Celeb A\", \"sub-set/group name\": \"Test\", \"attribute name\": \"Coverage\", \"metric\": \"Accuracy\", \"model\": \"Mask Tune\", \"experimental settings\": {\"coverage\": \"95%\"}}\n{\"value\": \"90%\", \"type\": \"Data Stat.\", \"dataset\": \"Celeb A\", \"sub-set/"
+}

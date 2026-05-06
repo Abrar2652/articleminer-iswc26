@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309304009342",
+  "predictions": [],
+  "elapsed_seconds": 42.5,
+  "raw_preview": "{\"sample\\_id\": \"S01_Na2O\\_Al2O3\\_B2O3\\_SiO2\", \"component\": \"Na2O\", \"value\": <value\\_Na2O>, \"unit\": \"mol%\"}\n{\"sample\\_id\": \"S01_Na2O\\_Al2O3\\_B2O3\\_SiO2\", \"component\": \"Al2O3\", \"value\": <value\\_Al2O3>, \"unit\": \"mol%\"}\n{\"sample\\_id\": \"S01_Na2O\\_Al2O3\\_B2O3\\_SiO2\", \"component\": \"B2O3\", \"value\": <value\\_B2O3>, \"unit\": \"mol%\"}\n{\"sample\\_id\": \"S01_Na2O\\_Al2O3\\_B2O3\\_SiO2\", \"component\": \"SiO2\", \"value\": <value\\_SiO2>, \"unit\": \"mol%\"}\n\n<value\\_Na2O>, <value\\_Al2O3>, <value\\_B2O3>, and <value\\_SiO2> shoul"
+}

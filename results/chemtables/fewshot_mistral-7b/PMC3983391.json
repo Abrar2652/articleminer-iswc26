@@ -1,0 +1,616 @@
+{
+  "pdf_id": "PMC3983391",
+  "predictions": [
+    {
+      "value": "0.77",
+      "type": "IC50",
+      "target": "tubulin",
+      "treatment": "5f",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.9\u22123.2",
+      "type": "GI50",
+      "target": "HTCL",
+      "treatment": "5f",
+      "unit": "nM"
+    },
+    {
+      "value": "0.55",
+      "type": "IC50",
+      "target": "tubulin",
+      "treatment": "5f",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "4.20",
+      "type": "log P",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "2.99",
+      "type": "log P",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "22.00",
+      "type": "metabolic stability",
+      "target": "",
+      "treatment": "5g",
+      "unit": "min"
+    },
+    {
+      "value": "0.54.81",
+      "type": "metabolic stability",
+      "target": "",
+      "treatment": "5f",
+      "unit": "min"
+    },
+    {
+      "value": "2.97",
+      "type": "log P",
+      "target": "",
+      "treatment": "5f",
+      "unit": ""
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "47.3",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "1b",
+      "unit": "%"
+    },
+    {
+      "value": "22.9",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "1a",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "1a",
+      "unit": ""
+    },
+    {
+      "value": "47.3",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "1b",
+      "unit": "%"
+    },
+    {
+      "value": "0/6",
+      "type": "death",
+      "target": "",
+      "treatment": "5f",
+      "unit": ""
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5f",
+      "unit": ""
+    },
+    {
+      "value": "+2.28",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "22.9",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "1a",
+      "unit": "%"
+    },
+    {
+      "value": "0/5",
+      "type": "death",
+      "target": "",
+      "treatment": "1a",
+      "unit": ""
+    },
+    {
+      "value": "47.3",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "1b",
+      "unit": "%"
+    },
+    {
+      "value": "1/6",
+      "type": "death",
+      "target": "",
+      "treatment": "5f",
+      "unit": ""
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5f",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0/7",
+      "type": "death",
+      "target": "",
+      "treatment": "5g",
+      "unit": ""
+    },
+    {
+      "value": "0.703 \u00b1 0.323",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "g"
+    },
+    {
+      "value": "1.436 \u00b1 0.531",
+      "type": "average tumor weight",
+      "target": "MCF7",
+      "treatment": "control",
+      "unit": "g"
+    },
+    {
+      "value": "51.0",
+      "type": "inhibitory rate",
+      "target": "MCF7",
+      "treatment": "5g",
+      "unit": "%"
+    },
+    {
+      "value": "0.0",
+      "type": "body weight change",
+      "target": "",
+      "treatment": "5g",
+      "unit": "%"
+    }
+  ],
+  "elapsed_seconds": 243.9,
+  "raw_preview": "donor\u201d energy (kcal/mol)</th>\n\t<th>H-bonding \u201cacceptor\u201d energy (kcal/mol)</th>\n\t<th>Van der Waals energy (kcal/mol)</th>\n\t<th>Total energy (kcal/mol)</th>\n\t<th>RMSD (\u00c5)</th>\n</tr>\n<tr>\n\t<td>1</td>\n\t<td>0.012</td>\n\t<td>\u221210.2</td>\n\t<td>0.001</td>\n\t<td>\u22121.2</td>\n\t<td>\u22123.5</td>\n\t<td>\u22122.5</td>\n\t<td>\u221211.5</td>\n\t<td>\u221227.7</td>\n\t<td>1.5</td>\n</tr>\n<tr>\n\t<td>2</td>\n\t<td>0.018</td>\n\t<td>\u221210.5</td>\n\t<td>0.002</td>\n\t<td>\u22121.5</td>\n\t<td>\u22123.8</td>\n\t<td>\u22122.8</td>\n\t<td>\u221212.5</td>\n\t<td>\u221231.1</td>\n\t<td>1.3</td>\n</"
+}

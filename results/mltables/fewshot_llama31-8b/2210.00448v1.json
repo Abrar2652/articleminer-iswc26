@@ -1,0 +1,706 @@
+{
+  "pdf_id": "2210.00448v1",
+  "predictions": [
+    {
+      "value": "1800",
+      "type": "Data Stat.",
+      "dataset": "recycling waste images",
+      "sub-set/group name": "training data",
+      "attribute name": "number of samples",
+      "dataset features": {}
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "training data/set": "Jetson Nano",
+      "test data/set": "Jetson Nano",
+      "task": "image classification",
+      "metric": "accuracy",
+      "model": "Mobile Net",
+      "model settings": {
+        "input resolution": "224x224 pixels"
+      }
+    },
+    {
+      "value": "96.64",
+      "type": "Result",
+      "training data/set": "K210",
+      "test data/set": "K210",
+      "task": "image classification",
+      "metric": "accuracy",
+      "model": "Mobile Net",
+      "model settings": {
+        "input resolution": "224x224 pixels"
+      }
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "power consumption",
+      "attribute name": "overall power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "0.89",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "3.0 M",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mobile Net",
+      "parameter/architecture name": "parameter size",
+      "dataset": "Jetson Nano"
+    },
+    {
+      "value": "0.07",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference time",
+      "attribute name": "inference time",
+      "dataset features": {}
+    },
+    {
+      "value": "0.1",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference time",
+      "attribute name": "human visual reaction time",
+      "dataset features": {}
+    },
+    {
+      "value": "95.38",
+      "type": "Result",
+      "training data/set": "Jetson Nano",
+      "test data/set": "Jetson Nano",
+      "task": "image classification",
+      "metric": "accuracy",
+      "model": "Efficient Net B0",
+      "model settings": {
+        "input resolution": "384x288 pixels"
+      }
+    },
+    {
+      "value": "19",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "25",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "40",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "13",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "90.9",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "memory usage",
+      "attribute name": "memory usage",
+      "dataset features": {}
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "3.97",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "3",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "training data/set": "Jetson Nano",
+      "test data/set": "Jetson Nano",
+      "task": "image classification",
+      "metric": "accuracy",
+      "model": "Mobile Net",
+      "model settings": {
+        "input resolution": "224x224 pixels"
+      }
+    },
+    {
+      "value": "96.64",
+      "type": "Result",
+      "training data/set": "K210",
+      "test data/set": "K210",
+      "task": "image classification",
+      "metric": "accuracy",
+      "model": "Mobile Net",
+      "model settings": {
+        "input resolution": "224x224 pixels"
+      }
+    },
+    {
+      "value": "0.89",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "66",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "inference time",
+      "attribute name": "inference time",
+      "dataset features": {}
+    },
+    {
+      "value": "23.3",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "battery life",
+      "attribute name": "battery life",
+      "dataset features": {}
+    },
+    {
+      "value": "1.9",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "5",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "inference time",
+      "attribute name": "inference time",
+      "dataset features": {}
+    },
+    {
+      "value": "0.89",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "80",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption reduction",
+      "dataset features": {}
+    },
+    {
+      "value": "GBP 23",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "cost",
+      "attribute name": "cost",
+      "dataset features": {}
+    },
+    {
+      "value": "GBP 200",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "cost",
+      "attribute name": "cost",
+      "dataset features": {}
+    },
+    {
+      "value": "USD 5200",
+      "type": "Data Stat.",
+      "dataset": "Bin-e",
+      "sub-set/group name": "cost",
+      "attribute name": "cost",
+      "dataset features": {}
+    },
+    {
+      "value": "92",
+      "type": "Data Stat.",
+      "dataset": "UK",
+      "sub-set/group name": "recycling rate",
+      "attribute name": "recycling rate",
+      "dataset features": {}
+    },
+    {
+      "value": "50",
+      "type": "Data Stat.",
+      "dataset": "UK",
+      "sub-set/group name": "recycling rate",
+      "attribute name": "recycling rate target",
+      "dataset features": {}
+    },
+    {
+      "value": "44",
+      "type": "Data Stat.",
+      "dataset": "UK",
+      "sub-set/group name": "recycling rate",
+      "attribute name": "recycling rate",
+      "dataset features": {}
+    },
+    {
+      "value": "2.01 billion",
+      "type": "Data Stat.",
+      "dataset": "worldwide",
+      "sub-set/group name": "waste generation",
+      "attribute name": "waste generation",
+      "dataset features": {}
+    },
+    {
+      "value": "19",
+      "type": "Data Stat.",
+      "dataset": "worldwide",
+      "sub-set/group name": "recycling rate",
+      "attribute name": "recycling rate",
+      "dataset features": {}
+    },
+    {
+      "value": "0.07",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference time",
+      "attribute name": "inference time",
+      "dataset features": {}
+    },
+    {
+      "value": "0.1",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference time",
+      "attribute name": "human visual reaction time",
+      "dataset features": {}
+    },
+    {
+      "value": "95.38",
+      "type": "Result",
+      "training data/set": "Jetson Nano",
+      "test data/set": "Jetson Nano",
+      "task": "image classification",
+      "metric": "accuracy",
+      "model": "Efficient Net B0",
+      "model settings": {
+        "input resolution": "384x288 pixels"
+      }
+    },
+    {
+      "value": "19",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "25",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "40",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "13",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "90.9",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "memory usage",
+      "attribute name": "memory usage",
+      "dataset features": {}
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "3.97",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "3",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "training data/set": "Jetson Nano",
+      "test data/set": "Jetson Nano",
+      "task": "image classification",
+      "metric": "accuracy",
+      "model": "Mobile Net",
+      "model settings": {
+        "input resolution": "224x224 pixels"
+      }
+    },
+    {
+      "value": "96.64",
+      "type": "Result",
+      "training data/set": "K210",
+      "test data/set": "K210",
+      "task": "image classification",
+      "metric": "accuracy",
+      "model": "Mobile Net",
+      "model settings": {
+        "input resolution": "224x224 pixels"
+      }
+    },
+    {
+      "value": "0.89",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "66",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "inference time",
+      "attribute name": "inference time",
+      "dataset features": {}
+    },
+    {
+      "value": "23.3",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "battery life",
+      "attribute name": "battery life",
+      "dataset features": {}
+    },
+    {
+      "value": "1.9",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "5",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "inference time",
+      "attribute name": "inference time",
+      "dataset features": {}
+    },
+    {
+      "value": "0.89",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "80",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption reduction",
+      "dataset features": {}
+    },
+    {
+      "value": "GBP 23",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "cost",
+      "attribute name": "cost",
+      "dataset features": {}
+    },
+    {
+      "value": "GBP 200",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "cost",
+      "attribute name": "cost",
+      "dataset features": {}
+    },
+    {
+      "value": "USD 5200",
+      "type": "Data Stat.",
+      "dataset": "Bin-e",
+      "sub-set/group name": "cost",
+      "attribute name": "cost",
+      "dataset features": {}
+    },
+    {
+      "value": "92",
+      "type": "Data Stat.",
+      "dataset": "UK",
+      "sub-set/group name": "recycling rate",
+      "attribute name": "recycling rate",
+      "dataset features": {}
+    },
+    {
+      "value": "50",
+      "type": "Data Stat.",
+      "dataset": "UK",
+      "sub-set/group name": "recycling rate",
+      "attribute name": "recycling rate target",
+      "dataset features": {}
+    },
+    {
+      "value": "44",
+      "type": "Data Stat.",
+      "dataset": "UK",
+      "sub-set/group name": "recycling rate",
+      "attribute name": "recycling rate",
+      "dataset features": {}
+    },
+    {
+      "value": "2.01 billion",
+      "type": "Data Stat.",
+      "dataset": "worldwide",
+      "sub-set/group name": "waste generation",
+      "attribute name": "waste generation",
+      "dataset features": {}
+    },
+    {
+      "value": "19",
+      "type": "Data Stat.",
+      "dataset": "worldwide",
+      "sub-set/group name": "recycling rate",
+      "attribute name": "recycling rate",
+      "dataset features": {}
+    },
+    {
+      "value": "0.07",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference time",
+      "attribute name": "inference time",
+      "dataset features": {}
+    },
+    {
+      "value": "0.1",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference time",
+      "attribute name": "human visual reaction time",
+      "dataset features": {}
+    },
+    {
+      "value": "95.38",
+      "type": "Result",
+      "training data/set": "Jetson Nano",
+      "test data/set": "Jetson Nano",
+      "task": "image classification",
+      "metric": "accuracy",
+      "model": "Efficient Net B0",
+      "model settings": {
+        "input resolution": "384x288 pixels"
+      }
+    },
+    {
+      "value": "19",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "25",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "40",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "13",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "inference speed",
+      "attribute name": "inference per second",
+      "dataset features": {}
+    },
+    {
+      "value": "90.9",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "memory usage",
+      "attribute name": "memory usage",
+      "dataset features": {}
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "3.97",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "3",
+      "type": "Data Stat.",
+      "dataset": "Jetson Nano",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "training data/set": "Jetson Nano",
+      "test data/set": "Jetson Nano",
+      "task": "image classification",
+      "metric": "accuracy",
+      "model": "Mobile Net",
+      "model settings": {
+        "input resolution": "224x224 pixels"
+      }
+    },
+    {
+      "value": "96.64",
+      "type": "Result",
+      "training data/set": "K210",
+      "test data/set": "K210",
+      "task": "image classification",
+      "metric": "accuracy",
+      "model": "Mobile Net",
+      "model settings": {
+        "input resolution": "224x224 pixels"
+      }
+    },
+    {
+      "value": "0.89",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "66",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "inference time",
+      "attribute name": "inference time",
+      "dataset features": {}
+    },
+    {
+      "value": "23.3",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "battery life",
+      "attribute name": "battery life",
+      "dataset features": {}
+    },
+    {
+      "value": "1.9",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "5",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "inference time",
+      "attribute name": "inference time",
+      "dataset features": {}
+    },
+    {
+      "value": "0.89",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption",
+      "dataset features": {}
+    },
+    {
+      "value": "80",
+      "type": "Data Stat.",
+      "dataset": "K210",
+      "sub-set/group name": "power consumption",
+      "attribute name": "power consumption reduction",
+      "dataset features": {}
+    }
+  ],
+  "elapsed_seconds": 204.5,
+  "raw_preview": "{\"value\": \"1800\", \"type\": \"Data Stat.\", \"dataset\": \"recycling waste images\", \"sub-set/group name\": \"training data\", \"attribute name\": \"number of samples\", \"dataset features\": {}}\n{\"value\": \"95.98\", \"type\": \"Result\", \"training data/set\": \"Jetson Nano\", \"test data/set\": \"Jetson Nano\", \"task\": \"image classification\", \"metric\": \"accuracy\", \"model\": \"Mobile Net\", \"model settings\": {\"input resolution\": \"224x224 pixels\"}}\n{\"value\": \"96.64\", \"type\": \"Result\", \"training data/set\": \"K210\", \"test data/set\""
+}

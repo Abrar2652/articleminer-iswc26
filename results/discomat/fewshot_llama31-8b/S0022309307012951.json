@@ -1,0 +1,175 @@
+{
+  "pdf_id": "S0022309307012951",
+  "predictions": [
+    {
+      "sample_id": "SG30",
+      "component": "SiO2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG30",
+      "component": "GeO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG50",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG50",
+      "component": "GeO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG65",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG65",
+      "component": "GeO2",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG80",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG80",
+      "component": "GeO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG30",
+      "component": "GeO4",
+      "value": 4.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG30",
+      "component": "Ge-Ge",
+      "value": 2.55,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG30",
+      "component": "Ge-Si",
+      "value": 1.45,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG50",
+      "component": "GeO4",
+      "value": 4.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG50",
+      "component": "Ge-Ge",
+      "value": 1.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG50",
+      "component": "Ge-Si",
+      "value": 2.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG65",
+      "component": "GeO4",
+      "value": 4.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG65",
+      "component": "Ge-Ge",
+      "value": 1.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG65",
+      "component": "Ge-Si",
+      "value": 2.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG80",
+      "component": "GeO4",
+      "value": 4.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG80",
+      "component": "Ge-Ge",
+      "value": 0.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG80",
+      "component": "Ge-Si",
+      "value": 3.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG30",
+      "component": "Ge-O",
+      "value": 1.73,
+      "unit": "A"
+    },
+    {
+      "sample_id": "SG30",
+      "component": "Ge-O-Si",
+      "value": 134.0,
+      "unit": "deg"
+    },
+    {
+      "sample_id": "SG50",
+      "component": "Ge-O",
+      "value": 1.73,
+      "unit": "A"
+    },
+    {
+      "sample_id": "SG50",
+      "component": "Ge-O-Si",
+      "value": 130.0,
+      "unit": "deg"
+    },
+    {
+      "sample_id": "SG65",
+      "component": "Ge-O",
+      "value": 1.73,
+      "unit": "A"
+    },
+    {
+      "sample_id": "SG65",
+      "component": "Ge-O-Si",
+      "value": 130.0,
+      "unit": "deg"
+    },
+    {
+      "sample_id": "SG80",
+      "component": "Ge-O",
+      "value": 1.73,
+      "unit": "A"
+    },
+    {
+      "sample_id": "SG80",
+      "component": "Ge-O-Si",
+      "value": 134.0,
+      "unit": "deg"
+    }
+  ],
+  "elapsed_seconds": 42.6,
+  "raw_preview": "Here are the extracted material-composition entries in JSON format, one per line:\n\n{\"sample_id\": \"SG30\", \"component\": \"SiO2\", \"value\": 30.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG30\", \"component\": \"GeO2\", \"value\": 70.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG50\", \"component\": \"SiO2\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG50\", \"component\": \"GeO2\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG65\", \"component\": \"SiO2\", \"value\": 65.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG65\", \"component\": \"GeO2\", \"value\": "
+}

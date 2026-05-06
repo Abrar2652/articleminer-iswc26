@@ -1,0 +1,224 @@
+{
+  "pdf_id": "PMC4257840",
+  "predictions": [
+    {
+      "value": "8 \u00b1 1",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "5",
+      "unit": "nM"
+    },
+    {
+      "value": "17 \u00b1 2",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "5",
+      "unit": "nM"
+    },
+    {
+      "value": "18 \u00b1 2",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "19",
+      "unit": "nM"
+    },
+    {
+      "value": "52 \u00b1 5",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "19",
+      "unit": "nM"
+    },
+    {
+      "value": "12 \u00b1 2",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "20",
+      "unit": "nM"
+    },
+    {
+      "value": "50 \u00b1 5",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "20",
+      "unit": "nM"
+    },
+    {
+      "value": "9167 \u00b1 880",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "21",
+      "unit": "nM"
+    },
+    {
+      "value": "ND",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "21",
+      "unit": "nM"
+    },
+    {
+      "value": "14 \u00b1 3",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "22",
+      "unit": "nM"
+    },
+    {
+      "value": "378 \u00b1 27",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "22",
+      "unit": "nM"
+    },
+    {
+      "value": "42 \u00b1 6",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "23",
+      "unit": "nM"
+    },
+    {
+      "value": "446 \u00b1 11",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "23",
+      "unit": "nM"
+    },
+    {
+      "value": "164 \u00b1 24",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "24",
+      "unit": "nM"
+    },
+    {
+      "value": "67 \u00b1 1",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "24",
+      "unit": "nM"
+    },
+    {
+      "value": "18 \u00b1 2",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "19a",
+      "unit": "nM"
+    },
+    {
+      "value": "52 \u00b1 5",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "19a",
+      "unit": "nM"
+    },
+    {
+      "value": "12 \u00b1 2",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "20",
+      "unit": "nM"
+    },
+    {
+      "value": "50 \u00b1 5",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "20",
+      "unit": "nM"
+    },
+    {
+      "value": "ND",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "21",
+      "unit": "nM"
+    },
+    {
+      "value": "14 \u00b1 3",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "22",
+      "unit": "nM"
+    },
+    {
+      "value": "378 \u00b1 27",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "22",
+      "unit": "nM"
+    },
+    {
+      "value": "42 \u00b1 6",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "23",
+      "unit": "nM"
+    },
+    {
+      "value": "446 \u00b1 11",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "23",
+      "unit": "nM"
+    },
+    {
+      "value": "164 \u00b1 24",
+      "type": "IC50",
+      "target": "Der p 1",
+      "treatment": "24",
+      "unit": "nM"
+    },
+    {
+      "value": "67 \u00b1 1",
+      "type": "IC50",
+      "target": "Cat B",
+      "treatment": "24",
+      "unit": "nM"
+    },
+    {
+      "value": "1.60",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "16f",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.36",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "16h",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.36",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "16c",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": ">200",
+      "type": "MIC",
+      "target": "S. aureus",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "B. subtilis",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "A. baumannii",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    }
+  ],
+  "elapsed_seconds": 79.8,
+  "raw_preview": "{\"value\": \"8 \u00b1 1\", \"type\": \"IC50\", \"target\": \"Der p 1\", \"treatment\": \"5\", \"unit\": \"nM\"}\n{\"value\": \"17 \u00b1 2\", \"type\": \"IC50\", \"target\": \"Cat B\", \"treatment\": \"5\", \"unit\": \"nM\"}\n{\"value\": \"18 \u00b1 2\", \"type\": \"IC50\", \"target\": \"Der p 1\", \"treatment\": \"19\", \"unit\": \"nM\"}\n{\"value\": \"52 \u00b1 5\", \"type\": \"IC50\", \"target\": \"Cat B\", \"treatment\": \"19\", \"unit\": \"nM\"}\n{\"value\": \"12 \u00b1 2\", \"type\": \"IC50\", \"target\": \"Der p 1\", \"treatment\": \"20\", \"unit\": \"nM\"}\n{\"value\": \"50 \u00b1 5\", \"type\": \"IC50\", \"target\": \"Cat B\", \"t"
+}

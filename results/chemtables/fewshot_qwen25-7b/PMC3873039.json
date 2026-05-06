@@ -1,0 +1,49 @@
+{
+  "pdf_id": "PMC3873039",
+  "predictions": [
+    {
+      "value": "5-22",
+      "type": "IC50",
+      "target": "leukemia cells",
+      "treatment": "emodin",
+      "unit": "M"
+    },
+    {
+      "value": "8-33",
+      "type": "IC50",
+      "target": "leukemia cells",
+      "treatment": "quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "25-85",
+      "type": "IC50",
+      "target": "leukemia cells",
+      "treatment": "cis-stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "2-27",
+      "type": "AP50",
+      "target": "leukemia cells",
+      "treatment": "emodin",
+      "unit": "M"
+    },
+    {
+      "value": "19-50",
+      "type": "AP50",
+      "target": "leukemia cells",
+      "treatment": "quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "8-50",
+      "type": "AP50",
+      "target": "leukemia cells",
+      "treatment": "cis-stilbene",
+      "unit": "M"
+    }
+  ],
+  "elapsed_seconds": 11.1,
+  "raw_preview": "{\"value\": \"5-22\", \"type\": \"IC50\", \"target\": \"leukemia cells\", \"treatment\": \"emodin\", \"unit\": \"M\"}\n{\"value\": \"8-33\", \"type\": \"IC50\", \"target\": \"leukemia cells\", \"treatment\": \"quercetin\", \"unit\": \"M\"}\n{\"value\": \"25-85\", \"type\": \"IC50\", \"target\": \"leukemia cells\", \"treatment\": \"cis-stilbene\", \"unit\": \"M\"}\n{\"value\": \"2-27\", \"type\": \"AP50\", \"target\": \"leukemia cells\", \"treatment\": \"emodin\", \"unit\": \"M\"}\n{\"value\": \"19-50\", \"type\": \"AP50\", \"target\": \"leukemia cells\", \"treatment\": \"quercetin\", \"unit\": \""
+}

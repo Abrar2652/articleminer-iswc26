@@ -1,0 +1,116 @@
+{
+  "arxiv_id": "2210.00627v1",
+  "predictions": [
+    {
+      "value": "22.13",
+      "type": "Result",
+      "metric": "PSNR",
+      "dataset": "ZJU-MoCap"
+    },
+    {
+      "value": "0.8604",
+      "type": "Result",
+      "metric": "SSIM",
+      "dataset": "ZJU-MoCap"
+    },
+    {
+      "value": "24.01",
+      "type": "Result",
+      "metric": "PSNR",
+      "dataset": "ZJU-MoCap"
+    },
+    {
+      "value": "0.8953",
+      "type": "Result",
+      "metric": "SSIM",
+      "dataset": "ZJU-MoCap"
+    },
+    {
+      "value": "16.58",
+      "type": "Result",
+      "metric": "PSNR",
+      "dataset": "ZJU-MoCap"
+    },
+    {
+      "value": "0.6934",
+      "type": "Result",
+      "metric": "SSIM",
+      "dataset": "ZJU-MoCap"
+    },
+    {
+      "value": "25.36",
+      "type": "Result",
+      "metric": "PSNR",
+      "dataset": "ZJU-MoCap"
+    },
+    {
+      "value": "0.9093",
+      "type": "Result",
+      "metric": "SSIM",
+      "dataset": "ZJU-MoCap"
+    },
+    {
+      "value": "17.52",
+      "type": "Result",
+      "metric": "PSNR",
+      "task": "novel view synthesis",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "0.7064",
+      "type": "Result",
+      "metric": "SSIM",
+      "task": "novel view synthesis",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "17.53",
+      "type": "Result",
+      "metric": "PSNR",
+      "task": "novel view synthesis",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "0.7167",
+      "type": "Result",
+      "metric": "SSIM",
+      "task": "novel view synthesis",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "17.38",
+      "type": "Result",
+      "metric": "PSNR",
+      "task": "novel view synthesis",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "0.6634",
+      "type": "Result",
+      "metric": "SSIM",
+      "task": "novel view synthesis",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "17.61",
+      "type": "Result",
+      "metric": "PSNR",
+      "task": "novel view synthesis",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "0.7186",
+      "type": "Result",
+      "metric": "SSIM",
+      "task": "novel view synthesis",
+      "dataset": "ZJU-Mo Cap"
+    }
+  ],
+  "num_gold_annotations": 31,
+  "elapsed_seconds": 58.6,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

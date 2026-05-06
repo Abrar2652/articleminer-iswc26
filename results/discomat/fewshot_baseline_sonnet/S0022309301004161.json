@@ -1,0 +1,37 @@
+{
+  "pdf_id": "S0022309301004161",
+  "predictions": [
+    {
+      "sample_id": "glass_1",
+      "component": "K2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_1",
+      "component": "La2O3",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_1",
+      "component": "TiO2",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_2",
+      "component": "K2O",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_2",
+      "component": "TiO2",
+      "value": 45.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 36.7,
+  "raw_preview": "I need to find material composition data in this paper. The text is heavily encoded/corrupted, but I can identify some key compositional information.\n\nFrom the text, I can identify the main glass system being studied: **40K\u2082O-30La\u2082O\u2083-30TiO\u2082** (referenced as \"00,?+0/&,0\" which appears to be a composition notation) and **40K\u2082O-35La\u2082O\u2083-25TiO\u2082** systems, as well as **40K\u2082O-30La\u2082O\u2083-30TiO\u2082**.\n\nLooking more carefully at the text, I can identify:\n- `+'&,-.'/&,0` = 40K\u2082O-35La\u2082O\u2083-25TiO\u2082 (or similar K-La-T"
+}

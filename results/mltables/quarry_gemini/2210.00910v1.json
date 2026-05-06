@@ -1,0 +1,10 @@
+{
+  "arxiv_id": "2210.00910v1",
+  "predictions": [],
+  "num_gold_annotations": 126,
+  "elapsed_seconds": 63.3,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

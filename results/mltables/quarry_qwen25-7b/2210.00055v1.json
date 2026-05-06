@@ -1,0 +1,620 @@
+{
+  "arxiv_id": "2210.00055v1",
+  "predictions": [
+    {
+      "value": 96.3,
+      "type": "Result",
+      "model": "Baseline [Xiao et al., 2020]",
+      "metric": "test accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 89.8,
+      "type": "Result",
+      "model": "Baseline [Xiao et al., 2020]",
+      "metric": "worst-group accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 75.6,
+      "type": "Result",
+      "model": "Baseline [Xiao et al., 2020]",
+      "metric": "coverage error",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 97.7,
+      "type": "Result",
+      "model": "CIM [Taghanaki et al., 2021]",
+      "metric": "test accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 89.8,
+      "type": "Result",
+      "model": "CIM [Taghanaki et al., 2021]",
+      "metric": "worst-group accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 81.1,
+      "type": "Result",
+      "model": "CIM [Taghanaki et al., 2021]",
+      "metric": "coverage error",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 89.2,
+      "type": "Result",
+      "model": "SIN [Sauer and Geiger, 2021]",
+      "metric": "test accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 73.1,
+      "type": "Result",
+      "model": "SIN [Sauer and Geiger, 2021]",
+      "metric": "worst-group accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 63.7,
+      "type": "Result",
+      "model": "SIN [Sauer and Geiger, 2021]",
+      "metric": "coverage error",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 94.7,
+      "type": "Result",
+      "model": "INSIN [Sauer and Geiger, 2021]",
+      "metric": "test accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 85.9,
+      "type": "Result",
+      "model": "INSIN [Sauer and Geiger, 2021]",
+      "metric": "worst-group accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 78.5,
+      "type": "Result",
+      "model": "INSIN [Sauer and Geiger, 2021]",
+      "metric": "coverage error",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 94.2,
+      "type": "Result",
+      "model": "INCGN [Sauer and Geiger, 2021]",
+      "metric": "test accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 83.4,
+      "type": "Result",
+      "model": "INCGN [Sauer and Geiger, 2021]",
+      "metric": "worst-group accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 80.1,
+      "type": "Result",
+      "model": "INCGN [Sauer and Geiger, 2021]",
+      "metric": "coverage error",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 95.6,
+      "type": "Result",
+      "model": "MaskTune (Ours)",
+      "metric": "test accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 91.1,
+      "type": "Result",
+      "model": "MaskTune (Ours)",
+      "metric": "worst-group accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 78.6,
+      "type": "Result",
+      "model": "MaskTune (Ours)",
+      "metric": "coverage error",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 88.1,
+      "type": "Result",
+      "model": "MaskTune (Ours)",
+      "metric": "only-FG accuracy",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 99.99,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Cov.",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 9.58,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Err.",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 11.07,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 10.81,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 9.74,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 99.99,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 8.96,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 6.54,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "dataset": "biased MNIST"
+    },
+    {
+      "value": 95.2,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Cov.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 8.74,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Err.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 94.7,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 8.34,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 95.1,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Cov.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 8.21,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 95.1,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Cov.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 6.98,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 94.86,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 0.18,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 90.5,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Cov.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 6.52,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Err.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 89.6,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 6.45,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 90.1,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Cov.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 6.14,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 90,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Cov.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 4.67,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 89.73,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 0.22,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "dataset": "Celeb A"
+    },
+    {
+      "value": 90,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Cov.",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": 1.04,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Err.",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": 90.1,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": 1.31,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": 90,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Cov.",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": 1.06,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": 90.1,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Cov.",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": 1.01,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": 89.55,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": 0.26,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "dataset": "Waterbirds"
+    },
+    {
+      "value": 100,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 5.72,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 100,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 7.36,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 100,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 6.16,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 100,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 5.93,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 99.98,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 0.0,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 95,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 3.46,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 95.2,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 5.1,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 95.1,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 4.28,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 95.1,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 2.97,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 95.01,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 0.14,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 90,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 2.28,
+      "type": "Result",
+      "model": "Target",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 90.2,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 3.3,
+      "type": "Result",
+      "model": "SN",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 90,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 2.5,
+      "type": "Result",
+      "model": "DG",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 90,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 1.74,
+      "type": "Result",
+      "model": "OSP",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 90.78,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "dataset": "Imagenet-9L"
+    },
+    {
+      "value": 0.16,
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "dataset": "Imagenet-9L"
+    }
+  ],
+  "num_gold_annotations": 187,
+  "elapsed_seconds": 121.4,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

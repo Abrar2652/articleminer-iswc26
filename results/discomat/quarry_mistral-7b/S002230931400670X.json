@@ -1,0 +1,82 @@
+{
+  "pii": "S002230931400670X",
+  "predictions": [
+    {
+      "component": "CaO",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "component": "SiO2",
+      "value": 0.6,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 0.45,
+      "unit": "mol"
+    },
+    {
+      "component": "SiO2",
+      "value": 0.55,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "component": "SiO2",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 0.55,
+      "unit": "mol"
+    },
+    {
+      "component": "SiO2",
+      "value": 0.45,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 0.6,
+      "unit": "mol"
+    },
+    {
+      "component": "SiO2",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 0.65,
+      "unit": "mol"
+    },
+    {
+      "component": "SiO2",
+      "value": 0.35,
+      "unit": "mol"
+    },
+    {
+      "component": "CaO",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "component": "SiO2",
+      "value": 0.3,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 18,
+  "elapsed_seconds": 36.7,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

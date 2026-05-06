@@ -1,0 +1,22 @@
+{
+  "pdf_id": "PMC3983391",
+  "predictions": [
+    {
+      "value": "47.3",
+      "type": "xx",
+      "target": "xx",
+      "treatment": "1b",
+      "unit": "xx"
+    },
+    {
+      "value": "51.0",
+      "type": "xx",
+      "target": "xx",
+      "treatment": "5g",
+      "unit": "xx"
+    }
+  ],
+  "num_gold_annotations": 74,
+  "ablation": "no_ontology",
+  "elapsed_seconds": 46.6
+}

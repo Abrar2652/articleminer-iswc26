@@ -1,0 +1,112 @@
+{
+  "pdf_id": "PMC3873039",
+  "predictions": [
+    {
+      "value": "5-22",
+      "type": "IC50",
+      "target": "leukemia cells",
+      "treatment": "emodin",
+      "unit": "M"
+    },
+    {
+      "value": "8-33",
+      "type": "IC50",
+      "target": "leukemia cells",
+      "treatment": "quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "25-85",
+      "type": "IC50",
+      "target": "leukemia cells",
+      "treatment": "cis-stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "2-27",
+      "type": "AP50",
+      "target": "leukemia cells",
+      "treatment": "emodin",
+      "unit": "M"
+    },
+    {
+      "value": "19-50",
+      "type": "AP50",
+      "target": "leukemia cells",
+      "treatment": "quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "8-50",
+      "type": "AP50",
+      "target": "leukemia cells",
+      "treatment": "cis-stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "0.61",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "compound 1",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.87",
+      "type": "IC50",
+      "target": "ITP",
+      "treatment": "compound 1",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 10,
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "compound 2",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 1.6,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "compound 16c",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 1.6,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "compound 16f",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 0.36,
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "compound 16h",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": 200,
+      "type": "MIC",
+      "target": "B. subtilis",
+      "treatment": "compound 9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": ">200",
+      "type": "MIC",
+      "target": "S. aureus",
+      "treatment": "compound 9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": 200,
+      "type": "MIC",
+      "target": "A. baumannii",
+      "treatment": "compound 9c",
+      "unit": "\u03bcgmL\u22121"
+    }
+  ],
+  "elapsed_seconds": 32.9,
+  "raw_preview": "{\"value\": \"5-22\", \"type\": \"IC50\", \"target\": \"leukemia cells\", \"treatment\": \"emodin\", \"unit\": \"M\"}\n{\"value\": \"8-33\", \"type\": \"IC50\", \"target\": \"leukemia cells\", \"treatment\": \"quercetin\", \"unit\": \"M\"}\n{\"value\": \"25-85\", \"type\": \"IC50\", \"target\": \"leukemia cells\", \"treatment\": \"cis-stilbene\", \"unit\": \"M\"}\n{\"value\": \"2-27\", \"type\": \"AP50\", \"target\": \"leukemia cells\", \"treatment\": \"emodin\", \"unit\": \"M\"}\n{\"value\": \"19-50\", \"type\": \"AP50\", \"target\": \"leukemia cells\", \"treatment\": \"quercetin\", \"unit\": \""
+}

@@ -1,0 +1,1175 @@
+{
+  "pmc_id": "PMC3873039",
+  "predictions": [
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "9",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "38",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "Cis- Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "128",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Rhein",
+      "unit": "M"
+    },
+    {
+      "value": "22",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "53",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Cis- Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "109",
+      "type": "IC50",
+      "target": "CCRF-CEM",
+      "treatment": "Trans-Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "20",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "140",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Chrysin",
+      "unit": "M"
+    },
+    {
+      "value": "8",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "25",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Cis- Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "180",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "Trans-Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "8",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "100",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Chrysin",
+      "unit": "M"
+    },
+    {
+      "value": "150",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "5",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Aloe - Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "32",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "Trans-Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "37",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "180",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Chrysin",
+      "unit": "M"
+    },
+    {
+      "value": "158",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Aloe - Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "450",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Cis- Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "45",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "Trans-Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "33",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "350",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Chrysin",
+      "unit": "M"
+    },
+    {
+      "value": "340",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Rhein",
+      "unit": "M"
+    },
+    {
+      "value": "380",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "13",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Aloe - Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "309",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Cis- Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "53",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "Trans-Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "155",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "500",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Chrysin",
+      "unit": "M"
+    },
+    {
+      "value": "335",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Rhein",
+      "unit": "M"
+    },
+    {
+      "value": "169",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "15",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Aloe - Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "310",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Cis- Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "85",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "Trans-Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "8",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Quercetin",
+      "unit": "M"
+    },
+    {
+      "value": "160",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Chrysin",
+      "unit": "M"
+    },
+    {
+      "value": "217",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Rhein",
+      "unit": "M"
+    },
+    {
+      "value": "135",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "7",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Aloe - Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "250",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Cis- Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "30",
+      "type": "IC50",
+      "target": "U937",
+      "treatment": "Trans-Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Quercetin",
+      "unit": "M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Chrysin",
+      "unit": "M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Rhein",
+      "unit": "M"
+    },
+    {
+      "value": "380",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Emodin",
+      "unit": "M"
+    },
+    {
+      "value": "150",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Aloe - Emodin",
+      "unit": "M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Cis- Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CD34+",
+      "treatment": "Trans-Stilbene",
+      "unit": "M"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "1",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "25",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "35",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "3",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "90",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "4",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "40",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "5",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "30",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "6",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "8",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "9",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "9",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "10",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "11",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "130",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "12",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "150",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "14",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "15",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "16",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "17",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "130",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "18",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "19",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "150",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "20",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "360",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "21",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "350",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "22",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "400",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "23",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "24",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "200",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "25",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "225",
+      "type": "IC50",
+      "target": "JURKAT",
+      "treatment": "26",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "1",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "3",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "100",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "4",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "250",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "5",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "40",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "6",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "200",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "8",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "9",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "150",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "10",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "11",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "12",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "150",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "14",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "360",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "15",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "350",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "16",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "17",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "18",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "200",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "19",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "225",
+      "type": "IC50",
+      "target": "CCRF- CEM",
+      "treatment": "20",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "1",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "3",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "125",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "4",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "140",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "5",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "38",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "6",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "200",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "8",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "265",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "9",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "5",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "10",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "9",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "11",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "185",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "12",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "190",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "31",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "14",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "49",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "15",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "350",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "16",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "400",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "17",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "18",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "40",
+      "type": "IC50",
+      "target": "MOLT-3",
+      "treatment": "19",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "1",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "84",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "3",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "129",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "4",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "175",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "5",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "75",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "6",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "8",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "8.5",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "9",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "6",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "10",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "185",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "11",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "190",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "12",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "31",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "49",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "14",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "40",
+      "type": "IC50",
+      "target": "HL60",
+      "treatment": "15",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "1",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "3",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "110",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "4",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "220",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "5",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "6",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "7.8",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "8",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "9",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "10",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "283",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "11",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "12",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "14",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "THP-1",
+      "treatment": "15",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "1",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "205",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "3",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "150",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "4",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "190",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "5",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "6",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">10",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "8",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "9",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">250",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "10",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "360",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "11",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "350",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "12",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">500",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "460",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "14",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "1",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">50",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "125",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "3",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "89",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "4",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "235",
+      "type": "IC50",
+      "target": "KG1a",
+      "treatment": "5",
+      "unit": "\u00b5M"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 72,
+  "elapsed_seconds": 275.4,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

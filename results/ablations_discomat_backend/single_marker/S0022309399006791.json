@@ -1,0 +1,64 @@
+{
+  "pii": "S0022309399006791",
+  "predictions": [
+    {
+      "sample_id": "Conventional MCP",
+      "component": "SiO2",
+      "value": 24.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Conventional MCP",
+      "component": "K2O",
+      "value": 3.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Conventional MCP",
+      "component": "Na2O",
+      "value": 2.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Conventional MCP",
+      "component": "O",
+      "value": 60.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BC glass",
+      "component": "P2O5",
+      "value": 18.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BC glass",
+      "component": "V2O5",
+      "value": 3.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BC glass",
+      "component": "Fe2O3",
+      "value": 4.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BC glass",
+      "component": "H2O",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BC glass",
+      "component": "O",
+      "value": 67.1,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 12,
+  "elapsed_seconds": 15.7,
+  "backends": [
+    "marker"
+  ]
+}

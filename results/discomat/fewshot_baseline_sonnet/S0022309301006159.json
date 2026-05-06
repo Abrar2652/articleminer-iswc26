@@ -1,0 +1,121 @@
+{
+  "pdf_id": "S0022309301006159",
+  "predictions": [
+    {
+      "sample_id": "108)'*+:",
+      "component": "Y2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "108)'*+:",
+      "component": "CuO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "108)'*+:",
+      "component": "La2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "108)'*+:",
+      "component": "K2O",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107)'*+!",
+      "component": "Y2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107)'*+!",
+      "component": "CuO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107)'*+!",
+      "component": "La2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107)'*+!",
+      "component": "K2O",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107)'*+:",
+      "component": "Y2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107)'*+:",
+      "component": "CuO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107)'*+:",
+      "component": "La2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107)'*+:",
+      "component": "K2O",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107)*+:",
+      "component": "Y2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107)*+:",
+      "component": "CuO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107)*+:",
+      "component": "K2O",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107.'*+!",
+      "component": "La2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "107.'*+!",
+      "component": "K2O",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10H.*+!",
+      "component": "K2O",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "108.'+!",
+      "component": "K2O",
+      "value": 60.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 24.2,
+  "raw_preview": "I'll analyze the paper text to find the composition table. The key table appears to be the one with sample compositions showing values for different glass samples. Based on the text, I can identify a table with samples like \"108)'*+:\", \"107)'*+!\", etc., with columns that appear to be composition data.\n\nFrom the table in the paper (the one with sample IDs and numerical values), I can extract:\n\nThe table appears to show compositions with columns: sample, and various oxide components. Based on cont"
+}

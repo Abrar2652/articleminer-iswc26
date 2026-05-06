@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309309003883",
+  "predictions": [],
+  "elapsed_seconds": 9.1,
+  "raw_preview": "{\"sample\\_id\": \"GaGeS\", \"component\": \"GaS\", \"value\": x, \"unit\": \"mol\"},\n{\"sample\\_id\": \"GaGeS\", \"component\": \"GeS\", \"value\": y, \"unit\": \"mol\"}\n\nWhere x and y are the mol% of GaS and GeS in the GaGeS glass composition respectively.\n\nThese lines should be repeated for each sample with different Ga content mentioned in the paper."
+}

@@ -1,0 +1,196 @@
+{
+  "pdf_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "batch size": "Batch Size"
+    },
+    {
+      "value": "8e-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "learning rate": "Learning Rate"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Lw F",
+      "dataset": "VQA-v2",
+      "lambda": "Lw F \u03bb"
+    },
+    {
+      "value": "400",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "epochs": "EWC \u03bb"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "batch size": "Batch Size"
+    },
+    {
+      "value": "8e-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "learning rate": "Learning Rate"
+    },
+    {
+      "value": "0.7",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Lw F",
+      "dataset": "VQA-v2",
+      "lambda": "Lw F \u03bb"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "epochs": "EWC \u03bb"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "batch size": "Batch Size"
+    },
+    {
+      "value": "8e-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "learning rate": "Learning Rate"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Lw F",
+      "dataset": "VQA-v2",
+      "lambda": "Lw F \u03bb"
+    },
+    {
+      "value": "600",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "epochs": "EWC \u03bb"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "batch size": "Batch Size"
+    },
+    {
+      "value": "5e-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "learning rate": "Learning Rate"
+    },
+    {
+      "value": "0.5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Lw F",
+      "dataset": "VQA-v2",
+      "lambda": "Lw F \u03bb"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "epochs": "EWC \u03bb"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "batch size": "Batch Size"
+    },
+    {
+      "value": "1e-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Lw F",
+      "dataset": "VQA-v2",
+      "learning rate": "Lw F \u03bb"
+    },
+    {
+      "value": "0.9",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Lw F",
+      "dataset": "VQA-v2",
+      "lambda": "Lw F \u03bb"
+    },
+    {
+      "value": "50K",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "epochs": "EWC \u03bb"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "batch size": "Batch Size"
+    },
+    {
+      "value": "5e-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "learning rate": "Learning Rate"
+    },
+    {
+      "value": "0.4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Lw F",
+      "dataset": "VQA-v2",
+      "lambda": "Lw F \u03bb"
+    },
+    {
+      "value": "20K",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "epochs": "EWC \u03bb"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "batch size": "Batch Size"
+    },
+    {
+      "value": "1e-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Lw F",
+      "dataset": "VQA-v2",
+      "learning rate": "Lw F \u03bb"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "model": "UNITER",
+      "dataset": "VQA-v2",
+      "epochs": "EWC \u03bb"
+    }
+  ],
+  "elapsed_seconds": 49.2,
+  "raw_preview": "{\"value\": \"512\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"UNITER\", \"dataset\": \"VQA-v2\", \"batch size\": \"Batch Size\"}\n{\"value\": \"8e-5\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"UNITER\", \"dataset\": \"VQA-v2\", \"learning rate\": \"Learning Rate\"}\n{\"value\": \"1\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"Lw F\", \"dataset\": \"VQA-v2\", \"lambda\": \"Lw F \u03bb\"}\n{\"value\": \"400\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"UNITER\", \"dataset\": \"VQA-v2\", \"epochs\": \"EWC \u03bb\"}\n{\"value\": \"102"
+}

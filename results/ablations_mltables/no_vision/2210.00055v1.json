@@ -1,0 +1,1108 @@
+{
+  "pdf_id": "2210.00055v1",
+  "predictions": [
+    {
+      "value": "88.3",
+      "type": "Result",
+      "model": "Group DRO",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "91.8",
+      "type": "Result",
+      "model": "Group DRO",
+      "dataset": "CelebA",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "64.4",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "dataset": "CelebA",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "77.2",
+      "type": "Result",
+      "model": "LfF",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "LfF",
+      "dataset": "CelebA",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "83.2",
+      "type": "Result",
+      "model": "SD",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "91.6",
+      "type": "Result",
+      "model": "SD",
+      "dataset": "CelebA",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "JTT",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "88.0",
+      "type": "Result",
+      "model": "JTT",
+      "dataset": "CelebA",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "model": "CIM",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "CIM",
+      "dataset": "CelebA",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "47.2",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "CelebA",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "36.1",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "24.4",
+      "type": "Result",
+      "model": "LfF",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "40.6",
+      "type": "Result",
+      "model": "JTT",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "55.0",
+      "type": "Result",
+      "model": "DivDis",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "90.8",
+      "type": "Result",
+      "model": "DivDis",
+      "dataset": "CelebA",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "78.0",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "91.3",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CelebA",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CelebA",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "96.3",
+      "type": "Result",
+      "model": "Baseline [Xiao et al., 2020]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Original"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "model": "Baseline [Xiao et al., 2020]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-same"
+    },
+    {
+      "value": "75.6",
+      "type": "Result",
+      "model": "Baseline [Xiao et al., 2020]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-rand"
+    },
+    {
+      "value": "85.6",
+      "type": "Result",
+      "model": "Baseline [Xiao et al., 2020]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Only-FG"
+    },
+    {
+      "value": "97.7",
+      "type": "Result",
+      "model": "CIM [Taghanaki et al., 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Original"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "model": "CIM [Taghanaki et al., 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-same"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "CIM [Taghanaki et al., 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-rand"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "SIN [Sauer and Geiger, 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Original"
+    },
+    {
+      "value": "73.1",
+      "type": "Result",
+      "model": "SIN [Sauer and Geiger, 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-same"
+    },
+    {
+      "value": "63.7",
+      "type": "Result",
+      "model": "SIN [Sauer and Geiger, 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-rand"
+    },
+    {
+      "value": "94.7",
+      "type": "Result",
+      "model": "INSIN [Sauer and Geiger, 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Original"
+    },
+    {
+      "value": "85.9",
+      "type": "Result",
+      "model": "INSIN [Sauer and Geiger, 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-same"
+    },
+    {
+      "value": "78.5",
+      "type": "Result",
+      "model": "INSIN [Sauer and Geiger, 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-rand"
+    },
+    {
+      "value": "94.2",
+      "type": "Result",
+      "model": "INCGN [Sauer and Geiger, 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Original"
+    },
+    {
+      "value": "83.4",
+      "type": "Result",
+      "model": "INCGN [Sauer and Geiger, 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-same"
+    },
+    {
+      "value": "80.1",
+      "type": "Result",
+      "model": "INCGN [Sauer and Geiger, 2021]",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-rand"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Original"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-same"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Mixed-rand"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "ImageNet-9",
+      "metric": "accuracy",
+      "task": "classification",
+      "test_set": "Only-FG"
+    },
+    {
+      "value": "99.99",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "9.58",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "11.07",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "10.81",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "OSP",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "9.74",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "99.99",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.02",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Coverage Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "8.96",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.48",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Error Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.2",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "8.34",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "8.21",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "6.98",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "94.86",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.18",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Coverage Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "6.54",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.39",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Error Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "90.5",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "6.45",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "6.14",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "4.67",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "89.73",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.22",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Coverage Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "4.74",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.31",
+      "type": "Result",
+      "dataset": "CIFAR-10",
+      "model": "MaskTune",
+      "metric": "Error Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "99.97",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "3.86",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "4.27",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "4.03",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "OSP",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "4.27",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "100.0",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.00",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Coverage Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "3.68",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.16",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Error Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "2.53",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.0",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "2.05",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "1.83",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.19",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.09",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Coverage Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "1.84",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.23",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Error Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "1.31",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "1.06",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "1.01",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "89.55",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.26",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Coverage Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.96",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.11",
+      "type": "Result",
+      "dataset": "SVHN",
+      "model": "MaskTune",
+      "metric": "Error Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "5.72",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "7.36",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "6.16",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "OSP",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "5.93",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "OSP",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "99.98",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.00",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Coverage Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "4.83",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.17",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Error Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.0",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "5.1",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "4.28",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "2.97",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.01",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.14",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Coverage Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "2.96",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.15",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Error Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "SR",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "3.3",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "SR",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "SN",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "SN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "DG",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "1.74",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "DG",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "90.78",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.16",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Coverage Std Dev",
+      "task": "Selective classification"
+    },
+    {
+      "value": "1.94",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.18",
+      "type": "Result",
+      "dataset": "Cats vs. Dogs",
+      "model": "MaskTune",
+      "metric": "Error Std Dev",
+      "task": "Selective classification"
+    }
+  ],
+  "num_gold_annotations": 187,
+  "ablation": "no_vision",
+  "elapsed_seconds": 65.2
+}

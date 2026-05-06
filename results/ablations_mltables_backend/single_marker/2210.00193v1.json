@@ -1,0 +1,3866 @@
+{
+  "arxiv_id": "2210.00193v1",
+  "predictions": [
+    {
+      "value": "68.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "42.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "54.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "72.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "56.9",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "47.3",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "78.4",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "56.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "77.5",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "41.0",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "73.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "48.2",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "76.6",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "45.5",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "70.1",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "32.5",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "67.4",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "48.6",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "73.8",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "40.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "72.8",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "48.1",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "70.5",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "69.0",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "41.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "70.6",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "38.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "69.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "26.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "65.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "45.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "75.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "38.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "73.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "39.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "69.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "32.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "67.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "36.5",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "70.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "49.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "75.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "36.7",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "72.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "55.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "80.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "46.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "77.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "50.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "75.2",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "41.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "46.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "75.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "53.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "40.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "73.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "59.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "81.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "49.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "79.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "54.8",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "76.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "45.6",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "75.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "50.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "77.3",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "56.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Lexical"
+    },
+    {
+      "value": "35.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "72.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Lexical"
+    },
+    {
+      "value": "56.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "81.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Entities"
+    },
+    {
+      "value": "46.9",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Entities"
+    },
+    {
+      "value": "65.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "80.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-BR",
+      "category": "Random"
+    },
+    {
+      "value": "42.9",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt-PT",
+      "category": "Random"
+    },
+    {
+      "value": "49.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "77.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "pt"
+    },
+    {
+      "value": "22.6",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "zh-CN",
+      "category": "Lexical"
+    },
+    {
+      "value": "58.5",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "zh-CN",
+      "category": "Lexical"
+    },
+    {
+      "value": "13.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "zh-TW",
+      "category": "Lexical"
+    },
+    {
+      "value": "56.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "zh-TW",
+      "category": "Lexical"
+    },
+    {
+      "value": "26.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "zh-CN",
+      "category": "Entities"
+    },
+    {
+      "value": "67.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "zh-CN",
+      "category": "Entities"
+    },
+    {
+      "value": "19.5",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "zh-TW",
+      "category": "Entities"
+    },
+    {
+      "value": "65.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "zh-TW",
+      "category": "Entities"
+    },
+    {
+      "value": "26.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "zh-CN",
+      "category": "Random"
+    },
+    {
+      "value": "62.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "zh-CN",
+      "category": "Random"
+    },
+    {
+      "value": "20.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "zh-TW",
+      "category": "Random"
+    },
+    {
+      "value": "61.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "zh-TW",
+      "category": "Random"
+    },
+    {
+      "value": "21.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "zh"
+    },
+    {
+      "value": "61.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "zh"
+    },
+    {
+      "value": "33.3",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "zh-CN",
+      "category": "Lexical"
+    },
+    {
+      "value": "65.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "zh-CN",
+      "category": "Lexical"
+    },
+    {
+      "value": "18.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "zh-TW",
+      "category": "Lexical"
+    },
+    {
+      "value": "58.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "zh-TW",
+      "category": "Lexical"
+    },
+    {
+      "value": "43.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "zh-CN",
+      "category": "Entities"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "TER",
+      "task": "Machine Translation",
+      "variant": "zh-CN",
+      "category": "Entities"
+    },
+    {
+      "value": "31.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "BLEU",
+      "task": "Machine Translation",
+      "variant": "zh-TW",
+      "category": "Entities"
+    },
+    {
+      "value": "98.6",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "zh"
+    },
+    {
+      "value": "50.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "50.6",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "zh"
+    },
+    {
+      "value": "51.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "50.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "zh"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "zh"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "51.0",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "zh"
+    },
+    {
+      "value": "85.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "69.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "zh"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "70.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "zh"
+    },
+    {
+      "value": "93.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "83.6",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "zh"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Region-aware Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "8.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "2.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-7.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-2.5",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "6.9",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "1.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-6.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-1.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "5.2",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-4.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-0.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt",
+      "note": "standard deviation"
+    },
+    {
+      "value": "13.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "3.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-13.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-5.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "8.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-7.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-2.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "9.7",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "2.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-9.3",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-2.3",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt",
+      "note": "standard deviation"
+    },
+    {
+      "value": "19.5",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "5.7",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-13.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-3.2",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "10.5",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "2.9",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-7.8",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-2.3",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "15.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "3.4",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-12.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-2.7",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt",
+      "note": "standard deviation"
+    },
+    {
+      "value": "14.8",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "4.9",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-9.8",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-2.8",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "8.7",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "2.4",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-6.4",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-2.0",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "11.8",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-9.2",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-2.3",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "1.6",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "0.5",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt",
+      "note": "standard deviation"
+    },
+    {
+      "value": "13.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "5.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-5.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-1.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "8.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "2.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-3.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-1.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "7.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "1.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-2.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-0.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt",
+      "note": "standard deviation"
+    },
+    {
+      "value": "18.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "6.2",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "0.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "11.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "3.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-0.6",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-0.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-0.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "6.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt",
+      "note": "standard deviation"
+    },
+    {
+      "value": "20.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "6.4",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "13.4",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "3.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-0.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "13.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "2.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-0.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "7.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "2.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt",
+      "note": "standard deviation"
+    },
+    {
+      "value": "20.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "6.4",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-20.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-6.4",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "9.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-9.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-2.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "22.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR"
+    },
+    {
+      "value": "5.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-BR",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-22.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT"
+    },
+    {
+      "value": "-5.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "pt-PT",
+      "note": "standard deviation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "pt"
+    },
+    {
+      "value": "4.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "zh-CN"
+    },
+    {
+      "value": "1.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "zh-CN",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-3.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "zh-TW"
+    },
+    {
+      "value": "-1.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "zh-TW",
+      "note": "standard deviation"
+    },
+    {
+      "value": "5.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "zh-CN"
+    },
+    {
+      "value": "1.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "zh-CN",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-4.9",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "zh-TW"
+    },
+    {
+      "value": "-1.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "zh-TW",
+      "note": "standard deviation"
+    },
+    {
+      "value": "3.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "zh-CN"
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "zh-CN",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-3.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "zh-TW"
+    },
+    {
+      "value": "-0.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "zh-TW",
+      "note": "standard deviation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Machine Translation",
+      "language_pair": "zh",
+      "note": "standard deviation"
+    },
+    {
+      "value": "14.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "zh-CN"
+    },
+    {
+      "value": "7.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "zh-CN",
+      "note": "standard deviation"
+    },
+    {
+      "value": "-14.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "zh-TW"
+    },
+    {
+      "value": "-7.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Lexical",
+      "task": "Machine Translation",
+      "language_pair": "zh-TW",
+      "note": "standard deviation"
+    },
+    {
+      "value": "11.7",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "zh-CN"
+    },
+    {
+      "value": "-11.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "zh-TW"
+    },
+    {
+      "value": "-2.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Entities",
+      "task": "Machine Translation",
+      "language_pair": "zh-TW",
+      "note": "standard deviation"
+    },
+    {
+      "value": "10.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Random",
+      "task": "Machine Translation",
+      "language_pair": "zh-CN"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "-1.0",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "-1.2",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "-1.4",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "-1.6",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "-0.8",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "-1.3",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT pt",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT pt",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "51.3",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "77.8",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "38.2",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "74.4",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "56.5",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "80.8",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "47.5",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "78.5",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "53.7",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "76.6",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "45.1",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "48.4",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT pt",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "77.0",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT pt",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "51.8",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "77.7",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "38.8",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "57.3",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "46.9",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "52.9",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "76.1",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "45.0",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "74.4",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "48.5",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT pt",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT pt",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "52.8",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "77.9",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "39.6",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "57.9",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "46.8",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "54.5",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "76.4",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "45.2",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "74.6",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "49.1",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT pt",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "77.2",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT pt",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "54.0",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "40.6",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "75.3",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "58.3",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "48.2",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "78.9",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "54.6",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "76.5",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-BR",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "46.2",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "74.9",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT pt-PT",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT pt",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "77.5",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT pt",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "3.2",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.8",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "6.5",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "1.6",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "4.3",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT zh",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "2.3",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT zh",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 0
+    },
+    {
+      "value": "37.2",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "70.1",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "25.7",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "67.5",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "47.4",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "74.2",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "37.7",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "39.7",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "67.0",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "32.3",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "65.5",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "36.3",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT zh",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "69.5",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT zh",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 1
+    },
+    {
+      "value": "37.7",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "70.5",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "27.0",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "67.8",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "48.3",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "38.5",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "73.3",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "39.3",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "67.1",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "32.2",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "65.7",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT zh",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "69.8",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT zh",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 2
+    },
+    {
+      "value": "70.2",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "26.4",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "67.2",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "48.4",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "74.7",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "39.0",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "73.2",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "39.9",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "66.8",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "32.4",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "65.4",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "69.6",
+      "type": "Result",
+      "model": "FRMT",
+      "dataset": "FRMT zh",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 5
+    },
+    {
+      "value": "37.6",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "70.7",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "25.5",
+      "type": "Result",
+      "model": "Lexical",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "48.1",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "74.9",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "38.6",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "72.6",
+      "type": "Result",
+      "model": "Entities",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "38.9",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "66.9",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-CN",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "30.4",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "64.7",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "FRMT zh-TW",
+      "metric": "Score",
+      "task": "Few-Shot Region-Aware Machine Translation",
+      "exemplars": 10
+    },
+    {
+      "value": "99.8",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "99.4",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation",
+      "target": "zh-TW"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation",
+      "target": "zh-TW"
+    },
+    {
+      "value": "98.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "69.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation",
+      "target": "zh-TW"
+    },
+    {
+      "value": "14.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation",
+      "target": "zh-TW"
+    },
+    {
+      "value": "14.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation",
+      "target": "zh-TW"
+    },
+    {
+      "value": "98.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "0.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "1.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation",
+      "target": "zh-TW"
+    },
+    {
+      "value": "98.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation",
+      "target": "zh-TW"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation",
+      "target": "zh-TW"
+    },
+    {
+      "value": "98.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation",
+      "target": "zh-TW"
+    },
+    {
+      "value": "98.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation",
+      "target": "zh-TW"
+    },
+    {
+      "value": "99.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "simp",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "amb",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "0.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "mix",
+      "task": "Machine Translation",
+      "target": "zh-CN"
+    },
+    {
+      "value": "99.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "trad",
+      "task": "Machine Translation",
+      "target": "zh-TW"
+    }
+  ],
+  "num_gold_annotations": 302,
+  "elapsed_seconds": 171.0,
+  "backends": [
+    "marker"
+  ]
+}

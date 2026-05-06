@@ -1,0 +1,97 @@
+{
+  "pdf_id": "S0022309314005432",
+  "predictions": [
+    {
+      "sample_id": "S0022309315000526_0_1_Gbase",
+      "component": "Li2O",
+      "value": 17.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_Gbase",
+      "component": "TiO2",
+      "value": 26.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_Gbase",
+      "component": "P2O5",
+      "value": 56.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-2.5",
+      "component": "Li2O",
+      "value": 17.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-2.5",
+      "component": "TiO2",
+      "value": 26.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-2.5",
+      "component": "P2O5",
+      "value": 56.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-2.5",
+      "component": "Fe2O3",
+      "value": 2.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-5",
+      "component": "Li2O",
+      "value": 17.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-5",
+      "component": "TiO2",
+      "value": 26.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-5",
+      "component": "P2O5",
+      "value": 56.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-5",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-7.5",
+      "component": "Li2O",
+      "value": 17.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-7.5",
+      "component": "TiO2",
+      "value": 26.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-7.5",
+      "component": "P2O5",
+      "value": 56.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_GFe-7.5",
+      "component": "Fe2O3",
+      "value": 7.5,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 33.7,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309315000526_0_1_Gbase\", \"component\": \"Li2O\", \"value\": 17.7, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309315000526_0_1_Gbase\", \"component\": \"TiO2\", \"value\": 26.3, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309315000526_0_1_Gbase\", \"component\": \"P2O5\", \"value\": 56.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309315000526_0_1_GFe-2.5\", \"component\": \"Li2O\", \"value\": 17.7, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309315000526_0_1_GFe-2.5\", \"component\": \"TiO2\", \"value\": 26.3, \"unit\": \"wt\"}\n{\"sample_id\":"
+}

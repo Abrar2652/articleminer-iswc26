@@ -1,0 +1,14 @@
+{
+  "dataset": "discomat",
+  "model": "claude-haiku-4-5-20251001",
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber",
+    "camelot"
+  ],
+  "total_papers": 111,
+  "total_tuples": 3089,
+  "total_time": 4448.7
+}

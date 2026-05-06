@@ -1,0 +1,28 @@
+{
+  "pdf_id": "PMC4295614",
+  "predictions": [
+    {
+      "value": "0.12",
+      "type": "MIC",
+      "target": "M. tuberculosis",
+      "treatment": "43b",
+      "unit": "M"
+    },
+    {
+      "value": "0.15",
+      "type": "MIC",
+      "target": "M. tuberculosis",
+      "treatment": "65",
+      "unit": "M"
+    },
+    {
+      "value": "0.13",
+      "type": "MIC",
+      "target": "M. tuberculosis",
+      "treatment": "67",
+      "unit": "M"
+    }
+  ],
+  "elapsed_seconds": 6.8,
+  "raw_preview": "{\"value\": \"0.12\", \"type\": \"MIC\", \"target\": \"M. tuberculosis\", \"treatment\": \"43b\", \"unit\": \"M\"}\n{\"value\": \"0.15\", \"type\": \"MIC\", \"target\": \"M. tuberculosis\", \"treatment\": \"65\", \"unit\": \"M\"}\n{\"value\": \"0.13\", \"type\": \"MIC\", \"target\": \"M. tuberculosis\", \"treatment\": \"67\", \"unit\": \"M\"}"
+}

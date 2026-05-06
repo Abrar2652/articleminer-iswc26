@@ -1,0 +1,248 @@
+{
+  "paper": "Xia_et_al_2024",
+  "model": "llama31-8b",
+  "n_rows": 18,
+  "rows": [
+    {
+      "sample_id": "WG-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 0.13,
+        "Mn": 0.01,
+        "Cd": 0.01,
+        "Cu": 12.3,
+        "Sb": 0.01,
+        "Sn": 0.01,
+        "Ga": 0.01,
+        "In": 0.01,
+        "Pb": 4500,
+        "Ag": -0.1,
+        "As": 2.4,
+        "Zn": 650000
+      }
+    },
+    {
+      "sample_id": "WG-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 0.13,
+        "Mn": 0.01,
+        "Cd": 0.01,
+        "Cu": 8.2,
+        "Sb": 0.01,
+        "Sn": 0.01,
+        "Ga": 0.01,
+        "In": 0.01,
+        "Pb": 3900,
+        "Ag": 0.8,
+        "As": 2.4,
+        "Zn": 640000
+      }
+    },
+    {
+      "sample_id": "Kangjiawan Pb-Zn deposit",
+      "mineral": "sphalerite",
+      "method": "not specified",
+      "elements": {
+        "Pb": 3.92,
+        "Zn": 4.5,
+        "Au": 2.68,
+        "Ag": 86.8
+      }
+    },
+    {
+      "sample_id": "Kangjiawan Pb-Zn deposit",
+      "mineral": "galena",
+      "method": "not specified",
+      "elements": {
+        "Pb": 850000,
+        "S": 135000,
+        "Ag": 120
+      }
+    },
+    {
+      "sample_id": "Kangjiawan Pb-Zn deposit",
+      "mineral": "pyrite",
+      "method": "not specified",
+      "elements": {
+        "Fe": 650000,
+        "S": 4500,
+        "Pb": 2.4,
+        "Ag": -0.1
+      }
+    },
+    {
+      "sample_id": "Kangjiawan Pb-Zn deposit",
+      "mineral": "chalcopyrite",
+      "method": "not specified",
+      "elements": {
+        "Cu": 12.3,
+        "Fe": 650000,
+        "S": 4500,
+        "Pb": 2.4,
+        "Ag": -0.1
+      }
+    },
+    {
+      "sample_id": "Kangjiawan Pb-Zn deposit",
+      "mineral": "arsenopyrite",
+      "method": "not specified",
+      "elements": {
+        "As": 2.4,
+        "Fe": 650000,
+        "S": 4500,
+        "Pb": 2.4,
+        "Ag": -0.1
+      }
+    },
+    {
+      "sample_id": "Kangjiawan Pb-Zn deposit",
+      "mineral": "magnetite",
+      "method": "not specified",
+      "elements": {
+        "Fe": 650000,
+        "S": 4500,
+        "Pb": 2.4,
+        "Ag": -0.1
+      }
+    },
+    {
+      "sample_id": "Kangjiawan Pb-Zn deposit",
+      "mineral": "quartz",
+      "method": "not specified",
+      "elements": {
+        "SiO2": 10000000
+      }
+    },
+    {
+      "sample_id": "Kangjiawan Pb-Zn deposit",
+      "mineral": "chalcedony",
+      "method": "not specified",
+      "elements": {
+        "SiO2": 10000000
+      }
+    },
+    {
+      "sample_id": "Kangjiawan Pb-Zn deposit",
+      "mineral": "dolomite",
+      "method": "not specified",
+      "elements": {
+        "CaO": 1000000,
+        "MgO": 1000000,
+        "MnO": 1000
+      }
+    },
+    {
+      "sample_id": "Kangjiawan Pb-Zn deposit",
+      "mineral": "chlorite",
+      "method": "not specified",
+      "elements": {
+        "MgO": 1000,
+        "FeO": 1000,
+        "Al2O3": 1000,
+        "SiO2": 1000
+      }
+    },
+    {
+      "sample_id": "SP-1",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Ca": 0.1,
+        "Mg": 0.1,
+        "Fe": 0.1,
+        "S": 0.1,
+        "Pb": 0.1,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Cu": -0.5,
+        "Zn": 0.1
+      }
+    },
+    {
+      "sample_id": "SP-2",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Ca": 0.1,
+        "Mg": 0.1,
+        "Fe": 0.1,
+        "S": 0.1,
+        "Pb": 0.1,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Cu": -0.5,
+        "Zn": 0.1
+      }
+    },
+    {
+      "sample_id": "SP-3",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Ca": 0.1,
+        "Mg": 0.1,
+        "Fe": 0.1,
+        "S": 0.1,
+        "Pb": 0.1,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Cu": -0.5,
+        "Zn": 0.1
+      }
+    },
+    {
+      "sample_id": "SP-4",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Ca": 0.1,
+        "Mg": 0.1,
+        "Fe": 0.1,
+        "S": 0.1,
+        "Pb": 0.1,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Cu": -0.5,
+        "Zn": 0.1
+      }
+    },
+    {
+      "sample_id": "SP-5",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Ca": 0.1,
+        "Mg": 0.1,
+        "Fe": 0.1,
+        "S": 0.1,
+        "Pb": 0.1,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Cu": -0.5,
+        "Zn": 0.1
+      }
+    },
+    {
+      "sample_id": "SP-6",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Ca": 0.1,
+        "Mg": 0.1,
+        "Fe": 0.1,
+        "S": 0.1,
+        "Pb": 0.1,
+        "Ag": -0.5,
+        "As": -0.5,
+        "Cu": -0.5,
+        "Zn": 0.1
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "{\"sample_id\":\"WG-1\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Fe\":0.13,\"Mn\":0.01,\"Cd\":0.01,\"Cu\":12.3,\"Sb\":0.01,\"Sn\":0.01,\"Ga\":0.01,\"In\":0.01,\"Pb\":4500,\"Ag\":-0.1,\"As\":2.4,\"Zn\":650000}}\n{\"sample_id\":\"WG-2\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Fe\":0.13,\"Mn\":0.01,\"Cd\":0.",
+  "elapsed_seconds": 60.4
+}

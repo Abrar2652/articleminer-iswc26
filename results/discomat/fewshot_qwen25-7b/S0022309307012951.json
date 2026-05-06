@@ -1,0 +1,55 @@
+{
+  "pdf_id": "S0022309307012951",
+  "predictions": [
+    {
+      "sample_id": "SG30",
+      "component": "SiO2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG50",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG65",
+      "component": "SiO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG80",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG30",
+      "component": "GeO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG50",
+      "component": "GeO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG65",
+      "component": "GeO2",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SG80",
+      "component": "GeO2",
+      "value": 20.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 12.2,
+  "raw_preview": "```json\n{\"sample_id\": \"SG30\", \"component\": \"SiO2\", \"value\": 30.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG50\", \"component\": \"SiO2\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG65\", \"component\": \"SiO2\", \"value\": 65.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG80\", \"component\": \"SiO2\", \"value\": 80.0, \"unit\": \"mol\"}\n```\n```json\n{\"sample_id\": \"SG30\", \"component\": \"GeO2\", \"value\": 70.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG50\", \"component\": \"GeO2\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"SG65\", \"component\": \"GeO2\","
+}

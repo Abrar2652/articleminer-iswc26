@@ -1,0 +1,209 @@
+{
+  "pii": "S0022309309000568",
+  "predictions": [
+    {
+      "sample_id": "ICSW1",
+      "component": "P2O5",
+      "value": 49.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW1",
+      "component": "Na2O",
+      "value": 26.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW1",
+      "component": "CaO",
+      "value": 23.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW2",
+      "component": "P2O5",
+      "value": 47.84,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW2",
+      "component": "Na2O",
+      "value": 26.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW2",
+      "component": "CaO",
+      "value": 23.33,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW3",
+      "component": "P2O5",
+      "value": 46.21,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW3",
+      "component": "Na2O",
+      "value": 27.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW3",
+      "component": "CaO",
+      "value": 23.65,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW4",
+      "component": "P2O5",
+      "value": 40.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW4",
+      "component": "Na2O",
+      "value": 27.87,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW4",
+      "component": "CaO",
+      "value": 24.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW5",
+      "component": "P2O5",
+      "value": 37.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW5",
+      "component": "Na2O",
+      "value": 28.21,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW5",
+      "component": "CaO",
+      "value": 24.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW6",
+      "component": "P2O5",
+      "value": 48.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW6",
+      "component": "Na2O",
+      "value": 28.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW6",
+      "component": "CaO",
+      "value": 23.33,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW7",
+      "component": "P2O5",
+      "value": 43.66,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW7",
+      "component": "Na2O",
+      "value": 28.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW7",
+      "component": "CaO",
+      "value": 24.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW8",
+      "component": "P2O5",
+      "value": 40.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW8",
+      "component": "Na2O",
+      "value": 28.71,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW8",
+      "component": "CaO",
+      "value": 25.11,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW9",
+      "component": "P2O5",
+      "value": 38.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW9",
+      "component": "Na2O",
+      "value": 29.62,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ICSW9",
+      "component": "CaO",
+      "value": 25.91,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "HP1",
+      "component": "P2O5",
+      "value": 46.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "HP1",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "HP1",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "HP5",
+      "component": "P2O5",
+      "value": 43.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "HP5",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "HP6.5",
+      "component": "P2O5",
+      "value": 42.2,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 48,
+  "elapsed_seconds": 50.1,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

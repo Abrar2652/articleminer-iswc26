@@ -1,0 +1,532 @@
+{
+  "pmc_id": "PMC3983391",
+  "predictions": [
+    {
+      "value": "0.043",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "4a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.048",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "4a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.046",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "4a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.057",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "4a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.211",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "4b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.204",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "4b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.176",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "4b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.187",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "4b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.211",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "4c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.178",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "4c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.169",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "4c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.198",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "4c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.027",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.028",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.033",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.031",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.024",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.019",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.021",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.021",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.019",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.018",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.017",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.018",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.199",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.153",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.195",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.169",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.189",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5e",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.211",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5e",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.169",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5e",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.198",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5e",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.0032",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5f",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.0023",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5f",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.0022",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5f",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.0019",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5f",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.019",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5g",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.017",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5g",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.025",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5g",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.022",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5g",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.233",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5h",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.227",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5h",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.197",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5h",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.165",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5h",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.268",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5i",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.320",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5i",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.216",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5i",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.243",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5i",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.191",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5j",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.227",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5j",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.197",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5j",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.165",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5j",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.021",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5k",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.019",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5k",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.020",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5k",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.018",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5k",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "7.57",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5l",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "11.30",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5l",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "5.45",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5l",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "6.81",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5l",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "16.71",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "5m",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19.59",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "5m",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "14.76",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "5m",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "14.63",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "5m",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.0076",
+      "type": "GI50",
+      "target": "A549",
+      "treatment": "paclitaxel",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.0064",
+      "type": "GI50",
+      "target": "KB",
+      "treatment": "paclitaxel",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.21",
+      "type": "GI50",
+      "target": "KBvin",
+      "treatment": "paclitaxel",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.006",
+      "type": "GI50",
+      "target": "DU145",
+      "treatment": "paclitaxel",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.94",
+      "type": "IC50",
+      "target": "tubulin assembly",
+      "treatment": "5b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.97",
+      "type": "IC50",
+      "target": "tubulin assembly",
+      "treatment": "5c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.77",
+      "type": "IC50",
+      "target": "tubulin assembly",
+      "treatment": "5f",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.3",
+      "type": "IC50",
+      "target": "tubulin assembly",
+      "treatment": "5g",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.87",
+      "type": "IC50",
+      "target": "tubulin assembly",
+      "treatment": "5k",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.96",
+      "type": "IC50",
+      "target": "tubulin assembly",
+      "treatment": "CA4",
+      "unit": "\u00b5M"
+    }
+  ],
+  "num_tables_in_pdf": 2,
+  "num_gold_annotations": 74,
+  "elapsed_seconds": 134.9,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

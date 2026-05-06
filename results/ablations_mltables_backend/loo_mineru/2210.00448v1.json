@@ -1,0 +1,234 @@
+{
+  "arxiv_id": "2210.00448v1",
+  "predictions": [
+    {
+      "value": "3.0",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total parameters",
+      "model": "MobileNet V3 Large",
+      "unit": "M"
+    },
+    {
+      "value": "95.52",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Top-1 Accuracy on test set",
+      "task": "waste classification",
+      "unit": "%"
+    },
+    {
+      "value": "0.94",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total parameters",
+      "model": "MobileNet V3 Small",
+      "unit": "M"
+    },
+    {
+      "value": "3.87",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total keras model size",
+      "model": "MobileNet V3 Small",
+      "unit": "MB"
+    },
+    {
+      "value": "98.94",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Training accuracy",
+      "task": "waste classification",
+      "unit": "%"
+    },
+    {
+      "value": "93.33",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Top-1 Validation Accuracy",
+      "task": "waste classification",
+      "unit": "%"
+    },
+    {
+      "value": "93.56",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Top-1 Accuracy on test set",
+      "task": "waste classification",
+      "unit": "%"
+    },
+    {
+      "value": "70",
+      "type": "Data Stat.",
+      "dataset": "recycling waste",
+      "attribute name": "training split ratio",
+      "unit": "%"
+    },
+    {
+      "value": "15",
+      "type": "Data Stat.",
+      "dataset": "recycling waste",
+      "attribute name": "validation split ratio",
+      "unit": "%"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "input resolution (width)",
+      "model": "EfficientNet B0"
+    },
+    {
+      "value": "384",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "input resolution (height)",
+      "model": "EfficientNet B0"
+    },
+    {
+      "value": "99.59",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "metric": "training accuracy",
+      "task": "waste classification",
+      "dataset": "recycling waste"
+    },
+    {
+      "value": "95.23",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "metric": "accuracy",
+      "task": "waste classification",
+      "dataset": "5-class test set"
+    },
+    {
+      "value": "94.79",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "metric": "per-class precision",
+      "task": "waste classification",
+      "dataset": "5-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "metric": "accuracy",
+      "task": "waste classification",
+      "dataset": "7-class test set"
+    },
+    {
+      "value": "95.97",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "metric": "per-class precision",
+      "task": "waste classification",
+      "dataset": "7-class test set"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "input resolution (width)",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "384",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "input resolution (height)",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "99.46",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "training accuracy",
+      "task": "waste classification",
+      "dataset": "recycling waste"
+    },
+    {
+      "value": "94.68",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "accuracy",
+      "task": "waste classification",
+      "dataset": "5-class test set"
+    },
+    {
+      "value": "94.53",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "per-class precision",
+      "task": "waste classification",
+      "dataset": "5-class test set"
+    },
+    {
+      "value": "95.38",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "accuracy",
+      "task": "waste classification",
+      "dataset": "7-class test set"
+    },
+    {
+      "value": "95.68",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "per-class precision",
+      "task": "waste classification",
+      "dataset": "7-class test set"
+    },
+    {
+      "value": "224",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "input resolution (width)",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "95.79",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "accuracy",
+      "task": "waste classification",
+      "dataset": "5-class test set"
+    },
+    {
+      "value": "95.70",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "per-class precision",
+      "task": "waste classification",
+      "dataset": "5-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "accuracy",
+      "task": "waste classification",
+      "dataset": "7-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "per-class precision",
+      "task": "waste classification",
+      "dataset": "7-class test set"
+    },
+    {
+      "value": "5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "power mode",
+      "model": "Jetson Nano"
+    },
+    {
+      "value": "1800",
+      "type": "Data Stat.",
+      "dataset": "recycling waste",
+      "attribute name": "number of images"
+    }
+  ],
+  "num_gold_annotations": 49,
+  "elapsed_seconds": 37.3,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber",
+    "camelot"
+  ]
+}

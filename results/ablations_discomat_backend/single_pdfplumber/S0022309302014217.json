@@ -1,0 +1,196 @@
+{
+  "pii": "S0022309302014217",
+  "predictions": [
+    {
+      "sample_id": "B-glass",
+      "component": "SiO2",
+      "value": 57.17,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B-glass",
+      "component": "CaO",
+      "value": 36.75,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B-glass",
+      "component": "ZrO2",
+      "value": 6.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.1",
+      "component": "SiO2",
+      "value": 57.11,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.1",
+      "component": "CaO",
+      "value": 36.71,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.1",
+      "component": "ZrO2",
+      "value": 6.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.1",
+      "component": "V2O5",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.3",
+      "component": "SiO2",
+      "value": 57.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.3",
+      "component": "CaO",
+      "value": 36.64,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.3",
+      "component": "ZrO2",
+      "value": 6.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.3",
+      "component": "V2O5",
+      "value": 0.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.5",
+      "component": "SiO2",
+      "value": 56.88,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.5",
+      "component": "CaO",
+      "value": 36.57,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.5",
+      "component": "ZrO2",
+      "value": 6.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.5",
+      "component": "V2O5",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.7",
+      "component": "SiO2",
+      "value": 56.77,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.7",
+      "component": "CaO",
+      "value": 36.49,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.7",
+      "component": "ZrO2",
+      "value": 6.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.7",
+      "component": "V2O5",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-1.0",
+      "component": "SiO2",
+      "value": 56.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-1.0",
+      "component": "CaO",
+      "value": 36.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-1.0",
+      "component": "ZrO2",
+      "value": 6.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-1.0",
+      "component": "V2O5",
+      "value": 0.99,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-2.0",
+      "component": "SiO2",
+      "value": 56.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-2.0",
+      "component": "CaO",
+      "value": 36.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-2.0",
+      "component": "ZrO2",
+      "value": 5.96,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-2.0",
+      "component": "V2O5",
+      "value": 1.96,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-5.0",
+      "component": "SiO2",
+      "value": 54.45,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-5.0",
+      "component": "CaO",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-5.0",
+      "component": "ZrO2",
+      "value": 5.79,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-5.0",
+      "component": "V2O5",
+      "value": 4.76,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 31,
+  "elapsed_seconds": 23.9,
+  "backends": [
+    "pdfplumber"
+  ]
+}

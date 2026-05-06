@@ -1,0 +1,79 @@
+{
+  "pdf_id": "S002230930900739X",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_G1",
+      "component": "CdO",
+      "value": 70.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G1",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G1",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G2",
+      "component": "CdO",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G2",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G2",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G3",
+      "component": "CdO",
+      "value": 60.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G3",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G3",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G4",
+      "component": "CdO",
+      "value": 70.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G4",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_G4",
+      "component": "V2O5",
+      "value": 10.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 20.4,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_G1\", \"component\": \"CdO\", \"value\": 70.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_1_G1\", \"component\": \"ZnO\", \"value\": 10.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_1_G1\", \"component\": \"V2O5\", \"value\": 20.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_1_G2\", \"component\": \"CdO\", \"value\": 50.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_1_G2\", \"component\": \"ZnO\", \"value\": 30.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_1"
+}

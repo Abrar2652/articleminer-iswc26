@@ -1,0 +1,140 @@
+{
+  "pdf_id": "S0022309399006250",
+  "predictions": [
+    {
+      "sample_id": "GI",
+      "component": "P2O5",
+      "value": 39.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI",
+      "component": "CaO",
+      "value": 33.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI",
+      "component": "Na2O",
+      "value": 27.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "P2O5",
+      "value": 38.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "CaO",
+      "value": 32.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Na2O",
+      "value": 26.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Al2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "P2O5",
+      "value": 37.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "CaO",
+      "value": 31.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "Na2O",
+      "value": 25.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "Al2O3",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII",
+      "component": "P2O5",
+      "value": 43.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII",
+      "component": "CaO",
+      "value": 30.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII",
+      "component": "Na2O",
+      "value": 25.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "P2O5",
+      "value": 42.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "CaO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "Na2O",
+      "value": 25.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 41.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 29.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 24.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 4.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 22,
+  "ablation": "no_vision",
+  "elapsed_seconds": 26.1
+}

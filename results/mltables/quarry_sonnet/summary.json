@@ -1,0 +1,13 @@
+{
+  "dataset": "mltables",
+  "model": "claude-sonnet-4-6",
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ],
+  "total_papers": 15,
+  "total_tuples": 2064,
+  "total_time": 2510.6
+}

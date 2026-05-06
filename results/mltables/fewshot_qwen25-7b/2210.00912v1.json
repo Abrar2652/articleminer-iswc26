@@ -1,0 +1,636 @@
+{
+  "pdf_id": "2210.00912v1",
+  "predictions": [
+    {
+      "value": "63.56%",
+      "type": "Result",
+      "training data/set": "FL setting",
+      "test data/set": [
+        "PACS",
+        "Office Home",
+        "Camelyon17"
+      ],
+      "task": "Image Recognition",
+      "metric": "Testing Accuracy",
+      "model": "CCST"
+    },
+    {
+      "value": "7",
+      "type": "Time Cost",
+      "unit": "seconds",
+      "description": "Overall style computation time for 2048 images with 256x256 resolution",
+      "device": "NVIDIA RTX 2080Ti GPU",
+      "software": "Py Torch 1.11.0 with CUDA11"
+    },
+    {
+      "value": "54",
+      "type": "Time Cost",
+      "unit": "seconds",
+      "description": "Image stylization time for 2048 images with 256x256 resolution",
+      "device": "NVIDIA RTX 2080Ti GPU",
+      "software": "Py Torch 1.11.0 with CUDA11"
+    },
+    {
+      "value": "95.75",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "87.5",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "74.66",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "76.56",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "83.62",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "96.71",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "85.69",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "76.19",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "73.76",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "83.09",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "96.65",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "86.63",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "74.53",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "81.85",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "84.71",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=2)",
+      "hyper-parameter": {
+        "K": 2
+      }
+    },
+    {
+      "value": "86.02",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=2)",
+      "hyper-parameter": {
+        "K": 2
+      }
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=2)",
+      "hyper-parameter": {
+        "K": 2
+      }
+    },
+    {
+      "value": "96.65",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "88.33",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "78.20",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "82.90",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "86.52",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "95.69",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "86.67",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "75.85",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "77.37",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "83.90",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "96.89",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "86.38",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "78.92",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "72.36",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "83.64",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "95.21",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "81.25",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "73.34",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "80.27",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "82.52",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Overall, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "94.07",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "77.73",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "70.99",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "72.82",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "78.90",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "55.14",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "43.64",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "68.58",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "68.92",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "59.07",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=1)",
+      "hyper-parameter": {
+        "K": 1
+      }
+    },
+    {
+      "value": "94.79",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "80.27",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    },
+    {
+      "value": "71.72",
+      "type": "Result",
+      "training data/set": "PACS",
+      "test data/set": "PACS",
+      "task": "Image Recognition",
+      "metric": "Avg. P A C S Avg.",
+      "model": "CCST (Single, K=3)",
+      "hyper-parameter": {
+        "K": 3
+      }
+    }
+  ],
+  "elapsed_seconds": 155.9,
+  "raw_preview": "```json\n{\"value\": \"63.56%\", \"type\": \"Result\", \"training data/set\": \"FL setting\", \"test data/set\": [\"PACS\", \"Office Home\", \"Camelyon17\"], \"task\": \"Image Recognition\", \"metric\": \"Testing Accuracy\", \"model\": \"CCST\"}\n{\"value\": \"7\", \"type\": \"Time Cost\", \"unit\": \"seconds\", \"description\": \"Overall style computation time for 2048 images with 256x256 resolution\", \"device\": \"NVIDIA RTX 2080Ti GPU\", \"software\": \"Py Torch 1.11.0 with CUDA11\"}\n{\"value\": \"54\", \"type\": \"Time Cost\", \"unit\": \"seconds\", \"descript"
+}

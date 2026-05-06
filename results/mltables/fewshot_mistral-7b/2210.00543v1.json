@@ -1,0 +1,649 @@
+{
+  "pdf_id": "2210.00543v1",
+  "predictions": [
+    {
+      "value": "9.0%",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "Under-spcified ratio",
+      "model": "N/A"
+    },
+    {
+      "value": "5.5%",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "Over-specified ratio",
+      "model": "N/A"
+    },
+    {
+      "value": "3.0%",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "Self-reference ratio",
+      "model": "N/A"
+    },
+    {
+      "value": "1.0%",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "Wrong part-of-speech ratio",
+      "model": "N/A"
+    },
+    {
+      "value": "1.0%",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "Opposite ratio",
+      "model": "N/A"
+    },
+    {
+      "value": "7,938",
+      "type": "Data Stat.",
+      "dataset": "N/A",
+      "sub-set/group name": "Phrases",
+      "attribute name": "Number of phrases"
+    },
+    {
+      "value": "13,883",
+      "type": "Data Stat.",
+      "dataset": "N/A",
+      "sub-set/group name": "Entries",
+      "attribute name": "Number of entries"
+    },
+    {
+      "value": "5.81",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "attribute name": "Context length",
+      "metric": "Mean"
+    },
+    {
+      "value": "5.64",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "attribute name": "Context length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "5.77",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "attribute name": "Context length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "17.74",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "attribute name": "Desc. length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "17.80",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "attribute name": "Desc. length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "11.22",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "Desc. length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "10.86",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "Context length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "10.89",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "attribute name": "Context length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "10.95",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "Context length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "10.99",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "Context length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "10.95",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "Desc. length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "10.95",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "Desc. length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "12.05",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "Desc. length",
+      "metric": "Mean",
+      "model": "N/A"
+    },
+    {
+      "value": "23.77",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "I-Attention"
+    },
+    {
+      "value": "44.30",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "I-Attention"
+    },
+    {
+      "value": "17.45",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "I-Attention"
+    },
+    {
+      "value": "35.79",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "I-Attention"
+    },
+    {
+      "value": "8.81",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "I-Attention"
+    },
+    {
+      "value": "19.43",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "I-Attention"
+    },
+    {
+      "value": "24.78",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "Local"
+    },
+    {
+      "value": "40.32",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "Local"
+    },
+    {
+      "value": "17.58",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "Local"
+    },
+    {
+      "value": "31.30",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "Local"
+    },
+    {
+      "value": "8.99",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "Local"
+    },
+    {
+      "value": "17.39",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "Local"
+    },
+    {
+      "value": "23.59",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "Global"
+    },
+    {
+      "value": "49.70",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "Global"
+    },
+    {
+      "value": "14.95",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "Global"
+    },
+    {
+      "value": "32.79",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "Global"
+    },
+    {
+      "value": "5.15",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "Global"
+    },
+    {
+      "value": "10.45",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "Global"
+    },
+    {
+      "value": "25.19",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "Log-CAD score",
+      "model": "LOG-CaD"
+    },
+    {
+      "value": "43.54",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "Log-CAD score",
+      "model": "LOG-CaD"
+    },
+    {
+      "value": "18.57",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "Log-CAD score",
+      "model": "LOG-CaD"
+    },
+    {
+      "value": "38.22",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "Log-CAD score",
+      "model": "LOG-CaD"
+    },
+    {
+      "value": "9.93",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "Log-CAD score",
+      "model": "LOG-CaD"
+    },
+    {
+      "value": "19.29",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "Log-CAD score",
+      "model": "LOG-CaD"
+    },
+    {
+      "value": "32.72",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Reranking"
+    },
+    {
+      "value": "64.57",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Reranking"
+    },
+    {
+      "value": "26.52",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Reranking"
+    },
+    {
+      "value": "74.17",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Reranking"
+    },
+    {
+      "value": "17.71",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Reranking"
+    },
+    {
+      "value": "35.53",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Reranking"
+    },
+    {
+      "value": "31.72",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "57.35",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "25.44",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "66.92",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "17.66",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "26.86",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "BLEU score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "31.07",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/o Mean())"
+    },
+    {
+      "value": "71.48",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/o Mean())"
+    },
+    {
+      "value": "27.13",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/o Mean())"
+    },
+    {
+      "value": "80.33",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/o Mean())"
+    },
+    {
+      "value": "18.57",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/o Mean())"
+    },
+    {
+      "value": "40.29",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/o Mean())"
+    },
+    {
+      "value": "31.75",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/ One-stage training)"
+    },
+    {
+      "value": "73.79",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/ One-stage training)"
+    },
+    {
+      "value": "27.06",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/ One-stage training)"
+    },
+    {
+      "value": "79.90",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/ One-stage training)"
+    },
+    {
+      "value": "16.49",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/ One-stage training)"
+    },
+    {
+      "value": "31.46",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (w/ One-stage training)"
+    },
+    {
+      "value": "32.05",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "74.71",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "27.10",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "79.42",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "19.44",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "41.01",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "BLEU score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "32.05",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "74.71",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "27.11",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "79.42",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "19.44",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "41.01",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "31.72",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "57.35",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "25.44",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "66.92",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "17.66",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "26.86",
+      "type": "Result",
+      "dataset": "Word Net",
+      "metric": "NIST score",
+      "model": "T5-Base"
+    },
+    {
+      "value": "31.07",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "NIST score",
+      "model": "T5-Contrast (w/o Mean())"
+    },
+    {
+      "value": "71.48",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "NIST score",
+      "model": "T5-Contrast (w/o Mean())"
+    },
+    {
+      "value": "27.13",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "NIST score",
+      "model": "T5-Contrast (w/o Mean())"
+    },
+    {
+      "value": "80.33",
+      "type": "Result",
+      "dataset": "N/A",
+      "metric": "NIST score",
+      "model": "T5-Contrast (w/o Mean())"
+    }
+  ],
+  "elapsed_seconds": 235.0,
+  "raw_preview": "{\"value\": \"9.0%\", \"type\": \"Result\", \"dataset\": \"N/A\", \"metric\": \"Under-spcified ratio\", \"model\": \"N/A\"}\n{\"value\": \"5.5%\", \"type\": \"Result\", \"dataset\": \"N/A\", \"metric\": \"Over-specified ratio\", \"model\": \"N/A\"}\n{\"value\": \"3.0%\", \"type\": \"Result\", \"dataset\": \"N/A\", \"metric\": \"Self-reference ratio\", \"model\": \"N/A\"}\n{\"value\": \"1.0%\", \"type\": \"Result\", \"dataset\": \"N/A\", \"metric\": \"Wrong part-of-speech ratio\", \"model\": \"N/A\"}\n{\"value\": \"1.0%\", \"type\": \"Result\", \"dataset\": \"N/A\", \"metric\": \"Opposite rati"
+}

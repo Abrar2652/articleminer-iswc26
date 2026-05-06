@@ -1,0 +1,37 @@
+{
+  "pii": "S0022309304008944",
+  "predictions": [
+    {
+      "sample_id": "glass",
+      "component": "SiO2",
+      "value": 55.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass",
+      "component": "Al2O3",
+      "value": 22.83,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass",
+      "component": "ZnO",
+      "value": 17.75,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass",
+      "component": "TiO2",
+      "value": 3.84,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 16,
+  "elapsed_seconds": 77.0,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

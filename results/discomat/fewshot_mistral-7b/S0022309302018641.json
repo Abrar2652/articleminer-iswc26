@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309302018641",
+  "predictions": [],
+  "elapsed_seconds": 30.9,
+  "raw_preview": "{\"sample\\_id\": \"Sx\", \"component\": \"Ca O\", \"value\": <x>, \"unit\": \"mol\"}\n{\"sample\\_id\": \"Sx\", \"component\": \"Si O2\", \"value\": <y>, \"unit\": \"mol\"}\n\nWhere x represents the sample identifier from the paper text and y represents the mol percentage of SiO2 in the sample.\n\nHere are the extracts for each sample:\n\n1. S80C20\n{\"sample\\_id\": \"S80C20\", \"component\": \"Ca O\", \"value\": 0.17, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S80C20\", \"component\": \"Si O2\", \"value\": 0.83, \"unit\": \"mol\"}\n2. S70C30\n{\"sample\\_id\": \"S70C30"
+}

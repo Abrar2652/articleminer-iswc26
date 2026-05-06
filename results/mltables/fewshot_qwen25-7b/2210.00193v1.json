@@ -1,0 +1,681 @@
+{
+  "pdf_id": "2210.00193v1",
+  "predictions": [
+    {
+      "value": "10",
+      "type": "Data Stat.",
+      "dataset": "FRMT",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "number of samples per intent",
+        "# samples / intent"
+      ],
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "25%",
+      "type": "Data Stat.",
+      "dataset": "FRMT",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "percentage of samples used",
+        "% of samples used"
+      ],
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "100",
+      "type": "Data Stat.",
+      "dataset": "FRMT",
+      "sub-set/group name": "Training",
+      "attribute name": [
+        "number of samples per variety",
+        "# samples / variety"
+      ],
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "10",
+      "type": "Data Stat.",
+      "dataset": "FRMT",
+      "sub-set/group name": "Exemplars",
+      "attribute name": [
+        "number of samples",
+        "# samples"
+      ],
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "3.7B",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Pa LM",
+      "parameter/architecture name": [
+        "number of parameters",
+        "parameters"
+      ],
+      "dataset": "FRMT"
+    },
+    {
+      "value": "50.4",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "UR"
+    },
+    {
+      "value": "50.6",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "M4-UR"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "M4-Prompts"
+    },
+    {
+      "value": "69.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Pa LM 8B"
+    },
+    {
+      "value": "70.8",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Pa LM 62B"
+    },
+    {
+      "value": "83.6",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Pa LM 540B"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Online"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold"
+    },
+    {
+      "value": "2.7",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Pa LM"
+    },
+    {
+      "value": "3.03",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "M4-Prompts"
+    },
+    {
+      "value": "3.13",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (pt-PT ratings)"
+    },
+    {
+      "value": "2.12",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "M4-Prompts (pt-PT ratings)"
+    },
+    {
+      "value": "3.13",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (pt-BR ratings)"
+    },
+    {
+      "value": "3.03",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "M4-Prompts (pt-BR ratings)"
+    },
+    {
+      "value": "8.8",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEURT",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Pa LM"
+    },
+    {
+      "value": "2.1",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (pt-BR ratings)"
+    },
+    {
+      "value": "2.7",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Pa LM (pt-BR ratings)"
+    },
+    {
+      "value": "2.12",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "M4-Prompts (pt-BR ratings)"
+    },
+    {
+      "value": "3.13",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (pt-PT ratings)"
+    },
+    {
+      "value": "2.12",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "M4-Prompts (pt-PT ratings)"
+    },
+    {
+      "value": "3.03",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Pa LM (pt-PT ratings)"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (pt-PT ratings)"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Online"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEURT",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Online"
+    },
+    {
+      "value": "56.2",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Online (pt-BR ratings)"
+    },
+    {
+      "value": "35.6",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Online (pt-PT ratings)"
+    },
+    {
+      "value": "56.3",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEURT",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Online (pt-BR ratings)"
+    },
+    {
+      "value": "42.9",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEURT",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Online (pt-PT ratings)"
+    },
+    {
+      "value": "50.4",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-CN ratings)"
+    },
+    {
+      "value": "19.5",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-TW ratings)"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEURT",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-CN ratings)"
+    },
+    {
+      "value": "21.9",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEURT",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-TW ratings)"
+    },
+    {
+      "value": "39.7",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-CN ratings)"
+    },
+    {
+      "value": "21.9",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-TW ratings)"
+    },
+    {
+      "value": "39.7",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-CN ratings)"
+    },
+    {
+      "value": "37.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-TW ratings)"
+    },
+    {
+      "value": "56.1",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEURT",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-CN ratings)"
+    },
+    {
+      "value": "37.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEURT",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-TW ratings)"
+    },
+    {
+      "value": "56.1",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-CN ratings)"
+    },
+    {
+      "value": "37.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "MQM",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Gold (zh-TW ratings)"
+    },
+    {
+      "value": "50.4",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "UR (zh-CN ratings)"
+    },
+    {
+      "value": "50.6",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "M4-UR (zh-CN ratings)"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "M4-Prompts (zh-CN ratings)"
+    },
+    {
+      "value": "69.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Pa LM 8B (zh-CN ratings)"
+    },
+    {
+      "value": "70.8",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Pa LM 62B (zh-CN ratings)"
+    },
+    {
+      "value": "83.6",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Pa LM 540B (zh-CN ratings)"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Online (zh-CN ratings)"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEURT",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "Online (zh-CN ratings)"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "UR (zh-TW ratings)"
+    },
+    {
+      "value": "50.9",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "M4-UR (zh-TW ratings)"
+    },
+    {
+      "value": "33.3",
+      "type": "Result",
+      "training data/set": "FRMT",
+      "test data/set": "FRMT",
+      "task": "Translation",
+      "metric": "BLEU",
+      "experimental settings": {
+        "number of samples per variety": "100"
+      },
+      "model": "M4-Prompts (zh-TW ratings)"
+    }
+  ],
+  "elapsed_seconds": 168.8,
+  "raw_preview": "{\"value\": \"10\", \"type\": \"Data Stat.\", \"dataset\": \"FRMT\", \"sub-set/group name\": \"Test\", \"attribute name\": [\"number of samples per intent\", \"# samples / intent\"], \"dataset features\": {\"xx\": \"yy\"}}\n{\"value\": \"25%\", \"type\": \"Data Stat.\", \"dataset\": \"FRMT\", \"sub-set/group name\": \"Test\", \"attribute name\": [\"percentage of samples used\", \"% of samples used\"], \"dataset features\": {\"xx\": \"yy\"}}\n{\"value\": \"100\", \"type\": \"Data Stat.\", \"dataset\": \"FRMT\", \"sub-set/group name\": \"Training\", \"attribute name\": [\""
+}

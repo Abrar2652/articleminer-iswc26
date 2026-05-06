@@ -1,0 +1,223 @@
+{
+  "pii": "S0022309307012100",
+  "predictions": [
+    {
+      "sample_id": "43.8\u201312.5\u201343.8",
+      "component": "Na2O",
+      "value": 43.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "43.8\u201312.5\u201343.8",
+      "component": "Al2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "43.8\u201312.5\u201343.8",
+      "component": "P2O5",
+      "value": 43.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "42.5\u201315\u201342.5",
+      "component": "Na2O",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "42.5\u201315\u201342.5",
+      "component": "Al2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "42.5\u201315\u201342.5",
+      "component": "P2O5",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40\u201320\u201340",
+      "component": "Na2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40\u201320\u201340",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40\u201320\u201340",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "33.3\u201333.3\u201333.3",
+      "component": "Na2O",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "33.3\u201333.3\u201333.3",
+      "component": "Al2O3",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "33.3\u201333.3\u201333.3",
+      "component": "P2O5",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20\u201340\u201340",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20\u201340\u201340",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20\u201340\u201340",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10\u201345\u201345",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10\u201345\u201345",
+      "component": "Al2O3",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10\u201345\u201345",
+      "component": "P2O5",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0\u201350\u201350",
+      "component": "Al2O3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0\u201350\u201350",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10\u201340\u201350",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10\u201340\u201350",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10\u201340\u201350",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30\u201320\u201350",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30\u201320\u201350",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30\u201320\u201350",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "37.5\u201312.5\u201350",
+      "component": "Na2O",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "37.5\u201312.5\u201350",
+      "component": "Al2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "37.5\u201312.5\u201350",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50\u201312.5\u201337.5",
+      "component": "Na2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50\u201312.5\u201337.5",
+      "component": "Al2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50\u201312.5\u201337.5",
+      "component": "P2O5",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50\u201325\u201325",
+      "component": "Na2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50\u201325\u201325",
+      "component": "Al2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50\u201325\u201325",
+      "component": "P2O5",
+      "value": 25.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 35,
+  "elapsed_seconds": 63.0,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "dataset": "discomat",
+  "model": "mistral-7b-v02",
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ],
+  "total_papers": 111,
+  "total_tuples": 2238,
+  "total_time": 8192.9
+}

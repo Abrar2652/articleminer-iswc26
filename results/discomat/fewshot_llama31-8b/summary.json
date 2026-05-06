@@ -1,0 +1,8 @@
+{
+  "domain": "discomat",
+  "model": "llama31-8b",
+  "shots": 3,
+  "n_pdfs": 111,
+  "total_preds": 8007,
+  "elapsed_seconds": 14624.1
+}

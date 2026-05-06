@@ -1,0 +1,115 @@
+{
+  "pii": "S0022309315302106",
+  "predictions": [
+    {
+      "sample_id": "BaPF0",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF0",
+      "component": "BaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF2",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF2",
+      "component": "BaO",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF2",
+      "component": "CaF2",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF4",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF4",
+      "component": "BaO",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF4",
+      "component": "CaF2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF6",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF6",
+      "component": "BaO",
+      "value": 44.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF6",
+      "component": "CaF2",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF8",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF8",
+      "component": "BaO",
+      "value": 42.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF8",
+      "component": "CaF2",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF10",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF10",
+      "component": "BaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF10",
+      "component": "CaF2",
+      "value": 10.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 31,
+  "elapsed_seconds": 32.4,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "camelot"
+  ]
+}

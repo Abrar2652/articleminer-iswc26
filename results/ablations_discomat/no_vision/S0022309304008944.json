@@ -1,0 +1,74 @@
+{
+  "pdf_id": "S0022309304008944",
+  "predictions": [
+    {
+      "sample_id": "1143K",
+      "component": "Zn x /2 Al x Si 3 x O 6",
+      "value": 44.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1143K",
+      "component": "Amorphous phase",
+      "value": 56.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1193K",
+      "component": "Zn x /2 Al x Si 3 x O 6",
+      "value": 94.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1193K",
+      "component": "Gahnite",
+      "value": 4.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1193K",
+      "component": "Corundum",
+      "value": 1.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1293K",
+      "component": "Zn x /2 Al x Si 3 x O 6",
+      "value": 40.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1293K",
+      "component": "Gahnite",
+      "value": 47.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1293K",
+      "component": "Corundum",
+      "value": 6.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1293K",
+      "component": "Amorphous phase",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1423K",
+      "component": "Gahnite",
+      "value": 67.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1423K",
+      "component": "Amorphous phase",
+      "value": 12.5,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_annotations": 16,
+  "ablation": "no_vision",
+  "elapsed_seconds": 37.5
+}

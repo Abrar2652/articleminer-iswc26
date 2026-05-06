@@ -1,0 +1,71 @@
+{
+  "pii": "S002230930701112X",
+  "predictions": [
+    {
+      "sample_id": "CP",
+      "component": "CaO",
+      "value": 49.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP2%",
+      "component": "CaO",
+      "value": 46.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP2%",
+      "component": "P2O5",
+      "value": 50.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP2%",
+      "component": "Al2O3",
+      "value": 2.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP4%",
+      "component": "CaO",
+      "value": 44.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP4%",
+      "component": "P2O5",
+      "value": 51.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP4%",
+      "component": "Al2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP10%",
+      "component": "CaO",
+      "value": 37.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP10%",
+      "component": "P2O5",
+      "value": 52.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP10%",
+      "component": "Al2O3",
+      "value": 9.7,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 11,
+  "elapsed_seconds": 35.6,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "pii": "S0022309399000289",
+  "predictions": [
+    {
+      "sample_id": "V2",
+      "component": "MoO3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V2",
+      "component": "NbO2.5",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V2",
+      "component": "NaF",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V2",
+      "component": "BaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V2",
+      "component": "ZnF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V3",
+      "component": "MoO3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V3",
+      "component": "NbO2.5",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V3",
+      "component": "NaF",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V3",
+      "component": "BaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V3",
+      "component": "ZnF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V4",
+      "component": "MoO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V4",
+      "component": "NbO2.5",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V4",
+      "component": "NaF",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V4",
+      "component": "BaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V4",
+      "component": "ZnF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V5",
+      "component": "MoO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V5",
+      "component": "NbO2.5",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V5",
+      "component": "NaF",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V5",
+      "component": "BaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V5",
+      "component": "ZnF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V6",
+      "component": "MoO3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V6",
+      "component": "NbO2.5",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V6",
+      "component": "NaF",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V6",
+      "component": "BaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V6",
+      "component": "ZnF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V7",
+      "component": "MoO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V7",
+      "component": "NbO2.5",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V7",
+      "component": "LiF",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V7",
+      "component": "NaF",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V7",
+      "component": "BaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V7",
+      "component": "ZnF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V8",
+      "component": "MoO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V8",
+      "component": "NbO2.5",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V8",
+      "component": "LiF",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V8",
+      "component": "NaF",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V8",
+      "component": "BaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V8",
+      "component": "ZnF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V9",
+      "component": "MoO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V9",
+      "component": "NbO2.5",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V9",
+      "component": "LiF",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V9",
+      "component": "NaF",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V9",
+      "component": "BaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V9",
+      "component": "ZnF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V10",
+      "component": "MoO3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V10",
+      "component": "BaF2",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V10",
+      "component": "ZnF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V10",
+      "component": "LiNbO3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V11",
+      "component": "MoO3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V11",
+      "component": "BaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V11",
+      "component": "ZnF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V11",
+      "component": "LiNbO3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V12",
+      "component": "MoO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V12",
+      "component": "BaF2",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V12",
+      "component": "ZnF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V12",
+      "component": "LiNbO3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V13",
+      "component": "NbO2.5",
+      "value": 31.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V13",
+      "component": "LiF",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V13",
+      "component": "ZnF2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V13",
+      "component": "LiNbO3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V14",
+      "component": "NbO2.5",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V14",
+      "component": "LiF",
+      "value": 14.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V14",
+      "component": "ZnF2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V14",
+      "component": "LiNbO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V15",
+      "component": "NbO2.5",
+      "value": 21.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V15",
+      "component": "LiF",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V15",
+      "component": "ZnF2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V15",
+      "component": "LiNbO3",
+      "value": 15.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 74,
+  "elapsed_seconds": 27.0,
+  "backends": [
+    "marker"
+  ]
+}

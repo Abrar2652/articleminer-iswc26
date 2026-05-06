@@ -1,0 +1,949 @@
+{
+  "arxiv_id": "2210.00705v1",
+  "predictions": [
+    {
+      "value": "26.6",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "56.4",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "68.8",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "36.2",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "66.1",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "76.5",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "29.3",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "58.6",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "71.0",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "37.9",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "68.5",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "79.9",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "33.2",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "62.7",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "73.9",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "49.6",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "79.2",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "87.5",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "26.7",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "57.1",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "70.0",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "41.3",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "73.9",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "84.2",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "8.2",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "25.7",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "37.2",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "14.1",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "34.5",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "49.2",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "39.1",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "72.0",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "83.0",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "54.5",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "84.5",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "93.2",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "14.7",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "41.2",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "55.1",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "21.8",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "52.0",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "67.7",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "17.3",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "41.9",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "55.0",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "22.0",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "50.6",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "65.2",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "31.8",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "62.5",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "42.5",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "73.7",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "84.9",
+      "type": "Result",
+      "model": "FaST-VGGSco",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "35.9",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "66.3",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "77.9",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "48.8",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "78.2",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "87.0",
+      "type": "Result",
+      "model": "FaST-VGSStr",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "35.8",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "66.5",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "78.0",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "50.6",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "89.1",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "6.4",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "20.7",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "31.0",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "9.6",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "27.7",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "39.7",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "0.10",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "0.50",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "0.99",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "19.56",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "44.06",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "58.46",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "22.50",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Text \u2192 Speech"
+    },
+    {
+      "value": "44.14",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Text \u2192 Speech"
+    },
+    {
+      "value": "54.54",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Text \u2192 Speech"
+    },
+    {
+      "value": "97.06",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "99.24",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "99.46",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "97.88",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Text \u2192 Speech"
+    },
+    {
+      "value": "99.76",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Text \u2192 Speech"
+    },
+    {
+      "value": "99.90",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Text \u2192 Speech"
+    },
+    {
+      "value": "0.02",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "0.20",
+      "type": "Result",
+      "model": "Random",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "60.82",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "81.88",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "86.45",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "85.82",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Text \u2192 Speech"
+    },
+    {
+      "value": "91.27",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Text \u2192 Speech"
+    },
+    {
+      "value": "95.02",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "99.78",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Text"
+    },
+    {
+      "value": "95.39",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Text \u2192 Speech"
+    },
+    {
+      "value": "98.68",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Text \u2192 Speech"
+    },
+    {
+      "value": "99.33",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Text \u2192 Speech"
+    },
+    {
+      "value": "8.2",
+      "type": "Result",
+      "model": "Cascaded (K = 8)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "25.7",
+      "type": "Result",
+      "model": "Cascaded (K = 8)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "37.2",
+      "type": "Result",
+      "model": "Cascaded (K = 8)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "14.1",
+      "type": "Result",
+      "model": "Cascaded (K = 8)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "34.5",
+      "type": "Result",
+      "model": "Cascaded (K = 8)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "49.2",
+      "type": "Result",
+      "model": "Cascaded (K = 8)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "3.5",
+      "type": "Result",
+      "model": "Cascaded (K = 4)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "13.2",
+      "type": "Result",
+      "model": "Cascaded (K = 4)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "21.1",
+      "type": "Result",
+      "model": "Cascaded (K = 4)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "5.2",
+      "type": "Result",
+      "model": "Cascaded (K = 4)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "17.5",
+      "type": "Result",
+      "model": "Cascaded (K = 4)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "27.4",
+      "type": "Result",
+      "model": "Cascaded (K = 4)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "2.1",
+      "type": "Result",
+      "model": "Cascaded (K = 2)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "8.4",
+      "type": "Result",
+      "model": "Cascaded (K = 2)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "14.4",
+      "type": "Result",
+      "model": "Cascaded (K = 2)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image"
+    },
+    {
+      "value": "2.7",
+      "type": "Result",
+      "model": "Cascaded (K = 2)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "10.6",
+      "type": "Result",
+      "model": "Cascaded (K = 2)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech"
+    },
+    {
+      "value": "17.6",
+      "type": "Result",
+      "model": "Cascaded (K = 2)",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech"
+    }
+  ],
+  "num_gold_annotations": 165,
+  "elapsed_seconds": 182.7,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

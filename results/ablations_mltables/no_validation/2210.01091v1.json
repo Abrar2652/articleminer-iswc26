@@ -1,0 +1,688 @@
+{
+  "pdf_id": "2210.01091v1",
+  "predictions": [
+    {
+      "value": "0.621",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "Small SMS Spam Collection",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.732",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "Small SMS Spam Collection",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.548",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "Small SMS Spam Collection",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.576",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "Small SMS Spam Collection",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.48",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "Small SMS Spam Collection",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.63",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "French and Spanish Reviews Dataset",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.672",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "French and Spanish Reviews Dataset",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.58",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "French and Spanish Reviews Dataset",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.51",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "French and Spanish Reviews Dataset",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.44",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "French and Spanish Reviews Dataset",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.46",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "French and Spanish Reviews Dataset",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.832",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "Small Section of GoEmotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.89",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "Small Section of GoEmotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.71",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "Small Section of GoEmotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.76",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "Small Section of GoEmotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.59",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "Small Section of GoEmotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.62",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "Small Section of GoEmotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.68",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "French-German Emotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.61",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "French-German Emotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.716",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "French-German Emotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.66",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "French-German Emotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.57",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "French-German Emotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.53",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "French-German Emotions Dataset",
+      "task": "Sentiment Analysis",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "Financial Domain Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "Financial Domain Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.72",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "Financial Domain Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "Financial Domain Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.55",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "Financial Domain Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.47",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "Financial Domain Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "Section of PAWS-X Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.61",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "Section of PAWS-X Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.736",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "Section of PAWS-X Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.711",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "Section of PAWS-X Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.58",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "Section of PAWS-X Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.62",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "Section of PAWS-X Dataset",
+      "task": "Sentence Similarity",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.71",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "SmallSMSSpamCollection",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.621",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "SmallSMSSpamCollection",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.732",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "SmallSMSSpamCollection",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.548",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "SmallSMSSpamCollection",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.576",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "SmallSMSSpamCollection",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.48",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "SmallSMSSpamCollection",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.63",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "FrenchandSpanishReviewsDataset",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.672",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "FrenchandSpanishReviewsDataset",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.58",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "FrenchandSpanishReviewsDataset",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.51",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "FrenchandSpanishReviewsDataset",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.44",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "FrenchandSpanishReviewsDataset",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.46",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "FrenchandSpanishReviewsDataset",
+      "metric": "accuracy",
+      "task": "TextClassification"
+    },
+    {
+      "value": "0.832",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "SmallSectionofGoEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.89",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "SmallSectionofGoEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.71",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "SmallSectionofGoEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.76",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "SmallSectionofGoEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.59",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "SmallSectionofGoEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.62",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "SmallSectionofGoEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.68",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "French-GermanEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.61",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "French-GermanEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.716",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "French-GermanEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.66",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "French-GermanEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.57",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "French-GermanEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.53",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "French-GermanEmotionsDataset",
+      "metric": "accuracy",
+      "task": "SentimentalAnalysis"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "FinancialDomainDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "FinancialDomainDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "0.72",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "FinancialDomainDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "FinancialDomainDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "0.55",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "FinancialDomainDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "0.47",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "FinancialDomainDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "SectionofPAWS-XDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "0.61",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "SectionofPAWS-XDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "0.736",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "SectionofPAWS-XDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "0.711",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "SectionofPAWS-XDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "0.58",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "SectionofPAWS-XDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "0.62",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "SectionofPAWS-XDataset",
+      "metric": "accuracy",
+      "task": "SentenceSimilarity"
+    },
+    {
+      "value": "35000",
+      "type": "Data Stat.",
+      "dataset": "IMDB Movie Reviews",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "15000",
+      "type": "Data Stat.",
+      "dataset": "IMDB Movie Reviews",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "3900",
+      "type": "Data Stat.",
+      "dataset": "SMS Spam Collection",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "1370",
+      "type": "Data Stat.",
+      "dataset": "SMS Spam Collection",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "140",
+      "type": "Data Stat.",
+      "dataset": "French and Spanish Reviews",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "60",
+      "type": "Data Stat.",
+      "dataset": "French and Spanish Reviews",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "33657",
+      "type": "Data Stat.",
+      "dataset": "IMDB Genre Classification",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "14425",
+      "type": "Data Stat.",
+      "dataset": "IMDB Genre Classification",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "3800",
+      "type": "Data Stat.",
+      "dataset": "GoEmotion",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "1400",
+      "type": "Data Stat.",
+      "dataset": "GoEmotion",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "1232",
+      "type": "Data Stat.",
+      "dataset": "French - German Emotions",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "538",
+      "type": "Data Stat.",
+      "dataset": "French - German Emotions",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "0.71",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "Small SMS Spam Collection",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.621",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "Small SMS Spam Collection",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.732",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "Small SMS Spam Collection",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.548",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "Small SMS Spam Collection",
+      "task": "text classification",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.576",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "Small SMS Spam Collection",
+      "task": "text classification",
+      "metric": "accuracy"
+    }
+  ],
+  "num_gold_annotations": 54,
+  "ablation": "no_validation",
+  "elapsed_seconds": 48.6
+}

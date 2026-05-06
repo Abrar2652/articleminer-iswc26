@@ -1,0 +1,847 @@
+{
+  "pdf_id": "S0022309306013238",
+  "predictions": [
+    {
+      "sample_id": "La1",
+      "component": "La2O3",
+      "value": 4.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "La2",
+      "component": "La2O3",
+      "value": 4.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "La2",
+      "component": "P2O5",
+      "value": 1.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Si",
+      "value": 15.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Al",
+      "value": 8.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Na",
+      "value": 1.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Ca",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Li",
+      "value": 1.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Zn",
+      "value": 5.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Zr",
+      "value": 0.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "La",
+      "value": 4.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "P",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "O",
+      "value": 60.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Si",
+      "value": 19.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Al",
+      "value": 5.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Na",
+      "value": 1.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Ca",
+      "value": 1.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Li",
+      "value": 2.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Zn",
+      "value": 2.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Zr",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "La",
+      "value": 4.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "P",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "O",
+      "value": 61.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Si",
+      "value": 16.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Al",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Na",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Ca",
+      "value": 3.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Li",
+      "value": 2.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Zn",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Zr",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "La",
+      "value": 3.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "P",
+      "value": 6.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "O",
+      "value": 58.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Si",
+      "value": 22.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Al",
+      "value": 4.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Na",
+      "value": 0.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Ca",
+      "value": 4.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Li",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Zn",
+      "value": 2.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Zr",
+      "value": 0.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "La",
+      "value": 1.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "P",
+      "value": 2.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "O",
+      "value": 61.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Si",
+      "value": 24.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Al",
+      "value": 3.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Na",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Ca",
+      "value": 3.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Li",
+      "value": 0.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Zn",
+      "value": 1.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Zr",
+      "value": 0.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "La",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "P",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "O",
+      "value": 62.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "Si",
+      "value": 18.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "Al",
+      "value": 1.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "B",
+      "value": 9.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "Na",
+      "value": 4.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "Ca",
+      "value": 1.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "Li",
+      "value": 3.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "Zn",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "Zr",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "La",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "P",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "O",
+      "value": 60.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2",
+      "component": "Si",
+      "value": 17.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2",
+      "component": "Al",
+      "value": 1.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2",
+      "component": "B",
+      "value": 9.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2",
+      "component": "Na",
+      "value": 4.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2",
+      "component": "Ca",
+      "value": 1.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2",
+      "component": "Li",
+      "value": 3.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2",
+      "component": "Zn",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2",
+      "component": "Zr",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2",
+      "component": "La",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2",
+      "component": "P",
+      "value": 0.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2",
+      "component": "O",
+      "value": 59.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Si",
+      "value": 15.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Al",
+      "value": 8.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Na",
+      "value": 1.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Ca",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Li",
+      "value": 1.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Zn",
+      "value": 5.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "Zr",
+      "value": 0.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "La",
+      "value": 4.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "P",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1a",
+      "component": "O",
+      "value": 60.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Si",
+      "value": 19.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Al",
+      "value": 5.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Na",
+      "value": 1.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Ca",
+      "value": 1.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Li",
+      "value": 2.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Zn",
+      "value": 2.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "Zr",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "La",
+      "value": 4.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "P",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1b",
+      "component": "O",
+      "value": 61.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Si",
+      "value": 16.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Al",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Na",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Ca",
+      "value": 3.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Li",
+      "value": 2.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Zn",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "Zr",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "La",
+      "value": 3.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "P",
+      "value": 6.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2a",
+      "component": "O",
+      "value": 58.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Si",
+      "value": 22.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Al",
+      "value": 4.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Na",
+      "value": 0.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Ca",
+      "value": 4.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Li",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Zn",
+      "value": 2.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "Zr",
+      "value": 0.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "La",
+      "value": 1.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "P",
+      "value": 2.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2b",
+      "component": "O",
+      "value": 61.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Si",
+      "value": 24.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Al",
+      "value": 3.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "B",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Na",
+      "value": 0.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Ca",
+      "value": 3.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Li",
+      "value": 0.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Zn",
+      "value": 1.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "Zr",
+      "value": 0.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "La",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "P",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La2c",
+      "component": "O",
+      "value": 62.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "Si",
+      "value": 18.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "Al",
+      "value": 1.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "B",
+      "value": 9.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "Na",
+      "value": 4.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La1",
+      "component": "Ca",
+      "value": 1.7,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 220.5,
+  "raw_preview": "Here are the extracted material-composition entries in JSON format, one per line:\n\n{\"sample_id\": \"La1\", \"component\": \"La2O3\", \"value\": 4.0, \"unit\": \"wt\"}\n{\"sample_id\": \"La2\", \"component\": \"La2O3\", \"value\": 4.0, \"unit\": \"wt\"}\n{\"sample_id\": \"La2\", \"component\": \"P2O5\", \"value\": 1.8, \"unit\": \"wt\"}\n{\"sample_id\": \"La1a\", \"component\": \"Si\", \"value\": 15.9, \"unit\": \"mol\"}\n{\"sample_id\": \"La1a\", \"component\": \"Al\", \"value\": 8.2, \"unit\": \"mol\"}\n{\"sample_id\": \"La1a\", \"component\": \"B\", \"value\": 0.0, \"unit\": \"m"
+}

@@ -1,0 +1,37 @@
+{
+  "pdf_id": "S0022309301008754",
+  "predictions": [
+    {
+      "sample_id": "",
+      "component": "SiO2",
+      "value": 12.44,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "",
+      "component": "B2O3",
+      "value": 12.44,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "",
+      "component": "ZnO",
+      "value": 12.44,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "",
+      "component": "TiO2",
+      "value": 12.44,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "",
+      "component": "V2O5",
+      "value": 12.44,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 19.1,
+  "raw_preview": "```json\n{\"sample_id\": \"\", \"component\": \"SiO2\", \"value\": 12.44, \"unit\": \"wt\"}\n{\"sample_id\": \"\", \"component\": \"SiO2\", \"value\": 12.7#, \"unit\": \"wt\"}\n{\"sample_id\": \"\", \"component\": \"SiO2\", \"value\": 12.@@, \"unit\": \"wt\"}\n{\"sample_id\": \"\", \"component\": \"B2O3\", \"value\": 12.44, \"unit\": \"wt\"}\n{\"sample_id\": \"\", \"component\": \"B2O3\", \"value\": 12.7#, \"unit\": \"wt\"}\n{\"sample_id\": \"\", \"component\": \"B2O3\", \"value\": 12.@@, \"unit\": \"wt\"}\n{\"sample_id\": \"\", \"component\": \"ZnO\", \"value\": 12.44, \"unit\": \"wt\"}\n{\"sample_i"
+}

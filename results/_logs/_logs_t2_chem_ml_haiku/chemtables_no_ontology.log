@@ -1,0 +1,974 @@
+Running 1 ablation(s) on chemtables
+
+============================================================
+ABLATION: no_ontology — Skip ontology validation (VALID_* checks, standardize_*)
+============================================================
+Note: NumExpr detected 40 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+NumExpr defaulting to 16 threads.
+/HOME/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+/HOME/.local/lib/python3.10/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+[no_ontology] chemtables: 9 PDFs, out=/REPO/iswc2026/results/chemtables_pipeline_claude-haiku-4-5-20251001_abl_no_ontology
+Extracting PDF text from PMC3241339.pdf...
+Loading Marker models (first call, will be cached)...
+Marker models loaded: ['layout_model', 'recognition_model', 'table_rec_model', 'detection_model', 'ocr_error_model']
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]
+  Running docling...
+Docling converting PMC3241339.pdf (config: no_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash b56892e70fd34eb2f9ef999169879158
+Loading plugin 'docling_defaults'
+Registered picture descriptions: ['picture_description_vlm_engine', 'vlm', 'api']
+Loading plugin 'docling_defaults'
+Registered ocr engines: ['auto', 'easyocr', 'ocrmac', 'rapidocr', 'tesserocr', 'tesseract']
+Loading plugin 'docling_defaults'
+Registered layout engines: ['layout_object_detection', 'docling_layout_default', 'docling_experimental_table_crops_layout']
+Accelerator device: 'cuda:0'
+Loading plugin 'docling_defaults'
+Registered table structure engines: ['docling_tableformer', 'docling_tableformer_v2']
+Accelerator device: 'cuda:0'
+Processing document PMC3241339.pdf
+Stage layout failed for run 1: CUDA out of memory. Tried to allocate 76.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 5.02 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.42 GiB memory in use. Of the allocated memory 4.12 GiB is allocated by PyTorch, and 52.60 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Traceback (most recent call last):
+  File "/HOME/.local/lib/python3.10/site-packages/docling/pipeline/standard_pdf_pipeline.py", line 296, in _process_batch
+    processed_pages = list(self.model(good[0].conv_res, pages))  # type: ignore[arg-type]
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/base_layout_model.py", line 35, in __call__
+    predictions = self.predict_layout(conv_res, pages)
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/stages/layout/layout_model.py", line 182, in predict_layout
+    batch_predictions = self.layout_predictor.predict_batch(  # type: ignore[attr-defined]
+  File "/HOME/.local/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/docling_ibm_models/layoutmodel/layout_predictor.py", line 218, in predict_batch
+    outputs = self._model(**inputs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1920, in forward
+    outputs = self.model(
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1539, in forward
+    features = self.backbone(pixel_values, pixel_mask)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 865, in forward
+    features = self.model(pixel_values).feature_maps
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 372, in forward
+    embedding_output = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 96, in forward
+    embedding = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/container.py", line 219, in forward
+    input = module(input)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 50, in forward
+    hidden_state = self.normalization(hidden_state)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 816, in forward
+    return x * scale + bias
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 76.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 5.02 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.42 GiB memory in use. Of the allocated memory 4.12 GiB is allocated by PyTorch, and 52.60 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Stage layout failed for run 1: CUDA out of memory. Tried to allocate 50.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 8.44 MiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.89 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.21 GiB is allocated by PyTorch, and 74.78 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Traceback (most recent call last):
+  File "/HOME/.local/lib/python3.10/site-packages/docling/pipeline/standard_pdf_pipeline.py", line 296, in _process_batch
+    processed_pages = list(self.model(good[0].conv_res, pages))  # type: ignore[arg-type]
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/base_layout_model.py", line 35, in __call__
+    predictions = self.predict_layout(conv_res, pages)
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/stages/layout/layout_model.py", line 182, in predict_layout
+    batch_predictions = self.layout_predictor.predict_batch(  # type: ignore[attr-defined]
+  File "/HOME/.local/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/docling_ibm_models/layoutmodel/layout_predictor.py", line 218, in predict_batch
+    outputs = self._model(**inputs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1920, in forward
+    outputs = self.model(
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1539, in forward
+    features = self.backbone(pixel_values, pixel_mask)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 865, in forward
+    features = self.model(pixel_values).feature_maps
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 372, in forward
+    embedding_output = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 96, in forward
+    embedding = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/container.py", line 219, in forward
+    input = module(input)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 50, in forward
+    hidden_state = self.normalization(hidden_state)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 816, in forward
+    return x * scale + bias
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 50.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 8.44 MiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.89 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.21 GiB is allocated by PyTorch, and 74.78 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Stage layout failed for run 1: CUDA out of memory. Tried to allocate 26.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 8.44 MiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.89 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.21 GiB is allocated by PyTorch, and 75.21 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Traceback (most recent call last):
+  File "/HOME/.local/lib/python3.10/site-packages/docling/pipeline/standard_pdf_pipeline.py", line 296, in _process_batch
+    processed_pages = list(self.model(good[0].conv_res, pages))  # type: ignore[arg-type]
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/base_layout_model.py", line 35, in __call__
+    predictions = self.predict_layout(conv_res, pages)
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/stages/layout/layout_model.py", line 182, in predict_layout
+    batch_predictions = self.layout_predictor.predict_batch(  # type: ignore[attr-defined]
+  File "/HOME/.local/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/docling_ibm_models/layoutmodel/layout_predictor.py", line 218, in predict_batch
+    outputs = self._model(**inputs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1920, in forward
+    outputs = self.model(
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1539, in forward
+    features = self.backbone(pixel_values, pixel_mask)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 865, in forward
+    features = self.model(pixel_values).feature_maps
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 372, in forward
+    embedding_output = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 96, in forward
+    embedding = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/container.py", line 219, in forward
+    input = module(input)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 50, in forward
+    hidden_state = self.normalization(hidden_state)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 816, in forward
+    return x * scale + bias
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 26.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 8.44 MiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.89 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.21 GiB is allocated by PyTorch, and 75.21 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Stage layout failed for run 1: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 8.44 MiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.89 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.22 GiB is allocated by PyTorch, and 58.98 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Traceback (most recent call last):
+  File "/HOME/.local/lib/python3.10/site-packages/docling/pipeline/standard_pdf_pipeline.py", line 296, in _process_batch
+    processed_pages = list(self.model(good[0].conv_res, pages))  # type: ignore[arg-type]
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/base_layout_model.py", line 35, in __call__
+    predictions = self.predict_layout(conv_res, pages)
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/stages/layout/layout_model.py", line 182, in predict_layout
+    batch_predictions = self.layout_predictor.predict_batch(  # type: ignore[attr-defined]
+  File "/HOME/.local/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/docling_ibm_models/layoutmodel/layout_predictor.py", line 218, in predict_batch
+    outputs = self._model(**inputs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1920, in forward
+    outputs = self.model(
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1539, in forward
+    features = self.backbone(pixel_values, pixel_mask)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 865, in forward
+    features = self.model(pixel_values).feature_maps
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 372, in forward
+    embedding_output = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 96, in forward
+    embedding = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/container.py", line 219, in forward
+    input = module(input)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 50, in forward
+    hidden_state = self.normalization(hidden_state)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 816, in forward
+    return x * scale + bias
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 8.44 MiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.89 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.22 GiB is allocated by PyTorch, and 58.98 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Stage layout failed for run 1: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 8.44 MiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.89 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.23 GiB is allocated by PyTorch, and 51.79 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Traceback (most recent call last):
+  File "/HOME/.local/lib/python3.10/site-packages/docling/pipeline/standard_pdf_pipeline.py", line 296, in _process_batch
+    processed_pages = list(self.model(good[0].conv_res, pages))  # type: ignore[arg-type]
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/base_layout_model.py", line 35, in __call__
+    predictions = self.predict_layout(conv_res, pages)
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/stages/layout/layout_model.py", line 182, in predict_layout
+    batch_predictions = self.layout_predictor.predict_batch(  # type: ignore[attr-defined]
+  File "/HOME/.local/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/docling_ibm_models/layoutmodel/layout_predictor.py", line 218, in predict_batch
+    outputs = self._model(**inputs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1920, in forward
+    outputs = self.model(
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1539, in forward
+    features = self.backbone(pixel_values, pixel_mask)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 865, in forward
+    features = self.model(pixel_values).feature_maps
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 372, in forward
+    embedding_output = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 96, in forward
+    embedding = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/container.py", line 219, in forward
+    input = module(input)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 49, in forward
+    hidden_state = self.convolution(input)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/conv.py", line 458, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/conv.py", line 454, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 8.44 MiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.89 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.23 GiB is allocated by PyTorch, and 51.79 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Stage layout failed for run 1: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.90 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.23 GiB is allocated by PyTorch, and 48.66 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Traceback (most recent call last):
+  File "/HOME/.local/lib/python3.10/site-packages/docling/pipeline/standard_pdf_pipeline.py", line 296, in _process_batch
+    processed_pages = list(self.model(good[0].conv_res, pages))  # type: ignore[arg-type]
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/base_layout_model.py", line 35, in __call__
+    predictions = self.predict_layout(conv_res, pages)
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/stages/layout/layout_model.py", line 182, in predict_layout
+    batch_predictions = self.layout_predictor.predict_batch(  # type: ignore[attr-defined]
+  File "/HOME/.local/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/docling_ibm_models/layoutmodel/layout_predictor.py", line 218, in predict_batch
+    outputs = self._model(**inputs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1920, in forward
+    outputs = self.model(
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1539, in forward
+    features = self.backbone(pixel_values, pixel_mask)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 865, in forward
+    features = self.model(pixel_values).feature_maps
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 372, in forward
+    embedding_output = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 96, in forward
+    embedding = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/container.py", line 219, in forward
+    input = module(input)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 49, in forward
+    hidden_state = self.convolution(input)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/conv.py", line 458, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/conv.py", line 454, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.90 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.23 GiB is allocated by PyTorch, and 48.66 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Stage layout failed for run 1: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.90 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.24 GiB is allocated by PyTorch, and 41.28 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Traceback (most recent call last):
+  File "/HOME/.local/lib/python3.10/site-packages/docling/pipeline/standard_pdf_pipeline.py", line 296, in _process_batch
+    processed_pages = list(self.model(good[0].conv_res, pages))  # type: ignore[arg-type]
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/base_layout_model.py", line 35, in __call__
+    predictions = self.predict_layout(conv_res, pages)
+  File "/HOME/.local/lib/python3.10/site-packages/docling/models/stages/layout/layout_model.py", line 182, in predict_layout
+    batch_predictions = self.layout_predictor.predict_batch(  # type: ignore[attr-defined]
+  File "/HOME/.local/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/docling_ibm_models/layoutmodel/layout_predictor.py", line 218, in predict_batch
+    outputs = self._model(**inputs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1920, in forward
+    outputs = self.model(
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 1539, in forward
+    features = self.backbone(pixel_values, pixel_mask)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr_v2/modeling_rt_detr_v2.py", line 865, in forward
+    features = self.model(pixel_values).feature_maps
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 372, in forward
+    embedding_output = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 96, in forward
+    embedding = self.embedder(pixel_values)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/container.py", line 219, in forward
+    input = module(input)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/transformers/models/rt_detr/modeling_rt_detr_resnet.py", line 49, in forward
+    hidden_state = self.convolution(input)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1553, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1562, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/conv.py", line 458, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/HOME/.local/lib/python3.10/site-packages/torch/nn/modules/conv.py", line 454, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.90 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.24 GiB is allocated by PyTorch, and 41.28 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Finished converting document PMC3241339.pdf in 15.47 sec.
+Docling extracted 1 tables from PMC3241339.pdf
+Docling succeeded on attempt 1 with config: no_ocr_accurate
+  docling: 1 tables found
+  Running marker...
+Marker converting PMC3241339.pdf
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 01:17:44.467 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 01:17:47.459 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 57758, cid_chars_radio: 0.0
+MinerU classification for PMC3241339.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 01:17:48.183 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 15 pages/15 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 3 raw → 3 valid → 3 unique (3 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"assay_types": ["IC50"], "targets": ["CHK1 (Checkpoint kinase 1)", "CHK2 (Checkpoint kinase 2)", "S
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 3 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 93 raw → 93 validated → 58 deduped
+  [1/9] PMC3241339: 58 preds (76s)
+Extracting PDF text from PMC3654564.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running docling...
+Docling converting PMC3654564.pdf (config: no_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash b56892e70fd34eb2f9ef999169879158
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Processing document PMC3654564.pdf
+Finished converting document PMC3654564.pdf in 5.84 sec.
+Docling extracted 1 tables from PMC3654564.pdf
+Docling succeeded on attempt 1 with config: no_ocr_accurate
+  docling: 0 tables found
+  Running marker...
+Marker converting PMC3654564.pdf
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 01:18:37.167 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 01:18:38.290 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 27533, cid_chars_radio: 0.0
+MinerU classification for PMC3654564.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 01:18:38.434 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 5 pages/5 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 2, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 2193.2 KB)
+Vision: rendered 4 data pages
+[PMC3654564] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[PMC3654564] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"assay_types": ["IC50"], "targets": ["COX-1 (cyclooxygenase-1)", "COX-2 (cyclooxygenase-2)", "mouse
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 14 raw → 14 validated → 14 deduped
+  [2/9] PMC3654564: 14 preds (34s)
+Extracting PDF text from PMC3873039.pdf...
+Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]
+  Running docling...
+Docling converting PMC3873039.pdf (config: no_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash b56892e70fd34eb2f9ef999169879158
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.95 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.49 GiB memory in use. Of the allocated memory 4.16 GiB is allocated by PyTorch, and 71.83 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Docling attempt 1 found no tables, trying next config
+Docling converting PMC3873039.pdf (config: with_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash a6a2eef09bfdbd6bdaeaf15fcaebde59
+rapidocr cannot be used because onnxruntime is not installed.
+easyocr cannot be used because it is not installed.
+Accelerator device: 'cuda:0'
+[32m[INFO] 2026-05-03 01:19:09,806 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:19:09,850 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:19:09,897 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:19:09,897 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:19:10,198 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:19:10,199 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:19:10,203 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:19:10,204 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:19:10,338 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:19:10,339 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:19:10,416 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+[32m[INFO] 2026-05-03 01:19:10,417 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+Auto OCR model selected rapidocr with torch.
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.91 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.52 GiB memory in use. Of the allocated memory 4.19 GiB is allocated by PyTorch, and 80.97 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  docling: 0 tables found
+  Running marker...
+Marker converting PMC3873039.pdf
+Marker extraction failed: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 8.44 MiB is free. Process 3023152 has 10.08 GiB memory in use. Process 3029993 has 4.91 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.51 GiB memory in use. Of the allocated memory 4.03 GiB is allocated by PyTorch, and 228.60 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 01:19:14.687 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 01:19:16.804 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 54, text_len: 53201, cid_chars_radio: 0.0010212379673582087
+MinerU classification for PMC3873039.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 01:19:17.204 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 13 pages/13 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 4 tables found
+  Running camelot...
+  camelot: 4 tables found
+Cross-backend dedup: 8 raw → 8 valid → 8 unique (8 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"assay_types": ["IC50", "AP50", "luminescent assay", "flow cytometry", "caspase-3 activity assay", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 8 -> 8 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[PMC3873039] validation: 692→662 (dropped 30; reason: All entries use 'GI50' assay type which is not mentioned in the paper; paper rep)
+Pipeline: 8 tables → 692 raw → 662 validated → 416 deduped
+  [3/9] PMC3873039: 416 preds (147s)
+Extracting PDF text from PMC3983390.pdf...
+  Running docling...
+Docling converting PMC3983390.pdf (config: no_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash b56892e70fd34eb2f9ef999169879158
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 9.78 GiB memory in use. Process 3029993 has 5.25 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.48 GiB memory in use. Of the allocated memory 4.12 GiB is allocated by PyTorch, and 113.34 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Docling attempt 1 found no tables, trying next config
+Docling converting PMC3983390.pdf (config: with_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash a6a2eef09bfdbd6bdaeaf15fcaebde59
+rapidocr cannot be used because onnxruntime is not installed.
+easyocr cannot be used because it is not installed.
+Accelerator device: 'cuda:0'
+[32m[INFO] 2026-05-03 01:21:41,541 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:21:41,542 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:21:41,585 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:21:41,586 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:21:41,840 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:21:41,840 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:21:41,847 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:21:41,847 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:21:41,952 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:21:41,953 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:21:42,030 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+[32m[INFO] 2026-05-03 01:21:42,030 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+Auto OCR model selected rapidocr with torch.
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 9.78 GiB memory in use. Process 3029993 has 5.25 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.48 GiB memory in use. Of the allocated memory 4.03 GiB is allocated by PyTorch, and 199.15 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  docling: 0 tables found
+  Running marker...
+Marker converting PMC3983390.pdf
+Marker extraction failed: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 10.44 MiB is free. Process 3023152 has 9.78 GiB memory in use. Process 3029993 has 5.25 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.47 GiB memory in use. Of the allocated memory 4.00 GiB is allocated by PyTorch, and 222.64 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 01:21:48.881 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 01:21:51.842 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 64819, cid_chars_radio: 0.0
+MinerU classification for PMC3983390.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 01:21:52.338 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 16 pages/16 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"assay_types": ["EC50 (GTP\u03b3S functional assay)", "IC50 (competitive binding assay)", "In vitro
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 36 raw → 36 validated → 36 deduped
+  [4/9] PMC3983390: 36 preds (50s)
+Extracting PDF text from PMC3983391.pdf...
+  Running docling...
+Docling converting PMC3983391.pdf (config: no_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash b56892e70fd34eb2f9ef999169879158
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 9.72 GiB memory in use. Process 3029993 has 5.22 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.58 GiB memory in use. Of the allocated memory 4.29 GiB is allocated by PyTorch, and 39.66 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Docling attempt 1 found no tables, trying next config
+Docling converting PMC3983391.pdf (config: with_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash a6a2eef09bfdbd6bdaeaf15fcaebde59
+rapidocr cannot be used because onnxruntime is not installed.
+easyocr cannot be used because it is not installed.
+Accelerator device: 'cuda:0'
+[32m[INFO] 2026-05-03 01:22:26,363 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:22:26,363 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:22:26,405 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:22:26,405 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:22:27,040 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:22:27,040 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:22:27,098 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:22:27,098 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:22:27,201 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:22:27,202 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:22:27,279 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+[32m[INFO] 2026-05-03 01:22:27,279 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+Auto OCR model selected rapidocr with torch.
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 16.44 MiB is free. Process 3023152 has 9.72 GiB memory in use. Process 3029993 has 5.22 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.57 GiB memory in use. Of the allocated memory 4.28 GiB is allocated by PyTorch, and 37.02 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  docling: 0 tables found
+  Running marker...
+Marker converting PMC3983391.pdf
+Marker extraction failed: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 4.44 MiB is free. Process 3023152 has 9.72 GiB memory in use. Process 3029993 has 5.22 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.58 GiB memory in use. Of the allocated memory 4.09 GiB is allocated by PyTorch, and 242.40 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 01:22:32.576 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 01:22:34.577 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 48174, cid_chars_radio: 0.0
+MinerU classification for PMC3983391.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 01:22:34.954 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 13 pages/13 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"assay_types": ["GI50", "IC50"], "targets": ["Tubulin (tubulin polymerization/assembly)", "Colchici
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[PMC3983391:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Extract all numeric data points from the table including body weight change (%), death counts, and antitumor inhibitory rates for each compound-dose-route combination, not just the non-empty antitumor activity column. (Diagnosed cause: Extractor only captured antitumor activity rows and missed toxicity/body weight change data and multiple dose/route variations.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[PMC3983391:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): The table has malformed rows with data split across multiple lines; re-parse by treating each compound name (1ab, 1bb, 5b, 5c, etc.) as a separate entry and correctly associate the numerical values in columns 1-4 with their respective rows, handling incomplete/truncated cells. (Diagnosed cause: Table structure misalignment and incomplete row parsing.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[PMC3983391] validation wanted to drop 2 preds but cap is 1 (20%). Keeping first 1 flagged.
+[PMC3983391] validation: 3→2 (dropped 1; reason: Values 22.9 and 47.3 with treatment 1a and 1b do not appear anywhere in the prov)
+Pipeline: 2 tables → 3 raw → 2 validated → 2 deduped
+  [5/9] PMC3983391: 2 preds (47s)
+Extracting PDF text from PMC4251525.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running docling...
+Docling converting PMC4251525.pdf (config: no_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash b56892e70fd34eb2f9ef999169879158
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Processing document PMC4251525.pdf
+Finished converting document PMC4251525.pdf in 5.37 sec.
+Docling extracted 1 tables from PMC4251525.pdf
+Docling succeeded on attempt 1 with config: no_ocr_accurate
+  docling: 1 tables found
+  Running marker...
+Marker converting PMC4251525.pdf
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Marker extraction failed: pad_sequence() got an unexpected keyword argument 'padding_side'
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 01:23:12.252 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 01:23:13.329 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 17340, cid_chars_radio: 0.0
+MinerU classification for PMC4251525.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 01:23:13.521 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 4 pages/4 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"assay_types": ["Ki (kinase inhibition constant)", "Cell-based proliferation assay (MCF-7 breast ca
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[PMC4251525] validation wanted to drop 14 preds but cap is 4 (20%). Keeping first 4 flagged.
+[PMC4251525] validation: 21→17 (dropped 4; reason: Paper text mentions Ki of ~1 μM for SL0101 but does not contain any IC50 values )
+Pipeline: 2 tables → 21 raw → 17 validated → 14 deduped
+  [6/9] PMC4251525: 14 preds (25s)
+Extracting PDF text from PMC4257840.pdf...
+  Running docling...
+Docling converting PMC4257840.pdf (config: no_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash b56892e70fd34eb2f9ef999169879158
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 18.44 MiB is free. Process 3023152 has 9.76 GiB memory in use. Process 3029993 has 5.22 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.53 GiB memory in use. Of the allocated memory 4.24 GiB is allocated by PyTorch, and 25.27 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Docling attempt 1 found no tables, trying next config
+Docling converting PMC4257840.pdf (config: with_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash a6a2eef09bfdbd6bdaeaf15fcaebde59
+rapidocr cannot be used because onnxruntime is not installed.
+easyocr cannot be used because it is not installed.
+Accelerator device: 'cuda:0'
+[32m[INFO] 2026-05-03 01:23:40,357 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:23:40,358 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:23:40,399 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:23:40,399 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:23:40,647 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:23:40,647 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:23:40,653 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:23:40,654 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:23:40,754 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:23:40,754 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:23:40,828 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+[32m[INFO] 2026-05-03 01:23:40,828 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+Auto OCR model selected rapidocr with torch.
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 9.76 GiB memory in use. Process 3029993 has 5.22 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.54 GiB memory in use. Of the allocated memory 4.26 GiB is allocated by PyTorch, and 18.82 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  docling: 0 tables found
+  Running marker...
+Marker converting PMC4257840.pdf
+Marker extraction failed: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 8.44 MiB is free. Process 3023152 has 9.76 GiB memory in use. Process 3029993 has 5.22 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.53 GiB memory in use. Of the allocated memory 4.09 GiB is allocated by PyTorch, and 185.31 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 01:23:48.103 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 01:23:51.356 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 48947, cid_chars_radio: 0.0
+MinerU classification for PMC4257840.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 01:23:51.912 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 16 pages/16 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"assay_types": ["IC50"], "targets": ["Der p 1 (house dust mite allergen, cysteine peptidase)", "Gro
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 13 raw → 13 validated → 13 deduped
+  [7/9] PMC4257840: 13 preds (45s)
+Extracting PDF text from PMC4295614.pdf...
+  Running docling...
+Docling converting PMC4295614.pdf (config: no_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash b56892e70fd34eb2f9ef999169879158
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 4.44 MiB is free. Process 3023152 has 9.77 GiB memory in use. Process 3029993 has 5.22 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.53 GiB memory in use. Of the allocated memory 4.24 GiB is allocated by PyTorch, and 25.27 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Docling attempt 1 found no tables, trying next config
+Docling converting PMC4295614.pdf (config: with_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash a6a2eef09bfdbd6bdaeaf15fcaebde59
+rapidocr cannot be used because onnxruntime is not installed.
+easyocr cannot be used because it is not installed.
+Accelerator device: 'cuda:0'
+[32m[INFO] 2026-05-03 01:24:22,456 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:24:22,456 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:24:22,499 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:24:22,499 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:24:22,739 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:24:22,739 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:24:22,748 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:24:22,748 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:24:22,850 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:24:22,850 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:24:22,923 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+[32m[INFO] 2026-05-03 01:24:22,923 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+Auto OCR model selected rapidocr with torch.
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 9.77 GiB memory in use. Process 3029993 has 5.22 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.53 GiB memory in use. Of the allocated memory 4.25 GiB is allocated by PyTorch, and 20.92 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  docling: 0 tables found
+  Running marker...
+Marker converting PMC4295614.pdf
+Marker extraction failed: CUDA out of memory. Tried to allocate 14.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 9.77 GiB memory in use. Process 3029993 has 5.22 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.53 GiB memory in use. Of the allocated memory 4.08 GiB is allocated by PyTorch, and 194.27 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 01:24:27.691 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 01:24:28.934 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 28019, cid_chars_radio: 0.0
+MinerU classification for PMC4295614.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 01:24:29.209 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 18 pages/18 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 5 tables found
+Cross-backend dedup: 5 raw → 5 valid → 5 unique (5 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"assay_types": ["IC90", "MIC"], "targets": ["Mycobacterium tuberculosis", "M. tuberculosis"], "unit
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 5 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[PMC4295614] validation: 283→255 (dropped 28; reason: All entries use µg/mL units, but the paper explicitly reports MIC values in µM ()
+Pipeline: 5 tables → 283 raw → 255 validated → 255 deduped
+  [8/9] PMC4295614: 255 preds (86s)
+Extracting PDF text from PMC4358631.pdf...
+  Running docling...
+Docling converting PMC4358631.pdf (config: no_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash b56892e70fd34eb2f9ef999169879158
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 20.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 4.44 MiB is free. Process 3023152 has 9.76 GiB memory in use. Process 3029993 has 5.23 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.53 GiB memory in use. Of the allocated memory 4.24 GiB is allocated by PyTorch, and 25.27 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+Docling attempt 1 found no tables, trying next config
+Docling converting PMC4358631.pdf (config: with_ocr_accurate)
+detected formats: [<InputFormat.PDF: 'pdf'>]
+Going to convert document batch...
+Initializing pipeline for StandardPdfPipeline with options hash a6a2eef09bfdbd6bdaeaf15fcaebde59
+rapidocr cannot be used because onnxruntime is not installed.
+easyocr cannot be used because it is not installed.
+Accelerator device: 'cuda:0'
+[32m[INFO] 2026-05-03 01:25:47,903 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:25:47,904 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:25:47,949 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:25:47,949 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-05-03 01:25:48,193 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:25:48,194 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:25:48,201 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:25:48,201 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-05-03 01:25:48,303 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-05-03 01:25:48,303 [RapidOCR] device_config.py:64: Using GPU device with ID: 0[0m
+[32m[INFO] 2026-05-03 01:25:48,379 [RapidOCR] download_file.py:60: File exists and is valid: /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+[32m[INFO] 2026-05-03 01:25:48,379 [RapidOCR] main.py:50: Using /HOME/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+Auto OCR model selected rapidocr with torch.
+Accelerator device: 'cuda:0'
+Accelerator device: 'cuda:0'
+Docling extraction failed: CUDA out of memory. Tried to allocate 2.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 448.00 KiB is free. Process 3023152 has 9.76 GiB memory in use. Process 3029993 has 5.23 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.53 GiB memory in use. Of the allocated memory 4.25 GiB is allocated by PyTorch, and 20.92 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  docling: 0 tables found
+  Running marker...
+Marker converting PMC4358631.pdf
+Marker extraction failed: CUDA out of memory. Tried to allocate 12.00 MiB. GPU 0 has a total capacity of 23.68 GiB of which 4.44 MiB is free. Process 3023152 has 9.76 GiB memory in use. Process 3029993 has 5.23 GiB memory in use. Process 3030106 has 4.15 GiB memory in use. Including non-PyTorch memory, this process has 4.53 GiB memory in use. Of the allocated memory 4.09 GiB is allocated by PyTorch, and 188.61 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+  marker: 0 tables found
+  Running mineru...
+2026-05-03 01:25:53.040 | INFO     | magic_pdf.data.dataset:__init__:157 - lang: None
+2026-05-03 01:25:54.724 | INFO     | magic_pdf.libs.pdf_check:detect_invalid_chars:67 - cid_count: 0, text_len: 51610, cid_chars_radio: 0.0
+MinerU classification for PMC4358631.pdf: SupportedPdfParseMethod.TXT
+2026-05-03 01:25:55.082 | INFO     | magic_pdf.model.doc_analyze_by_custom_model:doc_analyze:162 - Batch 1/1: 11 pages/11 pages
+MinerU model analysis failed (No module named 'rapid_table'), trying basic mode
+  mineru: 0 tables found
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"assay_types": ["IC50"], "targets": ["\u03b13\u03b24 nicotinic acetylcholine receptor (nAChR)", "\u
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[PMC4358631] validation wanted to drop 29 preds but cap is 20 (20%). Keeping first 20 flagged.
+[PMC4358631] validation: 101→81 (dropped 20; reason: All entries use MIC assay type and µM units, but the paper reports IC50 values i)
+Pipeline: 2 tables → 101 raw → 81 validated → 81 deduped
+  [9/9] PMC4358631: 81 preds (52s)
+[no_ontology] done in 562s

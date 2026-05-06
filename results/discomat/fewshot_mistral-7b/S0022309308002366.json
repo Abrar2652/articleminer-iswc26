@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309308002366",
+  "predictions": [],
+  "elapsed_seconds": 18.2,
+  "raw_preview": "{\"sample\\_id\": \"S00223093_glass\", \"components\": [\n{\"component\": \"Leucite\", \"values\": [50.0, 55.0, 15.0, 10.0, 10.0], \"unit\": \"mol%\"},\n{\"component\": \"Phlogopite\", \"values\": [30.0, 50.0, 15.0, 5.0, 10.0], \"unit\": \"mol%\"},\n{\"component\": \"Diopside\", \"values\": [15.0, 25.0, 40.0, 15.0, 15.0], \"unit\": \"mol%\"},\n{\"component\": \"Glass\", \"values\": [0.0, 15.0, 30.0, 35.0, 20.0], \"unit\": \"mol%\"}\n]}\n\nThis JSON represents the composition of the glass in terms of mol% for Leucite, Phlogopite, Diopside, and Glass"
+}

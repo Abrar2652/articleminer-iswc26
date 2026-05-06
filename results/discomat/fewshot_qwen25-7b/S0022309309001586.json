@@ -1,0 +1,103 @@
+{
+  "pdf_id": "S0022309309001586",
+  "predictions": [
+    {
+      "sample_id": "L1",
+      "component": "La2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "La2O3",
+      "value": 0.283,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C2",
+      "component": "La2O3",
+      "value": 0.74,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C3",
+      "component": "La2O3",
+      "value": 1.708,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C4",
+      "component": "La2O3",
+      "value": 4.352,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "La2O3",
+      "value": 0.295,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "La2O3",
+      "value": 0.796,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "La2O3",
+      "value": 1.82,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "La2O3",
+      "value": 4.736,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B1",
+      "component": "La2O3",
+      "value": 0.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B2",
+      "component": "La2O3",
+      "value": 0.696,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B3",
+      "component": "La2O3",
+      "value": 1.521,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B4",
+      "component": "La2O3",
+      "value": 3.291,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaP2O6",
+      "component": "BaO",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SrP2O6",
+      "component": "SrO",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CaP2O6",
+      "component": "CaO",
+      "value": 1.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 22.5,
+  "raw_preview": "```json\n{\"sample_id\": \"L1\", \"component\": \"La2O3\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_id\": \"C1\", \"component\": \"La2O3\", \"value\": 0.283, \"unit\": \"mol\"}\n{\"sample_id\": \"C2\", \"component\": \"La2O3\", \"value\": 0.740, \"unit\": \"mol\"}\n{\"sample_id\": \"C3\", \"component\": \"La2O3\", \"value\": 1.708, \"unit\": \"mol\"}\n{\"sample_id\": \"C4\", \"component\": \"La2O3\", \"value\": 4.352, \"unit\": \"mol\"}\n{\"sample_id\": \"S1\", \"component\": \"La2O3\", \"value\": 0.295, \"unit\": \"mol\"}\n{\"sample_id\": \"S2\", \"component\": \"La2O3\", \"value\": 0.796"
+}

@@ -1,0 +1,55 @@
+{
+  "pdf_id": "S0022309304006957",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_1",
+      "component": "Pb O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_1",
+      "component": "Si O2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_2",
+      "component": "Pb O",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_2",
+      "component": "Si O2",
+      "value": 67.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_3",
+      "component": "Pb O",
+      "value": 43.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_3",
+      "component": "Si O2",
+      "value": 57.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_4",
+      "component": "Pb O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_4",
+      "component": "Si O2",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 15.9,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_1\", \"component\": \"Pb O\", \"value\": 30.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_1\", \"component\": \"Si O2\", \"value\": 70.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_2\", \"component\": \"Pb O\", \"value\": 33.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_2\", \"component\": \"Si O2\", \"value\": 67.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_3\", \"component\": \"Pb O\", \"value\": 43.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S00223093030065"
+}

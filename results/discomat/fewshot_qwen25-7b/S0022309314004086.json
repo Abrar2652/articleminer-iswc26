@@ -1,0 +1,19 @@
+{
+  "pdf_id": "S0022309314004086",
+  "predictions": [
+    {
+      "sample_id": "ZCPFe_1_5",
+      "component": "Fe2O3",
+      "value": 1.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe_5_0",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 6.9,
+  "raw_preview": "```json\n{\"sample_id\": \"ZCPFe_1_5\", \"component\": \"Fe2O3\", \"value\": 1.5, \"unit\": \"mol\"}\n{\"sample_id\": \"ZCPFe_5_0\", \"component\": \"Fe2O3\", \"value\": 5.0, \"unit\": \"mol\"}\n```"
+}

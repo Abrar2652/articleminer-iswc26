@@ -1,0 +1,146 @@
+{
+  "pdf_id": "S0022309305001262",
+  "predictions": [
+    {
+      "sample_id": "7740 b",
+      "component": "SiO2",
+      "value": 81.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7740 b",
+      "component": "B2O3",
+      "value": 12.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7740 b",
+      "component": "Al2O3",
+      "value": 2.18,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7740 b",
+      "component": "Na2O",
+      "value": 3.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7740 b",
+      "component": "Fe2O3",
+      "value": 0.018,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7740 b",
+      "component": "FeO",
+      "value": 0.007,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7740 b",
+      "component": "TiO2",
+      "value": 0.01,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "SiO2",
+      "value": 82.31,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "SiO2",
+      "value": 84.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "B2O3",
+      "value": 12.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "B2O3",
+      "value": 11.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "Al2O3",
+      "value": 2.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "Al2O3",
+      "value": 1.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "Na2O",
+      "value": 2.73,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "Na2O",
+      "value": 2.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "Fe2O3",
+      "value": 0.28,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "Fe2O3",
+      "value": 0.108,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "FeO",
+      "value": 0.054,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "FeO",
+      "value": 0.046,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "CaO",
+      "value": 0.03,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "MgO",
+      "value": 0.02,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "TiO2",
+      "value": 0.03,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Fe-7740 c",
+      "component": "TiO2",
+      "value": 0.02,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 32,
+  "ablation": "no_self_correct",
+  "elapsed_seconds": 36.2
+}

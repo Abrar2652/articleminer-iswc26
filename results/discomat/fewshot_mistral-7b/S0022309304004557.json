@@ -1,0 +1,97 @@
+{
+  "pdf_id": "S0022309304004557",
+  "predictions": [
+    {
+      "sample_id": "ICIE1",
+      "component": "Q3",
+      "value": 4.3,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE2",
+      "component": "Q3",
+      "value": 4.3,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE3",
+      "component": "Q3",
+      "value": 4.3,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE4",
+      "component": "Q3",
+      "value": 4.3,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE5",
+      "component": "Q3",
+      "value": 4.3,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE6",
+      "component": "Q3",
+      "value": 2.5,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE7",
+      "component": "Q3",
+      "value": 26.4,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE8",
+      "component": "Q3",
+      "value": 46.1,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE9",
+      "component": "Q3",
+      "value": 64.0,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE10",
+      "component": "Q3",
+      "value": 16.45,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE11",
+      "component": "Q3",
+      "value": 16.45,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE12",
+      "component": "Q3",
+      "value": 37.32,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE13",
+      "component": "Q3",
+      "value": 55.97,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE14",
+      "component": "Q3",
+      "value": 83.27,
+      "unit": "%"
+    },
+    {
+      "sample_id": "ICIE15",
+      "component": "Q3",
+      "value": 11.12,
+      "unit": "%"
+    }
+  ],
+  "elapsed_seconds": 237.2,
+  "raw_preview": "O2) and CaO (d CaO) glasses,\nthe shift of the peak maximum with increasing Ca O\ncontent can be estimated to be approximately 0.02\nppm per mol% Ca O. This is in good agreement with the\nobserved shift of 0.018 ppm per mol% Ca O in series A.\n\nSimilarly, the linewidths of the Q2 and Q3 peaks are\ndependent on the glass composition within each series\n(Table 6). The linewidths of the Q2 and Q3 peaks in\nseries A increase with increasing Ca O content, which\ncan be explained by the fact that the larger Ca"
+}

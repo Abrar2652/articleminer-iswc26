@@ -1,0 +1,157 @@
+{
+  "pdf_id": "S0022309301007311",
+  "predictions": [
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "H",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "B",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "C",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "O",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "P",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "N",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "Q",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "E",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "F",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "G",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "K",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "D",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "A",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "L",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "R",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "J",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "I",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "M",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "S",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "T",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "X",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "H",
+      "value": 3.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "C",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "N",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S001_Sample_1",
+      "component": "O",
+      "value": 12.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 43.8,
+  "raw_preview": "Based on the provided paper text, here are the material-composition entries in the desired JSON format. I have skipped the entries with \"-\" values as requested.\n\n```json\n{\"sample_id\": \"S001_Sample_1\", \"component\": \"H\", \"value\": 3, \"unit\": \"mol\"}\n{\"sample_id\": \"S001_Sample_1\", \"component\": \"B\", \"value\": 1, \"unit\": \"mol\"}\n{\"sample_id\": \"S001_Sample_1\", \"component\": \"C\", \"value\": 1, \"unit\": \"mol\"}\n{\"sample_id\": \"S001_Sample_1\", \"component\": \"O\", \"value\": 12, \"unit\": \"mol\"}\n{\"sample_id\": \"S001_Sampl"
+}

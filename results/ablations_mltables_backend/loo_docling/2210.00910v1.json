@@ -1,0 +1,165 @@
+{
+  "arxiv_id": "2210.00910v1",
+  "predictions": [
+    {
+      "value": "-14.6",
+      "type": "Result"
+    },
+    {
+      "value": "0",
+      "type": "Result"
+    },
+    {
+      "value": "2.8",
+      "type": "Result"
+    },
+    {
+      "value": "-12.5",
+      "type": "Result"
+    },
+    {
+      "value": "6.7",
+      "type": "Result"
+    },
+    {
+      "value": "32.1",
+      "type": "Result"
+    },
+    {
+      "value": "-0.7",
+      "type": "Result"
+    },
+    {
+      "value": "49",
+      "type": "Result"
+    },
+    {
+      "value": "23",
+      "type": "Result"
+    },
+    {
+      "value": "50",
+      "type": "Result"
+    },
+    {
+      "value": "-2.9",
+      "type": "Result"
+    },
+    {
+      "value": "5.3",
+      "type": "Result"
+    },
+    {
+      "value": "-5",
+      "type": "Result"
+    },
+    {
+      "value": "-2.3",
+      "type": "Result"
+    },
+    {
+      "value": "8.7",
+      "type": "Result"
+    },
+    {
+      "value": "100",
+      "type": "Result"
+    },
+    {
+      "value": "7.8",
+      "type": "Result"
+    },
+    {
+      "value": "1.4",
+      "type": "Result"
+    },
+    {
+      "value": "8.5",
+      "type": "Result"
+    },
+    {
+      "value": "36.9",
+      "type": "Result"
+    },
+    {
+      "value": "9.2",
+      "type": "Result"
+    },
+    {
+      "value": "70.8",
+      "type": "Result"
+    },
+    {
+      "value": "83.9",
+      "type": "Result"
+    },
+    {
+      "value": "3.2",
+      "type": "Result"
+    },
+    {
+      "value": "-1.4",
+      "type": "Result"
+    },
+    {
+      "value": "0.7",
+      "type": "Result"
+    },
+    {
+      "value": "-4.3",
+      "type": "Result"
+    },
+    {
+      "value": "-3.5",
+      "type": "Result"
+    },
+    {
+      "value": "-11",
+      "type": "Result"
+    },
+    {
+      "value": "-0.6",
+      "type": "Result"
+    },
+    {
+      "value": "-11.6",
+      "type": "Result"
+    },
+    {
+      "value": "-12.7",
+      "type": "Result"
+    },
+    {
+      "value": "0.6",
+      "type": "Result"
+    },
+    {
+      "value": "-12.1",
+      "type": "Result"
+    },
+    {
+      "value": "3.3",
+      "type": "Result"
+    },
+    {
+      "value": "4.6",
+      "type": "Result"
+    },
+    {
+      "value": "0.2",
+      "type": "Result"
+    },
+    {
+      "value": "7.9",
+      "type": "Result"
+    }
+  ],
+  "num_gold_annotations": 126,
+  "elapsed_seconds": 32.4,
+  "backends": [
+    "marker",
+    "mineru",
+    "pdfplumber",
+    "camelot"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "pii": "S0022309304005228",
+  "predictions": [
+    {
+      "sample_id": "1",
+      "component": "SnO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1",
+      "component": "NaPO3",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2",
+      "component": "SnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2",
+      "component": "NaPO3",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3",
+      "component": "SnO",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3",
+      "component": "NaPO3",
+      "value": 85.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4",
+      "component": "SnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4",
+      "component": "NaPO3",
+      "value": 95.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "SnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "NaPO3",
+      "value": 95.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 25,
+  "elapsed_seconds": 164.0,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

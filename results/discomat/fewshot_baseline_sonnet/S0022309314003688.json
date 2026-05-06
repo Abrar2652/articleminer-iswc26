@@ -1,0 +1,151 @@
+{
+  "pdf_id": "S0022309314003688",
+  "predictions": [
+    {
+      "sample_id": "x0",
+      "component": "Ag2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0",
+      "component": "B2O3",
+      "value": 42.857,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0",
+      "component": "SiO2",
+      "value": 28.571,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0",
+      "component": "CaO",
+      "value": 28.571,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.3",
+      "component": "Ag2O",
+      "value": 0.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.3",
+      "component": "B2O3",
+      "value": 42.729,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.3",
+      "component": "SiO2",
+      "value": 28.486,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.3",
+      "component": "CaO",
+      "value": 28.486,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.5",
+      "component": "Ag2O",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.5",
+      "component": "B2O3",
+      "value": 42.643,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.5",
+      "component": "SiO2",
+      "value": 28.429,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.5",
+      "component": "CaO",
+      "value": 28.429,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.7",
+      "component": "Ag2O",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.7",
+      "component": "B2O3",
+      "value": 42.557,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.7",
+      "component": "SiO2",
+      "value": 28.371,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x0.7",
+      "component": "CaO",
+      "value": 28.371,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x1",
+      "component": "Ag2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x1",
+      "component": "B2O3",
+      "value": 42.429,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x1",
+      "component": "SiO2",
+      "value": 28.286,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x1",
+      "component": "CaO",
+      "value": 28.286,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x3",
+      "component": "Ag2O",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x3",
+      "component": "B2O3",
+      "value": 41.571,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x3",
+      "component": "SiO2",
+      "value": 27.714,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x3",
+      "component": "CaO",
+      "value": 27.714,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 31.6,
+  "raw_preview": "I'll extract all material-composition entries from the paper. The main composition system is x Ag2O (100 \u2212 x) [1.5B2O3 \u00b7 SiO2 \u00b7 CaO] with x = 0; 0.3; 0.5; 0.7; 1 and 3 mol%.\n\nLet me calculate the component values for each sample. The base matrix [1.5B2O3 \u00b7 SiO2 \u00b7 CaO] normalized to 100 mol total with Ag2O:\n\nFor x mol% Ag2O, remaining = (100-x) mol% distributed as:\n- B2O3: 1.5/3.5 \u00d7 (100-x)\n- SiO2: 1/3.5 \u00d7 (100-x)\n- CaO: 1/3.5 \u00d7 (100-x)\n\n{\"sample_id\": \"x0\", \"component\": \"Ag2O\", \"value\": 0, \"unit\""
+}

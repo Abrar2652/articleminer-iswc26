@@ -1,0 +1,515 @@
+{
+  "pdf_id": "2210.00627v1",
+  "predictions": [
+    {
+      "value": "22.13",
+      "type": "Result",
+      "metric": "PSNR",
+      "model": "Ne RF [57]",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "0.8604",
+      "type": "Result",
+      "metric": "SSIM",
+      "model": "Ne RF [57]",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "16.79",
+      "type": "Result",
+      "metric": "PSNR",
+      "model": "Ne RF [57]",
+      "dataset": "AIST"
+    },
+    {
+      "value": "0.6308",
+      "type": "Result",
+      "metric": "SSIM",
+      "model": "Ne RF [57]",
+      "dataset": "AIST"
+    },
+    {
+      "value": "24.01",
+      "type": "Result",
+      "metric": "PSNR",
+      "model": "NHP [20]",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "0.8953",
+      "type": "Result",
+      "metric": "SSIM",
+      "model": "NHP [20]",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "16.58",
+      "type": "Result",
+      "metric": "PSNR",
+      "model": "NHP [20]",
+      "dataset": "AIST"
+    },
+    {
+      "value": "0.6934",
+      "type": "Result",
+      "metric": "SSIM",
+      "model": "NHP [20]",
+      "dataset": "AIST"
+    },
+    {
+      "value": "25.36",
+      "type": "Result",
+      "metric": "PSNR",
+      "model": "Mono NHR (Ours)",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "0.9093",
+      "type": "Result",
+      "metric": "SSIM",
+      "model": "Mono NHR (Ours)",
+      "dataset": "ZJU-Mo Cap"
+    },
+    {
+      "value": "17.61",
+      "type": "Result",
+      "metric": "PSNR",
+      "model": "Mono NHR (Ours)",
+      "dataset": "AIST"
+    },
+    {
+      "value": "0.7186",
+      "type": "Result",
+      "metric": "SSIM",
+      "model": "Mono NHR (Ours)",
+      "dataset": "AIST"
+    },
+    {
+      "value": "20.89",
+      "type": "Result",
+      "metric": "PSNR",
+      "model": "NHP [20]",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "using estimated 3D human meshes of SPIN [19]"
+    },
+    {
+      "value": "0.8364",
+      "type": "Result",
+      "metric": "SSIM",
+      "model": "NHP [20]",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "using estimated 3D human meshes of SPIN [19]"
+    },
+    {
+      "value": "22.25",
+      "type": "Result",
+      "metric": "PSNR",
+      "model": "Mono NHR (Ours)",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "using estimated 3D human meshes of SPIN [19]"
+    },
+    {
+      "value": "0.8673",
+      "type": "Result",
+      "metric": "SSIM",
+      "model": "Mono NHR (Ours)",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "using estimated 3D human meshes of SPIN [19]"
+    },
+    {
+      "value": "25",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "number of rays",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "using estimated 3D human meshes of SPIN [19]"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "number of query points per ray",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "using estimated 3D human meshes of SPIN [19]"
+    },
+    {
+      "value": "5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "padding along the depth, height, and width dimensions",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "building a sparse 3D volume with the mesh feature M"
+    },
+    {
+      "value": "6890",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "number of SMPL mesh vertices",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "estimating the vertices' colors K\u02c6"
+    },
+    {
+      "value": "32",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mesh Inpainter",
+      "parameter/architecture name": "channel dimension reduction in the first MLP layer",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "reducing the channel dimension from (64+1) to 32"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mesh Inpainter",
+      "parameter/architecture name": "channel dimension reduction in the second MLP layer",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "reducing the channel dimension to 3, which corresponds to RGB channels"
+    },
+    {
+      "value": "5mm",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "voxel size",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "transforming the 3D bounding box into a discretized volume"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "number of rays sampled from each rendering target image",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "sampling 3D query points for training"
+    },
+    {
+      "value": "345M",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Pixel Ne RF",
+      "parameter/architecture name": "model size",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "using Res Net34 as a backbone"
+    },
+    {
+      "value": "1.3B",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Pixel Ne RF",
+      "parameter/architecture name": "model size",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "using Res Net34 as a backbone"
+    },
+    {
+      "value": "5cm",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "padding along the depth, height, and width dimensions",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "obtaining the 3D bounding box of the SMPL mesh in the input camera\u2019s coordinate system"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of query points per ray",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "sampling 3D query points from each mesh volume"
+    },
+    {
+      "value": "256",
+      "type": "Hyper-parameter/Architecture",
+      "model": "MLP",
+      "parameter/architecture name": "channel dimension",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "producing features with a channel dimension 256"
+    },
+    {
+      "value": "6890",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of SMPL mesh vertices",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "filling the voxels with M to get the sparse 3D volume"
+    },
+    {
+      "value": "32",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "output channel dimension",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "output features of the 5th, 9th, 13th, and 17th layers"
+    },
+    {
+      "value": "192",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "channel dimension of voxel feature v",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "concatenating the sampled features to get the voxel feature v \u2208 R192"
+    },
+    {
+      "value": "5\u00d710^-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "initial learning rate",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "using the Adam optimizer"
+    },
+    {
+      "value": "5\u00d710^-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "final learning rate",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "using the Adam optimizer"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "number of rays sampled from each target",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "sampling 3D query points from each target"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "output channel dimension",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "output features of the 10th layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "output channel dimension",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "output features of the 14th layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "output channel dimension",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "output features of the 17th layer"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "MLP",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "consisting of four layers"
+    },
+    {
+      "value": "256",
+      "type": "Hyper-parameter/Architecture",
+      "model": "MLP",
+      "parameter/architecture name": "channel dimension",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "producing features with a channel dimension 256"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "MLP",
+      "parameter/architecture name": "number of layers in the texture branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "consisting of five layers"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "MLP",
+      "parameter/architecture name": "number of layers in the texture branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "each layer being followed by ReLU activation except the last one"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Sparse 3D CNN",
+      "parameter/architecture name": "number of layers in the geometry branch",
+      "dataset": "ZJU-Mo Cap",
+      "comparison": "describing the architecture of the geometry branch\u2019s sparse 3D CNN"
+    }
+  ],
+  "elapsed_seconds": 164.9,
+  "raw_preview": "```json\n{\"value\": \"22.13\", \"type\": \"Result\", \"metric\": \"PSNR\", \"model\": \"Ne RF [57]\", \"dataset\": \"ZJU-Mo Cap\"}\n{\"value\": \"0.8604\", \"type\": \"Result\", \"metric\": \"SSIM\", \"model\": \"Ne RF [57]\", \"dataset\": \"ZJU-Mo Cap\"}\n{\"value\": \"16.79\", \"type\": \"Result\", \"metric\": \"PSNR\", \"model\": \"Ne RF [57]\", \"dataset\": \"AIST\"}\n{\"value\": \"0.6308\", \"type\": \"Result\", \"metric\": \"SSIM\", \"model\": \"Ne RF [57]\", \"dataset\": \"AIST\"}\n{\"value\": \"24.01\", \"type\": \"Result\", \"metric\": \"PSNR\", \"model\": \"NHP [20]\", \"dataset\": \"ZJ"
+}

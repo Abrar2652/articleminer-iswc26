@@ -1,0 +1,155 @@
+{
+  "pii": "S0022309310000591",
+  "predictions": [
+    {
+      "sample_id": "KNS1.5",
+      "component": "K2O",
+      "value": 49.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS1.5",
+      "component": "Nb2O5",
+      "value": 49.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS3",
+      "component": "K2O",
+      "value": 48.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS3",
+      "component": "Nb2O5",
+      "value": 48.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS5",
+      "component": "K2O",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS5",
+      "component": "Nb2O5",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS10",
+      "component": "K2O",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS10",
+      "component": "Nb2O5",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS15",
+      "component": "K2O",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS15",
+      "component": "Nb2O5",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS20",
+      "component": "K2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS20",
+      "component": "Nb2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS25",
+      "component": "K2O",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS25",
+      "component": "Nb2O5",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS35",
+      "component": "K2O",
+      "value": 32.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS35",
+      "component": "Nb2O5",
+      "value": 32.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS50b",
+      "component": "K2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS50b",
+      "component": "Nb2O5",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS56b",
+      "component": "K2O",
+      "value": 22.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS56b",
+      "component": "Nb2O5",
+      "value": 22.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS60b",
+      "component": "K2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS60b",
+      "component": "Nb2O5",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS66b",
+      "component": "K2O",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS66b",
+      "component": "Nb2O5",
+      "value": 17.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 40,
+  "elapsed_seconds": 65.1,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

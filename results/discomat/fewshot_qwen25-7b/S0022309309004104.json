@@ -1,0 +1,61 @@
+{
+  "pdf_id": "S0022309309004104",
+  "predictions": [
+    {
+      "sample_id": "TZN1",
+      "component": "TeO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Na2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "TeO2",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "ZnO",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "TeO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "ZnO",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Na2O",
+      "value": 15.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 14.6,
+  "raw_preview": "```json\n{\"sample_id\": \"TZN1\", \"component\": \"TeO2\", \"value\": 65.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN1\", \"component\": \"ZnO\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN1\", \"component\": \"Na2O\", \"value\": 15.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN2\", \"component\": \"TeO2\", \"value\": 65.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN2\", \"component\": \"ZnO\", \"value\": 15.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN2\", \"component\": \"Na2O\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN3\", \"component\": \"TeO2\", \"value\": 60.0"
+}

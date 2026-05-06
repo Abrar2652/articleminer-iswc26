@@ -1,0 +1,71 @@
+{
+  "pii": "S0022309308002366",
+  "predictions": [
+    {
+      "sample_id": "Initial",
+      "component": "SiO2",
+      "value": 53.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Initial",
+      "component": "Al2O3",
+      "value": 11.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Initial",
+      "component": "CaO",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Initial",
+      "component": "MgO",
+      "value": 16.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Initial",
+      "component": "K2O",
+      "value": 6.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G-3",
+      "component": "CaF2",
+      "value": 4.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G-3",
+      "component": "MgO",
+      "value": 20.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G-3",
+      "component": "K2O",
+      "value": 9.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G-3",
+      "component": "Na2O",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G-3",
+      "component": "F",
+      "value": 2.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 11,
+  "elapsed_seconds": 67.6,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

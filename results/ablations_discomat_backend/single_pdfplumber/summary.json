@@ -1,0 +1,10 @@
+{
+  "dataset": "discomat",
+  "model": "claude-haiku-4-5-20251001",
+  "backends": [
+    "pdfplumber"
+  ],
+  "total_papers": 111,
+  "total_tuples": 2543,
+  "total_time": 3512.9
+}

@@ -1,0 +1,8 @@
+{
+  "domain": "chemtables",
+  "model": "llama31-8b",
+  "shots": 3,
+  "n_pdfs": 9,
+  "total_preds": 259,
+  "elapsed_seconds": 570.6
+}

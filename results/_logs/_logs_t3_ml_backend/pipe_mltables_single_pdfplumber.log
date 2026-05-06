@@ -1,0 +1,395 @@
+/HOME/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+/HOME/.local/lib/python3.10/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+Found 15 MLTables PDFs
+[1/15] 2210.00044v1... Extracting PDF text from 2210.00044v1.pdf...
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Loading Marker models (first call, will be cached)...
+Marker models loaded: ['layout_model', 'recognition_model', 'table_rec_model', 'detection_model', 'ocr_error_model']
+Recognizing Layout:   0%|          | 0/20 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/20 [00:00<?, ?it/s]
+  Running pdfplumber...
+Could not get FontBBox from font descriptor because None cannot be parsed as 4 floats
+  pdfplumber: 13 tables found
+Cross-backend dedup: 13 raw → 13 valid → 13 unique (13 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["Visual Question Answering (VQA)", "Continual Learning", "Task-incremental learning"], "m
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 13 -> 13 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00044v1] validation: 199→172 (dropped 27; reason: These entries lack metric and task information, making them impossible to valida)
+Pipeline: 13 tables → 172 raw → 106 deduped
+106 tuples (57s)
+[2/15] 2210.00055v1... Extracting PDF text from 2210.00055v1.pdf...
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [6, 10, 11, 14] (landscape/rotated: none)
+Rendered 4/4 pages (total 1913.0 KB)
+Vision: rendered 4 data pages
+[2210.00055v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00055v1] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["classification", "selective classification (classification with rejection option)"], "me
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00055v1] validation: 100→96 (dropped 4; reason: Values like 2.0, 0.6, 1.2, and 0.1 are implausibly low for accuracy metrics (whi)
+Pipeline: 2 tables → 96 raw → 96 deduped
+96 tuples (48s)
+[3/15] 2210.00084v1... Extracting PDF text from 2210.00084v1.pdf...
+Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [6, 7, 8, 16] (landscape/rotated: none)
+Rendered 4/4 pages (total 1331.3 KB)
+Vision: rendered 4 data pages
+[2210.00084v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00084v1] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["node classification", "graph classification"], "metrics": ["accuracy", "information loss
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 5 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00084v1] validation: 352→328 (dropped 24; reason: All entries reference datasets (Tissue-PPI, Fold-PPI, Cora, Citeseer) and model )
+Pipeline: 5 tables → 328 raw → 327 deduped
+327 tuples (139s)
+[4/15] 2210.00193v1... Extracting PDF text from 2210.00193v1.pdf...
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 9, 10, 15] (landscape/rotated: none)
+Rendered 4/4 pages (total 1565.2 KB)
+Vision: rendered 4 data pages
+[2210.00193v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00193v1] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["Machine Translation", "Few-shot Learning", "Style-targeted Translation", "Region-aware T
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 5 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00193v1] validation: 464→439 (dropped 25; reason: No numerical results or metric values appear anywhere in the provided paper text)
+Pipeline: 5 tables → 439 raw → 412 deduped
+412 tuples (165s)
+[5/15] 2210.00213v1... Extracting PDF text from 2210.00213v1.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 5, 6, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1947.5 KB)
+Vision: rendered 4 data pages
+[2210.00213v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00213v1] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["time-to-event prediction", "zero-shot learning", "continual learning", "temporal point p
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 3 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 70 raw → 67 deduped
+67 tuples (41s)
+[6/15] 2210.00448v1... Extracting PDF text from 2210.00448v1.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 7, 8, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1752.8 KB)
+Vision: rendered 4 data pages
+[2210.00448v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00448v1] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["image classification", "waste classification", "object classification"], "metrics": ["ac
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 5 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00448v1] validation: 71→59 (dropped 12; reason: These entries reference ImageNet results and model parameters for EfficientNet, )
+Pipeline: 5 tables → 59 raw → 43 deduped
+43 tuples (46s)
+[7/15] 2210.00543v1... Extracting PDF text from 2210.00543v1.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["definition generation", "text generation"], "metrics": ["BLEU", "NIST"], "datasets": ["W
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00543v1] validation wanted to drop 18 preds but cap is 4 (20%). Keeping first 4 flagged.
+[2210.00543v1] validation: 21→17 (dropped 4; reason: Entries 3-20 contain hyperparameter values that do not appear anywhere in the pr)
+Pipeline: 1 tables → 17 raw → 17 deduped
+17 tuples (20s)
+[8/15] 2210.00627v1... Extracting PDF text from 2210.00627v1.pdf...
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [5, 8, 9, 12] (landscape/rotated: none)
+Rendered 4/4 pages (total 1870.7 KB)
+Vision: rendered 4 data pages
+[2210.00627v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00627v1] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["novel view synthesis", "3D human rendering", "geometry reconstruction", "texture synthes
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 3 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00627v1] validation: 41→37 (dropped 4; reason: Table 3 results are from ZJU-MoCap dataset, not 'unknown' as marked in entries 1)
+Pipeline: 3 tables → 37 raw → 17 deduped
+17 tuples (38s)
+[9/15] 2210.00698v1... Extracting PDF text from 2210.00698v1.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 5, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1759.5 KB)
+Vision: rendered 4 data pages
+[2210.00698v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00698v1] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["semantic segmentation", "image segmentation", "neural architecture search (NAS)"], "metr
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00698v1] validation wanted to drop 10 preds but cap is 5 (20%). Keeping first 5 flagged.
+[2210.00698v1] validation: 25→20 (dropped 5; reason: These entries reference Mapillary dataset results that do not appear in the prov)
+Pipeline: 2 tables → 20 raw → 20 deduped
+20 tuples (29s)
+[10/15] 2210.00705v1... Extracting PDF text from 2210.00705v1.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 5, 6, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1724.9 KB)
+Vision: rendered 4 data pages
+[2210.00705v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00705v1] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["image-speech retrieval", "zero-shot speech-text retrieval", "keyword retrieval from spee
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 4 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 4 tables → 168 raw → 162 deduped
+162 tuples (73s)
+[11/15] 2210.00740v1... Extracting PDF text from 2210.00740v1.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [7, 8, 9, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1648.6 KB)
+Vision: rendered 4 data pages
+[2210.00740v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00740v1] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["2D human pose estimation"], "metrics": ["PCKh@0.5", "AP", "AP50", "AP75", "APM", "APL", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 4 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00740v1] validation: 287→281 (dropped 6; reason: These entries appear to be architectural dimensions (353, 257, 320, 256, 384, 28)
+Pipeline: 4 tables → 281 raw → 258 deduped
+258 tuples (99s)
+[12/15] 2210.00910v1... Extracting PDF text from 2210.00910v1.pdf...
+Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/16 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["hate speech detection", "text classification", "zero-shot classification"], "metrics": [
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00910v1] validation wanted to drop 50 preds but cap is 30 (20%). Keeping first 30 flagged.
+[2210.00910v1] validation: 150→120 (dropped 30; reason: All entries are generic numeric values (mostly 0s and some negative/decimal numb)
+Pipeline: 1 tables → 120 raw → 38 deduped
+38 tuples (26s)
+[13/15] 2210.00912v1... Extracting PDF text from 2210.00912v1.pdf...
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [5, 7, 8, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1805.0 KB)
+Vision: rendered 4 data pages
+[2210.00912v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.00912v1] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["image classification", "domain generalization", "federated learning"], "metrics": ["test
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 4 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 4 tables → 185 raw → 184 deduped
+184 tuples (77s)
+[14/15] 2210.01091v1... Extracting PDF text from 2210.01091v1.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["text classification", "sentiment analysis", "sentence similarity"], "metrics": ["accurac
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2210.01091v1] validation wanted to drop 12 preds but cap is 7 (20%). Keeping first 7 flagged.
+[2210.01091v1] validation: 36→29 (dropped 7; reason: All entries reference 'SmallSMSSpamCollection' and 'FrenchandSpanishReviewsDatas)
+Pipeline: 1 tables → 29 raw → 29 deduped
+29 tuples (17s)
+[15/15] 2211.05783v1... Extracting PDF text from 2211.05783v1.pdf...
+Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]
+  Running pdfplumber...
+  pdfplumber: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [12, 13, 14, 15] (landscape/rotated: none)
+Rendered 4/4 pages (total 2580.7 KB)
+Vision: rendered 4 data pages
+[2211.05783v1] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2211.05783v1] vision transcribed 9 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"tasks": ["optical flow estimation", "stereo matching", "depth prediction"], "metrics": ["EPE (End-
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 9 -> 9 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[2211.05783v1] validation: 272→250 (dropped 22; reason: All extracted entries reference FlowNet2, PWC-Net, HD3, and VCN models with Sint)
+Pipeline: 9 tables → 250 raw → 250 deduped
+250 tuples (105s)
+
+============================================================
+TOTAL: 2026 tuples from 15 papers in 977.4s
+Results saved to /REPO/iswc2026/results/mltables_pipeline_claude-haiku-4-5-20251001_v29_t3_single_pdfplumber

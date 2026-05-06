@@ -1,0 +1,379 @@
+{
+  "pdf_id": "S0022309314002579",
+  "predictions": [
+    {
+      "sample_id": "GF_0_0",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_0_0",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_0_0",
+      "component": "CaO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_3_0",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_3_0",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_3_0",
+      "component": "CaO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_3_0",
+      "component": "CaF2",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_4_5",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_4_5",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_4_5",
+      "component": "CaO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_4_5",
+      "component": "CaF2",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_6_0",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_6_0",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_6_0",
+      "component": "CaO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_6_0",
+      "component": "CaF2",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_9_3",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_9_3",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_9_3",
+      "component": "CaO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_9_3",
+      "component": "CaF2",
+      "value": 9.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_13_6",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_13_6",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_13_6",
+      "component": "CaO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_13_6",
+      "component": "CaF2",
+      "value": 13.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_17_8",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_17_8",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_17_8",
+      "component": "CaO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_17_8",
+      "component": "CaF2",
+      "value": 17.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_25_5",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_25_5",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_25_5",
+      "component": "CaO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_25_5",
+      "component": "CaF2",
+      "value": 25.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_0_0",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_0_0",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_0_0",
+      "component": "SrO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_3_0",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_3_0",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_3_0",
+      "component": "SrO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_3_0",
+      "component": "SrF2",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_4_5",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_4_5",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_4_5",
+      "component": "SrO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_4_5",
+      "component": "SrF2",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_6_0",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_6_0",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_6_0",
+      "component": "SrO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_6_0",
+      "component": "SrF2",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_9_3",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_9_3",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_9_3",
+      "component": "SrO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_9_3",
+      "component": "SrF2",
+      "value": 9.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_13_6",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_13_6",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_13_6",
+      "component": "SrO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_13_6",
+      "component": "SrF2",
+      "value": 13.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_17_8",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_17_8",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_17_8",
+      "component": "SrO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_17_8",
+      "component": "SrF2",
+      "value": 17.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_25_5",
+      "component": "SiO2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_25_5",
+      "component": "P2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_25_5",
+      "component": "SrO",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_25_5",
+      "component": "SrF2",
+      "value": 25.5,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 83.7,
+  "raw_preview": "```json\n{\"sample_id\": \"GF_0_0\", \"component\": \"SiO2\", \"value\": 65.5, \"unit\": \"mol\"}\n{\"sample_id\": \"GF_0_0\", \"component\": \"P2O5\", \"value\": 30.0, \"unit\": \"mol\"}\n{\"sample_id\": \"GF_0_0\", \"component\": \"CaO\", \"value\": 4.5, \"unit\": \"mol\"}\n{\"sample_id\": \"GF_3_0\", \"component\": \"SiO2\", \"value\": 65.5, \"unit\": \"mol\"}\n{\"sample_id\": \"GF_3_0\", \"component\": \"P2O5\", \"value\": 30.0, \"unit\": \"mol\"}\n{\"sample_id\": \"GF_3_0\", \"component\": \"CaO\", \"value\": 4.5, \"unit\": \"mol\"}\n{\"sample_id\": \"GF_3_0\", \"component\": \"CaF2\", \""
+}

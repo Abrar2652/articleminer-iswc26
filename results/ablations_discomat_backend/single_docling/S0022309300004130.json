@@ -1,0 +1,400 @@
+{
+  "pii": "S0022309300004130",
+  "predictions": [
+    {
+      "sample_id": "1a",
+      "component": "Pb",
+      "value": 16.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1a",
+      "component": "P",
+      "value": 14.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1a",
+      "component": "Br",
+      "value": 9.52,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1a",
+      "component": "O",
+      "value": 35.71,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1b",
+      "component": "Pb",
+      "value": 16.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1b",
+      "component": "P",
+      "value": 8.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1b",
+      "component": "Cl",
+      "value": 19.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1b",
+      "component": "Br",
+      "value": 8.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1b",
+      "component": "O",
+      "value": 47.69,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2a",
+      "component": "Pb",
+      "value": 16.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2a",
+      "component": "P",
+      "value": 14.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2a",
+      "component": "Cl",
+      "value": 19.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2a",
+      "component": "Br",
+      "value": 14.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2a",
+      "component": "O",
+      "value": 35.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2b",
+      "component": "Pb",
+      "value": 15.41,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2b",
+      "component": "P",
+      "value": 7.99,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2b",
+      "component": "Cl",
+      "value": 21.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2b",
+      "component": "Br",
+      "value": 10.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2b",
+      "component": "O",
+      "value": 44.96,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3a",
+      "component": "Pb",
+      "value": 17.48,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3a",
+      "component": "P",
+      "value": 13.94,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3a",
+      "component": "Cl",
+      "value": 18.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3a",
+      "component": "Br",
+      "value": 13.93,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3a",
+      "component": "O",
+      "value": 36.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3b",
+      "component": "Pb",
+      "value": 16.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3b",
+      "component": "P",
+      "value": 6.23,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3b",
+      "component": "Cl",
+      "value": 18.95,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3b",
+      "component": "Br",
+      "value": 9.53,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3b",
+      "component": "O",
+      "value": 49.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4a",
+      "component": "Pb",
+      "value": 17.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4a",
+      "component": "P",
+      "value": 13.77,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4a",
+      "component": "F",
+      "value": 2.41,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4a",
+      "component": "Cl",
+      "value": 18.35,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4a",
+      "component": "Br",
+      "value": 13.77,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4a",
+      "component": "O",
+      "value": 34.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4b",
+      "component": "Pb",
+      "value": 16.09,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4b",
+      "component": "P",
+      "value": 6.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4b",
+      "component": "F",
+      "value": 3.24,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4b",
+      "component": "Cl",
+      "value": 19.18,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4b",
+      "component": "Br",
+      "value": 8.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4b",
+      "component": "O",
+      "value": 46.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5a",
+      "component": "Pb",
+      "value": 17.37,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5a",
+      "component": "P",
+      "value": 13.84,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5a",
+      "component": "F",
+      "value": 1.21,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5a",
+      "component": "Cl",
+      "value": 18.48,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5a",
+      "component": "Br",
+      "value": 13.86,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5a",
+      "component": "O",
+      "value": 35.24,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5b",
+      "component": "Pb",
+      "value": 15.66,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5b",
+      "component": "P",
+      "value": 6.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5b",
+      "component": "F",
+      "value": 2.98,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5b",
+      "component": "Cl",
+      "value": 18.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5b",
+      "component": "Br",
+      "value": 10.99,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5b",
+      "component": "O",
+      "value": 45.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6a",
+      "component": "Pb",
+      "value": 14.58,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6a",
+      "component": "P",
+      "value": 16.41,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6a",
+      "component": "F",
+      "value": 2.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6a",
+      "component": "Cl",
+      "value": 8.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6a",
+      "component": "Br",
+      "value": 16.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6a",
+      "component": "O",
+      "value": 42.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6b",
+      "component": "Pb",
+      "value": 14.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6b",
+      "component": "P",
+      "value": 7.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6b",
+      "component": "F",
+      "value": 3.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6b",
+      "component": "Cl",
+      "value": 12.42,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6b",
+      "component": "Br",
+      "value": 10.87,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6b",
+      "component": "O",
+      "value": 51.63,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 66,
+  "elapsed_seconds": 24.1,
+  "backends": [
+    "docling"
+  ]
+}

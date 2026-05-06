@@ -1,0 +1,8 @@
+{
+  "domain": "mltables",
+  "model": "llama31-8b",
+  "shots": 3,
+  "n_pdfs": 15,
+  "total_preds": 1297,
+  "elapsed_seconds": 2761.4
+}

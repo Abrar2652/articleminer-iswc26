@@ -1,0 +1,247 @@
+{
+  "pdf_id": "S0022309307006758",
+  "predictions": [
+    {
+      "sample_id": "Cs(Al MW)",
+      "component": "Al2O3",
+      "value": 0.95,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Al MW)",
+      "component": "La2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Al MW)",
+      "component": "MgO",
+      "value": 2.55,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Al MW)",
+      "component": "SiO2",
+      "value": 60.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Al MW)",
+      "component": "B2O3",
+      "value": 18.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Al MW)",
+      "component": "Na2O",
+      "value": 10.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Al MW)",
+      "component": "Li2O",
+      "value": 10.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Al MW)",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(La MW)",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(La MW)",
+      "component": "La2O3",
+      "value": 1.68,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(La MW)",
+      "component": "MgO",
+      "value": 2.55,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(La MW)",
+      "component": "SiO2",
+      "value": 59.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(La MW)",
+      "component": "B2O3",
+      "value": 18.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(La MW)",
+      "component": "Na2O",
+      "value": 10.35,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(La MW)",
+      "component": "Li2O",
+      "value": 10.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(La MW)",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg MW)",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg MW)",
+      "component": "La2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg MW)",
+      "component": "MgO",
+      "value": 10.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg MW)",
+      "component": "SiO2",
+      "value": 59.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg MW)",
+      "component": "B2O3",
+      "value": 18.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg MW)",
+      "component": "Na2O",
+      "value": 10.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg MW)",
+      "component": "Li2O",
+      "value": 10.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg MW)",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg0 MW)",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg0 MW)",
+      "component": "La2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg0 MW)",
+      "component": "MgO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg0 MW)",
+      "component": "SiO2",
+      "value": 60.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg0 MW)",
+      "component": "B2O3",
+      "value": 18.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg0 MW)",
+      "component": "Na2O",
+      "value": 10.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg0 MW)",
+      "component": "Li2O",
+      "value": 10.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(Mg0 MW)",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Danburite",
+      "component": "Cs2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Danburite",
+      "component": "B2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Danburite",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Danburite",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Reedmergnerite",
+      "component": "Cs2O",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Reedmergnerite",
+      "component": "B2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Reedmergnerite",
+      "component": "SiO2",
+      "value": 75.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Reedmergnerite",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 62.5,
+  "raw_preview": "{\"sample_id\": \"Cs(Al MW)\", \"component\": \"Al2O3\", \"value\": 0.95, \"unit\": \"mol\"}\n{\"sample_id\": \"Cs(Al MW)\", \"component\": \"La2O3\", \"value\": 0, \"unit\": \"mol\"}\n{\"sample_id\": \"Cs(Al MW)\", \"component\": \"MgO\", \"value\": 2.55, \"unit\": \"mol\"}\n{\"sample_id\": \"Cs(Al MW)\", \"component\": \"SiO2\", \"value\": 60.03, \"unit\": \"mol\"}\n{\"sample_id\": \"Cs(Al MW)\", \"component\": \"B2O3\", \"value\": 18.39, \"unit\": \"mol\"}\n{\"sample_id\": \"Cs(Al MW)\", \"component\": \"Na2O\", \"value\": 10.43, \"unit\": \"mol\"}\n{\"sample_id\": \"Cs(Al MW)\", \"com"
+}

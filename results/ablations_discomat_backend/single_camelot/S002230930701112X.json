@@ -1,0 +1,76 @@
+{
+  "pii": "S002230930701112X",
+  "predictions": [
+    {
+      "sample_id": "CP",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CP",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP 2%",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP 2%",
+      "component": "CaO",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP 2%",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP 4%",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP 4%",
+      "component": "CaO",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP 4%",
+      "component": "Al2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP 10%",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP 10%",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAP 10%",
+      "component": "Al2O3",
+      "value": 10.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 11,
+  "elapsed_seconds": 18.9,
+  "backends": [
+    "camelot"
+  ]
+}

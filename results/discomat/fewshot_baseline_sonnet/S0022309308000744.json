@@ -1,0 +1,241 @@
+{
+  "pdf_id": "S0022309308000744",
+  "predictions": [
+    {
+      "sample_id": "glass_1",
+      "component": "La2O3",
+      "value": 13.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_1",
+      "component": "CaO",
+      "value": 14.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_1",
+      "component": "B2O3",
+      "value": 71.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_2",
+      "component": "La2O3",
+      "value": 5.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_2",
+      "component": "CaO",
+      "value": 22.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_2",
+      "component": "B2O3",
+      "value": 71.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_3",
+      "component": "La2O3",
+      "value": 9.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_3",
+      "component": "CaO",
+      "value": 19.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_3",
+      "component": "B2O3",
+      "value": 71.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_4",
+      "component": "La2O3",
+      "value": 14.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_4",
+      "component": "CaO",
+      "value": 14.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_4",
+      "component": "B2O3",
+      "value": 71.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_5",
+      "component": "La2O3",
+      "value": 19.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_5",
+      "component": "CaO",
+      "value": 9.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_5",
+      "component": "B2O3",
+      "value": 71.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_6",
+      "component": "La2O3",
+      "value": 22.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_6",
+      "component": "CaO",
+      "value": 5.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_6",
+      "component": "B2O3",
+      "value": 71.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_7",
+      "component": "La2O3",
+      "value": 18.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_7",
+      "component": "CaO",
+      "value": 18.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_7",
+      "component": "B2O3",
+      "value": 62.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_8",
+      "component": "La2O3",
+      "value": 29.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_8",
+      "component": "CaO",
+      "value": 7.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_8",
+      "component": "B2O3",
+      "value": 62.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_9",
+      "component": "La2O3",
+      "value": 7.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_9",
+      "component": "CaO",
+      "value": 29.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_9",
+      "component": "B2O3",
+      "value": 62.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_10",
+      "component": "La2O3",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_10",
+      "component": "CaO",
+      "value": 36.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_10",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_11",
+      "component": "La2O3",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_11",
+      "component": "CaO",
+      "value": 27.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_11",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_12",
+      "component": "La2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_12",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_12",
+      "component": "B2O3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_13",
+      "component": "La2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_13",
+      "component": "CaO",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass_13",
+      "component": "B2O3",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 32.9,
+  "raw_preview": "{\"sample_id\": \"glass_1\", \"component\": \"La2O3\", \"value\": 13.7, \"unit\": \"mol\"}\n{\"sample_id\": \"glass_1\", \"component\": \"CaO\", \"value\": 14.4, \"unit\": \"mol\"}\n{\"sample_id\": \"glass_1\", \"component\": \"B2O3\", \"value\": 71.9, \"unit\": \"mol\"}\n{\"sample_id\": \"glass_2\", \"component\": \"La2O3\", \"value\": 5.7, \"unit\": \"mol\"}\n{\"sample_id\": \"glass_2\", \"component\": \"CaO\", \"value\": 22.9, \"unit\": \"mol\"}\n{\"sample_id\": \"glass_2\", \"component\": \"B2O3\", \"value\": 71.4, \"unit\": \"mol\"}\n{\"sample_id\": \"glass_3\", \"component\": \"La2O3\""
+}

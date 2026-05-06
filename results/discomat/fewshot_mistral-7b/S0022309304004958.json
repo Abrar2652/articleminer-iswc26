@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309304004958",
+  "predictions": [],
+  "elapsed_seconds": 12.4,
+  "raw_preview": "{\"sample\\_id\": \"S0025123456_0_1\", \"component\": \"Na2O\", \"value\": 25.0, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S025123456_0_1\", \"component\": \"Al2O3\", \"value\": x, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0025123456_0_1\", \"component\": \"SiO2\", \"value\": (75 - x), \"unit\": \"mol\"}\n\nThis is assuming that \"x\" represents the mol% of Al2O3 in the glass composition. The output assumes the first sample in the study. Adjust the sample\\_id as needed for other samples."
+}

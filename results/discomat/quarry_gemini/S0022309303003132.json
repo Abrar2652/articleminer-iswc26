@@ -1,0 +1,35 @@
+{
+  "pii": "S0022309303003132",
+  "predictions": [
+    {
+      "sample_id": "75TeO\u2082-25ZnO",
+      "component": "ZnO",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "75TeO\u2082-17ZnO-8ZnF\u2082",
+      "component": "TeO\u2082",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "75TeO\u2082-17ZnO-8ZnF\u2082",
+      "component": "ZnO",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "75TeO\u2082-17ZnO-8ZnF\u2082",
+      "component": "ZnF\u2082",
+      "value": 8.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 17,
+  "elapsed_seconds": 96.8,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

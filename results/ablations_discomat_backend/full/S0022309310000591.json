@@ -1,0 +1,206 @@
+{
+  "pii": "S0022309310000591",
+  "predictions": [
+    {
+      "sample_id": "KNbO3 a",
+      "component": "K2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNbO3 a",
+      "component": "Nb2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 0",
+      "component": "K2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 0",
+      "component": "Nb2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 1.5",
+      "component": "K2O",
+      "value": 49.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 1.5",
+      "component": "Nb2O5",
+      "value": 49.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 1.5",
+      "component": "SiO2",
+      "value": 1.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 3",
+      "component": "K2O",
+      "value": 48.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 3",
+      "component": "Nb2O5",
+      "value": 48.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 3",
+      "component": "SiO2",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 5",
+      "component": "K2O",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 5",
+      "component": "Nb2O5",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 5",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 10",
+      "component": "K2O",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 10",
+      "component": "Nb2O5",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 10",
+      "component": "SiO2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 15",
+      "component": "K2O",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 15",
+      "component": "Nb2O5",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 15",
+      "component": "SiO2",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 20",
+      "component": "K2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 20",
+      "component": "Nb2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 20",
+      "component": "SiO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 25",
+      "component": "K2O",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 25",
+      "component": "Nb2O5",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 25",
+      "component": "SiO2",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 35",
+      "component": "K2O",
+      "value": 32.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 35",
+      "component": "Nb2O5",
+      "value": 32.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 35",
+      "component": "SiO2",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 60 b",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 66 b",
+      "component": "K2O",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 66 b",
+      "component": "Nb2O5",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KNS 66 b",
+      "component": "SiO2",
+      "value": 66.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 40,
+  "elapsed_seconds": 51.2,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber",
+    "camelot"
+  ]
+}

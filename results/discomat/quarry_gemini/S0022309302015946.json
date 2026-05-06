@@ -1,0 +1,155 @@
+{
+  "pii": "S0022309302015946",
+  "predictions": [
+    {
+      "sample_id": "E0.73",
+      "component": "MgO",
+      "value": 1.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E0.73",
+      "component": "Na\u2082O",
+      "value": 11.85,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E0.73",
+      "component": "SiO\u2082",
+      "value": 14.81,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E0.73",
+      "component": "Al\u2082O\u2083",
+      "value": 69.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E1.26",
+      "component": "Eu\u2082O\u2083",
+      "value": 1.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E1.26",
+      "component": "MgO",
+      "value": 1.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E1.26",
+      "component": "Na\u2082O",
+      "value": 11.85,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E1.26",
+      "component": "SiO\u2082",
+      "value": 14.81,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E1.26",
+      "component": "Al\u2082O\u2083",
+      "value": 69.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E3.90",
+      "component": "Eu\u2082O\u2083",
+      "value": 3.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E3.90",
+      "component": "MgO",
+      "value": 1.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E3.90",
+      "component": "Na\u2082O",
+      "value": 11.37,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E3.90",
+      "component": "SiO\u2082",
+      "value": 14.42,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E3.90",
+      "component": "Al\u2082O\u2083",
+      "value": 67.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E5.20",
+      "component": "Eu\u2082O\u2083",
+      "value": 5.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E5.20",
+      "component": "MgO",
+      "value": 1.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E5.20",
+      "component": "Na\u2082O",
+      "value": 11.37,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E5.20",
+      "component": "SiO\u2082",
+      "value": 14.42,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E5.20",
+      "component": "Al\u2082O\u2083",
+      "value": 67.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E8.11",
+      "component": "Eu\u2082O\u2083",
+      "value": 8.11,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E8.11",
+      "component": "MgO",
+      "value": 11.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E8.11",
+      "component": "Na\u2082O",
+      "value": 13.78,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E8.11",
+      "component": "SiO\u2082",
+      "value": 64.32,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E8.11",
+      "component": "Al\u2082O\u2083",
+      "value": 2.76,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 29,
+  "elapsed_seconds": 76.0,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

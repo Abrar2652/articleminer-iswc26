@@ -1,0 +1,147 @@
+{
+  "pdf_id": "PMC3654564",
+  "predictions": [
+    {
+      "value": "267",
+      "type": "IC50",
+      "target": "COX-2",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": ">100",
+      "type": "IC50",
+      "target": "COX-1",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "388",
+      "type": "IC50",
+      "target": "h COX-2",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": "127",
+      "type": "IC50",
+      "target": "m COX-2",
+      "treatment": "indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": "180",
+      "type": "IC50",
+      "target": "h COX-2",
+      "treatment": "indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": "127",
+      "type": "IC50",
+      "target": "m COX-2",
+      "treatment": "indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": "27",
+      "type": "IC50",
+      "target": "o COX-1",
+      "treatment": "indomethacin",
+      "unit": "nM"
+    },
+    {
+      "value": "15",
+      "type": "IC50",
+      "target": "o COX-1",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.5",
+      "type": "KI",
+      "target": "h COX-2",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "M"
+    },
+    {
+      "value": "13",
+      "type": "KI",
+      "target": "h COX-2",
+      "treatment": "indomethacin",
+      "unit": "M"
+    },
+    {
+      "value": "0.061",
+      "type": "k2",
+      "target": "COX enzymes",
+      "treatment": "indomethacin",
+      "unit": "s\u22121"
+    },
+    {
+      "value": "0.020",
+      "type": "k2",
+      "target": "COX enzymes",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "s\u22121"
+    },
+    {
+      "value": "0.061",
+      "type": "k1",
+      "target": "COX enzymes",
+      "treatment": "indomethacin",
+      "unit": "M\u22121s\u22121"
+    },
+    {
+      "value": "0.020",
+      "type": "k1",
+      "target": "COX enzymes",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "M\u22121s\u22121"
+    },
+    {
+      "value": "0.004",
+      "type": "k1",
+      "target": "COX enzymes",
+      "treatment": "indomethacin",
+      "unit": "s\u22121"
+    },
+    {
+      "value": "0.001",
+      "type": "k1",
+      "target": "COX enzymes",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "s\u22121"
+    },
+    {
+      "value": "0.061",
+      "type": "k\u22121",
+      "target": "COX enzymes",
+      "treatment": "indomethacin",
+      "unit": "s\u22121"
+    },
+    {
+      "value": "0.020",
+      "type": "k\u22121",
+      "target": "COX enzymes",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "s\u22121"
+    },
+    {
+      "value": "0",
+      "type": "k\u22122",
+      "target": "COX enzymes",
+      "treatment": "indomethacin",
+      "unit": "s\u22121"
+    },
+    {
+      "value": "0",
+      "type": "k\u22122",
+      "target": "COX enzymes",
+      "treatment": "CF3\u2212indomethacin",
+      "unit": "s\u22121"
+    }
+  ],
+  "elapsed_seconds": 58.5,
+  "raw_preview": "{\"value\": \"267\", \"type\": \"IC50\", \"target\": \"COX-2\", \"treatment\": \"CF3\u2212indomethacin\", \"unit\": \"nM\"}\n{\"value\": \">100\", \"type\": \"IC50\", \"target\": \"COX-1\", \"treatment\": \"CF3\u2212indomethacin\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"388\", \"type\": \"IC50\", \"target\": \"h COX-2\", \"treatment\": \"CF3\u2212indomethacin\", \"unit\": \"nM\"}\n{\"value\": \"127\", \"type\": \"IC50\", \"target\": \"m COX-2\", \"treatment\": \"indomethacin\", \"unit\": \"nM\"}\n{\"value\": \"180\", \"type\": \"IC50\", \"target\": \"h COX-2\", \"treatment\": \"indomethacin\", \"unit\": \"nM\"}\n{"
+}

@@ -1,0 +1,79 @@
+{
+  "pdf_id": "S0022309315301794",
+  "predictions": [
+    {
+      "sample_id": "sample_x5",
+      "component": "Li2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "sample_x5",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "sample_x5",
+      "component": "B2O3",
+      "value": 90.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "sample_x10",
+      "component": "Li2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "sample_x10",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "sample_x10",
+      "component": "B2O3",
+      "value": 85.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "sample_x15",
+      "component": "Li2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "sample_x15",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "sample_x15",
+      "component": "B2O3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "sample_x20",
+      "component": "Li2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "sample_x20",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "sample_x20",
+      "component": "B2O3",
+      "value": 75.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 10.1,
+  "raw_preview": "{\"sample_id\": \"sample_x5\", \"component\": \"Li2O\", \"value\": 5, \"unit\": \"mol\"}\n{\"sample_id\": \"sample_x5\", \"component\": \"BaO\", \"value\": 5, \"unit\": \"mol\"}\n{\"sample_id\": \"sample_x5\", \"component\": \"B2O3\", \"value\": 90, \"unit\": \"mol\"}\n{\"sample_id\": \"sample_x10\", \"component\": \"Li2O\", \"value\": 10, \"unit\": \"mol\"}\n{\"sample_id\": \"sample_x10\", \"component\": \"BaO\", \"value\": 5, \"unit\": \"mol\"}\n{\"sample_id\": \"sample_x10\", \"component\": \"B2O3\", \"value\": 85, \"unit\": \"mol\"}\n{\"sample_id\": \"sample_x15\", \"component\": \"Li2O"
+}

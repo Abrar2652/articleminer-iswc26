@@ -1,0 +1,224 @@
+{
+  "pdf_id": "S0022309314005481",
+  "predictions": [
+    {
+      "sample_id": "M1",
+      "component": "CaO",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M1",
+      "component": "MgO",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M1",
+      "component": "Al2O3",
+      "value": 22.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M1",
+      "component": "SiO2",
+      "value": 36.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M1",
+      "component": "Na2O",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M1",
+      "component": "K2O",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M1",
+      "component": "Li2O",
+      "value": 0.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M1",
+      "component": "ZnO",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M1",
+      "component": "P2O5",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M1",
+      "component": "TiO2",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M1",
+      "component": "Fe2O3",
+      "value": 1.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M1",
+      "component": "Cr2O3",
+      "value": 0.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "CaO",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "MgO",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "Al2O3",
+      "value": 22.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "SiO2",
+      "value": 36.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "Na2O",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "K2O",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "Li2O",
+      "value": 0.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "ZnO",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "P2O5",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "TiO2",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "Fe2O3",
+      "value": 1.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M2",
+      "component": "Cr2O3",
+      "value": 0.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "CaO",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "MgO",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "Al2O3",
+      "value": 22.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "SiO2",
+      "value": 36.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "Na2O",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "K2O",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "Li2O",
+      "value": 0.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "ZnO",
+      "value": 2.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "P2O5",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "TiO2",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "Fe2O3",
+      "value": 1.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "M3",
+      "component": "Cr2O3",
+      "value": 0.3,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_annotations": 46,
+  "ablation": "no_validation",
+  "elapsed_seconds": 37.3
+}

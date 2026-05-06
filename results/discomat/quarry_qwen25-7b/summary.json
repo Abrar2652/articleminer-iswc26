@@ -1,0 +1,11 @@
+{
+  "dataset": "discomat",
+  "model": "qwen25-7b",
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ],
+  "total_papers": 111,
+  "total_tuples": 2316,
+  "total_time": 6161.5
+}

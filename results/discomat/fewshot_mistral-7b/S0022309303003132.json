@@ -1,0 +1,133 @@
+{
+  "pdf_id": "S0022309303003132",
+  "predictions": [
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "V2O5",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "ETZ",
+      "component": "Te O2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZ",
+      "component": "Zn O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "Te O2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "Zn O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "Zn F2",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "Zn O",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "Zn F2",
+      "value": 7.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "Te O2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "Zn O",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "Zn F2",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "Te O2",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "Zn O",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "Zn F2",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "Te O2",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "Zn O",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "Zn F2",
+      "value": 35.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 238.4,
+  "raw_preview": "5   | 10  | 10   | 0    |\n\nCaption: Composition of the titanate glasses in weight percentage\nOUTPUT:\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"Li2O\", \"value\": 30.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"B2O3\", \"value\": 55.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"ZnO\", \"value\": 5.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"TiO2\", \"value\": 0.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S002230"
+}

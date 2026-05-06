@@ -1,0 +1,82 @@
+{
+  "paper": "Ciccolella_et_al_2025",
+  "model": "llama31-8b",
+  "n_rows": 6,
+  "rows": [
+    {
+      "sample_id": "Sp1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Fe": 22929,
+        "Cd": 1846,
+        "Cu": 131.44,
+        "Ga": 101.43
+      }
+    },
+    {
+      "sample_id": "Sp2",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Fe": 57343,
+        "Cd": 5329,
+        "Cu": 494.79,
+        "Ga": 91.68
+      }
+    },
+    {
+      "sample_id": "Sp3",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Zn": 65000,
+        "Fe": 0.43,
+        "Cd": 0.19
+      }
+    },
+    {
+      "sample_id": "Gn",
+      "mineral": "galena",
+      "method": "EPMA",
+      "elements": {
+        "Pb": 850000,
+        "S": 135000,
+        "Ag": 120
+      }
+    },
+    {
+      "sample_id": "LGB",
+      "mineral": "chalcopyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ga": 0,
+        "Ge": 0,
+        "Ag": 0,
+        "Sb": 0,
+        "Pb": 0,
+        "In": 0,
+        "Sn": 0,
+        "Tl": 0
+      }
+    },
+    {
+      "sample_id": "FAR",
+      "mineral": "chalcopyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ga": 0,
+        "Ge": 397.97,
+        "Ag": 0,
+        "Sb": 0,
+        "Pb": 0,
+        "In": 0,
+        "Sn": 15.23,
+        "Tl": 0
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "No analyses are present in this chunk.",
+  "elapsed_seconds": 53.3
+}

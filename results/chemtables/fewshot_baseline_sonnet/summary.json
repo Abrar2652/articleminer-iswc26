@@ -1,0 +1,8 @@
+{
+  "domain": "chemtables",
+  "model": "claude-sonnet-4-6",
+  "shots": 3,
+  "n_pdfs": 9,
+  "total_preds": 108,
+  "elapsed_seconds": 155.0
+}

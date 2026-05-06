@@ -1,0 +1,19 @@
+{
+  "pdf_id": "S0022309309000568",
+  "predictions": [
+    {
+      "sample_id": "Series_III",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Series_III",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 11.1,
+  "raw_preview": "Looking through the paper text, I need to find tables with glass composition data. The paper references \"Table 1\" multiple times which contains glass compositions for Series I, II, and III of Na2O\u2013CaO\u2013P2O5\u2013SiO2 bioactive glasses, but the actual Table 1 data is not included in the provided text. The text mentions specific values like \"Series III contains fixed contents of Na2O and CaO (24.3 and 26.9 mol%, respectively)\" but the full table is not present.\n\nThe only actual table provided in the tex"
+}

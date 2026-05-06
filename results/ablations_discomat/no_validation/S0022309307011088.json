@@ -1,0 +1,122 @@
+{
+  "pdf_id": "S0022309307011088",
+  "predictions": [
+    {
+      "sample_id": "LZBS-1",
+      "component": "SiO2",
+      "value": 10.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "B2O3",
+      "value": 35.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "CaO",
+      "value": 9.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "Li2O",
+      "value": 0.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "Na2O",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "ZnO",
+      "value": 29.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "La2O3",
+      "value": 13.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "SiO2",
+      "value": 8.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "B2O3",
+      "value": 30.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "MgO",
+      "value": 3.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "SrO",
+      "value": 1.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "Li2O",
+      "value": 5.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "Na2O",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "K2O",
+      "value": 0.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "ZnO",
+      "value": 30.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "La2O3",
+      "value": 7.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "Gd2O3",
+      "value": 3.85,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "ZrO2",
+      "value": 1.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "Ta2O5",
+      "value": 4.8,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_annotations": 19,
+  "ablation": "no_validation",
+  "elapsed_seconds": 20.4
+}

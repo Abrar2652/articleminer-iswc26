@@ -1,0 +1,43 @@
+{
+  "pdf_id": "S0022309307011088",
+  "predictions": [
+    {
+      "sample_id": "LZBS-1",
+      "component": "SiO2",
+      "value": 52.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LZBS-1",
+      "component": "La2O3",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "SiO2",
+      "value": 52.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LZBS-2",
+      "component": "La2O3",
+      "value": 28.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 11.5,
+  "raw_preview": "```json\n{\"sample_id\": \"LZBS-1\", \"component\": \"SiO2\", \"value\": 52.0, \"unit\": \"mol\"}\n{\"sample_id\": \"LZBS-1\", \"component\": \"B2O3\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"LZBS-1\", \"component\": \"La2O3\", \"value\": 28.0, \"unit\": \"mol\"}\n{\"sample_id\": \"LZBS-2\", \"component\": \"SiO2\", \"value\": 52.0, \"unit\": \"mol\"}\n{\"sample_id\": \"LZBS-2\", \"component\": \"B2O3\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"LZBS-2\", \"component\": \"La2O3\", \"value\": 28.0, \"unit\": \"mol\"}\n```\n\nExplanation:\n- The text mentions tw"
+}

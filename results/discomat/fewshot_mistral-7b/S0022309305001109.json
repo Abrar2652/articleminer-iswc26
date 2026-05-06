@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309305001109",
+  "predictions": [],
+  "elapsed_seconds": 62.8,
+  "raw_preview": "{\"sample\\_id\": \"S0022309303006537_0\", \"component\": \"Na2O\", \"value\": x, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0022309303006537_0\", \"component\": \"CaO\", \"value\": y, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0022309303006537_0\", \"component\": \"SiO2\", \"value\": z, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0022309303006537_0\", \"component\": \"ZrO2\", \"value\": w, \"unit\": \"mol\"}\n\nFor each sample in the paper, extract the Na2O, CaO, SiO2, and ZrO2 compositions and their corresponding values in mol. The sample\\_id can be derived from t"
+}

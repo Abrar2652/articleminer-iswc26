@@ -1,0 +1,7 @@
+{
+  "ablation": "no_validation",
+  "dataset": "chemtables",
+  "model": "claude-haiku-4-5-20251001",
+  "n_pdfs": 9,
+  "elapsed_seconds": 544.7
+}

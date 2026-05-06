@@ -1,0 +1,191 @@
+{
+  "pii": "S0022309314004086",
+  "predictions": [
+    {
+      "sample_id": "ZCP",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCP",
+      "component": "CaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCP",
+      "component": "P2O5",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 0.5",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 0.5",
+      "component": "CaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 0.5",
+      "component": "P2O5",
+      "value": 59.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 0.5",
+      "component": "Fe2O3",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 1.0",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 1.0",
+      "component": "CaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 1.0",
+      "component": "P2O5",
+      "value": 59.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 1.0",
+      "component": "Fe2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 1.5",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 1.5",
+      "component": "CaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 1.5",
+      "component": "P2O5",
+      "value": 58.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 1.5",
+      "component": "Fe2O3",
+      "value": 1.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 2.0",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 2.0",
+      "component": "CaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 2.0",
+      "component": "P2O5",
+      "value": 58.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 2.0",
+      "component": "Fe2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 3.0",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 3.0",
+      "component": "CaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 3.0",
+      "component": "P2O5",
+      "value": 57.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 3.0",
+      "component": "Fe2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 4.0",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 4.0",
+      "component": "CaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 4.0",
+      "component": "P2O5",
+      "value": 56.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 4.0",
+      "component": "Fe2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 5.0",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 5.0",
+      "component": "CaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 5.0",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 62,
+  "elapsed_seconds": 118.0,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

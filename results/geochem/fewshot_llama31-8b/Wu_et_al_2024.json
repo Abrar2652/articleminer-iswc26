@@ -1,0 +1,498 @@
+{
+  "paper": "Wu_et_al_2024",
+  "model": "llama31-8b",
+  "n_rows": 31,
+  "rows": [
+    {
+      "sample_id": "280-56-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": 12.76,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "320-62-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": 93.4,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "400-11-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": 12.76,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "400-12-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": 156.79,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "500-85-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "550-108-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "600-2-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "625-18-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "710-77-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "320-157-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "360-22-1",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Pb": 1000000,
+        "S": 135000,
+        "Ag": 120,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "455-23-1",
+      "mineral": "sphalerite",
+      "method": "EPMA & LA-ICPMS",
+      "elements": {
+        "Pb": 1000000,
+        "S": 135000,
+        "Ag": 120,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "500-30-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "500-42-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "500-44-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "500-50-1",
+      "mineral": "sphalerite",
+      "method": "EPMA & LA-ICPMS",
+      "elements": {
+        "Pb": 1000000,
+        "S": 135000,
+        "Ag": 120,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "550-52-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "550-54-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "600-163-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "160-1151",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "600-3-3",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Pb": 1000000,
+        "S": 135000,
+        "Ag": 120,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "625-21-1",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Pb": 1000000,
+        "S": 135000,
+        "Ag": 120,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "455-23-2",
+      "mineral": "sphalerite",
+      "method": "EPMA & LA-ICPMS",
+      "elements": {
+        "Pb": 1000000,
+        "S": 135000,
+        "Ag": 120,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "500-36-1",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Pb": 1000000,
+        "S": 135000,
+        "Ag": 120,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "500-31-1",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Pb": 1000000,
+        "S": 135000,
+        "Ag": 120,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "550-51-1",
+      "mineral": "sphalerite",
+      "method": "EPMA",
+      "elements": {
+        "Pb": 1000000,
+        "S": 135000,
+        "Ag": 120,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5
+      }
+    },
+    {
+      "sample_id": "550-87-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 1000000,
+        "S": 100000,
+        "Fe": 1000,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Au": -0.5,
+        "Ag": -0.5
+      }
+    },
+    {
+      "sample_id": "Sp1b",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 57284,
+        "S": 3235,
+        "Fe": 231,
+        "Cd": 0.15,
+        "Ga": 0.46,
+        "Sn": 0,
+        "Cu": 0,
+        "Mn": 0,
+        "Hg": 0,
+        "Pb": 0,
+        "Ag": 0
+      }
+    },
+    {
+      "sample_id": "Sp1a",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 57840,
+        "S": 3235,
+        "Fe": 381,
+        "Cd": 0.16,
+        "Ga": 0.23,
+        "Sn": 0,
+        "Cu": 0,
+        "Mn": 0,
+        "Hg": 0,
+        "Pb": 0,
+        "Ag": 0
+      }
+    },
+    {
+      "sample_id": "Sp2",
+      "mineral": "sphalerite",
+      "method": "LA-ICP-MS",
+      "elements": {
+        "Zn": 59920,
+        "S": 3264,
+        "Fe": 204,
+        "Cd": 0.14,
+        "Ga": 0.02,
+        "Sn": 0,
+        "Cu": 0,
+        "Mn": 0,
+        "Hg": 0,
+        "Pb": 0,
+        "Ag": 0
+      }
+    },
+    {
+      "sample_id": "Fankou",
+      "mineral": "sphalerite",
+      "method": "LAICP-MS",
+      "elements": {
+        "Ga": 1600,
+        "Ag": -0.5,
+        "Cd": -0.5,
+        "Ge": -0.5
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "{\"sample_id\":\"280-56-1\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICP-MS\",\"elements\":{\"Zn\":1000000,\"S\":100000,\"Fe\":1000,\"Cd\":-0.5,\"Ga\":12.76,\"Ge\":-0.5,\"In\":-0.5,\"Au\":-0.5,\"Ag\":-0.5}}\n{\"sample_id\":\"320-62-1\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICP-MS\",\"elements\":{\"Zn\":1000000,\"S\":100000,\"Fe\":1000,\"Cd\":-0.5",
+  "elapsed_seconds": 116.3
+}

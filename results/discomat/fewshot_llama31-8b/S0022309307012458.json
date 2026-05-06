@@ -1,0 +1,295 @@
+{
+  "pdf_id": "S0022309307012458",
+  "predictions": [
+    {
+      "sample_id": "KAl P_2.5",
+      "component": "Al2O3",
+      "value": 21.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_2.5",
+      "component": "Al2O3",
+      "value": 45.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_2.5",
+      "component": "Al2O4",
+      "value": 18.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_2.5",
+      "component": "Al2O4",
+      "value": 14.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_2.5",
+      "component": "Al2O6",
+      "value": 61.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_2.5",
+      "component": "Al2O6",
+      "value": 13.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_5",
+      "component": "Al2O3",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_5",
+      "component": "Al2O3",
+      "value": 46.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_5",
+      "component": "Al2O5",
+      "value": 21.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_5",
+      "component": "Al2O5",
+      "value": 14.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_5",
+      "component": "Al2O6",
+      "value": 54.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_5",
+      "component": "Al2O6",
+      "value": 13.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_7.5",
+      "component": "Al2O3",
+      "value": 29.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_7.5",
+      "component": "Al2O3",
+      "value": 50.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_7.5",
+      "component": "Al2O4",
+      "value": 3.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_7.5",
+      "component": "Al2O4",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_7.5",
+      "component": "Al2O5",
+      "value": 21.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_7.5",
+      "component": "Al2O5",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_7.5",
+      "component": "Al2O6",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_7.5",
+      "component": "Al2O6",
+      "value": 11.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_10",
+      "component": "Al2O3",
+      "value": 45.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_10",
+      "component": "Al2O3",
+      "value": 49.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_10",
+      "component": "Al2O4",
+      "value": 3.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_10",
+      "component": "Al2O4",
+      "value": 18.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_10",
+      "component": "Al2O5",
+      "value": 32.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_10",
+      "component": "Al2O5",
+      "value": 18.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_10",
+      "component": "Al2O6",
+      "value": 23.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_10",
+      "component": "Al2O6",
+      "value": 10.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_12.5",
+      "component": "Al2O3",
+      "value": 65.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_12.5",
+      "component": "Al2O3",
+      "value": 51.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_12.5",
+      "component": "Al2O4",
+      "value": 3.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_12.5",
+      "component": "Al2O4",
+      "value": 19.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_12.5",
+      "component": "Al2O5",
+      "value": 19.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_12.5",
+      "component": "Al2O5",
+      "value": 19.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_12.5",
+      "component": "Al2O6",
+      "value": 16.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_12.5",
+      "component": "Al2O6",
+      "value": 10.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_15",
+      "component": "Al2O3",
+      "value": 75.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_15",
+      "component": "Al2O3",
+      "value": 50.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_15",
+      "component": "Al2O4",
+      "value": 3.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_15",
+      "component": "Al2O4",
+      "value": 19.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_15",
+      "component": "Al2O5",
+      "value": 16.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_15",
+      "component": "Al2O5",
+      "value": 19.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_15",
+      "component": "Al2O6",
+      "value": 9.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_15",
+      "component": "Al2O6",
+      "value": 9.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_20",
+      "component": "Al2O3",
+      "value": 95.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_20",
+      "component": "Al2O3",
+      "value": 48.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KAl P_20",
+      "component": "Al2O4",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KAl P_20",
+      "component": "Al2O4",
+      "value": 7.9,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 83.7,
+  "raw_preview": "{\"sample_id\": \"KAl P_2.5\", \"component\": \"Al2O3\", \"value\": 21, \"unit\": \"wt\"}\n{\"sample_id\": \"KAl P_2.5\", \"component\": \"Al2O3\", \"value\": 45.7, \"unit\": \"mol\"}\n{\"sample_id\": \"KAl P_2.5\", \"component\": \"Al2O4\", \"value\": 18, \"unit\": \"wt\"}\n{\"sample_id\": \"KAl P_2.5\", \"component\": \"Al2O4\", \"value\": 14.5, \"unit\": \"mol\"}\n{\"sample_id\": \"KAl P_2.5\", \"component\": \"Al2O6\", \"value\": 61, \"unit\": \"wt\"}\n{\"sample_id\": \"KAl P_2.5\", \"component\": \"Al2O6\", \"value\": 13.9, \"unit\": \"mol\"}\n\n{\"sample_id\": \"KAl P_5\", \"componen"
+}

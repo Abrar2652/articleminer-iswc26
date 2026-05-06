@@ -1,0 +1,25 @@
+{
+  "pdf_id": "S0022309300001459",
+  "predictions": [
+    {
+      "sample_id": "cupola_slag_glass",
+      "component": "SiO2",
+      "value": 42.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "cupola_slag_glass",
+      "component": "CaO",
+      "value": 34.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "cupola_slag_glass",
+      "component": "MgO",
+      "value": 11.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 10.2,
+  "raw_preview": "Looking through the paper text, I can find one composition reference for the cupola slag glass mentioned at the end:\n\n{\"sample_id\": \"cupola_slag_glass\", \"component\": \"SiO2\", \"value\": 42.0, \"unit\": \"wt\"}\n{\"sample_id\": \"cupola_slag_glass\", \"component\": \"CaO\", \"value\": 34.0, \"unit\": \"wt\"}\n{\"sample_id\": \"cupola_slag_glass\", \"component\": \"MgO\", \"value\": 11.0, \"unit\": \"wt\"}"
+}

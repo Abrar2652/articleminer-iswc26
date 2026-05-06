@@ -1,0 +1,8 @@
+{
+  "domain": "mltables",
+  "model": "claude-sonnet-4-6",
+  "shots": 3,
+  "n_pdfs": 15,
+  "total_preds": 1447,
+  "elapsed_seconds": 928.0
+}

@@ -1,0 +1,31 @@
+{
+  "pdf_id": "S0022309304008944",
+  "predictions": [
+    {
+      "sample_id": "Tkalcec2005_main",
+      "component": "SiO2",
+      "value": 55.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Tkalcec2005_main",
+      "component": "Al2O3",
+      "value": 22.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Tkalcec2005_main",
+      "component": "ZnO",
+      "value": 17.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Tkalcec2005_main",
+      "component": "TiO2",
+      "value": 3.84,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 18.6,
+  "raw_preview": "{\"sample_id\": \"Tkalcec2005_main\", \"component\": \"SiO2\", \"value\": 55.6, \"unit\": \"mol\"}\n{\"sample_id\": \"Tkalcec2005_main\", \"component\": \"Al2O3\", \"value\": 22.8, \"unit\": \"mol\"}\n{\"sample_id\": \"Tkalcec2005_main\", \"component\": \"ZnO\", \"value\": 17.7, \"unit\": \"mol\"}\n{\"sample_id\": \"Tkalcec2005_main\", \"component\": \"TiO2\", \"value\": 3.84, \"unit\": \"mol\"}"
+}

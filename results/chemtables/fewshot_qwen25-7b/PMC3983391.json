@@ -1,0 +1,28 @@
+{
+  "pdf_id": "PMC3983391",
+  "predictions": [
+    {
+      "value": "1.9\u22123.2",
+      "type": "GI50",
+      "target": "cell",
+      "treatment": "5f",
+      "unit": "nM"
+    },
+    {
+      "value": "0.77",
+      "type": "IC50",
+      "target": "tubulin",
+      "treatment": "5f",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.55",
+      "type": "IC50",
+      "target": "colchicine binding to tubulin",
+      "treatment": "5f",
+      "unit": "\u03bcM"
+    }
+  ],
+  "elapsed_seconds": 9.5,
+  "raw_preview": "{\"value\": \"1.9\u22123.2\", \"type\": \"GI50\", \"target\": \"cell\", \"treatment\": \"5f\", \"unit\": \"nM\"}\n{\"value\": \"0.77\", \"type\": \"IC50\", \"target\": \"tubulin\", \"treatment\": \"5f\", \"unit\": \"\u03bcM\"}\n{\"value\": \"0.55\", \"type\": \"IC50\", \"target\": \"colchicine binding to tubulin\", \"treatment\": \"5f\", \"unit\": \"\u03bcM\"}"
+}

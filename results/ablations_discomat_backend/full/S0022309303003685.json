@@ -1,0 +1,290 @@
+{
+  "pii": "S0022309303003685",
+  "predictions": [
+    {
+      "sample_id": "Glass",
+      "component": "Te",
+      "value": 0.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "P",
+      "value": 0.13,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Y",
+      "value": 0.15,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Zn",
+      "value": 2.01,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Ni",
+      "value": 0.58,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Eu",
+      "value": 0.81,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "La",
+      "value": 2.54,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Co",
+      "value": 0.09,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "O",
+      "value": 50.63,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Si",
+      "value": 21.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Al",
+      "value": 6.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "B",
+      "value": 0.06,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Zr",
+      "value": 5.67,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Na",
+      "value": 1.77,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Li",
+      "value": 0.16,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Cs",
+      "value": 0.22,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Ca",
+      "value": 3.43,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Sr",
+      "value": 0.34,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Cr",
+      "value": 0.99,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Ba",
+      "value": 0.66,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "P",
+      "value": 0.37,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Y",
+      "value": 0.45,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Zn",
+      "value": 6.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Ni",
+      "value": 1.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Eu",
+      "value": 2.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "La",
+      "value": 8.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Co",
+      "value": 0.28,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "O",
+      "value": 39.05,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Si",
+      "value": 18.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Al",
+      "value": 5.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Zr",
+      "value": 6.84,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Na",
+      "value": 2.11,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Li",
+      "value": 0.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Cs",
+      "value": 0.26,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Ca",
+      "value": 2.46,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Sr",
+      "value": 0.25,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Cr",
+      "value": 0.72,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Ba",
+      "value": 0.47,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "P",
+      "value": 0.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Y",
+      "value": 0.54,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Zn",
+      "value": 7.33,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Ni",
+      "value": 2.12,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Eu",
+      "value": 3.56,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "La",
+      "value": 11.17,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Co",
+      "value": 0.35,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "O",
+      "value": 36.54,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 57,
+  "elapsed_seconds": 40.6,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber",
+    "camelot"
+  ]
+}

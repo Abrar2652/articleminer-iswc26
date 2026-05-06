@@ -1,0 +1,49 @@
+{
+  "pdf_id": "S0022309300001459",
+  "predictions": [
+    {
+      "sample_id": "glass",
+      "component": "CaO",
+      "value": 34.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass",
+      "component": "SiO2",
+      "value": 42.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass",
+      "component": "MgO",
+      "value": 11.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass",
+      "component": "Al2O3",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass-ceramic",
+      "component": "melilite",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "glass-ceramic",
+      "component": "larnite",
+      "value": 0.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 23.0,
+  "raw_preview": "The text does not contain any tables with material-composition entries. However, there are some relevant information about the composition of the glass and glass-ceramic samples.\n\nThe major constituents of the slag glass are CaO, SiO2, Al2O3, and MgO. The composition lies around the 10% Al2O3 of the CaO-SiO2-Al2O3-MgO system, which corresponds to the primary field of melilite.\n\nThe glass composition is approximately 42% SiO2, 34% CaO, 11% MgO, 8% Al2O3, and 5% Fe2O3.\n\nThe glass-ceramic sample he"
+}

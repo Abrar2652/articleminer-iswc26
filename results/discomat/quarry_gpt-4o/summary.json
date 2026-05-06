@@ -1,0 +1,13 @@
+{
+  "dataset": "discomat",
+  "model": "gpt-4o",
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ],
+  "total_papers": 111,
+  "total_tuples": 2610,
+  "total_time": 12613.8
+}

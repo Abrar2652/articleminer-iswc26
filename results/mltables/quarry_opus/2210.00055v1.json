@@ -1,0 +1,453 @@
+{
+  "arxiv_id": "2210.00055v1",
+  "predictions": [
+    {
+      "value": "88.3",
+      "type": "Result",
+      "model": "Group DRO",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "91.8",
+      "type": "Result",
+      "model": "Group DRO",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "64.4",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "77.2",
+      "type": "Result",
+      "model": "LfF",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "LfF",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "83.2",
+      "type": "Result",
+      "model": "SD",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "2.0",
+      "type": "Result",
+      "model": "SD",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy (std)",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "91.6",
+      "type": "Result",
+      "model": "SD",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "SD",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy (std)",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "JTT",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "88.0",
+      "type": "Result",
+      "model": "JTT",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "model": "CIM",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "CIM",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "47.2",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "36.1",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "24.4",
+      "type": "Result",
+      "model": "LfF",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "40.6",
+      "type": "Result",
+      "model": "JTT",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "55.0",
+      "type": "Result",
+      "model": "DivDis",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "90.8",
+      "type": "Result",
+      "model": "DivDis",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "78.0",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy (std)",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "91.3",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy (std)",
+      "task": "classification with spurious features"
+    },
+    {
+      "value": "99.99\u00b10.02",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "8.96\u00b10.48",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "94.86\u00b10.18",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "6.54\u00b10.39",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "89.73\u00b10.22",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "4.74\u00b10.31",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "84.46\u00b10.07",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "3.23\u00b10.20",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "79.03\u00b10.44",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "2.13\u00b10.11",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "100.0\u00b10.00",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "3.68\u00b10.16",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.19\u00b10.09",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "1.84\u00b10.23",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "89.55\u00b10.26",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.96\u00b10.11",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "83.72\u00b10.71",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.57\u00b10.04",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "77.81\u00b10.75",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.45\u00b10.05",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "99.98\u00b10.0",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "4.83\u00b10.17",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "95.01\u00b10.14",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "2.96\u00b10.15",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "90.78\u00b10.16",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "1.94\u00b10.18",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "86.33\u00b10.61",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "1.24\u00b10.21",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Err.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "81.98\u00b10.47",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Cov.",
+      "task": "Selective classification"
+    },
+    {
+      "value": "0.89\u00b10.20",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Err.",
+      "task": "Selective classification"
+    }
+  ],
+  "num_gold_annotations": 187,
+  "elapsed_seconds": 102.3,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

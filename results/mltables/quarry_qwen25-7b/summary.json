@@ -1,0 +1,11 @@
+{
+  "dataset": "mltables",
+  "model": "qwen25-7b",
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ],
+  "total_papers": 15,
+  "total_tuples": 2158,
+  "total_time": 3206.8
+}

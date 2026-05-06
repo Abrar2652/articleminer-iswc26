@@ -1,0 +1,73 @@
+{
+  "pdf_id": "S0022309307002116",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "B2O3",
+      "value": 7.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "B2O3",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "B2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "B2O3",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Li2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Li2O",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Li2O",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Rb2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Rb2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Rb2O",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Rb2O",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 27.3,
+  "raw_preview": "Based on the provided paper text, here are the material-composition entries for boron oxides in the glass samples:\n\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"B2O3\", \"value\": 7.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"B2O3\", \"value\": 6.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"B2O3\", \"value\": 5.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"B2O3\", \"value\": 100.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303"
+}

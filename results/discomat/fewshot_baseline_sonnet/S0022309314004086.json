@@ -1,0 +1,25 @@
+{
+  "pdf_id": "S0022309314004086",
+  "predictions": [
+    {
+      "sample_id": "ZCP",
+      "component": "Fe2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe_1.5",
+      "component": "Fe2O3",
+      "value": 1.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe_5.0",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 20.0,
+  "raw_preview": "Looking through the paper text, I can identify the glass system as ZnO\u2013CaF2\u2013P2O5 doped with Fe2O3. The text mentions sample names like ZCP (pure), ZCPFe 1.5 (1.5 mol% Fe2O3), and ZCPFe 5.0 (5 mol% Fe2O3). However, the actual composition table with specific mol% values for ZnO, CaF2, and P2O5 is not present in the provided text sections.\n\nThe only compositional information explicitly stated in the text is the Fe2O3 doping levels (0, 1.5, and 5 mol%). Without a composition table showing the base g"
+}

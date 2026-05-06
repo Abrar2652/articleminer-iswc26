@@ -1,0 +1,8 @@
+{
+  "domain": "discomat",
+  "model": "mistral-7b-v02",
+  "shots": 3,
+  "n_pdfs": 111,
+  "total_preds": 1164,
+  "elapsed_seconds": 9802.5
+}

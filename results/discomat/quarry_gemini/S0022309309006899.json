@@ -1,0 +1,203 @@
+{
+  "pii": "S0022309309006899",
+  "predictions": [
+    {
+      "sample_id": "1.0",
+      "component": "Dy2O3",
+      "value": 1.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1.0",
+      "component": "Yb2O3",
+      "value": 11.23,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2.0",
+      "component": "SiO2",
+      "value": 46.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2.0",
+      "component": "BaO",
+      "value": 35.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2.0",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2.0",
+      "component": "Dy2O3",
+      "value": 2.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2.0",
+      "component": "Yb2O3",
+      "value": 10.07,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3.0",
+      "component": "SiO2",
+      "value": 46.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3.0",
+      "component": "BaO",
+      "value": 35.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3.0",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3.0",
+      "component": "Dy2O3",
+      "value": 3.44,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3.0",
+      "component": "Yb2O3",
+      "value": 8.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4.5",
+      "component": "SiO2",
+      "value": 46.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4.5",
+      "component": "BaO",
+      "value": 35.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4.5",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4.5",
+      "component": "Dy2O3",
+      "value": 5.16,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4.5",
+      "component": "Yb2O3",
+      "value": 7.21,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "6.0",
+      "component": "SiO2",
+      "value": 46.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "6.0",
+      "component": "BaO",
+      "value": 35.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "6.0",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "6.0",
+      "component": "Dy2O3",
+      "value": 6.91,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "6.0",
+      "component": "Yb2O3",
+      "value": 5.46,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7.5",
+      "component": "SiO2",
+      "value": 46.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7.5",
+      "component": "BaO",
+      "value": 35.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7.5",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7.5",
+      "component": "Dy2O3",
+      "value": 8.61,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "7.5",
+      "component": "Yb2O3",
+      "value": 3.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "9.0",
+      "component": "SiO2",
+      "value": 46.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "9.0",
+      "component": "BaO",
+      "value": 35.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "9.0",
+      "component": "Al2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "9.0",
+      "component": "Dy2O3",
+      "value": 10.33,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "9.0",
+      "component": "Yb2O3",
+      "value": 2.04,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 48,
+  "elapsed_seconds": 54.3,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

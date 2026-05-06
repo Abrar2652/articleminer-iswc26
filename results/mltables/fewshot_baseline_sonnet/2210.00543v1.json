@@ -1,0 +1,932 @@
+{
+  "pdf_id": "2210.00543v1",
+  "predictions": [
+    {
+      "value": "9.0%",
+      "type": "Result",
+      "model": "Huang et al. (2021)",
+      "dataset": "N/A",
+      "metric": "Under-specified error ratio"
+    },
+    {
+      "value": "5.5%",
+      "type": "Result",
+      "model": "Huang et al. (2021)",
+      "dataset": "N/A",
+      "metric": "Over-specified error ratio"
+    },
+    {
+      "value": "3.0%",
+      "type": "Result",
+      "model": "Huang et al. (2021)",
+      "dataset": "N/A",
+      "metric": "Self-reference error ratio"
+    },
+    {
+      "value": "1.0%",
+      "type": "Result",
+      "model": "Huang et al. (2021)",
+      "dataset": "N/A",
+      "metric": "Wrong part-of-speech error ratio"
+    },
+    {
+      "value": "1.0%",
+      "type": "Result",
+      "model": "Huang et al. (2021)",
+      "dataset": "N/A",
+      "metric": "Opposite error ratio"
+    },
+    {
+      "value": "7938",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Number of phrases (Train)"
+    },
+    {
+      "value": "998",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Number of phrases (Valid)"
+    },
+    {
+      "value": "1001",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Number of phrases (Test)"
+    },
+    {
+      "value": "33128",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Number of phrases (Train)"
+    },
+    {
+      "value": "8867",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Number of phrases (Valid)"
+    },
+    {
+      "value": "8850",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Number of phrases (Test)"
+    },
+    {
+      "value": "190696",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Number of phrases (Train)"
+    },
+    {
+      "value": "26876",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Number of phrases (Valid)"
+    },
+    {
+      "value": "25797",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Number of phrases (Test)"
+    },
+    {
+      "value": "13883",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Number of entries (Train)"
+    },
+    {
+      "value": "1752",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Number of entries (Valid)"
+    },
+    {
+      "value": "1775",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Number of entries (Test)"
+    },
+    {
+      "value": "97855",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Number of entries (Train)"
+    },
+    {
+      "value": "12232",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Number of entries (Valid)"
+    },
+    {
+      "value": "12232",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Number of entries (Test)"
+    },
+    {
+      "value": "411384",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Number of entries (Train)"
+    },
+    {
+      "value": "57883",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Number of entries (Valid)"
+    },
+    {
+      "value": "36450",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Number of entries (Test)"
+    },
+    {
+      "value": "5.81",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Context length (Train)"
+    },
+    {
+      "value": "5.64",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Context length (Valid)"
+    },
+    {
+      "value": "5.77",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Context length (Test)"
+    },
+    {
+      "value": "17.74",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Context length (Train)"
+    },
+    {
+      "value": "17.80",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Context length (Valid)"
+    },
+    {
+      "value": "17.56",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Context length (Test)"
+    },
+    {
+      "value": "10.89",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Context length (Train)"
+    },
+    {
+      "value": "10.86",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Context length (Valid)"
+    },
+    {
+      "value": "11.22",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Context length (Test)"
+    },
+    {
+      "value": "6.61",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Description length (Train)"
+    },
+    {
+      "value": "6.61",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Description length (Valid)"
+    },
+    {
+      "value": "6.85",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "WordNet",
+      "metric": "Description length (Test)"
+    },
+    {
+      "value": "11.02",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Description length (Train)"
+    },
+    {
+      "value": "10.99",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Description length (Valid)"
+    },
+    {
+      "value": "10.95",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Description length (Test)"
+    },
+    {
+      "value": "10.99",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Description length (Train)"
+    },
+    {
+      "value": "10.95",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Description length (Valid)"
+    },
+    {
+      "value": "12.05",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Urban",
+      "metric": "Description length (Test)"
+    },
+    {
+      "value": "3e-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "T5-Contrast",
+      "dataset": "N/A",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "16",
+      "type": "Hyper-parameter/Architecture",
+      "model": "T5-Contrast",
+      "dataset": "N/A",
+      "metric": "Batch size"
+    },
+    {
+      "value": "23.77",
+      "type": "Result",
+      "model": "I-Attention",
+      "dataset": "WordNet",
+      "metric": "BLEU"
+    },
+    {
+      "value": "44.30",
+      "type": "Result",
+      "model": "I-Attention",
+      "dataset": "WordNet",
+      "metric": "NIST"
+    },
+    {
+      "value": "17.45",
+      "type": "Result",
+      "model": "I-Attention",
+      "dataset": "Oxford",
+      "metric": "BLEU"
+    },
+    {
+      "value": "35.79",
+      "type": "Result",
+      "model": "I-Attention",
+      "dataset": "Oxford",
+      "metric": "NIST"
+    },
+    {
+      "value": "8.81",
+      "type": "Result",
+      "model": "I-Attention",
+      "dataset": "Urban",
+      "metric": "BLEU"
+    },
+    {
+      "value": "19.43",
+      "type": "Result",
+      "model": "I-Attention",
+      "dataset": "Urban",
+      "metric": "NIST"
+    },
+    {
+      "value": "24.78",
+      "type": "Result",
+      "model": "Local",
+      "dataset": "WordNet",
+      "metric": "BLEU"
+    },
+    {
+      "value": "40.32",
+      "type": "Result",
+      "model": "Local",
+      "dataset": "WordNet",
+      "metric": "NIST"
+    },
+    {
+      "value": "17.58",
+      "type": "Result",
+      "model": "Local",
+      "dataset": "Oxford",
+      "metric": "BLEU"
+    },
+    {
+      "value": "31.30",
+      "type": "Result",
+      "model": "Local",
+      "dataset": "Oxford",
+      "metric": "NIST"
+    },
+    {
+      "value": "8.99",
+      "type": "Result",
+      "model": "Local",
+      "dataset": "Urban",
+      "metric": "BLEU"
+    },
+    {
+      "value": "17.39",
+      "type": "Result",
+      "model": "Local",
+      "dataset": "Urban",
+      "metric": "NIST"
+    },
+    {
+      "value": "23.59",
+      "type": "Result",
+      "model": "Global",
+      "dataset": "WordNet",
+      "metric": "BLEU"
+    },
+    {
+      "value": "49.70",
+      "type": "Result",
+      "model": "Global",
+      "dataset": "WordNet",
+      "metric": "NIST"
+    },
+    {
+      "value": "14.95",
+      "type": "Result",
+      "model": "Global",
+      "dataset": "Oxford",
+      "metric": "BLEU"
+    },
+    {
+      "value": "32.79",
+      "type": "Result",
+      "model": "Global",
+      "dataset": "Oxford",
+      "metric": "NIST"
+    },
+    {
+      "value": "5.15",
+      "type": "Result",
+      "model": "Global",
+      "dataset": "Urban",
+      "metric": "BLEU"
+    },
+    {
+      "value": "10.45",
+      "type": "Result",
+      "model": "Global",
+      "dataset": "Urban",
+      "metric": "NIST"
+    },
+    {
+      "value": "25.19",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "dataset": "WordNet",
+      "metric": "BLEU"
+    },
+    {
+      "value": "43.54",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "dataset": "WordNet",
+      "metric": "NIST"
+    },
+    {
+      "value": "18.57",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "dataset": "Oxford",
+      "metric": "BLEU"
+    },
+    {
+      "value": "38.22",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "dataset": "Oxford",
+      "metric": "NIST"
+    },
+    {
+      "value": "9.93",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "dataset": "Urban",
+      "metric": "BLEU"
+    },
+    {
+      "value": "19.29",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "dataset": "Urban",
+      "metric": "NIST"
+    },
+    {
+      "value": "32.72",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "dataset": "WordNet",
+      "metric": "BLEU"
+    },
+    {
+      "value": "64.57",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "dataset": "WordNet",
+      "metric": "NIST"
+    },
+    {
+      "value": "26.52",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "dataset": "Oxford",
+      "metric": "BLEU"
+    },
+    {
+      "value": "74.17",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "dataset": "Oxford",
+      "metric": "NIST"
+    },
+    {
+      "value": "17.71",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "dataset": "Urban",
+      "metric": "BLEU"
+    },
+    {
+      "value": "35.53",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "dataset": "Urban",
+      "metric": "NIST"
+    },
+    {
+      "value": "32.05",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "WordNet",
+      "metric": "BLEU"
+    },
+    {
+      "value": "74.71",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "WordNet",
+      "metric": "NIST"
+    },
+    {
+      "value": "27.11",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "BLEU"
+    },
+    {
+      "value": "79.42",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "NIST"
+    },
+    {
+      "value": "19.44",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Urban",
+      "metric": "BLEU"
+    },
+    {
+      "value": "41.01",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Urban",
+      "metric": "NIST"
+    },
+    {
+      "value": "31.72",
+      "type": "Result",
+      "model": "T5-Base",
+      "dataset": "WordNet",
+      "metric": "BLEU"
+    },
+    {
+      "value": "57.35",
+      "type": "Result",
+      "model": "T5-Base",
+      "dataset": "WordNet",
+      "metric": "NIST"
+    },
+    {
+      "value": "25.44",
+      "type": "Result",
+      "model": "T5-Base",
+      "dataset": "Oxford",
+      "metric": "BLEU"
+    },
+    {
+      "value": "66.92",
+      "type": "Result",
+      "model": "T5-Base",
+      "dataset": "Oxford",
+      "metric": "NIST"
+    },
+    {
+      "value": "17.66",
+      "type": "Result",
+      "model": "T5-Base",
+      "dataset": "Urban",
+      "metric": "BLEU"
+    },
+    {
+      "value": "26.86",
+      "type": "Result",
+      "model": "T5-Base",
+      "dataset": "Urban",
+      "metric": "NIST"
+    },
+    {
+      "value": "31.07",
+      "type": "Result",
+      "model": "T5-Contrast w/ Mean()",
+      "dataset": "WordNet",
+      "metric": "BLEU"
+    },
+    {
+      "value": "71.48",
+      "type": "Result",
+      "model": "T5-Contrast w/ Mean()",
+      "dataset": "WordNet",
+      "metric": "NIST"
+    },
+    {
+      "value": "27.13",
+      "type": "Result",
+      "model": "T5-Contrast w/ Mean()",
+      "dataset": "Oxford",
+      "metric": "BLEU"
+    },
+    {
+      "value": "80.33",
+      "type": "Result",
+      "model": "T5-Contrast w/ Mean()",
+      "dataset": "Oxford",
+      "metric": "NIST"
+    },
+    {
+      "value": "18.57",
+      "type": "Result",
+      "model": "T5-Contrast w/ Mean()",
+      "dataset": "Urban",
+      "metric": "BLEU"
+    },
+    {
+      "value": "40.29",
+      "type": "Result",
+      "model": "T5-Contrast w/ Mean()",
+      "dataset": "Urban",
+      "metric": "NIST"
+    },
+    {
+      "value": "31.75",
+      "type": "Result",
+      "model": "T5-Contrast w/ One-stage training",
+      "dataset": "WordNet",
+      "metric": "BLEU"
+    },
+    {
+      "value": "73.79",
+      "type": "Result",
+      "model": "T5-Contrast w/ One-stage training",
+      "dataset": "WordNet",
+      "metric": "NIST"
+    },
+    {
+      "value": "27.06",
+      "type": "Result",
+      "model": "T5-Contrast w/ One-stage training",
+      "dataset": "Oxford",
+      "metric": "BLEU"
+    },
+    {
+      "value": "79.90",
+      "type": "Result",
+      "model": "T5-Contrast w/ One-stage training",
+      "dataset": "Oxford",
+      "metric": "NIST"
+    },
+    {
+      "value": "16.49",
+      "type": "Result",
+      "model": "T5-Contrast w/ One-stage training",
+      "dataset": "Urban",
+      "metric": "BLEU"
+    },
+    {
+      "value": "31.46",
+      "type": "Result",
+      "model": "T5-Contrast w/ One-stage training",
+      "dataset": "Urban",
+      "metric": "NIST"
+    },
+    {
+      "value": "7.71",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "BLEU",
+      "experimental_settings": {
+        "lambda": "1.0"
+      }
+    },
+    {
+      "value": "25.67",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "NIST",
+      "experimental_settings": {
+        "lambda": "1.0"
+      }
+    },
+    {
+      "value": "27.11",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "BLEU",
+      "experimental_settings": {
+        "lambda": "0.8"
+      }
+    },
+    {
+      "value": "79.42",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "NIST",
+      "experimental_settings": {
+        "lambda": "0.8"
+      }
+    },
+    {
+      "value": "27.23",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "BLEU",
+      "experimental_settings": {
+        "lambda": "0.6"
+      }
+    },
+    {
+      "value": "79.86",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "NIST",
+      "experimental_settings": {
+        "lambda": "0.6"
+      }
+    },
+    {
+      "value": "26.66",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "BLEU",
+      "experimental_settings": {
+        "lambda": "0.4"
+      }
+    },
+    {
+      "value": "77.68",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "NIST",
+      "experimental_settings": {
+        "lambda": "0.4"
+      }
+    },
+    {
+      "value": "26.54",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "BLEU",
+      "experimental_settings": {
+        "lambda": "0.2"
+      }
+    },
+    {
+      "value": "78.60",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "NIST",
+      "experimental_settings": {
+        "lambda": "0.2"
+      }
+    },
+    {
+      "value": "25.44",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "BLEU",
+      "experimental_settings": {
+        "lambda": "0.0"
+      }
+    },
+    {
+      "value": "66.92",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "NIST",
+      "experimental_settings": {
+        "lambda": "0.0"
+      }
+    },
+    {
+      "value": "3.17",
+      "type": "Result",
+      "model": "T5-Base",
+      "dataset": "Oxford",
+      "metric": "Accuracy (manual)"
+    },
+    {
+      "value": "3.89",
+      "type": "Result",
+      "model": "T5-Base",
+      "dataset": "Oxford",
+      "metric": "Fluency (manual)"
+    },
+    {
+      "value": "7.6%",
+      "type": "Result",
+      "model": "T5-Base",
+      "dataset": "Oxford",
+      "metric": "Under-specified ratio (manual)"
+    },
+    {
+      "value": "3.43",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "dataset": "Oxford",
+      "metric": "Accuracy (manual)"
+    },
+    {
+      "value": "3.95",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "dataset": "Oxford",
+      "metric": "Fluency (manual)"
+    },
+    {
+      "value": "5.4%",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "dataset": "Oxford",
+      "metric": "Under-specified ratio (manual)"
+    },
+    {
+      "value": "3.46",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "Accuracy (manual)"
+    },
+    {
+      "value": "4.03",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "Fluency (manual)"
+    },
+    {
+      "value": "4.6%",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "Under-specified ratio (manual)"
+    },
+    {
+      "value": "4.57",
+      "type": "Result",
+      "model": "Golden",
+      "dataset": "Oxford",
+      "metric": "Accuracy (manual)"
+    },
+    {
+      "value": "4.92",
+      "type": "Result",
+      "model": "Golden",
+      "dataset": "Oxford",
+      "metric": "Fluency (manual)"
+    },
+    {
+      "value": "0.2%",
+      "type": "Result",
+      "model": "Golden",
+      "dataset": "Oxford",
+      "metric": "Under-specified ratio (manual)"
+    },
+    {
+      "value": "0.962",
+      "type": "Result",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Inter-annotator agreement (ICC)"
+    },
+    {
+      "value": "100",
+      "type": "Data Stat.",
+      "model": "N/A",
+      "dataset": "Oxford",
+      "metric": "Number of samples for manual evaluation"
+    },
+    {
+      "value": "8",
+      "type": "Hyper-parameter/Architecture",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "Batch size (analysis)"
+    },
+    {
+      "value": "16",
+      "type": "Hyper-parameter/Architecture",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "Batch size (analysis)"
+    },
+    {
+      "value": "32",
+      "type": "Hyper-parameter/Architecture",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "Batch size (analysis)"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "T5-Contrast",
+      "dataset": "Oxford",
+      "metric": "Batch size (analysis)"
+    }
+  ],
+  "elapsed_seconds": 73.0,
+  "raw_preview": "{\"value\": \"9.0%\", \"type\": \"Result\", \"model\": \"Huang et al. (2021)\", \"dataset\": \"N/A\", \"metric\": \"Under-specified error ratio\"}\n{\"value\": \"5.5%\", \"type\": \"Result\", \"model\": \"Huang et al. (2021)\", \"dataset\": \"N/A\", \"metric\": \"Over-specified error ratio\"}\n{\"value\": \"3.0%\", \"type\": \"Result\", \"model\": \"Huang et al. (2021)\", \"dataset\": \"N/A\", \"metric\": \"Self-reference error ratio\"}\n{\"value\": \"1.0%\", \"type\": \"Result\", \"model\": \"Huang et al. (2021)\", \"dataset\": \"N/A\", \"metric\": \"Wrong part-of-speech err"
+}

@@ -1,0 +1,361 @@
+{
+  "pdf_id": "2210.00213v1",
+  "predictions": [
+    {
+      "value": "-4.8627",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "baseline": "FNHP",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "-5.6928",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "-5.2629",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-Descriptor",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "-5.7727",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-Descriptor",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "0.00159",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "0.00149",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-Descriptor",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "-3.8254",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-Descriptor",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "-5.1462",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-Descriptor",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "0.00548",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "0.00471",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-Descriptor",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "0.00152",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "0.00150",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "0.00152",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "0.00471",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Continual Learning"
+    },
+    {
+      "value": "0.0001",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Adam Optimizer",
+      "hyper-parameter name": "learning rate",
+      "dataset": "N/A"
+    },
+    {
+      "value": "0.90",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Adam Optimizer",
+      "hyper-parameter name": "\u03b21",
+      "dataset": "N/A"
+    },
+    {
+      "value": "0.99",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Adam Optimizer",
+      "hyper-parameter name": "\u03b22",
+      "dataset": "N/A"
+    },
+    {
+      "value": "0.00159",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Zero-Shot Learning"
+    },
+    {
+      "value": "0.00149",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-Descriptor",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Zero-Shot Learning"
+    },
+    {
+      "value": "0.00152",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Zero-Shot Learning"
+    },
+    {
+      "value": "0.00150",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Zero-Shot Learning"
+    },
+    {
+      "value": "0.00548",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Zero-Shot Learning"
+    },
+    {
+      "value": "0.00471",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-Descriptor",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Zero-Shot Learning"
+    },
+    {
+      "value": "0.00508",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Zero-Shot Learning"
+    },
+    {
+      "value": "0.00471",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Zero-Shot Learning"
+    },
+    {
+      "value": "0.00159",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Standard Event Modeling"
+    },
+    {
+      "value": "0.00149",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-Descriptor",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Standard Event Modeling"
+    },
+    {
+      "value": "0.00152",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Standard Event Modeling"
+    },
+    {
+      "value": "0.00150",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Standard Event Modeling"
+    },
+    {
+      "value": "0.00159",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Standard Event Modeling"
+    },
+    {
+      "value": "0.00149",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-Descriptor",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Standard Event Modeling"
+    },
+    {
+      "value": "0.00152",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP",
+      "setup": "Standard Event Modeling"
+    },
+    {
+      "value": "0.00150",
+      "type": "Result",
+      "model": "Hyper Hawkes-FNN-RNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "baseline": "FNHP-Descriptor",
+      "setup": "Standard Event Modeling"
+    },
+    {
+      "value": "0.0001",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Adam Optimizer",
+      "hyper-parameter name": "learning rate",
+      "dataset": "N/A"
+    },
+    {
+      "value": "0.90",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Adam Optimizer",
+      "hyper-parameter name": "\u03b21",
+      "dataset": "N/A"
+    },
+    {
+      "value": "0.99",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Adam Optimizer",
+      "hyper-parameter name": "\u03b22",
+      "dataset": "N/A"
+    },
+    {
+      "value": "32",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hypernetwork",
+      "hyper-parameter name": "units",
+      "dataset": "N/A"
+    },
+    {
+      "value": "softplus",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hypernetwork",
+      "hyper-parameter name": "activation function",
+      "dataset": "N/A"
+    },
+    {
+      "value": "16",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Recurrent Neural Network",
+      "hyper-parameter name": "units",
+      "dataset": "N/A"
+    },
+    {
+      "value": "16",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Feed-Forward Neural Network",
+      "hyper-parameter name": "units",
+      "dataset": "N/A"
+    },
+    {
+      "value": "16",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Feed-Forward Neural Network",
+      "hyper-parameter name": "units",
+      "dataset": "N/A"
+    },
+    {
+      "value": "0.5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Hyper Hawkes",
+      "hyper-parameter name": "\u03b2",
+      "dataset": "N/A"
+    }
+  ],
+  "elapsed_seconds": 79.5,
+  "raw_preview": "{\"value\": \"-4.8627\", \"type\": \"Result\", \"model\": \"Hyper Hawkes-FNN\", \"dataset\": \"Yelp\", \"metric\": \"MNLL\", \"baseline\": \"FNHP\", \"setup\": \"Continual Learning\"}\n{\"value\": \"-5.6928\", \"type\": \"Result\", \"model\": \"Hyper Hawkes-FNN\", \"dataset\": \"Yelp\", \"metric\": \"MAE\", \"baseline\": \"FNHP\", \"setup\": \"Continual Learning\"}\n{\"value\": \"-5.2629\", \"type\": \"Result\", \"model\": \"Hyper Hawkes-FNN-Descriptor\", \"dataset\": \"Yelp\", \"metric\": \"MNLL\", \"baseline\": \"FNHP-Descriptor\", \"setup\": \"Continual Learning\"}\n{\"value\": \""
+}

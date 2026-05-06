@@ -1,0 +1,415 @@
+{
+  "pdf_id": "S0022309307012938",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_37_5",
+      "component": "SiO2",
+      "value": 60.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_37_5",
+      "component": "B2O3",
+      "value": 18.57,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_37_5",
+      "component": "Na2O",
+      "value": 10.53,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_37_5",
+      "component": "Li2O",
+      "value": 10.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_37_5",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_50_0",
+      "component": "SiO2",
+      "value": 60.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_50_0",
+      "component": "B2O3",
+      "value": 18.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_50_0",
+      "component": "Na2O",
+      "value": 10.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_50_0",
+      "component": "Li2O",
+      "value": 10.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_50_0",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_58_3",
+      "component": "SiO2",
+      "value": 59.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_58_3",
+      "component": "B2O3",
+      "value": 18.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_58_3",
+      "component": "Na2O",
+      "value": 10.35,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_58_3",
+      "component": "Li2O",
+      "value": 10.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_58_3",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_64_3",
+      "component": "SiO2",
+      "value": 59.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_64_3",
+      "component": "B2O3",
+      "value": 18.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_64_3",
+      "component": "Na2O",
+      "value": 10.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_64_3",
+      "component": "Li2O",
+      "value": 10.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_64_3",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_65_0",
+      "component": "SiO2",
+      "value": 54.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_65_0",
+      "component": "B2O3",
+      "value": 16.68,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_65_0",
+      "component": "Na2O",
+      "value": 9.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_65_0",
+      "component": "Li2O",
+      "value": 9.24,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_65_0",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_72_5",
+      "component": "SiO2",
+      "value": 53.34,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_72_5",
+      "component": "B2O3",
+      "value": 16.34,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_72_5",
+      "component": "Na2O",
+      "value": 9.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_72_5",
+      "component": "Li2O",
+      "value": 9.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_72_5",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_80_0",
+      "component": "SiO2",
+      "value": 59.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_80_0",
+      "component": "B2O3",
+      "value": 18.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_80_0",
+      "component": "Na2O",
+      "value": 10.31,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_80_0",
+      "component": "Li2O",
+      "value": 10.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_80_0",
+      "component": "Fe2O3",
+      "value": 2.42,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_86_2",
+      "component": "SiO2",
+      "value": 54.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_86_2",
+      "component": "B2O3",
+      "value": 16.77,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_86_2",
+      "component": "Na2O",
+      "value": 9.55,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_86_2",
+      "component": "Li2O",
+      "value": 9.32,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_86_2",
+      "component": "Fe2O3",
+      "value": 9.66,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_92_9",
+      "component": "SiO2",
+      "value": 53.34,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_92_9",
+      "component": "B2O3",
+      "value": 16.34,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_92_9",
+      "component": "Na2O",
+      "value": 9.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_92_9",
+      "component": "Li2O",
+      "value": 9.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Li2O_92_9",
+      "component": "Fe2O3",
+      "value": 11.98,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_2_2",
+      "component": "SiO2",
+      "value": 60.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_2_2",
+      "component": "B2O3",
+      "value": 18.57,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_2_2",
+      "component": "Na2O",
+      "value": 10.53,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_2_2",
+      "component": "Li2O",
+      "value": 10.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_2_2",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_9_66",
+      "component": "SiO2",
+      "value": 60.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_9_66",
+      "component": "B2O3",
+      "value": 18.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_9_66",
+      "component": "Na2O",
+      "value": 10.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_9_66",
+      "component": "Li2O",
+      "value": 10.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_9_66",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_10_35",
+      "component": "SiO2",
+      "value": 59.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_10_35",
+      "component": "B2O3",
+      "value": 18.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_10_35",
+      "component": "Na2O",
+      "value": 10.35,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_10_35",
+      "component": "Li2O",
+      "value": 10.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_10_35",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_10_26",
+      "component": "SiO2",
+      "value": 59.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_10_26",
+      "component": "B2O3",
+      "value": 18.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_10_26",
+      "component": "Na2O",
+      "value": 10.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_10_26",
+      "component": "Li2O",
+      "value": 10.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_10_26",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_9_46",
+      "component": "SiO2",
+      "value": 54.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_9_46",
+      "component": "B2O3",
+      "value": 16.68,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs2O_9_46",
+      "component": "Na2O",
+      "value": 9.46,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 170.3,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_Li2O_37_5\", \"component\": \"SiO2\", \"value\": 60.61, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Li2O_37_5\", \"component\": \"B2O3\", \"value\": 18.57, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Li2O_37_5\", \"component\": \"Na2O\", \"value\": 10.53, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Li2O_37_5\", \"component\": \"Li2O\", \"value\": 10.29, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Li2O_37_5\", \"component\": \"Fe2O3\", \"value\": 0.1, \"un"
+}

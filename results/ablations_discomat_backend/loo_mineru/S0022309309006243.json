@@ -1,0 +1,103 @@
+{
+  "pii": "S0022309309006243",
+  "predictions": [
+    {
+      "sample_id": "CZ 05",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 05",
+      "component": "MgO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 05",
+      "component": "P2O5",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 08",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 08",
+      "component": "MgO",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 08",
+      "component": "P2O5",
+      "value": 62.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 13",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 13",
+      "component": "MgO",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 13",
+      "component": "P2O5",
+      "value": 57.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 18",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 18",
+      "component": "MgO",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 18",
+      "component": "P2O5",
+      "value": 52.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 20",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 20",
+      "component": "MgO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ 20",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 15,
+  "elapsed_seconds": 24.9,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber",
+    "camelot"
+  ]
+}

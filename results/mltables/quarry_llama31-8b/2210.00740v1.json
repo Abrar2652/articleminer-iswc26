@@ -1,0 +1,2121 @@
+{
+  "arxiv_id": "2210.00740v1",
+  "predictions": [
+    {
+      "value": "66.9",
+      "type": "Result",
+      "model": "Hourglass",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "69.4",
+      "type": "Result",
+      "model": "CPN",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "71.6",
+      "type": "Result",
+      "model": "CPN",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "76.6",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "72.7",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.9",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.5",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "77.8",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.2",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.3",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.5",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "75.8",
+      "type": "Result",
+      "model": "TokenPose",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "TokenPose",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "72.3",
+      "type": "Result",
+      "model": "TokenPose",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.7",
+      "type": "Result",
+      "model": "TokenPose",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "model": "TokenPose",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.4",
+      "type": "Result",
+      "model": "Removing Bias",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "75.8",
+      "type": "Result",
+      "model": "Removing Bias",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.8",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.1",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "67.8",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.0",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "76.7",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.9",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.6",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.2",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.2",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.6",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.2",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.2",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.5",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.3",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.7",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.8",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.8",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.5",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.8",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.8",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.0",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.2",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.8",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.3",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.6",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.6",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.9",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.6",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.4",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "75.3",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.3",
+      "type": "Result",
+      "model": "HRFormer",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "76.7",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.1",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.6",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "69.7",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.0",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.2",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.2",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{50}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.5",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "\\text{AP}^{75}",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.3",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "APM",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.7",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "APL",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "MPII",
+      "metric": "AR",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "64.9",
+      "type": "Result",
+      "metric": "AP",
+      "model": "G-RMI[22]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.5",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "G-RMI[22]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "71.3",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "G-RMI[22]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "62.3",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "G-RMI[22]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "70.0",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "G-RMI[22]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "69.7",
+      "type": "Result",
+      "metric": "AR",
+      "model": "G-RMI[22]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "63.1",
+      "type": "Result",
+      "metric": "AP",
+      "model": "Mask-RCNN[9]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "87.3",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "Mask-RCNN[9]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "68.7",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "Mask-RCNN[9]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "57.8",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "Mask-RCNN[9]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "71.4",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "Mask-RCNN[9]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "72.3",
+      "type": "Result",
+      "metric": "AP",
+      "model": "RMPE[6]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "RMPE[6]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "79.1",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "RMPE[6]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "68.0",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "RMPE[6]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "RMPE[6]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "72.6",
+      "type": "Result",
+      "metric": "AP",
+      "model": "CFN[11]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "CFN[11]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "69.7",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "CFN[11]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "CFN[11]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "64.1",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "CFN[11]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "72.1",
+      "type": "Result",
+      "metric": "AP",
+      "model": "CPN[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.4",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "CPN[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.0",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "CPN[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "68.7",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "CPN[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "77.2",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "CPN[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.5",
+      "type": "Result",
+      "metric": "AR",
+      "model": "CPN[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "metric": "AP",
+      "model": "CPN(ensemble)[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.7",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "CPN(ensemble)[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "CPN(ensemble)[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "69.5",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "CPN(ensemble)[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "78.1",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "CPN(ensemble)[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "79.0",
+      "type": "Result",
+      "metric": "AR",
+      "model": "CPN(ensemble)[3]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "67.8",
+      "type": "Result",
+      "metric": "AP",
+      "model": "Integral Pose Regression[27]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "88.2",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "Integral Pose Regression[27]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "Integral Pose Regression[27]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "63.9",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "Integral Pose Regression[27]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.0",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "Integral Pose Regression[27]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.6",
+      "type": "Result",
+      "metric": "AP",
+      "model": "Posefix[18]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.8",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "Posefix[18]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.0",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "Posefix[18]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "70.3",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "Posefix[18]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "79.8",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "Posefix[18]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "79.0",
+      "type": "Result",
+      "metric": "AR",
+      "model": "Posefix[18]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "76.2",
+      "type": "Result",
+      "metric": "AP",
+      "model": "DarkPose[39]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "DarkPose[39]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.6",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "DarkPose[39]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "72.5",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "DarkPose[39]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "DarkPose[39]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "metric": "AR",
+      "model": "DarkPose[39]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "76.5",
+      "type": "Result",
+      "metric": "AP",
+      "model": "UDP[10]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.7",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "UDP[10]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.0",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "UDP[10]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "UDP[10]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "UDP[10]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.6",
+      "type": "Result",
+      "metric": "AR",
+      "model": "UDP[10]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "75.9",
+      "type": "Result",
+      "metric": "AP",
+      "model": "TokenPose[15]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.3",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "TokenPose[15]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.4",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "TokenPose[15]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "72.2",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "TokenPose[15]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.1",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "TokenPose[15]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.0",
+      "type": "Result",
+      "metric": "AR",
+      "model": "Removing Bias[7]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.8",
+      "type": "Result",
+      "metric": "AP",
+      "model": "Simple Baseline[33]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.7",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "Simple Baseline[33]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.2",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "Simple Baseline[33]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "70.3",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "Simple Baseline[33]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.0",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "Simple Baseline[33]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "79.1",
+      "type": "Result",
+      "metric": "AR",
+      "model": "Simple Baseline[33]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "75.3",
+      "type": "Result",
+      "metric": "AP",
+      "model": "Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.6",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "71.7",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.3",
+      "type": "Result",
+      "metric": "AR",
+      "model": "Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "74.9",
+      "type": "Result",
+      "metric": "AP",
+      "model": "HRNet[26]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "HRNet[26]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.8",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "HRNet[26]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "71.3",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "HRNet[26]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "HRNet[26]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "80.1",
+      "type": "Result",
+      "metric": "AR",
+      "model": "HRNet[26]",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "76.7",
+      "type": "Result",
+      "metric": "AP",
+      "model": "HRNet[26] + Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "92.6",
+      "type": "Result",
+      "metric": "AP 50",
+      "model": "HRNet[26] + Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.0",
+      "type": "Result",
+      "metric": "AP 75",
+      "model": "HRNet[26] + Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "metric": "AP M",
+      "model": "HRNet[26] + Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.8",
+      "type": "Result",
+      "metric": "AP L",
+      "model": "HRNet[26] + Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.5",
+      "type": "Result",
+      "metric": "AR",
+      "model": "HRNet[26] + Ours",
+      "dataset": "MPII",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "87.9",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "Integral Pose Regression",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "UDP",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.4",
+      "type": "Result",
+      "metric": "Hea",
+      "model": "UDP",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "96.0",
+      "type": "Result",
+      "metric": "Sho",
+      "model": "UDP",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.0",
+      "type": "Result",
+      "metric": "Elb",
+      "model": "UDP",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.5",
+      "type": "Result",
+      "metric": "Wri",
+      "model": "UDP",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.1",
+      "type": "Result",
+      "metric": "Hip",
+      "model": "UDP",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.6",
+      "type": "Result",
+      "metric": "Kne",
+      "model": "UDP",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.3",
+      "type": "Result",
+      "metric": "Ank",
+      "model": "UDP",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "DarkPose",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.2",
+      "type": "Result",
+      "metric": "Hea",
+      "model": "DarkPose",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "metric": "Sho",
+      "model": "DarkPose",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.2",
+      "type": "Result",
+      "metric": "Elb",
+      "model": "DarkPose",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.7",
+      "type": "Result",
+      "metric": "Wri",
+      "model": "DarkPose",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.7",
+      "type": "Result",
+      "metric": "Hip",
+      "model": "DarkPose",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.0",
+      "type": "Result",
+      "metric": "Ank",
+      "model": "DarkPose",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "TokenPose-L/D6",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "metric": "Hea",
+      "model": "TokenPose-L/D6",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "metric": "Sho",
+      "model": "TokenPose-L/D6",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.0",
+      "type": "Result",
+      "metric": "Elb",
+      "model": "TokenPose-L/D6",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.8",
+      "type": "Result",
+      "metric": "Wri",
+      "model": "TokenPose-L/D6",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.5",
+      "type": "Result",
+      "metric": "Hip",
+      "model": "TokenPose-L/D6",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "metric": "Kne",
+      "model": "TokenPose-L/D6",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.7",
+      "type": "Result",
+      "metric": "Ank",
+      "model": "TokenPose-L/D6",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "TokenPose-L/D12",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.2",
+      "type": "Result",
+      "metric": "Hea",
+      "model": "TokenPose-L/D12",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.8",
+      "type": "Result",
+      "metric": "Sho",
+      "model": "TokenPose-L/D12",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "metric": "Elb",
+      "model": "TokenPose-L/D12",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.9",
+      "type": "Result",
+      "metric": "Wri",
+      "model": "TokenPose-L/D12",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "metric": "Hip",
+      "model": "TokenPose-L/D12",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.2",
+      "type": "Result",
+      "metric": "Kne",
+      "model": "TokenPose-L/D12",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.3",
+      "type": "Result",
+      "metric": "Ank",
+      "model": "TokenPose-L/D12",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "TokenPose-L/D24",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "metric": "Hea",
+      "model": "TokenPose-L/D24",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "metric": "Sho",
+      "model": "TokenPose-L/D24",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "metric": "Elb",
+      "model": "TokenPose-L/D24",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.0",
+      "type": "Result",
+      "metric": "Wri",
+      "model": "TokenPose-L/D24",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.3",
+      "type": "Result",
+      "metric": "Hip",
+      "model": "TokenPose-L/D24",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "87.1",
+      "type": "Result",
+      "metric": "Kne",
+      "model": "TokenPose-L/D24",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "metric": "Ank",
+      "model": "TokenPose-L/D24",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.9",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "Removing Bias",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "Removing Bias",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.0",
+      "type": "Result",
+      "metric": "Hea",
+      "model": "Simple Baseline",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "metric": "Sho",
+      "model": "Simple Baseline",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "metric": "Elb",
+      "model": "Simple Baseline",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.0",
+      "type": "Result",
+      "metric": "Wri",
+      "model": "Simple Baseline",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "metric": "Hip",
+      "model": "Simple Baseline",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "metric": "Kne",
+      "model": "Simple Baseline",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "metric": "Ank",
+      "model": "Simple Baseline",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "Ours",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.0",
+      "type": "Result",
+      "metric": "Hea",
+      "model": "Ours",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "96.1",
+      "type": "Result",
+      "metric": "Sho",
+      "model": "Ours",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "metric": "Elb",
+      "model": "Ours",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "metric": "Wri",
+      "model": "Ours",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "metric": "Hip",
+      "model": "Ours",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.7",
+      "type": "Result",
+      "metric": "Kne",
+      "model": "Ours",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "metric": "Ank",
+      "model": "Ours",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "HRNet",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "metric": "Hea",
+      "model": "HRNet",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "metric": "Sho",
+      "model": "HRNet",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "metric": "Elb",
+      "model": "HRNet",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "metric": "Wri",
+      "model": "HRNet",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.4",
+      "type": "Result",
+      "metric": "Hip",
+      "model": "HRNet",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.9",
+      "type": "Result",
+      "metric": "Kne",
+      "model": "HRNet",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.2",
+      "type": "Result",
+      "metric": "Ank",
+      "model": "HRNet",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "HRNet-W48",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "96.9",
+      "type": "Result",
+      "metric": "Hea",
+      "model": "HRNet-W48",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "96.0",
+      "type": "Result",
+      "metric": "Sho",
+      "model": "HRNet-W48",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.2",
+      "type": "Result",
+      "metric": "Wri",
+      "model": "HRNet-W48",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "metric": "Hip",
+      "model": "HRNet-W48",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "87.1",
+      "type": "Result",
+      "metric": "Kne",
+      "model": "HRNet-W48",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.5",
+      "type": "Result",
+      "metric": "Ank",
+      "model": "HRNet-W48",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "metric": "Mean",
+      "model": "HRNet-W32",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.3",
+      "type": "Result",
+      "metric": "Hea",
+      "model": "HRNet-W32",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "96.2",
+      "type": "Result",
+      "metric": "Sho",
+      "model": "HRNet-W32",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.2",
+      "type": "Result",
+      "metric": "Elb",
+      "model": "HRNet-W32",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.8",
+      "type": "Result",
+      "metric": "Wri",
+      "model": "HRNet-W32",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "metric": "Hip",
+      "model": "HRNet-W32",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "87.4",
+      "type": "Result",
+      "metric": "Kne",
+      "model": "HRNet-W32",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.1",
+      "type": "Result",
+      "metric": "Ank",
+      "model": "HRNet-W32",
+      "dataset": "None",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "metric": "AP",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "91.8",
+      "type": "Result",
+      "metric": "AP 50",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "83.8",
+      "type": "Result",
+      "metric": "AP 75",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "metric": "AP M",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "83.5",
+      "type": "Result",
+      "metric": "AP L",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "81.8",
+      "type": "Result",
+      "metric": "AR",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "77.9",
+      "type": "Result",
+      "metric": "AP",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "metric": "AP 50",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "84.8",
+      "type": "Result",
+      "metric": "AP 75",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "74.5",
+      "type": "Result",
+      "metric": "AP M",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "83.9",
+      "type": "Result",
+      "metric": "AP L",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "metric": "AR",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "78.8",
+      "type": "Result",
+      "metric": "AP",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "metric": "AP 75",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "75",
+      "type": "Result",
+      "metric": "AP M",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "metric": "AP L",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "metric": "AR",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "metric": "AP",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "metric": "AP 50",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "84.9",
+      "type": "Result",
+      "metric": "AP 75",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "metric": "AP M",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "84.4",
+      "type": "Result",
+      "metric": "AP L",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "82.7",
+      "type": "Result",
+      "metric": "AR",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "metric": "AP",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "85.2",
+      "type": "Result",
+      "metric": "AP 75",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "85.4",
+      "type": "Result",
+      "metric": "AP L",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    },
+    {
+      "value": "83",
+      "type": "Result",
+      "metric": "AR",
+      "task": "2D human pose estimation",
+      "dataset": "MPII"
+    }
+  ],
+  "num_gold_annotations": 322,
+  "elapsed_seconds": 551.0,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

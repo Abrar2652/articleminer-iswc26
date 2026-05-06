@@ -1,0 +1,154 @@
+{
+  "pii": "S0022309307006758",
+  "predictions": [
+    {
+      "sample_id": "MW",
+      "component": "SiO2",
+      "value": 60.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "MW",
+      "component": "B2O3",
+      "value": 18.57,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "MW",
+      "component": "Na2O",
+      "value": 10.53,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "MW",
+      "component": "Li2O",
+      "value": 10.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "MW",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(AlMW)",
+      "component": "SiO2",
+      "value": 60.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(AlMW)",
+      "component": "B2O3",
+      "value": 18.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(AlMW)",
+      "component": "Na2O",
+      "value": 10.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(AlMW)",
+      "component": "Li2O",
+      "value": 10.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(AlMW)",
+      "component": "Al2O3",
+      "value": 0.95,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(AlMW)",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(LaMW)",
+      "component": "SiO2",
+      "value": 59.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(LaMW)",
+      "component": "B2O3",
+      "value": 18.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(LaMW)",
+      "component": "Na2O",
+      "value": 10.35,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(LaMW)",
+      "component": "Li2O",
+      "value": 10.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(LaMW)",
+      "component": "La2O3",
+      "value": 1.68,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(LaMW)",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(MgMW)",
+      "component": "SiO2",
+      "value": 59.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(MgMW)",
+      "component": "B2O3",
+      "value": 18.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(MgMW)",
+      "component": "Na2O",
+      "value": 10.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(MgMW)",
+      "component": "Li2O",
+      "value": 10.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(MgMW)",
+      "component": "MgO",
+      "value": 2.55,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Cs(MgMW)",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CsMg'MW)",
+      "component": "Fe2O3",
+      "value": 0.1,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 37,
+  "elapsed_seconds": 33.2,
+  "backends": [
+    "docling"
+  ]
+}

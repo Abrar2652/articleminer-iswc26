@@ -1,0 +1,734 @@
+{
+  "arxiv_id": "2210.00055v1",
+  "predictions": [
+    {
+      "value": "88.3",
+      "type": "Result",
+      "model": "Group DRO",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "91.8",
+      "type": "Result",
+      "model": "Group DRO",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "64.4",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "77.2",
+      "type": "Result",
+      "model": "LfF",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "89.1",
+      "type": "Result",
+      "model": "LfF",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "83.2",
+      "type": "Result",
+      "model": "SD",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "91.6",
+      "type": "Result",
+      "model": "SD",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "JTT",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "88.0",
+      "type": "Result",
+      "model": "JTT",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "model": "CIM",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "CIM",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "47.2",
+      "type": "Result",
+      "model": "ERM",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "model": "ERM",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "36.1",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "24.4",
+      "type": "Result",
+      "model": "LfF",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "LfF",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "40.6",
+      "type": "Result",
+      "model": "JTT",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "55.0",
+      "type": "Result",
+      "model": "DivDis",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "90.8",
+      "type": "Result",
+      "model": "DivDis",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "78.0",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Worst-group accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "91.3",
+      "type": "Result",
+      "model": "MaskTune",
+      "metric": "Average accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "100",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "Cifar-10"
+    },
+    {
+      "value": "99.99",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.02",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "8.96",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.48",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "95",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "Cifar-10"
+    },
+    {
+      "value": "94.86",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.18",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "6.54",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.39",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "90",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "Cifar-10"
+    },
+    {
+      "value": "89.73",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.22",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "4.74",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.31",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "85",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "Cifar-10"
+    },
+    {
+      "value": "84.46",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.07",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "3.23",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.20",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "80",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "Cifar-10"
+    },
+    {
+      "value": "79.03",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.44",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "2.13",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.11",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cifar-10",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "100",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "SVHN"
+    },
+    {
+      "value": "100.0",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.00",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "3.68",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.16",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "95",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "SVHN"
+    },
+    {
+      "value": "95.19",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.09",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "1.84",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.23",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "90",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "SVHN"
+    },
+    {
+      "value": "89.55",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.26",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "0.96",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.11",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "85",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "SVHN"
+    },
+    {
+      "value": "83.72",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.71",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "0.57",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.04",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "80",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "SVHN"
+    },
+    {
+      "value": "77.81",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.75",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "0.45",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.05",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "100",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "Cats vs. Dogs"
+    },
+    {
+      "value": "99.98",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "4.83",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.17",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "95",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "Cats vs. Dogs"
+    },
+    {
+      "value": "95.01",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.14",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "2.96",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.15",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "90",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "Cats vs. Dogs"
+    },
+    {
+      "value": "90.78",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.16",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "1.94",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.18",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "85",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "Cats vs. Dogs"
+    },
+    {
+      "value": "86.33",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.61",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "1.24",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.21",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "error std",
+      "task": "classification"
+    },
+    {
+      "value": "80",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Target coverage",
+      "dataset": "Cats vs. Dogs"
+    },
+    {
+      "value": "81.98",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.47",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "coverage std",
+      "task": "classification"
+    },
+    {
+      "value": "0.89",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Err.",
+      "task": "classification"
+    },
+    {
+      "value": "0.20",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "error std",
+      "task": "classification"
+    }
+  ],
+  "num_gold_annotations": 187,
+  "elapsed_seconds": 48.4,
+  "backends": [
+    "marker"
+  ]
+}

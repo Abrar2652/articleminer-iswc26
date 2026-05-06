@@ -1,0 +1,403 @@
+{
+  "pdf_id": "S0022309300004130",
+  "predictions": [
+    {
+      "sample_id": "glass1_batch",
+      "component": "Pb",
+      "value": 16.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass1_batch",
+      "component": "P",
+      "value": 14.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass1_batch",
+      "component": "Br",
+      "value": 23.81,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass1_batch",
+      "component": "Cl",
+      "value": 9.52,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass1_batch",
+      "component": "O",
+      "value": 35.71,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass1_analyzed",
+      "component": "Pb",
+      "value": 16.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass1_analyzed",
+      "component": "P",
+      "value": 8.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass1_analyzed",
+      "component": "Br",
+      "value": 19.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass1_analyzed",
+      "component": "Cl",
+      "value": 8.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass1_analyzed",
+      "component": "O",
+      "value": 47.69,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass2_batch",
+      "component": "Pb",
+      "value": 16.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass2_batch",
+      "component": "P",
+      "value": 14.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass2_batch",
+      "component": "Br",
+      "value": 19.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass2_batch",
+      "component": "Cl",
+      "value": 14.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass2_batch",
+      "component": "O",
+      "value": 35.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass2_analyzed",
+      "component": "Pb",
+      "value": 15.41,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass2_analyzed",
+      "component": "P",
+      "value": 7.99,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass2_analyzed",
+      "component": "Br",
+      "value": 21.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass2_analyzed",
+      "component": "Cl",
+      "value": 10.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass2_analyzed",
+      "component": "O",
+      "value": 44.96,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass3_batch",
+      "component": "Pb",
+      "value": 17.48,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass3_batch",
+      "component": "P",
+      "value": 13.94,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass3_batch",
+      "component": "Br",
+      "value": 18.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass3_batch",
+      "component": "Cl",
+      "value": 13.93,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass3_batch",
+      "component": "O",
+      "value": 36.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass3_analyzed",
+      "component": "Pb",
+      "value": 16.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass3_analyzed",
+      "component": "P",
+      "value": 6.23,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass3_analyzed",
+      "component": "Br",
+      "value": 18.95,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass3_analyzed",
+      "component": "Cl",
+      "value": 9.53,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass3_analyzed",
+      "component": "O",
+      "value": 49.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_batch",
+      "component": "Pb",
+      "value": 17.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_batch",
+      "component": "P",
+      "value": 13.77,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_batch",
+      "component": "F",
+      "value": 2.41,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_batch",
+      "component": "Br",
+      "value": 18.35,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_batch",
+      "component": "Cl",
+      "value": 13.77,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_batch",
+      "component": "O",
+      "value": 34.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_analyzed",
+      "component": "Pb",
+      "value": 16.09,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_analyzed",
+      "component": "P",
+      "value": 6.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_analyzed",
+      "component": "F",
+      "value": 3.24,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_analyzed",
+      "component": "Br",
+      "value": 19.18,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_analyzed",
+      "component": "Cl",
+      "value": 8.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass4_analyzed",
+      "component": "O",
+      "value": 46.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_batch",
+      "component": "Pb",
+      "value": 17.37,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_batch",
+      "component": "P",
+      "value": 13.84,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_batch",
+      "component": "F",
+      "value": 1.21,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_batch",
+      "component": "Br",
+      "value": 18.48,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_batch",
+      "component": "Cl",
+      "value": 13.86,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_batch",
+      "component": "O",
+      "value": 35.24,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_analyzed",
+      "component": "Pb",
+      "value": 15.66,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_analyzed",
+      "component": "P",
+      "value": 6.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_analyzed",
+      "component": "F",
+      "value": 2.98,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_analyzed",
+      "component": "Br",
+      "value": 18.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_analyzed",
+      "component": "Cl",
+      "value": 10.99,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass5_analyzed",
+      "component": "O",
+      "value": 45.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_batch",
+      "component": "Pb",
+      "value": 14.58,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_batch",
+      "component": "P",
+      "value": 16.41,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_batch",
+      "component": "F",
+      "value": 2.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_batch",
+      "component": "Br",
+      "value": 8.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_batch",
+      "component": "Cl",
+      "value": 16.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_batch",
+      "component": "O",
+      "value": 42.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_analyzed",
+      "component": "Pb",
+      "value": 14.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_analyzed",
+      "component": "P",
+      "value": 7.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_analyzed",
+      "component": "F",
+      "value": 3.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_analyzed",
+      "component": "Br",
+      "value": 12.42,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_analyzed",
+      "component": "Cl",
+      "value": 10.87,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "glass6_analyzed",
+      "component": "O",
+      "value": 51.63,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 31.2,
+  "raw_preview": "I'll extract all material-composition entries from Table 1 in the paper, which shows batch (a) and analyzed (b) compositions in atom%.\n\n{\"sample_id\": \"glass1_batch\", \"component\": \"Pb\", \"value\": 16.67, \"unit\": \"mol\"}\n{\"sample_id\": \"glass1_batch\", \"component\": \"P\", \"value\": 14.29, \"unit\": \"mol\"}\n{\"sample_id\": \"glass1_batch\", \"component\": \"Br\", \"value\": 23.81, \"unit\": \"mol\"}\n{\"sample_id\": \"glass1_batch\", \"component\": \"Cl\", \"value\": 9.52, \"unit\": \"mol\"}\n{\"sample_id\": \"glass1_batch\", \"component\": \"O\""
+}

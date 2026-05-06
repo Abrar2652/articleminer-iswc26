@@ -1,0 +1,175 @@
+{
+  "pdf_id": "2210.00698v1",
+  "predictions": [
+    {
+      "value": "5000",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Cityscapes",
+      "metric": "number of annotated images"
+    },
+    {
+      "value": "1024",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Cityscapes",
+      "metric": "image height"
+    },
+    {
+      "value": "2048",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Cityscapes",
+      "metric": "image width"
+    },
+    {
+      "value": "2975",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Cityscapes",
+      "metric": "training images"
+    },
+    {
+      "value": "500",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Cityscapes",
+      "metric": "validation images"
+    },
+    {
+      "value": "1525",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Cityscapes",
+      "metric": "test images"
+    },
+    {
+      "value": "20000",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Cityscapes",
+      "metric": "weakly annotated frames"
+    },
+    {
+      "value": "25000",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Mapillary Vistas",
+      "metric": "number of images"
+    },
+    {
+      "value": "66",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Mapillary Vistas v1.2",
+      "metric": "number of object categories"
+    },
+    {
+      "value": "124",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Mapillary Vistas v2.0",
+      "metric": "number of object categories"
+    },
+    {
+      "value": "37",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Mapillary Vistas v1.2",
+      "metric": "instance-specific labels"
+    },
+    {
+      "value": "70",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Mapillary Vistas v2.0",
+      "metric": "instance-specific labels"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes",
+      "metric": "number of intermediate nodes per cell"
+    },
+    {
+      "value": "4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes",
+      "metric": "number of cell stacks"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes",
+      "metric": "random image crop size (height)"
+    },
+    {
+      "value": "102",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes",
+      "metric": "random image crop size (width)"
+    },
+    {
+      "value": "6",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes",
+      "metric": "batch size"
+    },
+    {
+      "value": "300",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes",
+      "metric": "architecture search epochs"
+    },
+    {
+      "value": "0.95",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes",
+      "metric": "SGD momentum"
+    },
+    {
+      "value": "0.0005",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes",
+      "metric": "weight decay (network weights)"
+    },
+    {
+      "value": "0.005",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes",
+      "metric": "learning rate (architecture)"
+    },
+    {
+      "value": "0.0001",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RSPNet",
+      "dataset": "Cityscapes",
+      "metric": "weight decay (architecture)"
+    },
+    {
+      "value": "5",
+      "type": "Result",
+      "model": "RSPNet",
+      "dataset": null,
+      "metric": "architecture search time (days)"
+    },
+    {
+      "value": "40",
+      "type": "Result",
+      "model": "RSPNet",
+      "dataset": "Cityscapes",
+      "metric": "validation accuracy during macro search (%)"
+    }
+  ],
+  "elapsed_seconds": 20.1,
+  "raw_preview": "{\"value\": \"5000\", \"type\": \"Data Stat.\", \"model\": null, \"dataset\": \"Cityscapes\", \"metric\": \"number of annotated images\"}\n{\"value\": \"1024\", \"type\": \"Data Stat.\", \"model\": null, \"dataset\": \"Cityscapes\", \"metric\": \"image height\"}\n{\"value\": \"2048\", \"type\": \"Data Stat.\", \"model\": null, \"dataset\": \"Cityscapes\", \"metric\": \"image width\"}\n{\"value\": \"2975\", \"type\": \"Data Stat.\", \"model\": null, \"dataset\": \"Cityscapes\", \"metric\": \"training images\"}\n{\"value\": \"500\", \"type\": \"Data Stat.\", \"model\": null, \"datas"
+}

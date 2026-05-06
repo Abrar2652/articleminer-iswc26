@@ -1,0 +1,115 @@
+{
+  "pdf_id": "S0022309315302106",
+  "predictions": [
+    {
+      "sample_id": "BaPF0",
+      "component": "BaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF0",
+      "component": "CaF2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF0",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF2",
+      "component": "BaO",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF2",
+      "component": "CaF2",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF2",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF4",
+      "component": "BaO",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF4",
+      "component": "CaF2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF4",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF6",
+      "component": "BaO",
+      "value": 44.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF6",
+      "component": "CaF2",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF6",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF8",
+      "component": "BaO",
+      "value": 42.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF8",
+      "component": "CaF2",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF8",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF10",
+      "component": "BaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF10",
+      "component": "CaF2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BaPF10",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 21.7,
+  "raw_preview": "I need to find the composition table (Table 1) from the paper. Based on the text, the glasses follow the formula (50 \u2212 X)BaO\u2013XCaF2\u201350P2O5 with sample codes BaPF0, BaPF2, BaPF4, BaPF6, BaPF8, BaPF10, where X = 0, 2, 4, 6, 8, 10 mol%.\n\nThe sample codes suggest X values for CaF2, with BaO = (50-X) and P2O5 = 50 mol%.\n\n{\"sample_id\": \"BaPF0\", \"component\": \"BaO\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"BaPF0\", \"component\": \"CaF2\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_id\": \"BaPF0\", \"component\": \""
+}

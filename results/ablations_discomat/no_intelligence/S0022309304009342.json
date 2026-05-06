@@ -1,0 +1,260 @@
+{
+  "pdf_id": "S0022309304009342",
+  "predictions": [
+    {
+      "sample_id": "A",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "A",
+      "component": "Al2O3",
+      "value": 22.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "A",
+      "component": "B2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "A",
+      "component": "SiO2",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B",
+      "component": "Al2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B",
+      "component": "B2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B",
+      "component": "SiO2",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C",
+      "component": "Al2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C",
+      "component": "SiO2",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "D",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "D",
+      "component": "Al2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "D",
+      "component": "SiO2",
+      "value": 32.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E",
+      "component": "Al2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E",
+      "component": "SiO2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F",
+      "component": "Al2O3",
+      "value": 27.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F",
+      "component": "B2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F",
+      "component": "SiO2",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G",
+      "component": "Al2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G",
+      "component": "SiO2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "H",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "H",
+      "component": "Al2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "H",
+      "component": "B2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "H",
+      "component": "SiO2",
+      "value": 27.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "I",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "I",
+      "component": "Al2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "I",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "I",
+      "component": "SiO2",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "K",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "K",
+      "component": "Al2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "K",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "K",
+      "component": "SiO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L",
+      "component": "Al2O3",
+      "value": 32.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L",
+      "component": "SiO2",
+      "value": 22.5,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 44,
+  "ablation": "no_intelligence",
+  "elapsed_seconds": 31.7
+}

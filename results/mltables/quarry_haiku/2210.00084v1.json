@@ -1,0 +1,263 @@
+{
+  "arxiv_id": "2210.00084v1",
+  "predictions": [
+    {
+      "value": "169343",
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "number of nodes"
+    },
+    {
+      "value": "1166243",
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "number of edges"
+    },
+    {
+      "value": "128",
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "number of features"
+    },
+    {
+      "value": "40",
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "number of labels"
+    },
+    {
+      "value": "24",
+      "type": "Data Stat.",
+      "dataset": "Tissue-PPI",
+      "attribute name": "number of graphs"
+    },
+    {
+      "value": "51194",
+      "type": "Data Stat.",
+      "dataset": "Tissue-PPI",
+      "attribute name": "number of nodes"
+    },
+    {
+      "value": "1350412",
+      "type": "Data Stat.",
+      "dataset": "Tissue-PPI",
+      "attribute name": "number of edges"
+    },
+    {
+      "value": "50",
+      "type": "Data Stat.",
+      "dataset": "Tissue-PPI",
+      "attribute name": "number of features"
+    },
+    {
+      "value": "10",
+      "type": "Data Stat.",
+      "dataset": "Tissue-PPI",
+      "attribute name": "number of labels"
+    },
+    {
+      "value": "144",
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "number of graphs"
+    },
+    {
+      "value": "274606",
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "number of nodes"
+    },
+    {
+      "value": "3666563",
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "number of edges"
+    },
+    {
+      "value": "512",
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "number of features"
+    },
+    {
+      "value": "29",
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "number of labels"
+    },
+    {
+      "value": "2708",
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "number of nodes"
+    },
+    {
+      "value": "10556",
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "number of edges"
+    },
+    {
+      "value": "1433",
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "number of features"
+    },
+    {
+      "value": "7",
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "number of labels"
+    },
+    {
+      "value": "3327",
+      "type": "Data Stat.",
+      "dataset": "Citeseer",
+      "attribute name": "number of nodes"
+    },
+    {
+      "value": "9228",
+      "type": "Data Stat.",
+      "dataset": "Citeseer",
+      "attribute name": "number of edges"
+    },
+    {
+      "value": "3703",
+      "type": "Data Stat.",
+      "dataset": "Citeseer",
+      "attribute name": "number of features"
+    },
+    {
+      "value": "6",
+      "type": "Data Stat.",
+      "dataset": "Citeseer",
+      "attribute name": "number of labels"
+    },
+    {
+      "value": "11",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "number of training classes"
+    },
+    {
+      "value": "4",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "number of test classes"
+    },
+    {
+      "value": "1330",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "number of training graphs"
+    },
+    {
+      "value": "320",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "number of validation graphs"
+    },
+    {
+      "value": "600",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "number of test graphs"
+    },
+    {
+      "value": "7",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "number of training classes"
+    },
+    {
+      "value": "3",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "number of test classes"
+    },
+    {
+      "value": "1126",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "number of training graphs"
+    },
+    {
+      "value": "271",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "number of validation graphs"
+    },
+    {
+      "value": "603",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "number of test graphs"
+    },
+    {
+      "value": "7",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "number of training classes"
+    },
+    {
+      "value": "4",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "number of test classes"
+    },
+    {
+      "value": "566",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "number of training graphs"
+    },
+    {
+      "value": "141",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "number of validation graphs"
+    },
+    {
+      "value": "404",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "number of test graphs"
+    },
+    {
+      "value": "4",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "number of training classes"
+    },
+    {
+      "value": "2",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "number of test classes"
+    },
+    {
+      "value": "320",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "number of training graphs"
+    },
+    {
+      "value": "80",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "number of validation graphs"
+    },
+    {
+      "value": "200",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "number of test graphs"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 34.7,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

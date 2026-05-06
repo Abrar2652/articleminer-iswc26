@@ -1,0 +1,84 @@
+{
+  "pii": "S0022309302011596",
+  "predictions": [
+    {
+      "sample_id": "Equiva- lent %",
+      "component": "La2O3",
+      "value": 21.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Equiva- lent %",
+      "component": "SiO2",
+      "value": 56.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Equiva- lent %",
+      "component": "Al2O3",
+      "value": 21.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Equiva- lent %",
+      "component": "Y2O3",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Atomic %",
+      "component": "La2O3",
+      "value": 9.15,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Atomic %",
+      "component": "SiO2",
+      "value": 18.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Atomic %",
+      "component": "Al2O3",
+      "value": 9.15,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Atomic %",
+      "component": "Y2O3",
+      "value": 7.89,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Weight %",
+      "component": "La2O3",
+      "value": 41.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Weight %",
+      "component": "SiO2",
+      "value": 41.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Weight %",
+      "component": "Al2O3",
+      "value": 8.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Weight %",
+      "component": "Y2O3",
+      "value": 17.16,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 22,
+  "elapsed_seconds": 46.8,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

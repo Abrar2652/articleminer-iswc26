@@ -1,0 +1,55 @@
+{
+  "pdf_id": "S0022309399000289",
+  "predictions": [
+    {
+      "sample_id": "V14",
+      "component": "LiNbO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V15",
+      "component": "LiNbO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V13",
+      "component": "LiNbO3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V10",
+      "component": "LiNbO3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V11",
+      "component": "LiNbO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V12",
+      "component": "LiNbO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V14",
+      "component": "LiNbO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V15",
+      "component": "LiNbO3",
+      "value": 15.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 14.1,
+  "raw_preview": "I need to extract composition data from the paper. The paper describes two glass systems but the actual composition table (Table 1) is referenced but not fully reproduced in the text. Let me extract what I can from the text descriptions.\n\nFrom the text, I can identify the following systems and samples:\n\n**MoO3-BaF2-NaF-ZnF2-NbO2.5-LiNbO3 system (V1-V12)**\n**NbO2F-BaF2-LiF-LiNbO3 system (V13-V15)**\n\nThe text mentions specific LiNbO3 (LN) concentrations for some samples:\n- V14: 10 mol% LN\n- V15: 1"
+}

@@ -1,0 +1,103 @@
+{
+  "pdf_id": "S0022309399006250",
+  "predictions": [
+    {
+      "sample_id": "GI/1 glass",
+      "component": "P2O5",
+      "value": 68.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/1 glass",
+      "component": "CaO",
+      "value": 24.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/1 glass",
+      "component": "Na2O",
+      "value": 7.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/1 525\u00b0C",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/2 glass",
+      "component": "P2O5",
+      "value": 47.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/2 glass",
+      "component": "CaO",
+      "value": 24.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/2 glass",
+      "component": "Na2O",
+      "value": 28.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GI/2 525\u00b0C",
+      "component": "Al2O3",
+      "value": 41.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/1 glass",
+      "component": "P2O5",
+      "value": 32.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/1 glass",
+      "component": "CaO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/1 glass",
+      "component": "Na2O",
+      "value": 3.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/1 530\u00b0C",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/2 glass",
+      "component": "P2O5",
+      "value": 86.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/2 glass",
+      "component": "CaO",
+      "value": 8.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/2 glass",
+      "component": "Na2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GII/2 562\u00b0C",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 21.0,
+  "raw_preview": "```json\n{\"sample_id\": \"GI/1 glass\", \"component\": \"P2O5\", \"value\": 68.0, \"unit\": \"mol\"}\n{\"sample_id\": \"GI/1 glass\", \"component\": \"CaO\", \"value\": 24.2, \"unit\": \"mol\"}\n{\"sample_id\": \"GI/1 glass\", \"component\": \"Na2O\", \"value\": 7.8, \"unit\": \"mol\"}\n{\"sample_id\": \"GI/1 525\u00b0C\", \"component\": \"Al2O3\", \"value\": 100.0, \"unit\": \"mol\"}\n{\"sample_id\": \"GI/2 glass\", \"component\": \"P2O5\", \"value\": 47.2, \"unit\": \"mol\"}\n{\"sample_id\": \"GI/2 glass\", \"component\": \"CaO\", \"value\": 24.2, \"unit\": \"mol\"}\n{\"sample_id\": \"GI/2"
+}

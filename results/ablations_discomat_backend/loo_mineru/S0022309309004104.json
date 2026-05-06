@@ -1,0 +1,79 @@
+{
+  "pii": "S0022309309004104",
+  "predictions": [
+    {
+      "sample_id": "TZN1",
+      "component": "TeO2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "ZnO",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Er2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Ce2O3",
+      "value": 1.5,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 13,
+  "elapsed_seconds": 22.7,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber",
+    "camelot"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "pmc_id": "PMC4251525",
+  "predictions": [
+    {
+      "value": "0.76",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.23",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4b",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.11",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4c",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.44",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4d",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2.33",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "5a",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.32",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "5b",
+      "unit": "\u00b5M"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 7,
+  "elapsed_seconds": 15.4,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

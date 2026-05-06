@@ -1,0 +1,695 @@
+{
+  "pdf_id": "2210.00193v1",
+  "predictions": [
+    {
+      "value": "10",
+      "type": "Data Stat.",
+      "dataset": "FRMT",
+      "sub-set/group name": "test set",
+      "attribute name": [
+        "number of exemplars"
+      ],
+      "dataset features": {
+        "exemplars": "10"
+      }
+    },
+    {
+      "value": "100",
+      "type": "Data Stat.",
+      "dataset": "FRMT",
+      "sub-set/group name": "test set",
+      "attribute name": [
+        "number of exemplars"
+      ],
+      "dataset features": {
+        "exemplars": "100"
+      }
+    },
+    {
+      "value": "0",
+      "type": "Data Stat.",
+      "dataset": "FRMT",
+      "sub-set/group name": "test set",
+      "attribute name": [
+        "number of exemplars"
+      ],
+      "dataset features": {
+        "exemplars": "0"
+      }
+    },
+    {
+      "value": "1",
+      "type": "Data Stat.",
+      "dataset": "FRMT",
+      "sub-set/group name": "test set",
+      "attribute name": [
+        "number of exemplars"
+      ],
+      "dataset features": {
+        "exemplars": "1"
+      }
+    },
+    {
+      "value": "0.755",
+      "type": "Result",
+      "training data/set": "Zero Shot",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.762",
+      "type": "Result",
+      "training data/set": "Zero Shot",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.787",
+      "type": "Result",
+      "training data/set": "Zero Shot",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.379",
+      "type": "Result",
+      "training data/set": "Zero Shot",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.448",
+      "type": "Result",
+      "training data/set": "Zero Shot",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.467",
+      "type": "Result",
+      "training data/set": "Zero Shot",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.907",
+      "type": "Result",
+      "training data/set": "FS - 10 samples",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.789",
+      "type": "Result",
+      "training data/set": "FS - 10 samples",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.942",
+      "type": "Result",
+      "training data/set": "FS - 10 samples",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.793",
+      "type": "Result",
+      "training data/set": "FS - 10 samples",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.720",
+      "type": "Result",
+      "training data/set": "FS - 10 samples",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.939",
+      "type": "Result",
+      "training data/set": "FS - 10 samples",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "training data/set": "FS - 50 samples",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "training data/set": "FS - 50 samples",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "training data/set": "FS - 50 samples",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.379",
+      "type": "Result",
+      "training data/set": "FS - 50 samples",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.448",
+      "type": "Result",
+      "training data/set": "FS - 50 samples",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.467",
+      "type": "Result",
+      "training data/set": "FS - 50 samples",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "training data/set": "10",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.81",
+      "type": "Result",
+      "training data/set": "10",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "10",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.74",
+      "type": "Result",
+      "training data/set": "10",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "10",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "10",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.79",
+      "type": "Result",
+      "training data/set": "30",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "training data/set": "30",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "30",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.82",
+      "type": "Result",
+      "training data/set": "30",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.767",
+      "type": "Result",
+      "training data/set": "30",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.773",
+      "type": "Result",
+      "training data/set": "30",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "training data/set": "Gold",
+      "test data/set": "Mandarin",
+      "task": "Translation",
+      "metric": "MQM Score",
+      "dataset": "FRMT",
+      "model": "expert translation"
+    },
+    {
+      "value": "8.8",
+      "type": "Result",
+      "training data/set": "Pa LM",
+      "test data/set": "Mandarin",
+      "task": "Translation",
+      "metric": "MQM Score",
+      "dataset": "FRMT",
+      "model": "Pa LM"
+    },
+    {
+      "value": "1.73",
+      "type": "Result",
+      "training data/set": "Gold",
+      "test data/set": "Portuguese",
+      "task": "Translation",
+      "metric": "MQM Penalty",
+      "dataset": "FRMT",
+      "model": "expert translation"
+    },
+    {
+      "value": "3.55",
+      "type": "Result",
+      "training data/set": "Gold",
+      "test data/set": "Portuguese",
+      "task": "Translation",
+      "metric": "MQM Penalty",
+      "dataset": "FRMT",
+      "model": "expert translation"
+    },
+    {
+      "value": "98.6",
+      "type": "Result",
+      "training data/set": "Gold",
+      "test data/set": "Portuguese",
+      "task": "Translation",
+      "metric": "Accuracy",
+      "dataset": "FRMT",
+      "model": "expert translation"
+    },
+    {
+      "value": "50.4",
+      "type": "Result",
+      "training data/set": "UR",
+      "test data/set": "Portuguese",
+      "task": "Translation",
+      "metric": "Accuracy",
+      "dataset": "FRMT",
+      "model": "UR"
+    },
+    {
+      "value": "51.2",
+      "type": "Result",
+      "training data/set": "M4-UR",
+      "test data/set": "Portuguese",
+      "task": "Translation",
+      "metric": "Accuracy",
+      "dataset": "FRMT",
+      "model": "M4-UR"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "training data/set": "M4-Prompts",
+      "test data/set": "Portuguese",
+      "task": "Translation",
+      "metric": "Accuracy",
+      "dataset": "FRMT",
+      "model": "M4-Prompts"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "training data/set": "M4-Prompts FT",
+      "test data/set": "Portuguese",
+      "task": "Translation",
+      "metric": "Accuracy",
+      "dataset": "FRMT",
+      "model": "M4-Prompts FT"
+    },
+    {
+      "value": "85.0",
+      "type": "Result",
+      "training data/set": "Pa LM 8B",
+      "test data/set": "Portuguese",
+      "task": "Translation",
+      "metric": "Accuracy",
+      "dataset": "FRMT",
+      "model": "Pa LM 8B"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "training data/set": "Pa LM 62B",
+      "test data/set": "Portuguese",
+      "task": "Translation",
+      "metric": "Accuracy",
+      "dataset": "FRMT",
+      "model": "Pa LM 62B"
+    },
+    {
+      "value": "93.2",
+      "type": "Result",
+      "training data/set": "Pa LM 540B",
+      "test data/set": "Portuguese",
+      "task": "Translation",
+      "metric": "Accuracy",
+      "dataset": "FRMT",
+      "model": "Pa LM 540B"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "training data/set": "Online",
+      "test data/set": "Portuguese",
+      "task": "Translation",
+      "metric": "Accuracy",
+      "dataset": "FRMT",
+      "model": "Online"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "training data/set": "Online",
+      "test data/set": "Mandarin",
+      "task": "Translation",
+      "metric": "Accuracy",
+      "dataset": "FRMT",
+      "model": "Online"
+    },
+    {
+      "value": "37.4",
+      "type": "Result",
+      "training data/set": "UR",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "UR"
+    },
+    {
+      "value": "32.7",
+      "type": "Result",
+      "training data/set": "UR",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "UR"
+    },
+    {
+      "value": "46.7",
+      "type": "Result",
+      "training data/set": "M4-UR",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "M4-UR"
+    },
+    {
+      "value": "32.7",
+      "type": "Result",
+      "training data/set": "M4-UR",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "M4-UR"
+    },
+    {
+      "value": "54.1",
+      "type": "Result",
+      "training data/set": "M4-Prompts",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "M4-Prompts"
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "training data/set": "M4-Prompts",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "M4-Prompts"
+    },
+    {
+      "value": "45.5",
+      "type": "Result",
+      "training data/set": "M4-Prompts FT",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "M4-Prompts FT"
+    },
+    {
+      "value": "32.5",
+      "type": "Result",
+      "training data/set": "M4-Prompts FT",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "M4-Prompts FT"
+    },
+    {
+      "value": "38.6",
+      "type": "Result",
+      "training data/set": "Pa LM 8B",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "Pa LM 8B"
+    },
+    {
+      "value": "26.7",
+      "type": "Result",
+      "training data/set": "Pa LM 8B",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "Pa LM 8B"
+    },
+    {
+      "value": "49.5",
+      "type": "Result",
+      "training data/set": "Pa LM 62B",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "Pa LM 62B"
+    },
+    {
+      "value": "36.7",
+      "type": "Result",
+      "training data/set": "Pa LM 62B",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "Pa LM 62B"
+    },
+    {
+      "value": "53.7",
+      "type": "Result",
+      "training data/set": "Pa LM 540B",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "Pa LM 540B"
+    },
+    {
+      "value": "40.1",
+      "type": "Result",
+      "training data/set": "Pa LM 540B",
+      "test data/set": "Portuguese",
+      "task": "Lexical Entity Random",
+      "metric": "FRMT",
+      "dataset": "FRMT",
+      "model": "Pa LM 540B"
+    }
+  ],
+  "elapsed_seconds": 216.5,
+  "raw_preview": "{\"value\": \"10\", \"type\": \"Data Stat.\", \"dataset\": \"FRMT\", \"sub-set/group name\": \"test set\", \"attribute name\": [\"number of exemplars\"], \"dataset features\": {\"exemplars\": \"10\"}}\n{\"value\": \"100\", \"type\": \"Data Stat.\", \"dataset\": \"FRMT\", \"sub-set/group name\": \"test set\", \"attribute name\": [\"number of exemplars\"], \"dataset features\": {\"exemplars\": \"100\"}}\n{\"value\": \"0\", \"type\": \"Data Stat.\", \"dataset\": \"FRMT\", \"sub-set/group name\": \"test set\", \"attribute name\": [\"number of exemplars\"], \"dataset featur"
+}

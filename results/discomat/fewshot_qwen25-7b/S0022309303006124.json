@@ -1,0 +1,25 @@
+{
+  "pdf_id": "S0022309303006124",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_Fresnoite",
+      "component": "BaO",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Fresnoite",
+      "component": "TiO2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Fresnoite",
+      "component": "SiO2",
+      "value": 2.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 10.9,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_Fresnoite\", \"component\": \"BaO\", \"value\": 2.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Fresnoite\", \"component\": \"TiO2\", \"value\": 1.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Fresnoite\", \"component\": \"SiO2\", \"value\": 2.0, \"unit\": \"mol\"}\n```"
+}

@@ -1,0 +1,843 @@
+{
+  "pdf_id": "2210.00543v1",
+  "predictions": [
+    {
+      "value": "9.0%",
+      "type": "Result",
+      "metric": "Error Types Ratio",
+      "error type": "Under-spcified"
+    },
+    {
+      "value": "5.5%",
+      "type": "Result",
+      "metric": "Error Types Ratio",
+      "error type": "Over-specified"
+    },
+    {
+      "value": "3.0%",
+      "type": "Result",
+      "metric": "Error Types Ratio",
+      "error type": "Self-reference"
+    },
+    {
+      "value": "1.0%",
+      "type": "Result",
+      "metric": "Error Types Ratio",
+      "error type": "Wrong part-of-speech"
+    },
+    {
+      "value": "1.0%",
+      "type": "Result",
+      "metric": "Error Types Ratio",
+      "error type": "Opposite"
+    },
+    {
+      "value": "7,938",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Train",
+      "attribute name": [
+        "number of phrases",
+        "phrases"
+      ]
+    },
+    {
+      "value": "998",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Valid",
+      "attribute name": [
+        "number of phrases",
+        "phrases"
+      ]
+    },
+    {
+      "value": "1,001",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "number of phrases",
+        "phrases"
+      ]
+    },
+    {
+      "value": "33,128",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Train",
+      "attribute name": [
+        "number of phrases",
+        "phrases"
+      ]
+    },
+    {
+      "value": "8,867",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Valid",
+      "attribute name": [
+        "number of phrases",
+        "phrases"
+      ]
+    },
+    {
+      "value": "8,850",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "number of phrases",
+        "phrases"
+      ]
+    },
+    {
+      "value": "190,696",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Train",
+      "attribute name": [
+        "number of phrases",
+        "phrases"
+      ]
+    },
+    {
+      "value": "26,876",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Valid",
+      "attribute name": [
+        "number of phrases",
+        "phrases"
+      ]
+    },
+    {
+      "value": "25,797",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "number of phrases",
+        "phrases"
+      ]
+    },
+    {
+      "value": "13,883",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Train",
+      "attribute name": [
+        "number of entries",
+        "entries"
+      ]
+    },
+    {
+      "value": "1,752",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Valid",
+      "attribute name": [
+        "number of entries",
+        "entries"
+      ]
+    },
+    {
+      "value": "1,775",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "number of entries",
+        "entries"
+      ]
+    },
+    {
+      "value": "97,855",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Train",
+      "attribute name": [
+        "number of entries",
+        "entries"
+      ]
+    },
+    {
+      "value": "12,232",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Valid",
+      "attribute name": [
+        "number of entries",
+        "entries"
+      ]
+    },
+    {
+      "value": "12,232",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "number of entries",
+        "entries"
+      ]
+    },
+    {
+      "value": "411,384",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Train",
+      "attribute name": [
+        "number of entries",
+        "entries"
+      ]
+    },
+    {
+      "value": "57,883",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Valid",
+      "attribute name": [
+        "number of entries",
+        "entries"
+      ]
+    },
+    {
+      "value": "36,450",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "number of entries",
+        "entries"
+      ]
+    },
+    {
+      "value": "5.81",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Context length",
+      "attribute name": [
+        "average context length",
+        "context length"
+      ]
+    },
+    {
+      "value": "5.64",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Description length",
+      "attribute name": [
+        "average description length",
+        "description length"
+      ]
+    },
+    {
+      "value": "5.77",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Validation",
+      "attribute name": [
+        "average context length",
+        "context length"
+      ]
+    },
+    {
+      "value": "17.74",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Context length",
+      "attribute name": [
+        "average context length",
+        "context length"
+      ]
+    },
+    {
+      "value": "17.80",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Validation",
+      "attribute name": [
+        "average context length",
+        "context length"
+      ]
+    },
+    {
+      "value": "17.56",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "average context length",
+        "context length"
+      ]
+    },
+    {
+      "value": "10.89",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Context length",
+      "attribute name": [
+        "average description length",
+        "description length"
+      ]
+    },
+    {
+      "value": "10.86",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Validation",
+      "attribute name": [
+        "average description length",
+        "description length"
+      ]
+    },
+    {
+      "value": "11.22",
+      "type": "Data Stat.",
+      "dataset": "Word Net",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "average description length",
+        "description length"
+      ]
+    },
+    {
+      "value": "11.02",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Context length",
+      "attribute name": [
+        "average context length",
+        "context length"
+      ]
+    },
+    {
+      "value": "10.99",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Validation",
+      "attribute name": [
+        "average context length",
+        "context length"
+      ]
+    },
+    {
+      "value": "10.95",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "average context length",
+        "context length"
+      ]
+    },
+    {
+      "value": "10.99",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Context length",
+      "attribute name": [
+        "average description length",
+        "description length"
+      ]
+    },
+    {
+      "value": "10.95",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Validation",
+      "attribute name": [
+        "average description length",
+        "description length"
+      ]
+    },
+    {
+      "value": "12.05",
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "average description length",
+        "description length"
+      ]
+    },
+    {
+      "value": "10.89",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Context length",
+      "attribute name": [
+        "average context length",
+        "context length"
+      ]
+    },
+    {
+      "value": "10.86",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Validation",
+      "attribute name": [
+        "average context length",
+        "context length"
+      ]
+    },
+    {
+      "value": "11.22",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "average context length",
+        "context length"
+      ]
+    },
+    {
+      "value": "10.99",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Context length",
+      "attribute name": [
+        "average description length",
+        "description length"
+      ]
+    },
+    {
+      "value": "10.95",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Validation",
+      "attribute name": [
+        "average description length",
+        "description length"
+      ]
+    },
+    {
+      "value": "12.05",
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "sub-set/group name": "Test",
+      "attribute name": [
+        "average description length",
+        "description length"
+      ]
+    },
+    {
+      "value": "23.77",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "I-Attention"
+    },
+    {
+      "value": "44.30",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "I-Attention"
+    },
+    {
+      "value": "17.45",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "Local"
+    },
+    {
+      "value": "35.79",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "Local"
+    },
+    {
+      "value": "8.81",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "Global"
+    },
+    {
+      "value": "19.43",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "Global"
+    },
+    {
+      "value": "25.19",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "LOG-Ca D"
+    },
+    {
+      "value": "43.54",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "LOG-Ca D"
+    },
+    {
+      "value": "26.52",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Reranking"
+    },
+    {
+      "value": "74.17",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Reranking"
+    },
+    {
+      "value": "32.72",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Base"
+    },
+    {
+      "value": "57.35",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Base"
+    },
+    {
+      "value": "32.05",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "74.71",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "27.11",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "79.42",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "19.44",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "41.01",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "31.72",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Base"
+    },
+    {
+      "value": "57.35",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Base"
+    },
+    {
+      "value": "25.44",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Base"
+    },
+    {
+      "value": "66.92",
+      "type": "Result",
+      "training data/set": "Word Net",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Base"
+    },
+    {
+      "value": "27.10",
+      "type": "Result",
+      "training data/set": "Oxford",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "79.42",
+      "type": "Result",
+      "training data/set": "Oxford",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "27.13",
+      "type": "Result",
+      "training data/set": "Oxford",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "80.33",
+      "type": "Result",
+      "training data/set": "Oxford",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "18.57",
+      "type": "Result",
+      "training data/set": "Oxford",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "40.29",
+      "type": "Result",
+      "training data/set": "Oxford",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "27.06",
+      "type": "Result",
+      "training data/set": "Oxford",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "79.90",
+      "type": "Result",
+      "training data/set": "Oxford",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "16.49",
+      "type": "Result",
+      "training data/set": "Oxford",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "BLEU",
+      "model": "T5-Contrast (Ours)"
+    },
+    {
+      "value": "31.46",
+      "type": "Result",
+      "training data/set": "Oxford",
+      "test data/set": [
+        "Word Net",
+        "Oxford",
+        "Urban"
+      ],
+      "task": "Definition Generation",
+      "metric": "NIST",
+      "model": "T5-Contrast (Ours)"
+    }
+  ],
+  "elapsed_seconds": 162.9,
+  "raw_preview": "{\"value\": \"9.0%\", \"type\": \"Result\", \"metric\": \"Error Types Ratio\", \"error type\": \"Under-spcified\"}\n{\"value\": \"5.5%\", \"type\": \"Result\", \"metric\": \"Error Types Ratio\", \"error type\": \"Over-specified\"}\n{\"value\": \"3.0%\", \"type\": \"Result\", \"metric\": \"Error Types Ratio\", \"error type\": \"Self-reference\"}\n{\"value\": \"1.0%\", \"type\": \"Result\", \"metric\": \"Error Types Ratio\", \"error type\": \"Wrong part-of-speech\"}\n{\"value\": \"1.0%\", \"type\": \"Result\", \"metric\": \"Error Types Ratio\", \"error type\": \"Opposite\"}\n{\"val"
+}

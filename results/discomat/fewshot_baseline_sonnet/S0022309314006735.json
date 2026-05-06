@@ -1,0 +1,31 @@
+{
+  "pdf_id": "S0022309314006735",
+  "predictions": [
+    {
+      "sample_id": "IPG_4pct_Fe2+",
+      "component": "Fe2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_4pct_Fe2+",
+      "component": "P2O5",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_17pct_Fe2+",
+      "component": "Fe2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_17pct_Fe2+",
+      "component": "P2O5",
+      "value": 60.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 18.6,
+  "raw_preview": "Looking through the paper text, I can identify the following composition entries:\n\nFrom the text: \"40 mol% Fe2O3\u201360 mol% P2O5\" for IPG compositions, and atomic percentages from Table 6 for IPG systems.\n\nFrom Table 6 (atomic % of each ion in IPG systems):\n\nFor IPG with 4% Fe2+, density 2.9 g/cm\u00b3:\n- Fe2+ total: 0.07+0.36+0.07 = 0.50 at%\n- Fe3+ total: 0.07+6.85+5.25+0.07 = 12.24 at%\n- P total: 19.53 at%\n- O total: 4.37+59.91+3.42 = 67.70 at%\n\nThe paper explicitly states the bulk glass composition a"
+}

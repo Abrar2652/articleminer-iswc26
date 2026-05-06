@@ -1,0 +1,578 @@
+{
+  "pmc_id": "PMC4358631",
+  "predictions": [
+    {
+      "value": "41.1",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "20",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "44.8",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "21",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "38.9",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "22",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "38.7",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "23",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "44.8",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "24",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "36.0",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "25",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "35.7",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "26",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "47.0",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "27",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "40.3",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "28",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "45.1",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "29",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "45.7",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "30",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "41.2",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "31",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19.2",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "32",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "44.0",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "33",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "60.2",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "34",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "101.4",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "35",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "76.0",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "36",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "43.9",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "37",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "51.8",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "38",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "55.7",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "39",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "68.6",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "40",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "106.2",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "41",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "106.6",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "42",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "110.2",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "43",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "106.3",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "44",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "67.2",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "45",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "63.8",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "46",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "110.1",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "47",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "72.6",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "48",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "47.8",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "49",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "61.6",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "50",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "72.1",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "51",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "67.9",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "52",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "56.5",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "53",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "58.3",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "54",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "47.5",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "55",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "61.9",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "56",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "92.6",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "57",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "96.4",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "58",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "109.2",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "59",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "104.0",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "60",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "62.3",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "61",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50.9",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "62",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "84.5",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "63",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "59.4",
+      "type": "MIC",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "64",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "265",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "BuIA",
+      "unit": "nM"
+    },
+    {
+      "value": "26",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "BuIA",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "BuIA",
+      "unit": "nM"
+    },
+    {
+      "value": "1727",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "35",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "35",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "35",
+      "unit": "nM"
+    },
+    {
+      "value": "469",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "41",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "41",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "41",
+      "unit": "nM"
+    },
+    {
+      "value": "397",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "42",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "42",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "42",
+      "unit": "nM"
+    },
+    {
+      "value": "307",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "43",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "43",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "43",
+      "unit": "nM"
+    },
+    {
+      "value": "310",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "44",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "44",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "44",
+      "unit": "nM"
+    },
+    {
+      "value": "463",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "47",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "47",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "47",
+      "unit": "nM"
+    },
+    {
+      "value": "298",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "57",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "57",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "57",
+      "unit": "nM"
+    },
+    {
+      "value": "345",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "58",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "58",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "58",
+      "unit": "nM"
+    },
+    {
+      "value": "183",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "59",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "59",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "59",
+      "unit": "nM"
+    },
+    {
+      "value": "320",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "60",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "60",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "60",
+      "unit": "nM"
+    },
+    {
+      "value": "1934",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "63",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "63",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "63",
+      "unit": "nM"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 36,
+  "elapsed_seconds": 50.5,
+  "backends": [
+    "camelot"
+  ]
+}

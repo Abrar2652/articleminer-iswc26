@@ -1,0 +1,241 @@
+{
+  "pii": "S0022309309001586",
+  "predictions": [
+    {
+      "sample_id": "L1",
+      "component": "La",
+      "value": 24.51,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L1",
+      "component": "P",
+      "value": 75.49,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "La",
+      "value": 18.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "CaO",
+      "value": 5.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "P",
+      "value": 76.18,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C2",
+      "component": "La",
+      "value": 13.68,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C2",
+      "component": "CaO",
+      "value": 10.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C2",
+      "component": "P",
+      "value": 76.21,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C3",
+      "component": "La",
+      "value": 9.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C3",
+      "component": "CaO",
+      "value": 15.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C3",
+      "component": "P",
+      "value": 75.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C4",
+      "component": "La",
+      "value": 4.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C4",
+      "component": "CaO",
+      "value": 19.98,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C4",
+      "component": "P",
+      "value": 75.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "La",
+      "value": 18.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "SrO",
+      "value": 5.34,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "P",
+      "value": 76.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "La",
+      "value": 13.54,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "SrO",
+      "value": 10.78,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "P",
+      "value": 75.68,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "La",
+      "value": 8.62,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "SrO",
+      "value": 15.69,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "P",
+      "value": 75.69,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "La",
+      "value": 4.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "SrO",
+      "value": 20.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "P",
+      "value": 75.63,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B1",
+      "component": "La",
+      "value": 18.33,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B1",
+      "component": "BaO",
+      "value": 4.95,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B1",
+      "component": "P",
+      "value": 76.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B2",
+      "component": "La",
+      "value": 13.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B2",
+      "component": "BaO",
+      "value": 9.33,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B2",
+      "component": "P",
+      "value": 77.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B3",
+      "component": "La",
+      "value": 8.96,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B3",
+      "component": "BaO",
+      "value": 13.63,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B3",
+      "component": "P",
+      "value": 77.41,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B4",
+      "component": "La",
+      "value": 5.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B4",
+      "component": "BaO",
+      "value": 18.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B4",
+      "component": "P",
+      "value": 75.97,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 76,
+  "elapsed_seconds": 138.6,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "model": "mistral-7b-v02",
+  "n_papers": 26,
+  "n_zero": 3,
+  "n_failed": 0,
+  "started": "2026-04-25T11:03:33.546266",
+  "per_paper": {
+    "Bertrandsson_Erlandsson_et_al_2025": {
+      "n": 0,
+      "elapsed": 641.5
+    },
+    "Chen_et_al_2024": {
+      "n": 179,
+      "elapsed": 325.7
+    },
+    "Chu_et_al_2022": {
+      "n": 160,
+      "elapsed": 277.3
+    },
+    "Ciccolella_et_al_2025": {
+      "n": 305,
+      "elapsed": 354.8
+    },
+    "Denisov\u00e1_et_al_2024": {
+      "n": 809,
+      "elapsed": 276.9
+    },
+    "He_et_al_2024": {
+      "n": 103,
+      "elapsed": 320.4
+    },
+    "Jiang_et_al_2023": {
+      "n": 52,
+      "elapsed": 298.5
+    },
+    "Lan_et_al_2024": {
+      "n": 87,
+      "elapsed": 280.2
+    },
+    "Li_et_al_2025": {
+      "n": 2456,
+      "elapsed": 338.1
+    },
+    "Liu_et_al_2024": {
+      "n": 138,
+      "elapsed": 254.3
+    },
+    "Soster_et_al_2023": {
+      "n": 63,
+      "elapsed": 329.9
+    },
+    "Sun_et_al_2023": {
+      "n": 248,
+      "elapsed": 342.1
+    },
+    "Sun_et_al_2024": {
+      "n": 67,
+      "elapsed": 356.8
+    },
+    "Sun_et_al_2025": {
+      "n": 133,
+      "elapsed": 249.2
+    },
+    "Tan_et_al_2025": {
+      "n": 1702,
+      "elapsed": 340.6
+    },
+    "Tomlinson_et_al_2021": {
+      "n": 173,
+      "elapsed": 352.2
+    },
+    "Wang_et_al_2025": {
+      "n": 1935,
+      "elapsed": 276.5
+    },
+    "Wei_et_al_2024": {
+      "n": 174,
+      "elapsed": 479.8
+    },
+    "Wu_et_al_2024": {
+      "n": 441,
+      "elapsed": 330.5
+    },
+    "Xia_et_al_2024": {
+      "n": 149,
+      "elapsed": 319.6
+    },
+    "Yang_et_al_2022": {
+      "n": 0,
+      "elapsed": 455.5
+    },
+    "Yuan_et_al_2018": {
+      "n": 111,
+      "elapsed": 268.8
+    },
+    "Zhang_et_al_2022": {
+      "n": 75,
+      "elapsed": 402.5
+    },
+    "Zhang_et_al_2024": {
+      "n": 606,
+      "elapsed": 341.3
+    },
+    "Zhao_et_al_2024": {
+      "n": 184,
+      "elapsed": 244.7
+    },
+    "Zhu_et_al_2024": {
+      "n": 0,
+      "elapsed": 526.7
+    }
+  },
+  "finished": "2026-04-25T13:33:21.655056",
+  "total_seconds": 8988.1
+}

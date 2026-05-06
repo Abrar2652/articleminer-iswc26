@@ -1,0 +1,171 @@
+{
+  "arxiv_id": "2210.00448v1",
+  "predictions": [
+    {
+      "value": 5.3,
+      "type": "Hyper-parameter/Architecture",
+      "model": "EfficientNet B0"
+    },
+    {
+      "value": 5.4,
+      "type": "Hyper-parameter/Architecture",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": 4.2,
+      "type": "Hyper-parameter/Architecture",
+      "model": "MobileNet V1"
+    },
+    {
+      "value": 7.4,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Shu eNet V2"
+    },
+    {
+      "value": 14.3,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Dense-169"
+    },
+    {
+      "value": 25.6,
+      "type": "Hyper-parameter/Architecture",
+      "model": "ResNet50"
+    },
+    {
+      "value": 76.3,
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "ImageNet",
+      "metric": "accuracy"
+    },
+    {
+      "value": 75.2,
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "ImageNet",
+      "metric": "accuracy"
+    },
+    {
+      "value": 70.6,
+      "type": "Result",
+      "model": "MobileNet V1",
+      "dataset": "ImageNet",
+      "metric": "accuracy"
+    },
+    {
+      "value": 74.9,
+      "type": "Result",
+      "model": "Shu eNet V2",
+      "dataset": "ImageNet",
+      "metric": "accuracy"
+    },
+    {
+      "value": 76.2,
+      "type": "Result",
+      "model": "Dense-169",
+      "dataset": "ImageNet",
+      "metric": "accuracy"
+    },
+    {
+      "value": 74.9,
+      "type": "Result",
+      "model": "ResNet50",
+      "dataset": "ImageNet",
+      "metric": "accuracy"
+    },
+    {
+      "value": 1800,
+      "type": "Data Stat.",
+      "dataset": "Trash Net",
+      "attribute name": "number of new training samples"
+    },
+    {
+      "value": 99.59,
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "Trash Net",
+      "metric": "Training accuracy (%)"
+    },
+    {
+      "value": 95.23,
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "5-class test set",
+      "metric": "accuracy"
+    },
+    {
+      "value": 99.46,
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Training accuracy (%)"
+    },
+    {
+      "value": 94.68,
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "5-class test set",
+      "metric": "accuracy"
+    },
+    {
+      "value": 95.79,
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "5-class test set",
+      "metric": "accuracy"
+    },
+    {
+      "value": 95.98,
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "accuracy"
+    },
+    {
+      "value": 95.97,
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision"
+    },
+    {
+      "value": 94.79,
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "5-class test set",
+      "metric": "Per-class precision"
+    },
+    {
+      "value": 95.7,
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision"
+    },
+    {
+      "value": 96.41,
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision"
+    },
+    {
+      "value": 512,
+      "type": "Data Stat.",
+      "dataset": "Trash Net",
+      "attribute name": "Base model input resolution (pixels) - height"
+    },
+    {
+      "value": 384,
+      "type": "Data Stat.",
+      "dataset": "Trash Net",
+      "attribute name": "Base model input resolution (pixels) - width"
+    }
+  ],
+  "num_gold_annotations": 49,
+  "elapsed_seconds": 60.7,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

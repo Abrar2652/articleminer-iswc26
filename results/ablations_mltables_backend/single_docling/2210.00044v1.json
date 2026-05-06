@@ -1,0 +1,784 @@
+{
+  "arxiv_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": "1954",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Transport",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "18730",
+      "type": "Data Stat.",
+      "dataset": "Question Action",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "4700",
+      "type": "Data Stat.",
+      "dataset": "Question Action",
+      "attribute name": "number of validation samples"
+    },
+    {
+      "value": "11008",
+      "type": "Data Stat.",
+      "dataset": "Question Action",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "233",
+      "type": "Data Stat.",
+      "dataset": "Question Action",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "34588",
+      "type": "Data Stat.",
+      "dataset": "Question Color",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "8578",
+      "type": "Data Stat.",
+      "dataset": "Question Color",
+      "attribute name": "number of validation samples"
+    },
+    {
+      "value": "21559",
+      "type": "Data Stat.",
+      "dataset": "Question Color",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "92",
+      "type": "Data Stat.",
+      "dataset": "Question Color",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "38857",
+      "type": "Data Stat.",
+      "dataset": "Question Count",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "9649",
+      "type": "Data Stat.",
+      "dataset": "Question Count",
+      "attribute name": "number of validation samples"
+    },
+    {
+      "value": "23261",
+      "type": "Data Stat.",
+      "dataset": "Question Count",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "42",
+      "type": "Data Stat.",
+      "dataset": "Question Count",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "25850",
+      "type": "Data Stat.",
+      "dataset": "Question Scene",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "6417",
+      "type": "Data Stat.",
+      "dataset": "Question Scene",
+      "attribute name": "number of validation samples"
+    },
+    {
+      "value": "14847",
+      "type": "Data Stat.",
+      "dataset": "Question Scene",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "170",
+      "type": "Data Stat.",
+      "dataset": "Question Scene",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "22324",
+      "type": "Data Stat.",
+      "dataset": "Question Subcategory",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "8578",
+      "type": "Data Stat.",
+      "dataset": "Question Subcategory",
+      "attribute name": "number of validation samples"
+    },
+    {
+      "value": "21559",
+      "type": "Data Stat.",
+      "dataset": "Question Subcategory",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "659",
+      "type": "Data Stat.",
+      "dataset": "Question Subcategory",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "-6.58",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 1 to Group 2"
+    },
+    {
+      "value": "-5.21",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 1 to Group 3"
+    },
+    {
+      "value": "-4.84",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 1 to Group 4"
+    },
+    {
+      "value": "-7.09",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 1 to Group 5"
+    },
+    {
+      "value": "-4.55",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 2 to Group 1"
+    },
+    {
+      "value": "-5.61",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 2 to Group 3"
+    },
+    {
+      "value": "-4.51",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 2 to Group 4"
+    },
+    {
+      "value": "-4.99",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 2 to Group 5"
+    },
+    {
+      "value": "-4.64",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 3 to Group 1"
+    },
+    {
+      "value": "-8.39",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 3 to Group 2"
+    },
+    {
+      "value": "-7.37",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 3 to Group 4"
+    },
+    {
+      "value": "-11.66",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 3 to Group 5"
+    },
+    {
+      "value": "-4.69",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 4 to Group 1"
+    },
+    {
+      "value": "-7.10",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 4 to Group 2"
+    },
+    {
+      "value": "-7.40",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 4 to Group 3"
+    },
+    {
+      "value": "-9.63",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 4 to Group 5"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 5 to Group 1"
+    },
+    {
+      "value": "-5.82",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 5 to Group 2"
+    },
+    {
+      "value": "-6.09",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 5 to Group 3"
+    },
+    {
+      "value": "-3.80",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "model": "Group 5 to Group 4"
+    },
+    {
+      "value": "-8.06",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Animals",
+      "task2": "Food"
+    },
+    {
+      "value": "-3.63",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Animals",
+      "task2": "Interior"
+    },
+    {
+      "value": "-5.84",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Animals",
+      "task2": "Sports"
+    },
+    {
+      "value": "-4.35",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Animals",
+      "task2": "Transport"
+    },
+    {
+      "value": "-16.38",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Food",
+      "task2": "Animals"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Food",
+      "task2": "Interior"
+    },
+    {
+      "value": "-17.08",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Food",
+      "task2": "Sports"
+    },
+    {
+      "value": "-11.94",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Food",
+      "task2": "Transport"
+    },
+    {
+      "value": "-5.75",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Interior",
+      "task2": "Animals"
+    },
+    {
+      "value": "-5.19",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Interior",
+      "task2": "Food"
+    },
+    {
+      "value": "-7.63",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Interior",
+      "task2": "Sports"
+    },
+    {
+      "value": "-2.83",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Interior",
+      "task2": "Transport"
+    },
+    {
+      "value": "-11.63",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Sports",
+      "task2": "Animals"
+    },
+    {
+      "value": "-18.20",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Sports",
+      "task2": "Food"
+    },
+    {
+      "value": "-9.60",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Sports",
+      "task2": "Interior"
+    },
+    {
+      "value": "-9.47",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Sports",
+      "task2": "Transport"
+    },
+    {
+      "value": "-4.19",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Transport",
+      "task2": "Animals"
+    },
+    {
+      "value": "-8.48",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Transport",
+      "task2": "Food"
+    },
+    {
+      "value": "-2.62",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Transport",
+      "task2": "Interior"
+    },
+    {
+      "value": "-3.67",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Transport",
+      "task2": "Sports"
+    },
+    {
+      "value": "-68.40",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Action\u2192Color"
+    },
+    {
+      "value": "-90.45",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Action\u2192Count"
+    },
+    {
+      "value": "-19.59",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Action\u2192Scene"
+    },
+    {
+      "value": "-12.58",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Action\u2192Subcat."
+    },
+    {
+      "value": "-88.89",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Color\u2192Action"
+    },
+    {
+      "value": "-99.65",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Color\u2192Count"
+    },
+    {
+      "value": "-27.75",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Color\u2192Scene"
+    },
+    {
+      "value": "-62.46",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Color\u2192Subcat."
+    },
+    {
+      "value": "-99.17",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Count\u2192Action"
+    },
+    {
+      "value": "-99.68",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Count\u2192Color"
+    },
+    {
+      "value": "-97.52",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Count\u2192Scene"
+    },
+    {
+      "value": "-87.00",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Count\u2192Subcat."
+    },
+    {
+      "value": "-10.91",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Scene\u2192Action"
+    },
+    {
+      "value": "-34.40",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Scene\u2192Color"
+    },
+    {
+      "value": "-77.73",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Scene\u2192Count"
+    },
+    {
+      "value": "-15.22",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Scene\u2192Subcat."
+    },
+    {
+      "value": "-31.73",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Subcat.\u2192Action"
+    },
+    {
+      "value": "-85.45",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Subcat.\u2192Color"
+    },
+    {
+      "value": "-96.15",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Subcat.\u2192Count"
+    },
+    {
+      "value": "-30.55",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Subcat.\u2192Scene"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "setting": "Diverse"
+    },
+    {
+      "value": "8e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "setting": "Diverse"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "setting": "Diverse"
+    },
+    {
+      "value": "400",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "setting": "Diverse"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "setting": "Diverse+PT"
+    },
+    {
+      "value": "0.7",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "setting": "Diverse+PT"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "setting": "Diverse+PT"
+    },
+    {
+      "value": "600",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "setting": "Taxonomy"
+    },
+    {
+      "value": "5e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "setting": "Taxonomy+PT"
+    },
+    {
+      "value": "0.5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "setting": "Taxonomy+PT"
+    },
+    {
+      "value": "0.0001",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "setting": "Questions"
+    },
+    {
+      "value": "0.9",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "setting": "Questions"
+    },
+    {
+      "value": "50000",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "setting": "Questions"
+    },
+    {
+      "value": "0.4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "setting": "Questions+PT"
+    },
+    {
+      "value": "20000",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "setting": "Questions+PT"
+    },
+    {
+      "value": "1e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "setting": "Diverse+PT (variant)"
+    },
+    {
+      "value": "700",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "setting": "Taxonomy+PT (variant)"
+    },
+    {
+      "value": "10000",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "setting": "Questions+PT (variant)"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "metric": "Reference.Acc",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "metric": "Compared Answer 1.Acc",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.164",
+      "type": "Result",
+      "metric": "Compared Answer 1.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.836",
+      "type": "Result",
+      "metric": "Compared Answer 2.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.134",
+      "type": "Result",
+      "metric": "Compared Answer 1.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.529",
+      "type": "Result",
+      "metric": "Compared Answer 2.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.34",
+      "type": "Result",
+      "metric": "Compared Answer 1.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.855",
+      "type": "Result",
+      "metric": "Compared Answer 2.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.32",
+      "type": "Result",
+      "metric": "Compared Answer 1.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.832",
+      "type": "Result",
+      "metric": "Compared Answer 2.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "metric": "Compared Answer 1.Acc",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.115",
+      "type": "Result",
+      "metric": "Compared Answer 1.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.093",
+      "type": "Result",
+      "metric": "Compared Answer 1.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.818",
+      "type": "Result",
+      "metric": "Compared Answer 2.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.197",
+      "type": "Result",
+      "metric": "Compared Answer 1.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.676",
+      "type": "Result",
+      "metric": "Compared Answer 2.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.151",
+      "type": "Result",
+      "metric": "Compared Answer 1.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.577",
+      "type": "Result",
+      "metric": "Compared Answer 2.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.136",
+      "type": "Result",
+      "metric": "Compared Answer 1.SBWT",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.269",
+      "type": "Result",
+      "metric": "Compared Answer 2.SBWT",
+      "task": "visual question answering"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 98.5,
+  "backends": [
+    "docling"
+  ]
+}

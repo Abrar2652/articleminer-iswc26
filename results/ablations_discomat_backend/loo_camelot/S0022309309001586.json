@@ -1,0 +1,12 @@
+{
+  "pii": "S0022309309001586",
+  "predictions": [],
+  "num_gold_tuples": 76,
+  "elapsed_seconds": 26.4,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

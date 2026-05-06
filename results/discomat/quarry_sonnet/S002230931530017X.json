@@ -1,0 +1,139 @@
+{
+  "pii": "S002230931530017X",
+  "predictions": [
+    {
+      "sample_id": "No. 1",
+      "component": "Li2CO3",
+      "value": 2.6001,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 1",
+      "component": "H3BO3",
+      "value": 8.7031,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 1",
+      "component": "Gd2O3",
+      "value": 1.4948,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 2",
+      "component": "Li2CO3",
+      "value": 2.6001,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 2",
+      "component": "H3BO3",
+      "value": 8.7031,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 2",
+      "component": "Gd2O3",
+      "value": 1.4948,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 2",
+      "component": "CeO2",
+      "value": 0.0473,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 3",
+      "component": "Li2CO3",
+      "value": 2.6001,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 3",
+      "component": "H3BO3",
+      "value": 8.7031,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 3",
+      "component": "Gd2O3",
+      "value": 1.4948,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 3",
+      "component": "CeF3",
+      "value": 0.0542,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 4",
+      "component": "Li2CO3",
+      "value": 2.6001,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 4",
+      "component": "H3BO3",
+      "value": 8.7031,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 4",
+      "component": "Gd2O3",
+      "value": 1.4948,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 4",
+      "component": "CeF3",
+      "value": 0.0542,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 4",
+      "component": "Carbon",
+      "value": 0.038,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 5",
+      "component": "Li2CO3",
+      "value": 2.6001,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 5",
+      "component": "H3BO3",
+      "value": 8.7031,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 5",
+      "component": "Gd2O3",
+      "value": 1.4948,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 5",
+      "component": "CeF3",
+      "value": 0.0542,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "No. 5",
+      "component": "Si3N4",
+      "value": 0.012,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 21,
+  "elapsed_seconds": 35.4,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

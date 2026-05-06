@@ -1,0 +1,1412 @@
+{
+  "arxiv_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": "1954",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy - Transport",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "18730",
+      "type": "Data Stat.",
+      "dataset": "Question - Action",
+      "attribute name": "number of samples (train)"
+    },
+    {
+      "value": "4700",
+      "type": "Data Stat.",
+      "dataset": "Question - Action",
+      "attribute name": "number of samples (val)"
+    },
+    {
+      "value": "11008",
+      "type": "Data Stat.",
+      "dataset": "Question - Action",
+      "attribute name": "number of samples (test)"
+    },
+    {
+      "value": "233",
+      "type": "Data Stat.",
+      "dataset": "Question - Action",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "34588",
+      "type": "Data Stat.",
+      "dataset": "Question - Color",
+      "attribute name": "number of samples (train)"
+    },
+    {
+      "value": "8578",
+      "type": "Data Stat.",
+      "dataset": "Question - Color",
+      "attribute name": "number of samples (val)"
+    },
+    {
+      "value": "21559",
+      "type": "Data Stat.",
+      "dataset": "Question - Color",
+      "attribute name": "number of samples (test)"
+    },
+    {
+      "value": "92",
+      "type": "Data Stat.",
+      "dataset": "Question - Color",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "38857",
+      "type": "Data Stat.",
+      "dataset": "Question - Count",
+      "attribute name": "number of samples (train)"
+    },
+    {
+      "value": "9649",
+      "type": "Data Stat.",
+      "dataset": "Question - Count",
+      "attribute name": "number of samples (val)"
+    },
+    {
+      "value": "23261",
+      "type": "Data Stat.",
+      "dataset": "Question - Count",
+      "attribute name": "number of samples (test)"
+    },
+    {
+      "value": "42",
+      "type": "Data Stat.",
+      "dataset": "Question - Count",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "25850",
+      "type": "Data Stat.",
+      "dataset": "Question - Scene",
+      "attribute name": "number of samples (train)"
+    },
+    {
+      "value": "6417",
+      "type": "Data Stat.",
+      "dataset": "Question - Scene",
+      "attribute name": "number of samples (val)"
+    },
+    {
+      "value": "14847",
+      "type": "Data Stat.",
+      "dataset": "Question - Scene",
+      "attribute name": "number of samples (test)"
+    },
+    {
+      "value": "170",
+      "type": "Data Stat.",
+      "dataset": "Question - Scene",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "22324",
+      "type": "Data Stat.",
+      "dataset": "Question - Subcategory",
+      "attribute name": "number of samples (train)"
+    },
+    {
+      "value": "8578",
+      "type": "Data Stat.",
+      "dataset": "Question - Subcategory",
+      "attribute name": "number of samples (val)"
+    },
+    {
+      "value": "21559",
+      "type": "Data Stat.",
+      "dataset": "Question - Subcategory",
+      "attribute name": "number of samples (test)"
+    },
+    {
+      "value": "659",
+      "type": "Data Stat.",
+      "dataset": "Question - Subcategory",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "-6.58",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 1 after learning Group 2"
+    },
+    {
+      "value": "-5.21",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 1 after learning Group 3"
+    },
+    {
+      "value": "-4.84",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 1 after learning Group 4"
+    },
+    {
+      "value": "-7.09",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 1 after learning Group 5"
+    },
+    {
+      "value": "-4.55",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 2 after learning Group 1"
+    },
+    {
+      "value": "-5.61",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 2 after learning Group 3"
+    },
+    {
+      "value": "-4.51",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 2 after learning Group 4"
+    },
+    {
+      "value": "-4.99",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 2 after learning Group 5"
+    },
+    {
+      "value": "-4.64",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 3 after learning Group 1"
+    },
+    {
+      "value": "-8.39",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 3 after learning Group 2"
+    },
+    {
+      "value": "-7.37",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 3 after learning Group 4"
+    },
+    {
+      "value": "-11.66",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 3 after learning Group 5"
+    },
+    {
+      "value": "-4.69",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 4 after learning Group 1"
+    },
+    {
+      "value": "-7.10",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 4 after learning Group 2"
+    },
+    {
+      "value": "-7.40",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 4 after learning Group 3"
+    },
+    {
+      "value": "-9.63",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 4 after learning Group 5"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 5 after learning Group 1"
+    },
+    {
+      "value": "-5.82",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 5 after learning Group 2"
+    },
+    {
+      "value": "-6.09",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 5 after learning Group 3"
+    },
+    {
+      "value": "-3.80",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Backward Transfer (BWT)",
+      "task": "Continual Learning: BWT on Group 5 after learning Group 4"
+    },
+    {
+      "value": "-8.06",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Animals, Task 2: Food)"
+    },
+    {
+      "value": "-3.63",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Animals, Task 2: Interior)"
+    },
+    {
+      "value": "-5.84",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Animals, Task 2: Sports)"
+    },
+    {
+      "value": "-4.35",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Animals, Task 2: Transport)"
+    },
+    {
+      "value": "-16.38",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Food, Task 2: Animals)"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Food, Task 2: Interior)"
+    },
+    {
+      "value": "-17.08",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Food, Task 2: Sports)"
+    },
+    {
+      "value": "-11.94",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Food, Task 2: Transport)"
+    },
+    {
+      "value": "-5.75",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Interior, Task 2: Animals)"
+    },
+    {
+      "value": "-5.19",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Interior, Task 2: Food)"
+    },
+    {
+      "value": "-7.63",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Interior, Task 2: Sports)"
+    },
+    {
+      "value": "-2.83",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Interior, Task 2: Transport)"
+    },
+    {
+      "value": "-11.63",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Sports, Task 2: Animals)"
+    },
+    {
+      "value": "-18.20",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Sports, Task 2: Food)"
+    },
+    {
+      "value": "-9.60",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Sports, Task 2: Interior)"
+    },
+    {
+      "value": "-9.47",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Sports, Task 2: Transport)"
+    },
+    {
+      "value": "-4.19",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Transport, Task 2: Animals)"
+    },
+    {
+      "value": "-8.48",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Transport, Task 2: Food)"
+    },
+    {
+      "value": "-2.62",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Transport, Task 2: Interior)"
+    },
+    {
+      "value": "-3.67",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "continual learning (Task 1: Transport, Task 2: Sports)"
+    },
+    {
+      "value": "-68.40",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Action (after learning Color)"
+    },
+    {
+      "value": "-90.45",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Action (after learning Count)"
+    },
+    {
+      "value": "-19.59",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Action (after learning Scene)"
+    },
+    {
+      "value": "-12.58",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Action (after learning Subcat.)"
+    },
+    {
+      "value": "-88.89",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Color (after learning Action)"
+    },
+    {
+      "value": "-99.65",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Color (after learning Count)"
+    },
+    {
+      "value": "-27.75",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Color (after learning Scene)"
+    },
+    {
+      "value": "-62.46",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Color (after learning Subcat.)"
+    },
+    {
+      "value": "-99.17",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Count (after learning Action)"
+    },
+    {
+      "value": "-99.68",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Count (after learning Color)"
+    },
+    {
+      "value": "-97.52",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Count (after learning Scene)"
+    },
+    {
+      "value": "-87.00",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Count (after learning Subcat.)"
+    },
+    {
+      "value": "-10.91",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Scene (after learning Action)"
+    },
+    {
+      "value": "-34.40",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Scene (after learning Color)"
+    },
+    {
+      "value": "-77.73",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Scene (after learning Count)"
+    },
+    {
+      "value": "-15.22",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Scene (after learning Subcat.)"
+    },
+    {
+      "value": "-31.73",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Subcat. (after learning Action)"
+    },
+    {
+      "value": "-85.45",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Subcat. (after learning Color)"
+    },
+    {
+      "value": "-96.15",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Subcat. (after learning Count)"
+    },
+    {
+      "value": "-30.55",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Subcat. (after learning Scene)"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Diverse"
+    },
+    {
+      "value": "8e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Diverse"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "Diverse"
+    },
+    {
+      "value": "400",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Diverse"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Diverse+PT"
+    },
+    {
+      "value": "8e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Diverse+PT"
+    },
+    {
+      "value": "0.7",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "Diverse+PT"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Diverse+PT"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Taxonomy"
+    },
+    {
+      "value": "8e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Taxonomy"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "Taxonomy"
+    },
+    {
+      "value": "600",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Taxonomy"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Taxonomy+PT"
+    },
+    {
+      "value": "5e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Taxonomy+PT"
+    },
+    {
+      "value": "0.5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "Taxonomy+PT"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Taxonomy+PT"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Questions"
+    },
+    {
+      "value": "0.0001",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Questions"
+    },
+    {
+      "value": "0.9",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "Questions"
+    },
+    {
+      "value": "50K",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Questions"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Questions+PT"
+    },
+    {
+      "value": "5e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Questions+PT"
+    },
+    {
+      "value": "0.4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "Questions+PT"
+    },
+    {
+      "value": "20K",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Questions+PT"
+    },
+    {
+      "value": "1e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Diverse+PT"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Taxnomy+PT"
+    },
+    {
+      "value": "1e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Taxnomy+PT"
+    },
+    {
+      "value": "700",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Taxnomy+PT"
+    },
+    {
+      "value": "8e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Questions+PT"
+    },
+    {
+      "value": "10K",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Questions+PT"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "model": "Reference",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.164",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.836",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.134",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.529",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.34",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.855",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.32",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.832",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.115",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.164",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.093",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.818",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.197",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.676",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.151",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.577",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "model": "Reference",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.136",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.269",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "metric": "semantic backward transfer",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-18.2",
+      "type": "Result"
+    },
+    {
+      "value": "0",
+      "type": "Result"
+    },
+    {
+      "value": "1.1",
+      "type": "Result"
+    },
+    {
+      "value": "1.2",
+      "type": "Result"
+    },
+    {
+      "value": "0.87",
+      "type": "Result"
+    },
+    {
+      "value": "0.96",
+      "type": "Result"
+    },
+    {
+      "value": "1.3",
+      "type": "Result"
+    },
+    {
+      "value": "1",
+      "type": "Result"
+    },
+    {
+      "value": "1.5",
+      "type": "Result"
+    },
+    {
+      "value": "0.89",
+      "type": "Result"
+    },
+    {
+      "value": "2",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "2.4",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "1.6",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "2.6",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "2.3",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "1.8",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "1.4",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "1.7",
+      "type": "Result",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "model": "Continual Learning Model",
+      "dataset": "unspecified",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "6.6",
+      "type": "Result",
+      "model": "Continual Learning Model",
+      "dataset": "unspecified",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "4",
+      "type": "Result",
+      "model": "Continual Learning Model",
+      "dataset": "unspecified",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "4.8",
+      "type": "Result",
+      "model": "Continual Learning Model",
+      "dataset": "unspecified",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "5.9",
+      "type": "Result",
+      "model": "Continual Learning Model",
+      "dataset": "unspecified",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "4.4",
+      "type": "Result",
+      "model": "Continual Learning Model",
+      "dataset": "unspecified",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "6.5",
+      "type": "Result",
+      "model": "Continual Learning Model",
+      "dataset": "unspecified",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "2.7",
+      "type": "Result",
+      "model": "Continual Learning Model",
+      "dataset": "unspecified",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "5.2",
+      "type": "Result",
+      "model": "Continual Learning Model",
+      "dataset": "unspecified",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "6",
+      "type": "Result",
+      "model": "Continual Learning Model",
+      "dataset": "unspecified",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "5.6",
+      "type": "Result",
+      "model": "Continual Learning Model",
+      "dataset": "unspecified",
+      "metric": "forgetting",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "0.06",
+      "type": "Result"
+    },
+    {
+      "value": "0.08",
+      "type": "Result"
+    },
+    {
+      "value": "0.053",
+      "type": "Result"
+    },
+    {
+      "value": "0.059",
+      "type": "Result"
+    },
+    {
+      "value": "0.078",
+      "type": "Result"
+    },
+    {
+      "value": "0.037",
+      "type": "Result"
+    },
+    {
+      "value": "0.036",
+      "type": "Result"
+    },
+    {
+      "value": "0.057",
+      "type": "Result"
+    },
+    {
+      "value": "0.07",
+      "type": "Result"
+    },
+    {
+      "value": "0.027",
+      "type": "Result"
+    },
+    {
+      "value": "0.27",
+      "type": "Result"
+    },
+    {
+      "value": "0.15",
+      "type": "Result"
+    },
+    {
+      "value": "0.25",
+      "type": "Result"
+    },
+    {
+      "value": "0.18",
+      "type": "Result"
+    },
+    {
+      "value": "0.22",
+      "type": "Result"
+    },
+    {
+      "value": "0.16",
+      "type": "Result"
+    },
+    {
+      "value": "0.12",
+      "type": "Result"
+    },
+    {
+      "value": "0.029",
+      "type": "Result"
+    },
+    {
+      "value": "0.0048",
+      "type": "Result"
+    },
+    {
+      "value": "0.018",
+      "type": "Result"
+    },
+    {
+      "value": "0.01",
+      "type": "Result"
+    },
+    {
+      "value": "0.032",
+      "type": "Result"
+    },
+    {
+      "value": "0.049",
+      "type": "Result"
+    },
+    {
+      "value": "0.0087",
+      "type": "Result"
+    },
+    {
+      "value": "0.03",
+      "type": "Result"
+    },
+    {
+      "value": "0.071",
+      "type": "Result"
+    },
+    {
+      "value": "0.072",
+      "type": "Result"
+    },
+    {
+      "value": "0.083",
+      "type": "Result"
+    },
+    {
+      "value": "0.085",
+      "type": "Result"
+    },
+    {
+      "value": "0.056",
+      "type": "Result"
+    },
+    {
+      "value": "0.38",
+      "type": "Result",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "0.23",
+      "type": "Result",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "0.33",
+      "type": "Result",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "0.26",
+      "type": "Result",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "0.36",
+      "type": "Result",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "0.14",
+      "type": "Result",
+      "task": "Visual Question Answering (VQA)"
+    },
+    {
+      "value": "0.57",
+      "type": "Result"
+    },
+    {
+      "value": "0.48",
+      "type": "Result"
+    },
+    {
+      "value": "0.52",
+      "type": "Result"
+    },
+    {
+      "value": "0.42",
+      "type": "Result"
+    },
+    {
+      "value": "0.34",
+      "type": "Result"
+    },
+    {
+      "value": "0.45",
+      "type": "Result"
+    },
+    {
+      "value": "0.00048",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": null,
+      "task": null
+    },
+    {
+      "value": "0.004",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": null,
+      "task": null
+    },
+    {
+      "value": "0.0018",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": null,
+      "task": null
+    },
+    {
+      "value": "0.00049",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": null,
+      "task": null
+    },
+    {
+      "value": "0.0019",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": null,
+      "task": null
+    },
+    {
+      "value": "0.00054",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": null,
+      "task": null
+    },
+    {
+      "value": "0.00015",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": null,
+      "task": null
+    },
+    {
+      "value": "0.00022",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": null,
+      "task": null
+    },
+    {
+      "value": "0.0026",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": null,
+      "task": null
+    },
+    {
+      "value": "0.00093",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": null,
+      "task": null
+    },
+    {
+      "value": "0.0014",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0052",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.024",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0071",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0018",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.015",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0044",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0097",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0011",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0037",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0059",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.022",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.075",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0073",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.041",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0021",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0031",
+      "type": "Result",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.0096",
+      "type": "Result",
+      "task": "visual question answering"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 329.9,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

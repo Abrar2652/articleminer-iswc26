@@ -1,0 +1,19 @@
+{
+  "pdf_id": "S0022309304007550",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_60SiO2_15B2O3_xNa2O_(25-x)Al2O3_yNd2O3",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_60SiO2_15B2O3_xNa2O_(25-x)Al2O3_yNd2O3",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 16.8,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_60SiO2_15B2O3_xNa2O_(25-x)Al2O3_yNd2O3\", \"component\": \"SiO2\", \"value\": 60.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_60SiO2_15B2O3_xNa2O_(25-x)Al2O3_yNd2O3\", \"component\": \"B2O3\", \"value\": 15.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_60SiO2_15B2O3_xNa2O_(25-x)Al2O3_yNd2O3\", \"component\": \"Na2O\", \"value\": \"x\", \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_60SiO2_15B2O3_xNa2O_(25-x)Al2O3_yNd2O3\", \"component\": \"Al2O3\", \"value"
+}

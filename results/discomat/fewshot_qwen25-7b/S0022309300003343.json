@@ -1,0 +1,367 @@
+{
+  "pdf_id": "S0022309300003343",
+  "predictions": [
+    {
+      "sample_id": "YSi17G16",
+      "component": "Y",
+      "value": 28.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "Si",
+      "value": 56.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "Al",
+      "value": 16.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "O",
+      "value": 83.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "N",
+      "value": 17.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "Y",
+      "value": 12.3,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "Si",
+      "value": 18.5,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "Al",
+      "value": 7.0,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "O",
+      "value": 54.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "N",
+      "value": 7.5,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "Y",
+      "value": 35.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "Si",
+      "value": 45.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "Al",
+      "value": 20.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "O",
+      "value": 83.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "N",
+      "value": 17.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "Y",
+      "value": 15.1,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "Si",
+      "value": 14.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "Al",
+      "value": 8.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "O",
+      "value": 54.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "N",
+      "value": 7.4,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "Y",
+      "value": 18.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "Si",
+      "value": 47.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "Al",
+      "value": 35.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "O",
+      "value": 80.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "N",
+      "value": 20.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "Y",
+      "value": 7.9,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "Si",
+      "value": 15.4,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "Al",
+      "value": 15.3,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "O",
+      "value": 52.6,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "N",
+      "value": 8.8,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "La",
+      "value": 21.4,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "Si",
+      "value": 57.2,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "Al",
+      "value": 21.4,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "O",
+      "value": 87.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "N",
+      "value": 13.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "La",
+      "value": 9.35,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "Si",
+      "value": 18.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "Al",
+      "value": 9.35,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "O",
+      "value": 57.0,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "N",
+      "value": 5.6,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Er\u00b1B phase",
+      "component": "Er",
+      "value": 35.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Er\u00b1B phase",
+      "component": "Si",
+      "value": 45.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Er\u00b1B phase",
+      "component": "Al",
+      "value": 20.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Er\u00b1B phase",
+      "component": "O",
+      "value": 83.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Er\u00b1B phase",
+      "component": "N",
+      "value": 17.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Er\u00b1B phase",
+      "component": "Er",
+      "value": 15.1,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Er\u00b1B phase",
+      "component": "Si",
+      "value": 14.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Er\u00b1B phase",
+      "component": "Al",
+      "value": 8.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Er\u00b1B phase",
+      "component": "O",
+      "value": 54.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Er\u00b1B phase",
+      "component": "N",
+      "value": 7.4,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "Eu",
+      "value": 12.5,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "Si",
+      "value": 50.0,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "Al",
+      "value": 37.5,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "O",
+      "value": 87.5,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "N",
+      "value": 12.5,
+      "unit": "e/o"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "Eu",
+      "value": 7.9,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "Si",
+      "value": 15.8,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "Al",
+      "value": 15.8,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "O",
+      "value": 55.3,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "N",
+      "value": 5.2,
+      "unit": "at%"
+    }
+  ],
+  "elapsed_seconds": 73.0,
+  "raw_preview": "```json\n{\"sample_id\": \"YSi17G16\", \"component\": \"Y\", \"value\": 28, \"unit\": \"e/o\"}\n{\"sample_id\": \"YSi17G16\", \"component\": \"Si\", \"value\": 56, \"unit\": \"e/o\"}\n{\"sample_id\": \"YSi17G16\", \"component\": \"Al\", \"value\": 16, \"unit\": \"e/o\"}\n{\"sample_id\": \"YSi17G16\", \"component\": \"O\", \"value\": 83, \"unit\": \"e/o\"}\n{\"sample_id\": \"YSi17G16\", \"component\": \"N\", \"value\": 17, \"unit\": \"e/o\"}\n{\"sample_id\": \"YSi17G16\", \"component\": \"Y\", \"value\": 12.3, \"unit\": \"at%\"}\n{\"sample_id\": \"YSi17G16\", \"component\": \"Si\", \"value\": 18"
+}

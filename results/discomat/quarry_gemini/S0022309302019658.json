@@ -1,0 +1,407 @@
+{
+  "pii": "S0022309302019658",
+  "predictions": [
+    {
+      "sample_id": "NKFP48-00",
+      "component": "K2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-00",
+      "component": "Fe2O3",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-00",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-00",
+      "component": "K2O",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-05",
+      "component": "Na2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-05",
+      "component": "K2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-05",
+      "component": "Fe2O3",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-05",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-05",
+      "component": "Na2O",
+      "value": 4.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-05",
+      "component": "K2O",
+      "value": 14.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-10",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-10",
+      "component": "K2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-10",
+      "component": "Fe2O3",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-10",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-10",
+      "component": "Na2O",
+      "value": 9.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-10",
+      "component": "K2O",
+      "value": 9.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-15",
+      "component": "Na2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-15",
+      "component": "K2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-15",
+      "component": "Fe2O3",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-15",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-15",
+      "component": "Na2O",
+      "value": 14.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-15",
+      "component": "K2O",
+      "value": 4.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-20",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-20",
+      "component": "Fe2O3",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-20",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NKFP48-20",
+      "component": "Na2O",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-00",
+      "component": "Cs2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-00",
+      "component": "Fe2O3",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-00",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-00",
+      "component": "Cs2O",
+      "value": 18.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-00",
+      "component": "Fe2O3",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-00",
+      "component": "P2O5",
+      "value": 24.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-05",
+      "component": "Na2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-05",
+      "component": "Cs2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-05",
+      "component": "Fe2O3",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-05",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-05",
+      "component": "Na2O",
+      "value": 4.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-05",
+      "component": "Cs2O",
+      "value": 14.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-05",
+      "component": "Fe2O3",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-05",
+      "component": "P2O5",
+      "value": 24.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-10",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-10",
+      "component": "Cs2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-10",
+      "component": "Fe2O3",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-10",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-10",
+      "component": "Na2O",
+      "value": 9.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-10",
+      "component": "Cs2O",
+      "value": 9.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-10",
+      "component": "Fe2O3",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-10",
+      "component": "P2O5",
+      "value": 24.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-15",
+      "component": "Na2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-15",
+      "component": "Cs2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-15",
+      "component": "Fe2O3",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-15",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-15",
+      "component": "Na2O",
+      "value": 13.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-15",
+      "component": "Cs2O",
+      "value": 4.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-15",
+      "component": "Fe2O3",
+      "value": 14.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-15",
+      "component": "P2O5",
+      "value": 25.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-20",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-20",
+      "component": "Fe2O3",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-20",
+      "component": "P2O5",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-20",
+      "component": "Na2O",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-20",
+      "component": "Fe2O3",
+      "value": 14.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NCFP48-20",
+      "component": "P2O5",
+      "value": 25.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F40M",
+      "component": "Fe2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F40M",
+      "component": "P2O5",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F40M",
+      "component": "Fe2O3",
+      "value": 14.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F40M",
+      "component": "P2O5",
+      "value": 30.1,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 87,
+  "elapsed_seconds": 79.3,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

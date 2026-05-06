@@ -1,0 +1,472 @@
+{
+  "arxiv_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": "-16.38",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-17.08",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-11.94",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-5.75",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-5.19",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-7.63",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-2.83",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-11.63",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-18.2",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-9.60",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-9.47",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-4.19",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-8.48",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-2.62",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-3.67",
+      "type": "Result",
+      "metric": "Backward Transfer or similar",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "2.4",
+      "type": "Result"
+    },
+    {
+      "value": "1.6",
+      "type": "Result"
+    },
+    {
+      "value": "2.6",
+      "type": "Result"
+    },
+    {
+      "value": "2.3",
+      "type": "Result"
+    },
+    {
+      "value": "1.8",
+      "type": "Result"
+    },
+    {
+      "value": "1.4",
+      "type": "Result"
+    },
+    {
+      "value": "1.7",
+      "type": "Result"
+    },
+    {
+      "value": "2",
+      "type": "Result"
+    },
+    {
+      "value": "1.3",
+      "type": "Result"
+    },
+    {
+      "value": "1.2",
+      "type": "Result"
+    },
+    {
+      "value": "6.6",
+      "type": "Result"
+    },
+    {
+      "value": "4",
+      "type": "Result"
+    },
+    {
+      "value": "4.8",
+      "type": "Result"
+    },
+    {
+      "value": "0",
+      "type": "Result"
+    },
+    {
+      "value": "5.9",
+      "type": "Result"
+    },
+    {
+      "value": "4.4",
+      "type": "Result"
+    },
+    {
+      "value": "6.5",
+      "type": "Result"
+    },
+    {
+      "value": "2.7",
+      "type": "Result"
+    },
+    {
+      "value": "5.2",
+      "type": "Result"
+    },
+    {
+      "value": "6",
+      "type": "Result"
+    },
+    {
+      "value": "5.6",
+      "type": "Result"
+    },
+    {
+      "value": "0.06",
+      "type": "Result"
+    },
+    {
+      "value": "0.08",
+      "type": "Result"
+    },
+    {
+      "value": "0.053",
+      "type": "Result"
+    },
+    {
+      "value": "0.059",
+      "type": "Result"
+    },
+    {
+      "value": "0.078",
+      "type": "Result"
+    },
+    {
+      "value": "0.037",
+      "type": "Result"
+    },
+    {
+      "value": "0.036",
+      "type": "Result"
+    },
+    {
+      "value": "0.057",
+      "type": "Result"
+    },
+    {
+      "value": "0.07",
+      "type": "Result"
+    },
+    {
+      "value": "0.027",
+      "type": "Result"
+    },
+    {
+      "value": "0.27",
+      "type": "Result"
+    },
+    {
+      "value": "0.15",
+      "type": "Result"
+    },
+    {
+      "value": "0.25",
+      "type": "Result"
+    },
+    {
+      "value": "0.18",
+      "type": "Result"
+    },
+    {
+      "value": "0.22",
+      "type": "Result"
+    },
+    {
+      "value": "0.16",
+      "type": "Result"
+    },
+    {
+      "value": "0.12",
+      "type": "Result"
+    },
+    {
+      "value": "0.029",
+      "type": "Result"
+    },
+    {
+      "value": "0.0048",
+      "type": "Result"
+    },
+    {
+      "value": "0.018",
+      "type": "Result"
+    },
+    {
+      "value": "0.01",
+      "type": "Result"
+    },
+    {
+      "value": "0.032",
+      "type": "Result"
+    },
+    {
+      "value": "0.049",
+      "type": "Result"
+    },
+    {
+      "value": "0.0087",
+      "type": "Result"
+    },
+    {
+      "value": "0.03",
+      "type": "Result"
+    },
+    {
+      "value": "0.071",
+      "type": "Result"
+    },
+    {
+      "value": "0.072",
+      "type": "Result"
+    },
+    {
+      "value": "0.083",
+      "type": "Result"
+    },
+    {
+      "value": "0.085",
+      "type": "Result"
+    },
+    {
+      "value": "0.056",
+      "type": "Result"
+    },
+    {
+      "value": "0.38",
+      "type": "Result"
+    },
+    {
+      "value": "0.23",
+      "type": "Result"
+    },
+    {
+      "value": "0.33",
+      "type": "Result"
+    },
+    {
+      "value": "0.26",
+      "type": "Result"
+    },
+    {
+      "value": "0.36",
+      "type": "Result"
+    },
+    {
+      "value": "0.14",
+      "type": "Result"
+    },
+    {
+      "value": "0.57",
+      "type": "Result",
+      "metric": "Accuracy/Final Accuracy"
+    },
+    {
+      "value": "0.48",
+      "type": "Result",
+      "metric": "Accuracy/Final Accuracy"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "metric": "Accuracy/Final Accuracy"
+    },
+    {
+      "value": "0.42",
+      "type": "Result",
+      "metric": "Accuracy/Final Accuracy"
+    },
+    {
+      "value": "0.34",
+      "type": "Result",
+      "metric": "Accuracy/Final Accuracy"
+    },
+    {
+      "value": "0.45",
+      "type": "Result",
+      "metric": "Accuracy/Final Accuracy"
+    },
+    {
+      "value": "0.00048",
+      "type": "Result"
+    },
+    {
+      "value": "0.004",
+      "type": "Result"
+    },
+    {
+      "value": "0.0018",
+      "type": "Result"
+    },
+    {
+      "value": "0.00049",
+      "type": "Result"
+    },
+    {
+      "value": "0.0019",
+      "type": "Result"
+    },
+    {
+      "value": "0.00054",
+      "type": "Result"
+    },
+    {
+      "value": "0.00015",
+      "type": "Result"
+    },
+    {
+      "value": "0.00022",
+      "type": "Result"
+    },
+    {
+      "value": "0.0026",
+      "type": "Result"
+    },
+    {
+      "value": "0.00093",
+      "type": "Result"
+    },
+    {
+      "value": "0.0014",
+      "type": "Result"
+    },
+    {
+      "value": "0.0052",
+      "type": "Result"
+    },
+    {
+      "value": "0.024",
+      "type": "Result"
+    },
+    {
+      "value": "0.0071",
+      "type": "Result"
+    },
+    {
+      "value": "0.015",
+      "type": "Result"
+    },
+    {
+      "value": "0.0044",
+      "type": "Result"
+    },
+    {
+      "value": "0.0097",
+      "type": "Result"
+    },
+    {
+      "value": "0.0011",
+      "type": "Result"
+    },
+    {
+      "value": "0.0037",
+      "type": "Result"
+    },
+    {
+      "value": "0.0059",
+      "type": "Result"
+    },
+    {
+      "value": "0.022",
+      "type": "Result"
+    },
+    {
+      "value": "0.075",
+      "type": "Result"
+    },
+    {
+      "value": "0.0073",
+      "type": "Result"
+    },
+    {
+      "value": "0.041",
+      "type": "Result"
+    },
+    {
+      "value": "0.0021",
+      "type": "Result"
+    },
+    {
+      "value": "0.0031",
+      "type": "Result"
+    },
+    {
+      "value": "0.0096",
+      "type": "Result"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 57.4,
+  "backends": [
+    "pdfplumber"
+  ]
+}

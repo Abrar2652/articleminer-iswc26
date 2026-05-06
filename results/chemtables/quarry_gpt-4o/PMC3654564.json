@@ -1,0 +1,126 @@
+{
+  "pmc_id": "PMC3654564",
+  "predictions": [
+    {
+      "value": "127",
+      "type": "IC50",
+      "target": "wt mCOX-2",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "267",
+      "type": "IC50",
+      "target": "wt mCOX-2",
+      "treatment": "CF3\u2212INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "27",
+      "type": "IC50",
+      "target": "wt hCOX-1",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": ">100",
+      "type": "IC50",
+      "target": "wt hCOX-1",
+      "treatment": "CF3\u2212INDO",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "71",
+      "type": "IC50",
+      "target": "mV349A",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "120",
+      "type": "IC50",
+      "target": "mV349A",
+      "treatment": "CF3\u2212INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "315",
+      "type": "IC50",
+      "target": "mV349I",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "163",
+      "type": "IC50",
+      "target": "mV349I",
+      "treatment": "CF3\u2212INDO",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "134",
+      "type": "IC50",
+      "target": "mV349L",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "104",
+      "type": "IC50",
+      "target": "mV349L",
+      "treatment": "CF3\u2212INDO",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "220",
+      "type": "IC50",
+      "target": "mS530A",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "435",
+      "type": "IC50",
+      "target": "mS530A",
+      "treatment": "CF3\u2212INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "326",
+      "type": "IC50",
+      "target": "mR120Q",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "1.56",
+      "type": "IC50",
+      "target": "mR120Q",
+      "treatment": "CF3\u2212INDO",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "75",
+      "type": "IC50",
+      "target": "mY355F",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "4",
+      "type": "IC50",
+      "target": "mY355F",
+      "treatment": "CF3\u2212INDO",
+      "unit": "\u00b5M"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 14,
+  "elapsed_seconds": 33.3,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

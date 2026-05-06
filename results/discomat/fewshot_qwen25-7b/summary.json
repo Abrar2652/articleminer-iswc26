@@ -1,0 +1,8 @@
+{
+  "domain": "discomat",
+  "model": "qwen25-7b",
+  "shots": 3,
+  "n_pdfs": 111,
+  "total_preds": 3162,
+  "elapsed_seconds": 5268.5
+}

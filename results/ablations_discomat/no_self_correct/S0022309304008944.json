@@ -1,0 +1,32 @@
+{
+  "pdf_id": "S0022309304008944",
+  "predictions": [
+    {
+      "sample_id": "Abstract composition",
+      "component": "SiO2",
+      "value": 55.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Abstract composition",
+      "component": "Al2O3",
+      "value": 22.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Abstract composition",
+      "component": "ZnO",
+      "value": 17.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Abstract composition",
+      "component": "TiO2",
+      "value": 3.84,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 16,
+  "ablation": "no_self_correct",
+  "elapsed_seconds": 35.4
+}

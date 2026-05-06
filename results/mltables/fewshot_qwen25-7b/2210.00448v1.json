@@ -1,0 +1,731 @@
+{
+  "pdf_id": "2210.00448v1",
+  "predictions": [
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Efficient Net B0",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "94.79",
+      "type": "Result",
+      "model": "Efficient Net B0",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 5-class test set"
+    },
+    {
+      "value": "95.97",
+      "type": "Result",
+      "model": "Efficient Net B0",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on new 7-class test set"
+    },
+    {
+      "value": "94.68",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "94.53",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 5-class test set"
+    },
+    {
+      "value": "95.38",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "95.68",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on new 7-class test set"
+    },
+    {
+      "value": "95.70",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "96.64",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "95.58",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 7-class test set"
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "model": "Jetson Nano",
+      "attribute name": "Power consumption",
+      "unit": "W"
+    },
+    {
+      "value": "0.89",
+      "type": "Data Stat.",
+      "model": "K210",
+      "attribute name": "Power consumption",
+      "unit": "W"
+    },
+    {
+      "value": "3.97",
+      "type": "Data Stat.",
+      "model": "AI bin program",
+      "attribute name": "Power consumption",
+      "unit": "W"
+    },
+    {
+      "value": "6.682",
+      "type": "Data Stat.",
+      "model": "Efficient Net B0",
+      "attribute name": "Memory usage",
+      "unit": "%"
+    },
+    {
+      "value": "90.90",
+      "type": "Data Stat.",
+      "model": "Mobile Net V3 Large",
+      "attribute name": "Memory usage",
+      "unit": "%"
+    },
+    {
+      "value": "29.7",
+      "type": "Data Stat.",
+      "model": "Mobile Net V3 Large",
+      "attribute name": "Power consumption reduction",
+      "unit": "%"
+    },
+    {
+      "value": "13",
+      "type": "Data Stat.",
+      "model": "Efficient Net B0",
+      "attribute name": "Inference speed",
+      "unit": "IPS"
+    },
+    {
+      "value": "40",
+      "type": "Data Stat.",
+      "model": "Mobile Net V3 Large",
+      "attribute name": "Inference speed",
+      "unit": "IPS"
+    },
+    {
+      "value": "50",
+      "type": "Data Stat.",
+      "model": "Training process",
+      "attribute name": "Epochs",
+      "unit": ""
+    },
+    {
+      "value": "6.682",
+      "type": "Data Stat.",
+      "model": "Efficient Net B0",
+      "attribute name": "Memory usage",
+      "unit": "%"
+    },
+    {
+      "value": "90.90",
+      "type": "Data Stat.",
+      "model": "Mobile Net V3 Large",
+      "attribute name": "Memory usage",
+      "unit": "%"
+    },
+    {
+      "value": "4.698",
+      "type": "Data Stat.",
+      "model": "Mobile Net V3 Large",
+      "attribute name": "Power consumption",
+      "unit": "W"
+    },
+    {
+      "value": "224x224",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mobile Net V3 Large",
+      "attribute name": "Input resolution",
+      "unit": "pixels"
+    },
+    {
+      "value": "512x384",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mobile Net V3 Large",
+      "attribute name": "Input resolution",
+      "unit": "pixels"
+    },
+    {
+      "value": "224x224",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mobile Net V3 Large",
+      "attribute name": "Input resolution",
+      "unit": "pixels"
+    },
+    {
+      "value": "384x288",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Efficient Net B0",
+      "attribute name": "Input resolution",
+      "unit": "pixels"
+    },
+    {
+      "value": "512x384",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Efficient Net B0",
+      "attribute name": "Input resolution",
+      "unit": "pixels"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "model": "K210",
+      "attribute name": "Power consumption reduction",
+      "unit": "%"
+    },
+    {
+      "value": "6",
+      "type": "Data Stat.",
+      "model": "AI bin program",
+      "attribute name": "Memory usage",
+      "unit": "%"
+    },
+    {
+      "value": "1600",
+      "type": "Data Stat.",
+      "model": "Solar panel",
+      "attribute name": "Area",
+      "unit": "cm^2"
+    },
+    {
+      "value": "22%",
+      "type": "Data Stat.",
+      "model": "Solar panel",
+      "attribute name": "Efficiency",
+      "unit": "%"
+    },
+    {
+      "value": "118605",
+      "type": "Data Stat.",
+      "model": "Journal of Cleaner Production",
+      "attribute name": "Article ID",
+      "unit": ""
+    },
+    {
+      "value": "23",
+      "type": "Data Stat.",
+      "model": "K210",
+      "attribute name": "Cost",
+      "unit": "GBP"
+    },
+    {
+      "value": "5200",
+      "type": "Data Stat.",
+      "model": "Existing intelligent bin product",
+      "attribute name": "Cost",
+      "unit": "USD"
+    },
+    {
+      "value": "2.7",
+      "type": "Data Stat.",
+      "model": "Raspberry Pi 4",
+      "attribute name": "Typical power consumption",
+      "unit": "W"
+    },
+    {
+      "value": "6.4",
+      "type": "Data Stat.",
+      "model": "Raspberry Pi 4",
+      "attribute name": "Typical power consumption",
+      "unit": "W"
+    },
+    {
+      "value": "0.89",
+      "type": "Data Stat.",
+      "model": "K210",
+      "attribute name": "Power consumption",
+      "unit": "W"
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "model": "Jetson Nano",
+      "attribute name": "Power consumption",
+      "unit": "W"
+    },
+    {
+      "value": "30",
+      "type": "Data Stat.",
+      "model": "Power consumption reduction",
+      "attribute name": "Percentage",
+      "unit": "%"
+    },
+    {
+      "value": "3",
+      "type": "Data Stat.",
+      "model": "Jetson Nano",
+      "attribute name": "Power consumption",
+      "unit": "W"
+    },
+    {
+      "value": "0.1",
+      "type": "Data Stat.",
+      "model": "Human visual reaction time",
+      "attribute name": "Time",
+      "unit": "s"
+    },
+    {
+      "value": "66",
+      "type": "Data Stat.",
+      "model": "K210",
+      "attribute name": "Inference time",
+      "unit": "ms"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.64",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "95.58",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 7-class test set"
+    },
+    {
+      "value": "95.97",
+      "type": "Result",
+      "model": "Efficient Net B0",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on new 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "96.64",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "95.58",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "95.58",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Top-1 Accuracy on 5-class test set"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Mobile Net V3 Large",
+      "dataset": [
+        "Trash Net",
+        "1800 new training samples"
+      ],
+      "metric": "Per-class precision of 7-class test set"
+    }
+  ],
+  "elapsed_seconds": 160.2,
+  "raw_preview": "```json\n{\"value\": \"95.98\", \"type\": \"Result\", \"model\": \"Efficient Net B0\", \"dataset\": [\"Trash Net\", \"1800 new training samples\"], \"metric\": \"Top-1 Accuracy on 5-class test set\"}\n{\"value\": \"94.79\", \"type\": \"Result\", \"model\": \"Efficient Net B0\", \"dataset\": [\"Trash Net\", \"1800 new training samples\"], \"metric\": \"Per-class precision of 5-class test set\"}\n{\"value\": \"95.97\", \"type\": \"Result\", \"model\": \"Efficient Net B0\", \"dataset\": [\"Trash Net\", \"1800 new training samples\"], \"metric\": \"Top-1 Accuracy on"
+}

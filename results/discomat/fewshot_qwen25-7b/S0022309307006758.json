@@ -1,0 +1,43 @@
+{
+  "pdf_id": "S0022309307006758",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_Cs(Al MW)",
+      "component": "Cs2O",
+      "value": 2.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs(La MW)",
+      "component": "Cs2O",
+      "value": 1.68,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs(Mg MW)",
+      "component": "Cs2O",
+      "value": 2.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Cs(Mg' MW)",
+      "component": "Cs2O",
+      "value": 10.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Danburite",
+      "component": "Cs2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Reedmergnerite",
+      "component": "Cs2O",
+      "value": 12.5,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 15.0,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_Cs(Al MW)\", \"component\": \"Cs2O\", \"value\": 2.4, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Cs(La MW)\", \"component\": \"Cs2O\", \"value\": 1.68, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Cs(Mg MW)\", \"component\": \"Cs2O\", \"value\": 2.4, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Cs(Mg' MW)\", \"component\": \"Cs2O\", \"value\": 10.2, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Danburite\", \"component\": \"Cs2O\", \"value\": 25.0, \"unit\": "
+}

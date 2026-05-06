@@ -1,0 +1,77 @@
+{
+  "pii": "S0022309314004086",
+  "predictions": [
+    {
+      "sample_id": "1.5",
+      "component": "Fe2O3",
+      "value": 1.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2.0",
+      "component": "Fe2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3.0",
+      "component": "Fe2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4.0",
+      "component": "Fe2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5.0",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0.5",
+      "component": "Fe2O3",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1",
+      "component": "Fe2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2",
+      "component": "Fe2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3",
+      "component": "Fe2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4",
+      "component": "Fe2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 62,
+  "elapsed_seconds": 79.4,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

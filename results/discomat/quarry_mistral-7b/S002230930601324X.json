@@ -1,0 +1,198 @@
+{
+  "pii": "S002230930601324X",
+  "predictions": [
+    {
+      "sample_id": "1.1.0",
+      "component": "SiO2",
+      "value": 41.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.1.0",
+      "component": "Al2O3",
+      "value": 11.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.1.0",
+      "component": "Fe2O3",
+      "value": 10.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.1.4",
+      "component": "SiO2",
+      "value": 41.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.1.4",
+      "component": "Al2O3",
+      "value": 11.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.1.4",
+      "component": "Fe2O3",
+      "value": 9.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.1.7",
+      "component": "SiO2",
+      "value": 41.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.1.7",
+      "component": "Al2O3",
+      "value": 11.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.1.7",
+      "component": "Fe2O3",
+      "value": 8.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.1.10",
+      "component": "SiO2",
+      "value": 40.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.1.10",
+      "component": "Al2O3",
+      "value": 10.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.1.10",
+      "component": "Fe2O3",
+      "value": 7.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.0",
+      "component": "SiO2",
+      "value": 40.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.0",
+      "component": "Al2O3",
+      "value": 12.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.0",
+      "component": "Fe2O3",
+      "value": 10.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.4",
+      "component": "SiO2",
+      "value": 40.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.4",
+      "component": "Al2O3",
+      "value": 12.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.4",
+      "component": "Fe2O3",
+      "value": 9.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.7",
+      "component": "SiO2",
+      "value": 40.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.7",
+      "component": "Al2O3",
+      "value": 11.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.7",
+      "component": "Fe2O3",
+      "value": 8.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.10",
+      "component": "SiO2",
+      "value": 39.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.10",
+      "component": "Al2O3",
+      "value": 11.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1.2.10",
+      "component": "Fe2O3",
+      "value": 8.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2.1.7",
+      "component": "SiO2",
+      "value": 41.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2.1.7",
+      "component": "Al2O3",
+      "value": 11.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2.1.7",
+      "component": "Fe2O3",
+      "value": 8.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2.2.7",
+      "component": "SiO2",
+      "value": 41.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2.2.7",
+      "component": "Al2O3",
+      "value": 11.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2.2.7",
+      "component": "Fe2O3",
+      "value": 8.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2.2.7",
+      "component": "Cr2O3",
+      "value": 0.2,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 94,
+  "elapsed_seconds": 183.4,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

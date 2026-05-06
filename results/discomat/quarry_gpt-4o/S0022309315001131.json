@@ -1,0 +1,139 @@
+{
+  "pii": "S0022309315001131",
+  "predictions": [
+    {
+      "sample_id": "GY0.5",
+      "component": "SiO2",
+      "value": 37.26,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY0.5",
+      "component": "Al2O3",
+      "value": 28.11,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY0.5",
+      "component": "CaO",
+      "value": 7.73,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY0.5",
+      "component": "CaF2",
+      "value": 26.89,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY0.5",
+      "component": "Y2O3",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY0.5",
+      "component": "As2O3",
+      "value": 0.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY0.5",
+      "component": "Sb2O3",
+      "value": 0.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1",
+      "component": "SiO2",
+      "value": 37.26,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1",
+      "component": "Al2O3",
+      "value": 28.11,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1",
+      "component": "CaO",
+      "value": 7.73,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1",
+      "component": "CaF2",
+      "value": 26.89,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1",
+      "component": "Y2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1",
+      "component": "As2O3",
+      "value": 0.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1",
+      "component": "Sb2O3",
+      "value": 0.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1.5",
+      "component": "SiO2",
+      "value": 37.26,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1.5",
+      "component": "Al2O3",
+      "value": 28.11,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1.5",
+      "component": "CaO",
+      "value": 7.73,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1.5",
+      "component": "CaF2",
+      "value": 26.89,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1.5",
+      "component": "Y2O3",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1.5",
+      "component": "As2O3",
+      "value": 0.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GY1.5",
+      "component": "Sb2O3",
+      "value": 0.2,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 21,
+  "elapsed_seconds": 61.4,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

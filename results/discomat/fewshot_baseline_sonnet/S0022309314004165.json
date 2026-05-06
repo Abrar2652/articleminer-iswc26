@@ -1,0 +1,91 @@
+{
+  "pdf_id": "S0022309314004165",
+  "predictions": [
+    {
+      "sample_id": "ref_glass_La",
+      "component": "SiO2",
+      "value": 49.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ref_glass_La",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ref_glass_La",
+      "component": "Al2O3",
+      "value": 16.33,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ref_glass_La",
+      "component": "La2O3",
+      "value": 14.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd2.3",
+      "component": "Nd2O3",
+      "value": 2.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd4",
+      "component": "Nd2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd6",
+      "component": "Nd2O3",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd8",
+      "component": "Nd2O3",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10",
+      "component": "Nd2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd2.3",
+      "component": "Nd2O3",
+      "value": 2.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd4",
+      "component": "Nd2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd6",
+      "component": "Nd2O3",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd8",
+      "component": "Nd2O3",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10",
+      "component": "Nd2O3",
+      "value": 10.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 24.1,
+  "raw_preview": "I need to extract material composition data from the paper text. Let me identify the relevant compositional information.\n\nFrom the paper, I can identify:\n1. A reference glass composition mentioned: 49.39SiO2\u201320B2O3\u201316.33Al2O3\u201314.28La2O3\n2. The G0.26Ndx and G0.40Ndx series with varying Nd2O3 content (x = 0, 2.3, 4, 6, 8, 10 mol%)\n3. Table 2 and Table 3 are referenced but their content is not fully provided in the text\n\nFrom the text, the only explicit numerical composition given is:\n- 49.39SiO2\u20132"
+}

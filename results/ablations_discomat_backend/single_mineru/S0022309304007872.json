@@ -1,0 +1,70 @@
+{
+  "pii": "S0022309304007872",
+  "predictions": [
+    {
+      "sample_id": "B",
+      "component": "SiO2",
+      "value": 62.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B",
+      "component": "B2O3",
+      "value": 9.37,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B",
+      "component": "K2O",
+      "value": 25.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B",
+      "component": "Al2O3",
+      "value": 2.58,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B",
+      "component": "Au",
+      "value": 0.019,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "A",
+      "component": "SiO2",
+      "value": 73.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "A",
+      "component": "B2O3",
+      "value": 9.37,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "A",
+      "component": "K2O",
+      "value": 14.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "A",
+      "component": "Al2O3",
+      "value": 2.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "A",
+      "component": "Au",
+      "value": 0.0195,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 10,
+  "elapsed_seconds": 26.7,
+  "backends": [
+    "mineru"
+  ]
+}

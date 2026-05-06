@@ -1,0 +1,108 @@
+{
+  "arxiv_id": "2210.00084v1",
+  "predictions": [
+    {
+      "value": "11",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "Class #.Train"
+    },
+    {
+      "value": "4",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "Class #.Test"
+    },
+    {
+      "value": "320",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "Graph #.Validation"
+    },
+    {
+      "value": "600",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "Graph #.Test"
+    },
+    {
+      "value": "7",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "Class #.Train"
+    },
+    {
+      "value": "3",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "Class #.Test"
+    },
+    {
+      "value": "1126",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "Graph #.Training"
+    },
+    {
+      "value": "603",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "Graph #.Test"
+    },
+    {
+      "value": "7",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "Class #.Train"
+    },
+    {
+      "value": "4",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "Class #.Test"
+    },
+    {
+      "value": "141",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "Graph #.Validation"
+    },
+    {
+      "value": "404",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "Graph #.Test"
+    },
+    {
+      "value": "4",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "Class #.Train"
+    },
+    {
+      "value": "2",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "Class #.Test"
+    },
+    {
+      "value": "320",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "Graph #.Training"
+    },
+    {
+      "value": "200",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "Graph #.Test"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 56.7,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

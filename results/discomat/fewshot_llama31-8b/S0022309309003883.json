@@ -1,0 +1,793 @@
+{
+  "pdf_id": "S0022309309003883",
+  "predictions": [
+    {
+      "sample_id": "Ga0",
+      "component": "GeS2",
+      "value": 72.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ge",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "GeS2",
+      "value": 71.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ga2S3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "GeS2",
+      "value": 66.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ga2S3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "GeS2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ga2S3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "GeS2",
+      "value": 54.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ga2S3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "S",
+      "value": 72.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "S",
+      "value": 71.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "S",
+      "value": 66.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "S",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "S",
+      "value": 54.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ga",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ga",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ga",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ga",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ga",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ge",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ge",
+      "value": 27.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ge",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ge",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ge",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ga2S3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ga2S3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ga2S3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ga2S3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ga2S3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "S3Ge(Ga)\u2013(Ga)GeS3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "S3Ge(Ga)\u2013(Ga)GeS3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "S3Ge(Ga)\u2013(Ga)GeS3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "S3Ge(Ga)\u2013(Ga)GeS3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "S3Ge(Ga)\u2013(Ga)GeS3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ge\u2013S",
+      "value": 72.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ge\u2013S",
+      "value": 71.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ge\u2013S",
+      "value": 66.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ge\u2013S",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ge\u2013S",
+      "value": 54.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ga\u2013S",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ga\u2013S",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ga\u2013S",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ga\u2013S",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ga\u2013S",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ge\u2013Ge",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ge\u2013Ge",
+      "value": 27.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ge\u2013Ge",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ge\u2013Ge",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ge\u2013Ge",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ga\u2013Ga",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ga\u2013Ga",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ga\u2013Ga",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ga\u2013Ga",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ga\u2013Ga",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "S\u2013S",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "S\u2013S",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "S\u2013S",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "S\u2013S",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "S\u2013S",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "GeS4/2",
+      "value": 72.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "GeS4/2",
+      "value": 71.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "GeS4/2",
+      "value": 66.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "GeS4/2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "GeS4/2",
+      "value": 54.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "GaS4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "GaS4",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "GaS4",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "GaS4",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "GaS4",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "S8",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "S8",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "S8",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "S8",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "S8",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ge\u2013S4/2",
+      "value": 72.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ge\u2013S4/2",
+      "value": 71.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ge\u2013S4/2",
+      "value": 66.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ge\u2013S4/2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ge\u2013S4/2",
+      "value": 54.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ga\u2013S3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ga\u2013S3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ga\u2013S3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ga\u2013S3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ga\u2013S3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ge\u2013S3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ge\u2013S3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ge\u2013S3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ge\u2013S3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ge\u2013S3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "S\u2013S\u2013S",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "S\u2013S\u2013S",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "S\u2013S\u2013S",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "S\u2013S\u2013S",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "S\u2013S\u2013S",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ge\u2013Ge\u2013S",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ge\u2013Ge\u2013S",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ge\u2013Ge\u2013S",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ge\u2013Ge\u2013S",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ge\u2013Ge\u2013S",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ga\u2013Ga\u2013S",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ga\u2013Ga\u2013S",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ga\u2013Ga\u2013S",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ga\u2013Ga\u2013S",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ga\u2013Ga\u2013S",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ge\u2013S\u2013S",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ge\u2013S\u2013S",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ge\u2013S\u2013S",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ge\u2013S\u2013S",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ge\u2013S\u2013S",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ga\u2013S\u2013S",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ga\u2013S\u2013S",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ga\u2013S\u2013S",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ga\u2013S\u2013S",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ga\u2013S\u2013S",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ge\u2013Ge\u2013Ge",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ge\u2013Ge\u2013Ge",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ge\u2013Ge\u2013Ge",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ge\u2013Ge\u2013Ge",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ge\u2013Ge\u2013Ge",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ga\u2013Ga\u2013Ga",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ga\u2013Ga\u2013Ga",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ga\u2013Ga\u2013Ga",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ga\u2013Ga\u2013Ga",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ga\u2013Ga\u2013Ga",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ge\u2013S\u2013Ge",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga2",
+      "component": "Ge\u2013S\u2013Ge",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga5",
+      "component": "Ge\u2013S\u2013Ge",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga10",
+      "component": "Ge\u2013S\u2013Ge",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga15",
+      "component": "Ge\u2013S\u2013Ge",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga0",
+      "component": "Ga\u2013S\u2013Ga",
+      "value": 0.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 204.7,
+  "raw_preview": "Here are the extracted material-composition entries in JSON format, one per line:\n\n{\"sample_id\": \"Ga0\", \"component\": \"GeS2\", \"value\": 72.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ga0\", \"component\": \"Ge\", \"value\": 28.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ga2\", \"component\": \"GeS2\", \"value\": 71.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ga2\", \"component\": \"Ga2S3\", \"value\": 2.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ga5\", \"component\": \"GeS2\", \"value\": 66.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ga5\", \"component\": \"Ga2S3\", \"value\": 5.0, \"u"
+}

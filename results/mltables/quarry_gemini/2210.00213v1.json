@@ -1,0 +1,499 @@
+{
+  "arxiv_id": "2210.00213v1",
+  "predictions": [
+    {
+      "value": "-4.2023",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-3.3334",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-5.7045",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-5.7334",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "0.0025",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "0.0014",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "0.0013",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "0.0018",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-3.9011",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-2.9421",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-5.4339",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-5.3403",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "0.0056",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "0.0072",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "0.0036",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "0.0013",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-4.9279",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Generalized"
+    },
+    {
+      "value": "-4.5275",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Generalized"
+    },
+    {
+      "value": "-5.2472",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Generalized"
+    },
+    {
+      "value": "-5.6803",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Generalized"
+    },
+    {
+      "value": "0.0035",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Generalized"
+    },
+    {
+      "value": "0.0021",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Generalized"
+    },
+    {
+      "value": "0.0021",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Generalized"
+    },
+    {
+      "value": "0.0010",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Generalized"
+    },
+    {
+      "value": "-4.2735",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-4.0560",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-4.5875",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-5.0022",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "0.0033",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "0.0020",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "0.0026",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "Zero-shot"
+    },
+    {
+      "value": "-4.2700",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Standard"
+    },
+    {
+      "value": "-3.8543",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Standard"
+    },
+    {
+      "value": "-4.9030",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Standard"
+    },
+    {
+      "value": "-4.9475",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Standard"
+    },
+    {
+      "value": "0.0047",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Standard"
+    },
+    {
+      "value": "0.0042",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Standard"
+    },
+    {
+      "value": "0.0024",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Standard"
+    },
+    {
+      "value": "0.0025",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Standard"
+    },
+    {
+      "value": "-4.6991",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "event modeling"
+    },
+    {
+      "value": "-2.9633",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "event modeling"
+    },
+    {
+      "value": "-2.5325",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "event modeling"
+    },
+    {
+      "value": "-4.8796",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "event modeling"
+    },
+    {
+      "value": "0.0046",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "event modeling"
+    },
+    {
+      "value": "0.0078",
+      "type": "Result",
+      "model": "FNHP-RNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "event modeling"
+    },
+    {
+      "value": "0.0027",
+      "type": "Result",
+      "model": "HyperHawkes-FNN",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "event modeling"
+    },
+    {
+      "value": "-4.2850",
+      "type": "Result",
+      "model": "WithoutCL",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "time-to-event modeling"
+    },
+    {
+      "value": "-5.6928",
+      "type": "Result",
+      "model": "WithCL",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "time-to-event modeling"
+    },
+    {
+      "value": "0.00159",
+      "type": "Result",
+      "model": "WithoutCL",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "time-to-event modeling"
+    },
+    {
+      "value": "0.00149",
+      "type": "Result",
+      "model": "WithCL",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "time-to-event modeling"
+    },
+    {
+      "value": "-5.2629",
+      "type": "Result",
+      "model": "WithoutCL",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Event sequence prediction"
+    },
+    {
+      "value": "-5.7727",
+      "type": "Result",
+      "model": "WithCL",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "task": "Event sequence prediction"
+    },
+    {
+      "value": "0.00152",
+      "type": "Result",
+      "model": "WithoutCL",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Event sequence prediction"
+    },
+    {
+      "value": "0.00150",
+      "type": "Result",
+      "model": "WithCL",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "task": "Event sequence prediction"
+    },
+    {
+      "value": "-2.8550",
+      "type": "Result",
+      "model": "WithoutCL",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "time-to-event modeling"
+    },
+    {
+      "value": "-5.1462",
+      "type": "Result",
+      "model": "WithCL",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "time-to-event modeling"
+    },
+    {
+      "value": "0.00548",
+      "type": "Result",
+      "model": "WithoutCL",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "time-to-event modeling"
+    },
+    {
+      "value": "0.00471",
+      "type": "Result",
+      "model": "WithCL",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "time-to-event modeling"
+    },
+    {
+      "value": "-3.8254",
+      "type": "Result",
+      "model": "WithoutCL",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "Event sequence prediction"
+    },
+    {
+      "value": "-5.1192",
+      "type": "Result",
+      "model": "WithCL",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "task": "Event sequence prediction"
+    },
+    {
+      "value": "0.00508",
+      "type": "Result",
+      "model": "WithoutCL",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "task": "Event sequence prediction"
+    }
+  ],
+  "num_gold_annotations": 64,
+  "elapsed_seconds": 93.5,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

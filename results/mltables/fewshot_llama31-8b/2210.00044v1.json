@@ -1,0 +1,815 @@
+{
+  "pdf_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": "65.0",
+      "type": "Data Stat.",
+      "model": "ER",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "67.5",
+      "type": "Data Stat.",
+      "model": "ER",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "70.0",
+      "type": "Data Stat.",
+      "model": "ER",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "72.5",
+      "type": "Data Stat.",
+      "model": "ER",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "75.0",
+      "type": "Data Stat.",
+      "model": "ER",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "77.5",
+      "type": "Data Stat.",
+      "model": "ER",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "80.0",
+      "type": "Data Stat.",
+      "model": "ER",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "82.5",
+      "type": "Data Stat.",
+      "model": "ER",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "35",
+      "type": "Data Stat.",
+      "model": "Finetuning",
+      "dataset": "Action",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "40",
+      "type": "Data Stat.",
+      "model": "Finetuning",
+      "dataset": "Action",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "45",
+      "type": "Data Stat.",
+      "model": "Finetuning",
+      "dataset": "Action",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "50",
+      "type": "Data Stat.",
+      "model": "Finetuning",
+      "dataset": "Action",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "55",
+      "type": "Data Stat.",
+      "model": "Finetuning",
+      "dataset": "Action",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "60",
+      "type": "Data Stat.",
+      "model": "Finetuning",
+      "dataset": "Action",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "65",
+      "type": "Data Stat.",
+      "model": "Finetuning",
+      "dataset": "Action",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "70",
+      "type": "Data Stat.",
+      "model": "Finetuning",
+      "dataset": "Action",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "33.09",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "What animal",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "13.38"
+      }
+    },
+    {
+      "value": "48.18",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "What animal",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "15.67"
+      }
+    },
+    {
+      "value": "73.11",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "What animal",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "0.70"
+      }
+    },
+    {
+      "value": "54.38",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "What room",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "32.42"
+      }
+    },
+    {
+      "value": "83.48",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "What room",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "7.61"
+      }
+    },
+    {
+      "value": "89.04",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "What room",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "2.80"
+      }
+    },
+    {
+      "value": "25.14",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "What sport",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "32.11"
+      }
+    },
+    {
+      "value": "62.81",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "What sport",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "13.67"
+      }
+    },
+    {
+      "value": "87.20",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "What sport",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "1.84"
+      }
+    },
+    {
+      "value": "75.07",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "What animal",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "3.54"
+      }
+    },
+    {
+      "value": "81.75",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "What animal",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "1.42"
+      }
+    },
+    {
+      "value": "80.73",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "What animal",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "0.37"
+      }
+    },
+    {
+      "value": "83.26",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "What room",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "12.47"
+      }
+    },
+    {
+      "value": "94.32",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "What room",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "0.88"
+      }
+    },
+    {
+      "value": "94.10",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "What room",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "1.39"
+      }
+    },
+    {
+      "value": "69.92",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "What sport",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "14.14"
+      }
+    },
+    {
+      "value": "90.82",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "What sport",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "1.36"
+      }
+    },
+    {
+      "value": "90.92",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "What sport",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "number of samples": "0.71"
+      }
+    },
+    {
+      "value": "-6.58",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-5.21",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-4.84",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-7.09",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-4.55",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-5.61",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-4.51",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-4.99",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-4.64",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-8.39",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-7.37",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-11.66",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-4.69",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-7.10",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-7.40",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-9.63",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-4.29",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-5.82",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-6.09",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-3.80",
+      "type": "Data Stat.",
+      "dataset": "Diverse Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-8.06",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-3.63",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-5.84",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-4.35",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-16.38",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-4.29",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-17.08",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-11.94",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-5.75",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-5.19",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-7.63",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-2.83",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-11.63",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-18.20",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-9.60",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-9.47",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-4.19",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-8.48",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-2.62",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-3.67",
+      "type": "Data Stat.",
+      "dataset": "Taxonomy Domains",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-68.40",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-90.45",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-19.59",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-12.58",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-88.89",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-99.65",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-27.75",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-62.46",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-99.17",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-99.68",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-97.52",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-87.00",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-10.91",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-34.40",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-77.73",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-15.22",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-31.73",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-85.45",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-96.15",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "-30.55",
+      "type": "Data Stat.",
+      "dataset": "Question Types",
+      "metric": "Accuracy drop"
+    },
+    {
+      "value": "0.567",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Answer distribution"
+    },
+    {
+      "value": "0.791",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Answer distribution"
+    },
+    {
+      "value": "0.795",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Answer distribution"
+    },
+    {
+      "value": "0.248",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Image embedding"
+    },
+    {
+      "value": "0.492",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Image embedding"
+    },
+    {
+      "value": "-0.640",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Image embedding"
+    },
+    {
+      "value": "0.184",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Question embedding"
+    },
+    {
+      "value": "0.531",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Question embedding"
+    },
+    {
+      "value": "0.631",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Question embedding"
+    },
+    {
+      "value": "0.220",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Joint embedding"
+    },
+    {
+      "value": "0.622",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Joint embedding"
+    },
+    {
+      "value": "-0.223",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Joint embedding"
+    },
+    {
+      "value": "0.567",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Answer distribution",
+      "p-value": "0.009"
+    },
+    {
+      "value": "0.791",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Answer distribution",
+      "p-value": "0.000"
+    },
+    {
+      "value": "0.795",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Answer distribution",
+      "p-value": "0.000"
+    },
+    {
+      "value": "0.248",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Image embedding",
+      "p-value": "0.293"
+    },
+    {
+      "value": "0.492",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Image embedding",
+      "p-value": "0.028"
+    },
+    {
+      "value": "-0.640",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Image embedding",
+      "p-value": "0.002"
+    },
+    {
+      "value": "0.184",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Question embedding",
+      "p-value": "0.437"
+    },
+    {
+      "value": "0.531",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Question embedding",
+      "p-value": "0.016"
+    },
+    {
+      "value": "0.631",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Question embedding",
+      "p-value": "0.003"
+    },
+    {
+      "value": "0.220",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Joint embedding",
+      "p-value": "0.350"
+    },
+    {
+      "value": "0.622",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Joint embedding",
+      "p-value": "0.003"
+    },
+    {
+      "value": "-0.223",
+      "type": "Data Stat.",
+      "dataset": "Dissimilarity",
+      "metric": "Joint embedding",
+      "p-value": "0.344"
+    }
+  ],
+  "elapsed_seconds": 217.6,
+  "raw_preview": "{\"value\": \"65.0\", \"type\": \"Data Stat.\", \"model\": \"ER\", \"dataset\": \"Taxonomy Domains\", \"metric\": \"Accuracy\"}\n{\"value\": \"67.5\", \"type\": \"Data Stat.\", \"model\": \"ER\", \"dataset\": \"Taxonomy Domains\", \"metric\": \"Accuracy\"}\n{\"value\": \"70.0\", \"type\": \"Data Stat.\", \"model\": \"ER\", \"dataset\": \"Taxonomy Domains\", \"metric\": \"Accuracy\"}\n{\"value\": \"72.5\", \"type\": \"Data Stat.\", \"model\": \"ER\", \"dataset\": \"Taxonomy Domains\", \"metric\": \"Accuracy\"}\n{\"value\": \"75.0\", \"type\": \"Data Stat.\", \"model\": \"ER\", \"dataset\": \"T"
+}

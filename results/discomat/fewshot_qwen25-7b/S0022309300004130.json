@@ -1,0 +1,235 @@
+{
+  "pdf_id": "S0022309300004130",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_1",
+      "component": "Pb",
+      "value": 16.67,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_1",
+      "component": "P",
+      "value": 14.29,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_1",
+      "component": "F",
+      "value": 23.81,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_1",
+      "component": "Cl",
+      "value": 9.52,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_1",
+      "component": "Br",
+      "value": 35.71,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_2",
+      "component": "Pb",
+      "value": 16.1,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_2",
+      "component": "P",
+      "value": 8.29,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_2",
+      "component": "F",
+      "value": 19.8,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_2",
+      "component": "Cl",
+      "value": 8.12,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_2",
+      "component": "Br",
+      "value": 47.69,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_3",
+      "component": "Pb",
+      "value": 16.67,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_3",
+      "component": "P",
+      "value": 14.28,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_3",
+      "component": "F",
+      "value": 19.06,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_3",
+      "component": "Cl",
+      "value": 14.29,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_3",
+      "component": "Br",
+      "value": 35.7,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_4",
+      "component": "Pb",
+      "value": 15.41,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_4",
+      "component": "P",
+      "value": 7.99,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_4",
+      "component": "F",
+      "value": 21.6,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_4",
+      "component": "Cl",
+      "value": 10.04,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_4",
+      "component": "Br",
+      "value": 44.96,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_5",
+      "component": "Pb",
+      "value": 17.37,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_5",
+      "component": "P",
+      "value": 13.84,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_5",
+      "component": "F",
+      "value": 1.21,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_5",
+      "component": "Cl",
+      "value": 18.48,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_5",
+      "component": "Br",
+      "value": 13.86,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_5",
+      "component": "O",
+      "value": 35.24,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_6",
+      "component": "Pb",
+      "value": 14.58,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_6",
+      "component": "P",
+      "value": 16.41,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_6",
+      "component": "F",
+      "value": 2.27,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_6",
+      "component": "Cl",
+      "value": 8.2,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_6",
+      "component": "Br",
+      "value": 16.4,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_6",
+      "component": "O",
+      "value": 42.14,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_7",
+      "component": "Pb",
+      "value": 14.5,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_7",
+      "component": "P",
+      "value": 7.29,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_7",
+      "component": "F",
+      "value": 3.29,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_7",
+      "component": "Cl",
+      "value": 12.42,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_7",
+      "component": "Br",
+      "value": 10.87,
+      "unit": "atom"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_7",
+      "component": "O",
+      "value": 51.63,
+      "unit": "atom"
+    }
+  ],
+  "elapsed_seconds": 65.4,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_1\", \"component\": \"Pb\", \"value\": 16.67, \"unit\": \"atom\"}\n{\"sample_id\": \"S0022309303006537_0_1_1\", \"component\": \"P\", \"value\": 14.29, \"unit\": \"atom\"}\n{\"sample_id\": \"S0022309303006537_0_1_1\", \"component\": \"F\", \"value\": 23.81, \"unit\": \"atom\"}\n{\"sample_id\": \"S0022309303006537_0_1_1\", \"component\": \"Cl\", \"value\": 9.52, \"unit\": \"atom\"}\n{\"sample_id\": \"S0022309303006537_0_1_1\", \"component\": \"Br\", \"value\": 35.71, \"unit\": \"atom\"}\n{\"sample_id\": \"S0022309303006537_0_"
+}

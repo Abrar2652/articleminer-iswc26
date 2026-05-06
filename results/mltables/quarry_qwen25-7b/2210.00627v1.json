@@ -1,0 +1,123 @@
+{
+  "arxiv_id": "2210.00627v1",
+  "predictions": [
+    {
+      "value": 22.13,
+      "type": "Result",
+      "model": "method.pixelNeRF [57]",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR"
+    },
+    {
+      "value": 0.8604,
+      "type": "Result",
+      "model": "method.pixelNeRF [57]",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM"
+    },
+    {
+      "value": 16.79,
+      "type": "Result",
+      "model": "method.pixelNeRF [57]",
+      "dataset": "AIST",
+      "metric": "PSNR"
+    },
+    {
+      "value": 0.6308,
+      "type": "Result",
+      "model": "method.pixelNeRF [57]",
+      "dataset": "AIST",
+      "metric": "SSIM"
+    },
+    {
+      "value": 24.01,
+      "type": "Result",
+      "model": "NHP [20]",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR"
+    },
+    {
+      "value": 0.8953,
+      "type": "Result",
+      "model": "NHP [20]",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM"
+    },
+    {
+      "value": 16.58,
+      "type": "Result",
+      "model": "NHP [20]",
+      "dataset": "AIST",
+      "metric": "PSNR"
+    },
+    {
+      "value": 0.6934,
+      "type": "Result",
+      "model": "NHP [20]",
+      "dataset": "AIST",
+      "metric": "SSIM"
+    },
+    {
+      "value": 25.36,
+      "type": "Result",
+      "model": "MonoNHR (Ours)",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR"
+    },
+    {
+      "value": 0.9093,
+      "type": "Result",
+      "model": "MonoNHR (Ours)",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM"
+    },
+    {
+      "value": 17.61,
+      "type": "Result",
+      "model": "MonoNHR (Ours)",
+      "dataset": "AIST",
+      "metric": "PSNR"
+    },
+    {
+      "value": 0.7186,
+      "type": "Result",
+      "model": "MonoNHR (Ours)",
+      "dataset": "AIST",
+      "metric": "SSIM"
+    },
+    {
+      "value": 17.38,
+      "type": "Result",
+      "model": "w/o geo. cond.",
+      "metric": "PSNR",
+      "task": "generation"
+    },
+    {
+      "value": 0.6634,
+      "type": "Result",
+      "model": "w/o geo. cond.",
+      "metric": "SSIM",
+      "task": "generation"
+    },
+    {
+      "value": 17.61,
+      "type": "Result",
+      "model": "Ours: full model",
+      "metric": "PSNR",
+      "task": "generation"
+    },
+    {
+      "value": 0.7186,
+      "type": "Result",
+      "model": "Ours: full model",
+      "metric": "SSIM",
+      "task": "generation"
+    }
+  ],
+  "num_gold_annotations": 31,
+  "elapsed_seconds": 43.3,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

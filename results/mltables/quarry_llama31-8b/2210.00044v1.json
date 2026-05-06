@@ -1,0 +1,703 @@
+{
+  "arxiv_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": "-6.58",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 2"
+    },
+    {
+      "value": "-5.21",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 3"
+    },
+    {
+      "value": "-4.84",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 4"
+    },
+    {
+      "value": "-7.09",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 5"
+    },
+    {
+      "value": "-4.55",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 2"
+    },
+    {
+      "value": "-5.61",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 3"
+    },
+    {
+      "value": "-4.51",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 4"
+    },
+    {
+      "value": "-4.99",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 5"
+    },
+    {
+      "value": "-4.64",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 3"
+    },
+    {
+      "value": "-8.39",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 4"
+    },
+    {
+      "value": "-7.37",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 5"
+    },
+    {
+      "value": "-4.69",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 4"
+    },
+    {
+      "value": "-7.10",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 4"
+    },
+    {
+      "value": "-7.40",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 5"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 5"
+    },
+    {
+      "value": "-5.82",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 5"
+    },
+    {
+      "value": "-6.09",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 5"
+    },
+    {
+      "value": "-3.80",
+      "type": "Result",
+      "metric": "LA",
+      "task": "continual learning",
+      "dataset": "VQA",
+      "model": "Group 5"
+    },
+    {
+      "value": "512",
+      "type": "Data Stat.",
+      "attribute name": "Batch Size"
+    },
+    {
+      "value": "8e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb"
+    },
+    {
+      "value": "400",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb"
+    },
+    {
+      "value": "1024",
+      "type": "Data Stat.",
+      "attribute name": "Batch Size"
+    },
+    {
+      "value": "0.7",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb"
+    },
+    {
+      "value": "600",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb"
+    },
+    {
+      "value": "5e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate"
+    },
+    {
+      "value": "0.5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb"
+    },
+    {
+      "value": "0.0001",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate"
+    },
+    {
+      "value": "0.9",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb"
+    },
+    {
+      "value": "50K",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb"
+    },
+    {
+      "value": "0.4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb"
+    },
+    {
+      "value": "20K",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb"
+    },
+    {
+      "value": "1e-05",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate"
+    },
+    {
+      "value": "700",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb"
+    },
+    {
+      "value": "10K",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "-16.38",
+      "type": "Result",
+      "metric": "accuracy",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "metric": "accuracy",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-17.08",
+      "type": "Result",
+      "metric": "accuracy",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-11.94",
+      "type": "Result",
+      "metric": "accuracy",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-5.75",
+      "type": "Result",
+      "metric": "accuracy",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-5.19",
+      "type": "Result",
+      "metric": "accuracy",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-7.63",
+      "type": "Result",
+      "metric": "accuracy",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-2.83",
+      "type": "Result",
+      "metric": "accuracy",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-11.63",
+      "type": "Result",
+      "metric": "accuracy",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-18.2",
+      "type": "Result",
+      "metric": "accuracy",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-9.60",
+      "type": "Result",
+      "metric": "accuracy",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-2.62",
+      "type": "Result",
+      "metric": "F1",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "-3.67",
+      "type": "Result",
+      "metric": "F1",
+      "task": "continual learning",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "0.06",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.08",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.053",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.059",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.078",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.037",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.036",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.057",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.07",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.027",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.27",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.15",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.25",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.18",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.22",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.16",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.18",
+      "type": "Result",
+      "model": "None",
+      "metric": "accuracy",
+      "dataset": "None",
+      "task": "classification"
+    },
+    {
+      "value": "0.12",
+      "type": "Result",
+      "model": "None",
+      "metric": "accuracy",
+      "dataset": "None",
+      "task": "classification"
+    },
+    {
+      "value": "0.029",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.0048",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.018",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.01",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.032",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.049",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.0087",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.03",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.38",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.23",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.33",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.26",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.36",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.14",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.57",
+      "type": "Result",
+      "metric": "accuracy",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "0.48",
+      "type": "Result",
+      "metric": "accuracy",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "metric": "accuracy",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "0.42",
+      "type": "Result",
+      "metric": "accuracy",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "0.34",
+      "type": "Result",
+      "metric": "accuracy",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "0.33",
+      "type": "Result",
+      "metric": "accuracy",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "0.45",
+      "type": "Result",
+      "metric": "accuracy",
+      "model": "None",
+      "dataset": "None"
+    },
+    {
+      "value": "0.00048",
+      "type": "Data Stat.",
+      "attribute name": "value"
+    },
+    {
+      "value": "0.004",
+      "type": "Data Stat.",
+      "attribute name": "value"
+    },
+    {
+      "value": "0.0018",
+      "type": "Data Stat.",
+      "attribute name": "value"
+    },
+    {
+      "value": "0.00049",
+      "type": "Data Stat.",
+      "attribute name": "value"
+    },
+    {
+      "value": "0.0019",
+      "type": "Data Stat.",
+      "attribute name": "value"
+    },
+    {
+      "value": "0.00054",
+      "type": "Data Stat.",
+      "attribute name": "value"
+    },
+    {
+      "value": "0.00015",
+      "type": "Data Stat.",
+      "attribute name": "value"
+    },
+    {
+      "value": "0.00022",
+      "type": "Data Stat.",
+      "attribute name": "value"
+    },
+    {
+      "value": "0.0026",
+      "type": "Data Stat.",
+      "attribute name": "value"
+    },
+    {
+      "value": "0.00093",
+      "type": "Data Stat.",
+      "attribute name": "value"
+    },
+    {
+      "value": "0.0014",
+      "type": "Data Stat.",
+      "attribute name": "learning rate"
+    },
+    {
+      "value": "0.0052",
+      "type": "Data Stat.",
+      "attribute name": "learning rate"
+    },
+    {
+      "value": "0.024",
+      "type": "Result",
+      "model": "None",
+      "dataset": "None",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "0.0071",
+      "type": "Result",
+      "model": "None",
+      "dataset": "None",
+      "metric": "F1",
+      "task": "classification"
+    },
+    {
+      "value": "0.015",
+      "type": "Result",
+      "model": "None",
+      "dataset": "None",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "0.0044",
+      "type": "Data Stat.",
+      "attribute name": "learning rate"
+    },
+    {
+      "value": "0.0097",
+      "type": "Data Stat.",
+      "attribute name": "learning rate"
+    },
+    {
+      "value": "0.0011",
+      "type": "Result",
+      "model": "None",
+      "dataset": "None",
+      "metric": "F1",
+      "task": "continual learning"
+    },
+    {
+      "value": "0.0037",
+      "type": "Result",
+      "model": "None",
+      "dataset": "None",
+      "metric": "F1",
+      "task": "continual learning"
+    },
+    {
+      "value": "0.0071",
+      "type": "Data Stat.",
+      "attribute name": "F1 score"
+    },
+    {
+      "value": "0.0059",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.022",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.075",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.0073",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.041",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.0021",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.0031",
+      "type": "Data Stat."
+    },
+    {
+      "value": "0.0096",
+      "type": "Data Stat."
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 367.6,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

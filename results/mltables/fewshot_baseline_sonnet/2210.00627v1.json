@@ -1,0 +1,233 @@
+{
+  "pdf_id": "2210.00627v1",
+  "predictions": [
+    {
+      "value": "22.13",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR"
+    },
+    {
+      "value": "0.8604",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM"
+    },
+    {
+      "value": "16.79",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "AIST",
+      "metric": "PSNR"
+    },
+    {
+      "value": "0.6308",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "AIST",
+      "metric": "SSIM"
+    },
+    {
+      "value": "24.01",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR"
+    },
+    {
+      "value": "0.8953",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM"
+    },
+    {
+      "value": "16.58",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "AIST",
+      "metric": "PSNR"
+    },
+    {
+      "value": "0.6934",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "AIST",
+      "metric": "SSIM"
+    },
+    {
+      "value": "25.36",
+      "type": "Result",
+      "model": "Mono NHR",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR"
+    },
+    {
+      "value": "0.9093",
+      "type": "Result",
+      "model": "Mono NHR",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM"
+    },
+    {
+      "value": "17.61",
+      "type": "Result",
+      "model": "Mono NHR",
+      "dataset": "AIST",
+      "metric": "PSNR"
+    },
+    {
+      "value": "0.7186",
+      "type": "Result",
+      "model": "Mono NHR",
+      "dataset": "AIST",
+      "metric": "SSIM"
+    },
+    {
+      "value": "20.89",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR"
+    },
+    {
+      "value": "0.8364",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM"
+    },
+    {
+      "value": "22.25",
+      "type": "Result",
+      "model": "Mono NHR",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR"
+    },
+    {
+      "value": "0.8673",
+      "type": "Result",
+      "model": "Mono NHR",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM"
+    },
+    {
+      "value": "9822",
+      "type": "Data Stat.",
+      "dataset": "HUMBI",
+      "metric": "number of training frames"
+    },
+    {
+      "value": "334",
+      "type": "Data Stat.",
+      "dataset": "HUMBI",
+      "metric": "number of training subjects"
+    },
+    {
+      "value": "13",
+      "type": "Data Stat.",
+      "dataset": "HUMBI",
+      "metric": "number of test subjects"
+    },
+    {
+      "value": "256",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "input image height"
+    },
+    {
+      "value": "256",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "input image width"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "feature map channels (backbone output)"
+    },
+    {
+      "value": "128",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "feature map height (backbone output)"
+    },
+    {
+      "value": "128",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "feature map width (backbone output)"
+    },
+    {
+      "value": "6890",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "number of SMPL mesh vertices"
+    },
+    {
+      "value": "5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "voxel size (mm)"
+    },
+    {
+      "value": "5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "padding along depth/height/width (cm)"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "number of rays per batch"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "number of query points sampled per ray"
+    },
+    {
+      "value": "5e-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "initial learning rate"
+    },
+    {
+      "value": "5e-5",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "final learning rate"
+    },
+    {
+      "value": "192",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "voxel feature dimension"
+    },
+    {
+      "value": "256",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "metric": "geometry MLP hidden channel dimension"
+    },
+    {
+      "value": "60",
+      "type": "Data Stat.",
+      "dataset": "ZJU-MoCap",
+      "metric": "number of training frames per subject"
+    },
+    {
+      "value": "10",
+      "type": "Data Stat.",
+      "dataset": "ZJU-MoCap",
+      "metric": "number of testing frames per subject"
+    }
+  ],
+  "elapsed_seconds": 34.9,
+  "raw_preview": "{\"value\": \"22.13\", \"type\": \"Result\", \"model\": \"pixelNeRF\", \"dataset\": \"ZJU-MoCap\", \"metric\": \"PSNR\"}\n{\"value\": \"0.8604\", \"type\": \"Result\", \"model\": \"pixelNeRF\", \"dataset\": \"ZJU-MoCap\", \"metric\": \"SSIM\"}\n{\"value\": \"16.79\", \"type\": \"Result\", \"model\": \"pixelNeRF\", \"dataset\": \"AIST\", \"metric\": \"PSNR\"}\n{\"value\": \"0.6308\", \"type\": \"Result\", \"model\": \"pixelNeRF\", \"dataset\": \"AIST\", \"metric\": \"SSIM\"}\n{\"value\": \"24.01\", \"type\": \"Result\", \"model\": \"NHP\", \"dataset\": \"ZJU-MoCap\", \"metric\": \"PSNR\"}\n{\"value\":"
+}

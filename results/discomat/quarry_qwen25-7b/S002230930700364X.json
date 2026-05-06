@@ -1,0 +1,41 @@
+{
+  "pii": "S002230930700364X",
+  "predictions": [
+    {
+      "sample_id": "5ZnFe",
+      "component": "SiO2",
+      "value": 95.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5ZnFe",
+      "component": "ZnO +Fe2O3",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10ZnFe",
+      "component": "ZnO +Fe2O3",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "20ZnFe",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "20ZnFe",
+      "component": "ZnO +Fe2O3",
+      "value": 20.0,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 6,
+  "elapsed_seconds": 46.8,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

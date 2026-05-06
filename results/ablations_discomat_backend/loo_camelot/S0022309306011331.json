@@ -1,0 +1,151 @@
+{
+  "pii": "S0022309306011331",
+  "predictions": [
+    {
+      "sample_id": "PCNT0",
+      "component": "P2O5",
+      "value": 45.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT0",
+      "component": "CaO",
+      "value": 24.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT0",
+      "component": "Na2O",
+      "value": 31.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT05",
+      "component": "P2O5",
+      "value": 45.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT05",
+      "component": "CaO",
+      "value": 24.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT05",
+      "component": "Na2O",
+      "value": 30.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT05",
+      "component": "TiO2",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT10",
+      "component": "P2O5",
+      "value": 45.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT10",
+      "component": "CaO",
+      "value": 24.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT10",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT10",
+      "component": "TiO2",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT15",
+      "component": "P2O5",
+      "value": 45.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT15",
+      "component": "CaO",
+      "value": 24.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT15",
+      "component": "Na2O",
+      "value": 29.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT15",
+      "component": "TiO2",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT20",
+      "component": "P2O5",
+      "value": 45.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT20",
+      "component": "CaO",
+      "value": 24.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT20",
+      "component": "Na2O",
+      "value": 29.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT20",
+      "component": "TiO2",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT25",
+      "component": "P2O5",
+      "value": 45.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT25",
+      "component": "CaO",
+      "value": 24.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT25",
+      "component": "Na2O",
+      "value": 28.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "PCNT25",
+      "component": "TiO2",
+      "value": 2.5,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 23,
+  "elapsed_seconds": 25.3,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

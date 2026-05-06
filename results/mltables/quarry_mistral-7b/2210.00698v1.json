@@ -1,0 +1,220 @@
+{
+  "arxiv_id": "2210.00698v1",
+  "predictions": [
+    {
+      "value": 76.2,
+      "type": "Result",
+      "model": "PSPNet",
+      "dataset": "glyph[check]",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 77.3,
+      "type": "Result",
+      "model": "PSANet",
+      "dataset": "glyph[check]",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 78.1,
+      "type": "Result",
+      "model": "PADNet",
+      "dataset": "glyph[check]",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 77.8,
+      "type": "Result",
+      "model": "DenseASPP",
+      "dataset": "glyph[check]",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 79.5,
+      "type": "Result",
+      "model": "DeepLabv3",
+      "dataset": "glyph[check]",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 80.3,
+      "type": "Result",
+      "model": "Auto-DeepLab",
+      "dataset": "glyph[check]",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 80.9,
+      "type": "Result",
+      "model": "HRNetV2",
+      "dataset": "glyph[check]",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 81.4,
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "glyph[check]",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 81,
+      "type": "Result",
+      "model": "Ours + RSP",
+      "dataset": "glyph[check]",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 44.42,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Auto-DeepLab",
+      "parameter/architecture name": "Params",
+      "unit": "M"
+    },
+    {
+      "value": 69.06,
+      "type": "Hyper-parameter/Architecture",
+      "model": "HRNetV2",
+      "parameter/architecture name": "Params",
+      "unit": "M"
+    },
+    {
+      "value": 68.67,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Ours",
+      "parameter/architecture name": "Params",
+      "unit": "M"
+    },
+    {
+      "value": 17.2,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Ours + RSP",
+      "parameter/architecture name": "Params",
+      "unit": "M"
+    },
+    {
+      "value": 80.6,
+      "type": "Result",
+      "model": "Mapillary (Neuhold et al. 2017)",
+      "dataset": "Mapillary",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 81.7,
+      "type": "Result",
+      "model": "HANet (Sungha, Joanne, and Jaegul 2020)",
+      "dataset": "Mapillary",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 81.8,
+      "type": "Result",
+      "model": "HRNetV2+OCR (Sun et al. 2019)",
+      "dataset": "Mapillary",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 81.6,
+      "type": "Result",
+      "model": "DecoupleSegNets",
+      "dataset": "Mapillary",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 81.3,
+      "type": "Result",
+      "model": "DCNAS (Zhang et al. 2020)",
+      "dataset": "Mapillary",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 81.4,
+      "type": "Result",
+      "model": "Ours",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 82.1,
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "Mapillary",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 81.7,
+      "type": "Result",
+      "model": "Ours + RSP",
+      "dataset": "Mapillary",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 70.37,
+      "type": "Data Stat.",
+      "dataset": "HRNetV2+OCR",
+      "attribute name": "Params(M)"
+    },
+    {
+      "value": 76.16,
+      "type": "Result",
+      "model": "HRNetV2",
+      "dataset": "ImageNet",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 78.2,
+      "type": "Result",
+      "model": "HRNetV2",
+      "dataset": "OCR",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 80.9,
+      "type": "Result",
+      "model": "HRNetV2",
+      "dataset": "OCR",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 81.6,
+      "type": "Result",
+      "model": "HRNetV2",
+      "dataset": "OCR",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 81.9,
+      "type": "Result",
+      "model": "DCNAS",
+      "dataset": "ImageNet",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 81.4,
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "OCR",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 83.2,
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "OCR",
+      "metric": "mIOU%"
+    },
+    {
+      "value": 82.5,
+      "type": "Result",
+      "model": "Ours + RSP",
+      "dataset": "OCR",
+      "metric": "mIOU%"
+    }
+  ],
+  "num_gold_annotations": 33,
+  "elapsed_seconds": 82.8,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

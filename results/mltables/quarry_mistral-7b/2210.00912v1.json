@@ -1,0 +1,495 @@
+{
+  "arxiv_id": "2210.00912v1",
+  "predictions": [
+    {
+      "value": 91.44,
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS.P",
+      "metric": "testing accuracy"
+    },
+    {
+      "value": 75.98,
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS.A",
+      "metric": "testing accuracy"
+    },
+    {
+      "value": 73.21,
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS.C",
+      "metric": "testing accuracy"
+    },
+    {
+      "value": 61.08,
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS.S",
+      "metric": "testing accuracy"
+    },
+    {
+      "value": 75.43,
+      "type": "Result",
+      "model": "FedAvg",
+      "metric": "testing accuracy",
+      "dataset": "PACS.Avg."
+    },
+    {
+      "value": 60.08,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "dataset": "Office-Home.A",
+      "metric": "testing accuracy"
+    },
+    {
+      "value": 45.59,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "dataset": "Office-Home.C",
+      "metric": "testing accuracy"
+    },
+    {
+      "value": 69.48,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "dataset": "Office-Home.P",
+      "metric": "testing accuracy"
+    },
+    {
+      "value": 72.82,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "dataset": "Office-Home.R",
+      "metric": "testing accuracy"
+    },
+    {
+      "value": 59.07,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "metric": "testing accuracy",
+      "dataset": "Office-Home.Avg."
+    },
+    {
+      "value": 94.07,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.P"
+    },
+    {
+      "value": 77.73,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.A"
+    },
+    {
+      "value": 70.99,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.C"
+    },
+    {
+      "value": 72.82,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.S"
+    },
+    {
+      "value": 78.9,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.Avg."
+    },
+    {
+      "value": 55.14,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "dataset": "Office-Home.A",
+      "metric": "validation loss"
+    },
+    {
+      "value": 43.64,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "dataset": "Office-Home.C",
+      "metric": "validation loss"
+    },
+    {
+      "value": 68.58,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "dataset": "Office-Home.P",
+      "metric": "validation loss"
+    },
+    {
+      "value": 68.92,
+      "type": "Result",
+      "model": "Single(K=1)",
+      "dataset": "Office-Home.R",
+      "metric": "validation loss"
+    },
+    {
+      "value": 95.27,
+      "type": "Result",
+      "model": "Single(K=2)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.P"
+    },
+    {
+      "value": 79.05,
+      "type": "Result",
+      "model": "Single(K=2)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.A"
+    },
+    {
+      "value": 72.82,
+      "type": "Result",
+      "model": "Single(K=2)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.C"
+    },
+    {
+      "value": 77.88,
+      "type": "Result",
+      "model": "Single(K=2)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.S"
+    },
+    {
+      "value": 81.26,
+      "type": "Result",
+      "model": "Single(K=2)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.Avg."
+    },
+    {
+      "value": 57.61,
+      "type": "Result",
+      "model": "Single(K=2)",
+      "dataset": "Office-Home.A",
+      "metric": "validation loss"
+    },
+    {
+      "value": 48.68,
+      "type": "Result",
+      "model": "Single(K=2)",
+      "dataset": "Office-Home.C",
+      "metric": "validation loss"
+    },
+    {
+      "value": 71.17,
+      "type": "Result",
+      "model": "Single(K=2)",
+      "dataset": "Office-Home.P",
+      "metric": "validation loss"
+    },
+    {
+      "value": 71.44,
+      "type": "Result",
+      "model": "Single(K=2)",
+      "dataset": "Office-Home.R",
+      "metric": "validation loss"
+    },
+    {
+      "value": 62.23,
+      "type": "Result",
+      "model": "Single(K=2)",
+      "metric": "validation loss",
+      "dataset": "Office-Home.Avg."
+    },
+    {
+      "value": 94.79,
+      "type": "Result",
+      "model": "Single(K=3)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.P"
+    },
+    {
+      "value": 80.27,
+      "type": "Result",
+      "model": "Single(K=3)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.A"
+    },
+    {
+      "value": 71.72,
+      "type": "Result",
+      "model": "Single(K=3)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.C"
+    },
+    {
+      "value": 80.86,
+      "type": "Result",
+      "model": "Single(K=3)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.S"
+    },
+    {
+      "value": 81.91,
+      "type": "Result",
+      "model": "Single(K=3)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.Avg."
+    },
+    {
+      "value": 58.44,
+      "type": "Result",
+      "model": "Single(K=3)",
+      "dataset": "Office-Home.A",
+      "metric": "validation loss"
+    },
+    {
+      "value": 45.7,
+      "type": "Result",
+      "model": "Single(K=3)",
+      "dataset": "Office-Home.C",
+      "metric": "validation loss"
+    },
+    {
+      "value": 72.3,
+      "type": "Result",
+      "model": "Single(K=3)",
+      "dataset": "Office-Home.P",
+      "metric": "validation loss"
+    },
+    {
+      "value": 71.56,
+      "type": "Result",
+      "model": "Single(K=3)",
+      "dataset": "Office-Home.R",
+      "metric": "validation loss"
+    },
+    {
+      "value": 62,
+      "type": "Result",
+      "model": "Single(K=3)",
+      "metric": "validation loss",
+      "dataset": "Office-Home.Avg."
+    },
+    {
+      "value": 94.19,
+      "type": "Result",
+      "model": "Overall(K=1)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.P"
+    },
+    {
+      "value": 79.88,
+      "type": "Result",
+      "model": "Overall(K=1)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.A"
+    },
+    {
+      "value": 72.14,
+      "type": "Result",
+      "model": "Overall(K=1)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.C"
+    },
+    {
+      "value": 75.41,
+      "type": "Result",
+      "model": "Overall(K=1)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.S"
+    },
+    {
+      "value": 80.41,
+      "type": "Result",
+      "model": "Overall(K=1)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.Avg."
+    },
+    {
+      "value": 59.47,
+      "type": "Result",
+      "model": "Overall(K=1)",
+      "dataset": "Office-Home.A",
+      "metric": "validation loss"
+    },
+    {
+      "value": 47.88,
+      "type": "Result",
+      "model": "Overall(K=1)",
+      "dataset": "Office-Home.C",
+      "metric": "validation loss"
+    },
+    {
+      "value": 67.91,
+      "type": "Result",
+      "model": "Overall(K=1)",
+      "dataset": "Office-Home.P",
+      "metric": "validation loss"
+    },
+    {
+      "value": 70.87,
+      "type": "Result",
+      "model": "Overall(K=1)",
+      "dataset": "Office-Home.R",
+      "metric": "validation loss"
+    },
+    {
+      "value": 61.53,
+      "type": "Result",
+      "model": "Overall(K=1)",
+      "metric": "validation loss",
+      "dataset": "Office-Home.Avg."
+    },
+    {
+      "value": 93.95,
+      "type": "Result",
+      "model": "Overall(K=2)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.P"
+    },
+    {
+      "value": 79.79,
+      "type": "Result",
+      "model": "Overall(K=2)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.A"
+    },
+    {
+      "value": 72.18,
+      "type": "Result",
+      "model": "Overall(K=2)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.C"
+    },
+    {
+      "value": 77.96,
+      "type": "Result",
+      "model": "Overall(K=2)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.S"
+    },
+    {
+      "value": 80.97,
+      "type": "Result",
+      "model": "Overall(K=2)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.Avg."
+    },
+    {
+      "value": 57.82,
+      "type": "Result",
+      "model": "Overall(K=2)",
+      "dataset": "Office-Home.A",
+      "metric": "validation loss"
+    },
+    {
+      "value": 50.52,
+      "type": "Result",
+      "model": "Overall(K=2)",
+      "dataset": "Office-Home.C",
+      "metric": "validation loss"
+    },
+    {
+      "value": 71.28,
+      "type": "Result",
+      "model": "Overall(K=2)",
+      "dataset": "Office-Home.P",
+      "metric": "validation loss"
+    },
+    {
+      "value": 70.99,
+      "type": "Result",
+      "model": "Overall(K=2)",
+      "dataset": "Office-Home.R",
+      "metric": "validation loss"
+    },
+    {
+      "value": 62.65,
+      "type": "Result",
+      "model": "Overall(K=2)",
+      "metric": "validation loss",
+      "dataset": "Office-Home.Avg."
+    },
+    {
+      "value": 95.21,
+      "type": "Result",
+      "model": "Overall(K=3)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.P"
+    },
+    {
+      "value": 81.25,
+      "type": "Result",
+      "model": "Overall(K=3)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.A"
+    },
+    {
+      "value": 73.34,
+      "type": "Result",
+      "model": "Overall(K=3)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.C"
+    },
+    {
+      "value": 80.27,
+      "type": "Result",
+      "model": "Overall(K=3)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.S"
+    },
+    {
+      "value": 82.52,
+      "type": "Result",
+      "model": "Overall(K=3)",
+      "metric": "testing accuracy",
+      "dataset": "PACS.Avg."
+    },
+    {
+      "value": 59.05,
+      "type": "Result",
+      "model": "Overall(K=3)",
+      "dataset": "Office-Home.A",
+      "metric": "validation loss"
+    },
+    {
+      "value": 50.06,
+      "type": "Result",
+      "model": "Overall(K=3)",
+      "dataset": "Office-Home.C",
+      "metric": "validation loss"
+    },
+    {
+      "value": 72.97,
+      "type": "Result",
+      "model": "Overall(K=3)",
+      "dataset": "Office-Home.P",
+      "metric": "validation loss"
+    },
+    {
+      "value": 71.67,
+      "type": "Result",
+      "model": "Overall(K=3)",
+      "dataset": "Office-Home.R",
+      "metric": "validation loss"
+    },
+    {
+      "value": 63.44,
+      "type": "Result",
+      "model": "Overall(K=3)",
+      "metric": "validation loss",
+      "dataset": "Office-Home.Avg."
+    }
+  ],
+  "num_gold_annotations": 247,
+  "elapsed_seconds": 168.1,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

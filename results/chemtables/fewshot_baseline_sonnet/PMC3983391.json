@@ -1,0 +1,49 @@
+{
+  "pdf_id": "PMC3983391",
+  "predictions": [
+    {
+      "value": "1.9",
+      "type": "GI50",
+      "target": "human tumor cell lines",
+      "treatment": "5f",
+      "unit": "nM"
+    },
+    {
+      "value": "3.2",
+      "type": "GI50",
+      "target": "human tumor cell lines",
+      "treatment": "5f",
+      "unit": "nM"
+    },
+    {
+      "value": "0.77",
+      "type": "IC50",
+      "target": "tubulin assembly",
+      "treatment": "5f",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.55",
+      "type": "IC50",
+      "target": "colchicine-tubulin binding site",
+      "treatment": "5f",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.5",
+      "type": "GI50",
+      "target": "human tumor cell line panel",
+      "treatment": "1a",
+      "unit": "nM"
+    },
+    {
+      "value": "18",
+      "type": "GI50",
+      "target": "human tumor cell line panel",
+      "treatment": "1b",
+      "unit": "nM"
+    }
+  ],
+  "elapsed_seconds": 13.1,
+  "raw_preview": "{\"value\": \"1.9\", \"type\": \"GI50\", \"target\": \"human tumor cell lines\", \"treatment\": \"5f\", \"unit\": \"nM\"}\n{\"value\": \"3.2\", \"type\": \"GI50\", \"target\": \"human tumor cell lines\", \"treatment\": \"5f\", \"unit\": \"nM\"}\n{\"value\": \"0.77\", \"type\": \"IC50\", \"target\": \"tubulin assembly\", \"treatment\": \"5f\", \"unit\": \"\u00b5M\"}\n{\"value\": \"0.55\", \"type\": \"IC50\", \"target\": \"colchicine-tubulin binding site\", \"treatment\": \"5f\", \"unit\": \"\u00b5M\"}\n{\"value\": \"1.5\", \"type\": \"GI50\", \"target\": \"human tumor cell line panel\", \"treatment\": "
+}

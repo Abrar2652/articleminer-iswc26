@@ -1,0 +1,19 @@
+{
+  "pdf_id": "S0022309305001262",
+  "predictions": [
+    {
+      "sample_id": "MV30_mullite",
+      "component": "SiO2",
+      "value": 51.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "MV30_mullite",
+      "component": "Al2O3",
+      "value": 49.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 17.1,
+  "raw_preview": "Looking through the paper text, I can find one explicit composition mentioned for the mullite tube chemistry:\n\n{\"sample_id\": \"MV30_mullite\", \"component\": \"SiO2\", \"value\": 51.0, \"unit\": \"mol\"}\n{\"sample_id\": \"MV30_mullite\", \"component\": \"Al2O3\", \"value\": 49.0, \"unit\": \"mol\"}"
+}

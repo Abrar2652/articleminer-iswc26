@@ -1,0 +1,140 @@
+{
+  "arxiv_id": "2210.00627v1",
+  "predictions": [
+    {
+      "value": "22.13",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.8604",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "16.79",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "AIST",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.6308",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "AIST",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "24.01",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.8953",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "16.58",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "AIST",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.6934",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "AIST",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "25.36",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.9093",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "17.61",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "AIST",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.7186",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "AIST",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "kernel size",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "32",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "out channel",
+      "model": "Mono NHR",
+      "layer": "1-2"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "stride",
+      "model": "Mono NHR",
+      "layer": "1-2"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "number of repeated layers",
+      "model": "Mono NHR",
+      "layer": "1-2"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "out channel",
+      "model": "Mono NHR",
+      "layer": "1-2"
+    }
+  ],
+  "num_gold_annotations": 31,
+  "elapsed_seconds": 36.1,
+  "backends": [
+    "mineru"
+  ]
+}

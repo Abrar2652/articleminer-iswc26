@@ -1,0 +1,77 @@
+{
+  "pii": "S0022309315301794",
+  "predictions": [
+    {
+      "sample_id": "5",
+      "component": "Li2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "B2O3",
+      "value": 90.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10",
+      "component": "Li2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10",
+      "component": "B2O3",
+      "value": 85.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15",
+      "component": "Li2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15",
+      "component": "B2O3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20",
+      "component": "Li2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20",
+      "component": "B2O3",
+      "value": 75.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 12,
+  "elapsed_seconds": 30.8,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

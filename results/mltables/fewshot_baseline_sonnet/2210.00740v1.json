@@ -1,0 +1,1015 @@
+{
+  "pdf_id": "2210.00740v1",
+  "predictions": [
+    {
+      "value": "25K",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "MPII",
+      "metric": "number of images"
+    },
+    {
+      "value": "40k",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "MPII",
+      "metric": "number of person instances"
+    },
+    {
+      "value": "16",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "MPII",
+      "metric": "number of body joints"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": null,
+      "dataset": "MPII",
+      "metric": "Sinkhorn entropic regularization parameter"
+    },
+    {
+      "value": "1000",
+      "type": "Hyper-parameter/Architecture",
+      "model": null,
+      "dataset": "MPII",
+      "metric": "number of Sinkhorn iterations"
+    },
+    {
+      "value": "87.9",
+      "type": "Result",
+      "model": "Integral Pose Regression",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "model": "UDP (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "97.4",
+      "type": "Result",
+      "model": "UDP (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Head"
+    },
+    {
+      "value": "96.0",
+      "type": "Result",
+      "model": "UDP (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Shoulder"
+    },
+    {
+      "value": "91.0",
+      "type": "Result",
+      "model": "UDP (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Elbow"
+    },
+    {
+      "value": "86.5",
+      "type": "Result",
+      "model": "UDP (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Wrist"
+    },
+    {
+      "value": "89.1",
+      "type": "Result",
+      "model": "UDP (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Hip"
+    },
+    {
+      "value": "86.6",
+      "type": "Result",
+      "model": "UDP (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Knee"
+    },
+    {
+      "value": "83.3",
+      "type": "Result",
+      "model": "UDP (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Ankle"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "model": "Dark Pose (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "97.2",
+      "type": "Result",
+      "model": "Dark Pose (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Head"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "Dark Pose (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Shoulder"
+    },
+    {
+      "value": "91.2",
+      "type": "Result",
+      "model": "Dark Pose (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Elbow"
+    },
+    {
+      "value": "86.7",
+      "type": "Result",
+      "model": "Dark Pose (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Wrist"
+    },
+    {
+      "value": "89.7",
+      "type": "Result",
+      "model": "Dark Pose (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Hip"
+    },
+    {
+      "value": "86.7",
+      "type": "Result",
+      "model": "Dark Pose (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Knee"
+    },
+    {
+      "value": "84.0",
+      "type": "Result",
+      "model": "Dark Pose (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Ankle"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "Token Pose-L/D6",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "model": "Token Pose-L/D6",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Head"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "Token Pose-L/D6",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Shoulder"
+    },
+    {
+      "value": "91.0",
+      "type": "Result",
+      "model": "Token Pose-L/D6",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Elbow"
+    },
+    {
+      "value": "85.8",
+      "type": "Result",
+      "model": "Token Pose-L/D6",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Wrist"
+    },
+    {
+      "value": "89.5",
+      "type": "Result",
+      "model": "Token Pose-L/D6",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Hip"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "model": "Token Pose-L/D6",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Knee"
+    },
+    {
+      "value": "82.7",
+      "type": "Result",
+      "model": "Token Pose-L/D6",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Ankle"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "Token Pose-L/D12",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "97.2",
+      "type": "Result",
+      "model": "Token Pose-L/D12",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Head"
+    },
+    {
+      "value": "95.8",
+      "type": "Result",
+      "model": "Token Pose-L/D12",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Shoulder"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "model": "Token Pose-L/D12",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Elbow"
+    },
+    {
+      "value": "85.9",
+      "type": "Result",
+      "model": "Token Pose-L/D12",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Wrist"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "Token Pose-L/D12",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Hip"
+    },
+    {
+      "value": "86.2",
+      "type": "Result",
+      "model": "Token Pose-L/D12",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Knee"
+    },
+    {
+      "value": "82.3",
+      "type": "Result",
+      "model": "Token Pose-L/D12",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Ankle"
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "model": "Token Pose-L/D24",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "model": "Token Pose-L/D24",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Head"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "Token Pose-L/D24",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Shoulder"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "model": "Token Pose-L/D24",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Elbow"
+    },
+    {
+      "value": "86.0",
+      "type": "Result",
+      "model": "Token Pose-L/D24",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Wrist"
+    },
+    {
+      "value": "89.3",
+      "type": "Result",
+      "model": "Token Pose-L/D24",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Hip"
+    },
+    {
+      "value": "87.1",
+      "type": "Result",
+      "model": "Token Pose-L/D24",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Knee"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "Token Pose-L/D24",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Ankle"
+    },
+    {
+      "value": "89.9",
+      "type": "Result",
+      "model": "Removing Bias (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "model": "Removing Bias (HRNet-W32)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "model": "Simple Baseline (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "97.0",
+      "type": "Result",
+      "model": "Simple Baseline (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Head"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "Simple Baseline (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Shoulder"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "model": "Simple Baseline (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Elbow"
+    },
+    {
+      "value": "85.0",
+      "type": "Result",
+      "model": "Simple Baseline (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Wrist"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "Simple Baseline (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Hip"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "model": "Simple Baseline (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Knee"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "model": "Simple Baseline (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Ankle"
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "model": "Simple Baseline + Ours (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "0.7",
+      "type": "Result",
+      "model": "Simple Baseline + Ours (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean improvement"
+    },
+    {
+      "value": "97.0",
+      "type": "Result",
+      "model": "Simple Baseline + Ours (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Head"
+    },
+    {
+      "value": "96.1",
+      "type": "Result",
+      "model": "Simple Baseline + Ours (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Shoulder"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "model": "Simple Baseline + Ours (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Elbow"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "model": "Simple Baseline + Ours (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Wrist"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "Simple Baseline + Ours (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Hip"
+    },
+    {
+      "value": "86.7",
+      "type": "Result",
+      "model": "Simple Baseline + Ours (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Knee"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "model": "Simple Baseline + Ours (ResNet-152)",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Ankle"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "model": "HRNet-W32",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "model": "HRNet-W32",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Head"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "HRNet-W32",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Shoulder"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "model": "HRNet-W32",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Elbow"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "model": "HRNet-W32",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Wrist"
+    },
+    {
+      "value": "89.4",
+      "type": "Result",
+      "model": "HRNet-W32",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Hip"
+    },
+    {
+      "value": "86.9",
+      "type": "Result",
+      "model": "HRNet-W32",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Knee"
+    },
+    {
+      "value": "83.2",
+      "type": "Result",
+      "model": "HRNet-W32",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Ankle"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "model": "HRNet-W32 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "0.5",
+      "type": "Result",
+      "model": "HRNet-W32 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean improvement"
+    },
+    {
+      "value": "97.3",
+      "type": "Result",
+      "model": "HRNet-W32 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Head"
+    },
+    {
+      "value": "96.2",
+      "type": "Result",
+      "model": "HRNet-W32 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Shoulder"
+    },
+    {
+      "value": "91.2",
+      "type": "Result",
+      "model": "HRNet-W32 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Elbow"
+    },
+    {
+      "value": "86.8",
+      "type": "Result",
+      "model": "HRNet-W32 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Wrist"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "HRNet-W32 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Hip"
+    },
+    {
+      "value": "87.4",
+      "type": "Result",
+      "model": "HRNet-W32 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Knee"
+    },
+    {
+      "value": "84.1",
+      "type": "Result",
+      "model": "HRNet-W32 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Ankle"
+    },
+    {
+      "value": "90.5",
+      "type": "Result",
+      "model": "HRNet-W48",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "96.9",
+      "type": "Result",
+      "model": "HRNet-W48",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Head"
+    },
+    {
+      "value": "96.0",
+      "type": "Result",
+      "model": "HRNet-W48",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Shoulder"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "model": "HRNet-W48",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Elbow"
+    },
+    {
+      "value": "86.2",
+      "type": "Result",
+      "model": "HRNet-W48",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Wrist"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "model": "HRNet-W48",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Hip"
+    },
+    {
+      "value": "87.1",
+      "type": "Result",
+      "model": "HRNet-W48",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Knee"
+    },
+    {
+      "value": "83.5",
+      "type": "Result",
+      "model": "HRNet-W48",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Ankle"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Mean improvement"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Head"
+    },
+    {
+      "value": "96.3",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Shoulder"
+    },
+    {
+      "value": "91.2",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Elbow"
+    },
+    {
+      "value": "87.0",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Wrist"
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Hip"
+    },
+    {
+      "value": "87.5",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Knee"
+    },
+    {
+      "value": "84.2",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5 Ankle"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "AP"
+    },
+    {
+      "value": "91.8",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "AP50"
+    },
+    {
+      "value": "83.8",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "AP75"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "APM"
+    },
+    {
+      "value": "83.5",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "APL"
+    },
+    {
+      "value": "81.8",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "AR"
+    },
+    {
+      "value": "77.9",
+      "type": "Result",
+      "model": "HRNet-W48 + Naive demanders formulation",
+      "dataset": "COCO",
+      "metric": "AP"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "model": "HRNet-W48 + Naive demanders formulation",
+      "dataset": "COCO",
+      "metric": "AP50"
+    },
+    {
+      "value": "84.8",
+      "type": "Result",
+      "model": "HRNet-W48 + Naive demanders formulation",
+      "dataset": "COCO",
+      "metric": "AP75"
+    },
+    {
+      "value": "74.5",
+      "type": "Result",
+      "model": "HRNet-W48 + Naive demanders formulation",
+      "dataset": "COCO",
+      "metric": "APM"
+    },
+    {
+      "value": "83.9",
+      "type": "Result",
+      "model": "HRNet-W48 + Naive demanders formulation",
+      "dataset": "COCO",
+      "metric": "APL"
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "model": "HRNet-W48 + Naive demanders formulation",
+      "dataset": "COCO",
+      "metric": "AR"
+    },
+    {
+      "value": "78.8",
+      "type": "Result",
+      "model": "HRNet-W48 + Sub-pixel demanders formulation",
+      "dataset": "COCO",
+      "metric": "AP"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "model": "HRNet-W48 + Sub-pixel demanders formulation",
+      "dataset": "COCO",
+      "metric": "AP50"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "HRNet-W48 + Sub-pixel demanders formulation",
+      "dataset": "COCO",
+      "metric": "AP75"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "HRNet-W48 + Sub-pixel demanders formulation",
+      "dataset": "COCO",
+      "metric": "APM"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "model": "HRNet-W48 + Sub-pixel demanders formulation",
+      "dataset": "COCO",
+      "metric": "APL"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "model": "HRNet-W48 + Sub-pixel demanders formulation",
+      "dataset": "COCO",
+      "metric": "AR"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "AP"
+    },
+    {
+      "value": "91.8",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "AP50"
+    },
+    {
+      "value": "83.8",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "AP75"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "APM"
+    },
+    {
+      "value": "83.5",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "APL"
+    },
+    {
+      "value": "81.8",
+      "type": "Result",
+      "model": "HRNet-W48 (Baseline)",
+      "dataset": "COCO",
+      "metric": "AR"
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AP"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AP50"
+    },
+    {
+      "value": "84.9",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AP75"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "APM"
+    },
+    {
+      "value": "84.4",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "APL"
+    },
+    {
+      "value": "82.7",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AR"
+    },
+    {
+      "value": "78.8",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1000 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AP"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1000 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AP50"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1000 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AP75"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1000 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "APM"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1000 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "APL"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1000 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AR"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AP"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AP50"
+    },
+    {
+      "value": "85.2",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AP75"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "APM"
+    },
+    {
+      "value": "85.4",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "APL"
+    },
+    {
+      "value": "83.0",
+      "type": "Result",
+      "model": "HRNet-W48 + Ours (1500 Sinkhorn iterations)",
+      "dataset": "COCO",
+      "metric": "AR"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "model": null,
+      "dataset": "COCO",
+      "metric": "number of Sinkhorn iterations"
+    },
+    {
+      "value": "1000",
+      "type": "Hyper-parameter/Architecture",
+      "model": null,
+      "dataset": "COCO",
+      "metric": "number of Sinkhorn iterations"
+    },
+    {
+      "value": "1500",
+      "type": "Hyper-parameter/Architecture",
+      "model": null,
+      "dataset": "COCO",
+      "metric": "number of Sinkhorn iterations"
+    }
+  ],
+  "elapsed_seconds": 81.3,
+  "raw_preview": "{\"value\": \"25K\", \"type\": \"Data Stat.\", \"model\": null, \"dataset\": \"MPII\", \"metric\": \"number of images\"}\n{\"value\": \"40k\", \"type\": \"Data Stat.\", \"model\": null, \"dataset\": \"MPII\", \"metric\": \"number of person instances\"}\n{\"value\": \"16\", \"type\": \"Data Stat.\", \"model\": null, \"dataset\": \"MPII\", \"metric\": \"number of body joints\"}\n{\"value\": \"1\", \"type\": \"Hyper-parameter/Architecture\", \"model\": null, \"dataset\": \"MPII\", \"metric\": \"Sinkhorn entropic regularization parameter\"}\n{\"value\": \"1000\", \"type\": \"Hyper"
+}

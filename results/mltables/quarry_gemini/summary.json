@@ -1,0 +1,11 @@
+{
+  "dataset": "mltables",
+  "model": "gemini-2.5-flash",
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ],
+  "total_papers": 15,
+  "total_tuples": 1973,
+  "total_time": 2327.7
+}

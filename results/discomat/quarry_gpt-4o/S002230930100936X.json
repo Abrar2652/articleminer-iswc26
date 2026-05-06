@@ -1,0 +1,181 @@
+{
+  "pii": "S002230930100936X",
+  "predictions": [
+    {
+      "sample_id": "Sample 1",
+      "component": "La2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample 1",
+      "component": "P2O5",
+      "value": 95.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample 2",
+      "component": "La2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample 2",
+      "component": "P2O5",
+      "value": 90.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample 3",
+      "component": "La2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample 3",
+      "component": "P2O5",
+      "value": 85.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample 4",
+      "component": "La2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample 4",
+      "component": "P2O5",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample 5",
+      "component": "La2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample 5",
+      "component": "P2O5",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample 6",
+      "component": "La2O3",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample 6",
+      "component": "P2O5",
+      "value": 72.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LaP3 [8]",
+      "component": "La2O3",
+      "value": 0.253,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LaP3 [8]",
+      "component": "P2O5",
+      "value": 0.747,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L10",
+      "component": "La2O3",
+      "value": 0.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L10",
+      "component": "P2O5",
+      "value": 0.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L9",
+      "component": "La2O3",
+      "value": 0.233,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L9",
+      "component": "P2O5",
+      "value": 0.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L8",
+      "component": "La2O3",
+      "value": 0.21,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L8",
+      "component": "P2O5",
+      "value": 0.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L7",
+      "component": "La2O3",
+      "value": 0.13,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L7",
+      "component": "P2O5",
+      "value": 0.84,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L6",
+      "component": "La2O3",
+      "value": 0.11,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L6",
+      "component": "P2O5",
+      "value": 0.85,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L5",
+      "component": "La2O3",
+      "value": 0.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L5",
+      "component": "P2O5",
+      "value": 0.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L2",
+      "component": "La2O3",
+      "value": 0.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L2",
+      "component": "P2O5",
+      "value": 0.95,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 37,
+  "elapsed_seconds": 101.9,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

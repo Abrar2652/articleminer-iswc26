@@ -1,0 +1,227 @@
+{
+  "arxiv_id": "2210.00084v1",
+  "predictions": [
+    {
+      "value": 10,
+      "type": "Data Stat.",
+      "dataset": "Tissue-PPI",
+      "attribute name": "number of labels"
+    },
+    {
+      "value": 144,
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "number of graphs"
+    },
+    {
+      "value": 274606,
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "number of nodes"
+    },
+    {
+      "value": 3666563,
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "number of edges"
+    },
+    {
+      "value": 512,
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "number of features"
+    },
+    {
+      "value": 29,
+      "type": "Data Stat.",
+      "dataset": "Fold-PPI",
+      "attribute name": "number of labels"
+    },
+    {
+      "value": 1,
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "number of graphs"
+    },
+    {
+      "value": 2708,
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "number of nodes"
+    },
+    {
+      "value": 10556,
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "number of edges"
+    },
+    {
+      "value": 1433,
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "number of features"
+    },
+    {
+      "value": 7,
+      "type": "Data Stat.",
+      "dataset": "Cora",
+      "attribute name": "number of labels"
+    },
+    {
+      "value": 1,
+      "type": "Data Stat.",
+      "dataset": "Citeseer",
+      "attribute name": "number of graphs"
+    },
+    {
+      "value": 3327,
+      "type": "Data Stat.",
+      "dataset": "Citeseer",
+      "attribute name": "number of nodes"
+    },
+    {
+      "value": 9228,
+      "type": "Data Stat.",
+      "dataset": "Citeseer",
+      "attribute name": "number of edges"
+    },
+    {
+      "value": 3703,
+      "type": "Data Stat.",
+      "dataset": "Citeseer",
+      "attribute name": "number of features"
+    },
+    {
+      "value": 6,
+      "type": "Data Stat.",
+      "dataset": "Citeseer",
+      "attribute name": "number of labels"
+    },
+    {
+      "value": 11,
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "Class #.Train"
+    },
+    {
+      "value": 4,
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "Class #.Test"
+    },
+    {
+      "value": 1330,
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "Graph #.Training"
+    },
+    {
+      "value": 320,
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "Graph #.Validation"
+    },
+    {
+      "value": 600,
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "Graph #.Test"
+    },
+    {
+      "value": 7,
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "Class #.Train"
+    },
+    {
+      "value": 3,
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "Class #.Test"
+    },
+    {
+      "value": 1126,
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "Graph #.Training"
+    },
+    {
+      "value": 271,
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "Graph #.Validation"
+    },
+    {
+      "value": 603,
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "Graph #.Test"
+    },
+    {
+      "value": 7,
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "Class #.Train"
+    },
+    {
+      "value": 4,
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "Class #.Test"
+    },
+    {
+      "value": 566,
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "Graph #.Training"
+    },
+    {
+      "value": 141,
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "Graph #.Validation"
+    },
+    {
+      "value": 404,
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "Graph #.Test"
+    },
+    {
+      "value": 4,
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "Class #.Train"
+    },
+    {
+      "value": 2,
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "Class #.Test"
+    },
+    {
+      "value": 320,
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "Graph #.Training"
+    },
+    {
+      "value": 80,
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "Graph #.Validation"
+    },
+    {
+      "value": 200,
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "Graph #.Test"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 63.4,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

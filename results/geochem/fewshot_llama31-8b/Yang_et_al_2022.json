@@ -1,0 +1,457 @@
+{
+  "paper": "Yang_et_al_2022",
+  "model": "llama31-8b",
+  "n_rows": 41,
+  "rows": [
+    {
+      "sample_id": "DL-1",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-2",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-3",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-4",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-5",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-6",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-7",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-8",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-9",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-10",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-11",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-12",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-13",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-14",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-15",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-16",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-17",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-18",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-19",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-20",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-21",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-22",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-23",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-24",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-25",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-26",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-27",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-28",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-29",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-30",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-31",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "DL-32",
+      "mineral": "dolostone",
+      "method": "not specified",
+      "elements": {
+        "Pb": -0.5,
+        "Zn": -0.5
+      }
+    },
+    {
+      "sample_id": "Yadu",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 2204,
+        "Cu": 1566,
+        "Ga": 431,
+        "Ge": 1257,
+        "Co": 0,
+        "Ni": 519,
+        "Sb": 688.6,
+        "Pb": 736,
+        "Ag": 0,
+        "Cd": 0,
+        "Mn": 0
+      }
+    },
+    {
+      "sample_id": "Maoping",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 88270,
+        "Cu": 2826,
+        "Ga": 101.4,
+        "Ge": 10,
+        "Co": 54.2,
+        "Ni": 519,
+        "Sb": 0.3,
+        "Pb": 0.01,
+        "Ag": 1,
+        "Cd": 0,
+        "Mn": 0
+      }
+    },
+    {
+      "sample_id": "Tianqiao",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 39600,
+        "Cu": 476.9,
+        "Ga": 101.4,
+        "Ge": 1000,
+        "Co": 7.7,
+        "Ni": 32.1,
+        "Sb": 0.3,
+        "Pb": 0.01,
+        "Ag": 0,
+        "Cd": 0,
+        "Mn": 0
+      }
+    },
+    {
+      "sample_id": "Shaojiwan",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 44310,
+        "Cu": 0.2,
+        "Ga": 97.3,
+        "Ge": 1000,
+        "Co": 7.7,
+        "Ni": 32.1,
+        "Sb": 0.3,
+        "Pb": 0.01,
+        "Ag": 0,
+        "Cd": 0,
+        "Mn": 0
+      }
+    },
+    {
+      "sample_id": "Shanshulin",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 4239,
+        "Cu": 0.2,
+        "Ga": 0.5,
+        "Ge": 1000,
+        "Co": 0,
+        "Ni": 0.1,
+        "Sb": 0.3,
+        "Pb": 0.01,
+        "Ag": 0,
+        "Cd": 0,
+        "Mn": 0
+      }
+    },
+    {
+      "sample_id": "Qingshan",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 39620,
+        "Cu": 3.1,
+        "Ga": 0.5,
+        "Ge": 1000,
+        "Co": 0,
+        "Ni": 0.1,
+        "Sb": 317.6,
+        "Pb": 276.5,
+        "Ag": 0,
+        "Cd": 13520,
+        "Mn": 0
+      }
+    },
+    {
+      "sample_id": "Maoping",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Co": -0.1,
+        "Ni": -0.1,
+        "As": 6050,
+        "Pb": 10050,
+        "Ag": -0.1,
+        "Ga": -0.1,
+        "In": -0.1,
+        "Tl": -0.1,
+        "Bi": -0.1,
+        "Cd": -0.04
+      }
+    },
+    {
+      "sample_id": "Tianqiao",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Co": -0.1,
+        "Ni": -0.1,
+        "As": 15200,
+        "Pb": 8800,
+        "Ag": -0.1,
+        "Ga": -0.1,
+        "In": -0.1,
+        "Tl": -0.1,
+        "Bi": -0.1,
+        "Cd": -0.1
+      }
+    },
+    {
+      "sample_id": "Shaojiwan",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Co": -0.1,
+        "Ni": -0.1,
+        "As": 6690,
+        "Pb": 3.8,
+        "Ag": -0.1,
+        "Ga": -0.1,
+        "In": -0.1,
+        "Tl": -0.1,
+        "Bi": -0.1,
+        "Cd": -0.1
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "No sample analyses were found in this chunk of the paper.",
+  "elapsed_seconds": 112.3
+}

@@ -1,0 +1,934 @@
+{
+  "pdf_id": "2210.00193v1",
+  "predictions": [
+    {
+      "value": "51.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "1",
+      "method": "Lexical"
+    },
+    {
+      "value": "77.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "1",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "38.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "1",
+      "method": "Lexical"
+    },
+    {
+      "value": "74.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "1",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "56.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "1",
+      "method": "Entities"
+    },
+    {
+      "value": "80.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "1",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "47.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "1",
+      "method": "Entities"
+    },
+    {
+      "value": "78.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "1",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "53.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "1",
+      "method": "Random"
+    },
+    {
+      "value": "76.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "1",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "45.1",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "1",
+      "method": "Random"
+    },
+    {
+      "value": "73.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "1",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "48.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt",
+      "exemplars": "1",
+      "method": "FRMT"
+    },
+    {
+      "value": "77.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt",
+      "exemplars": "1",
+      "method": "FRMT",
+      "delta": true
+    },
+    {
+      "value": "51.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "2",
+      "method": "Lexical"
+    },
+    {
+      "value": "77.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "2",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "38.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "2",
+      "method": "Lexical"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "2",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "57.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "2",
+      "method": "Entities"
+    },
+    {
+      "value": "46.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "2",
+      "method": "Entities"
+    },
+    {
+      "value": "52.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "2",
+      "method": "Random"
+    },
+    {
+      "value": "76.1",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "2",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "45.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "2",
+      "method": "Random"
+    },
+    {
+      "value": "48.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt",
+      "exemplars": "2",
+      "method": "FRMT"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt",
+      "exemplars": "2",
+      "method": "FRMT",
+      "delta": true
+    },
+    {
+      "value": "52.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "5",
+      "method": "Lexical"
+    },
+    {
+      "value": "77.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "5",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "39.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "5",
+      "method": "Lexical"
+    },
+    {
+      "value": "57.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "5",
+      "method": "Entities"
+    },
+    {
+      "value": "46.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "5",
+      "method": "Entities"
+    },
+    {
+      "value": "54.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "5",
+      "method": "Random"
+    },
+    {
+      "value": "76.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "5",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "45.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "5",
+      "method": "Random"
+    },
+    {
+      "value": "74.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "5",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "49.1",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt",
+      "exemplars": "5",
+      "method": "FRMT"
+    },
+    {
+      "value": "77.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt",
+      "exemplars": "5",
+      "method": "FRMT",
+      "delta": true
+    },
+    {
+      "value": "54.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "10",
+      "method": "Lexical"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "10",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "40.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "10",
+      "method": "Lexical"
+    },
+    {
+      "value": "75.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "10",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "58.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "10",
+      "method": "Entities"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "10",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "48.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "10",
+      "method": "Entities"
+    },
+    {
+      "value": "78.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "10",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "54.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "10",
+      "method": "Random"
+    },
+    {
+      "value": "76.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-BR",
+      "exemplars": "10",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "46.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "10",
+      "method": "Random"
+    },
+    {
+      "value": "74.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt-PT",
+      "exemplars": "10",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt",
+      "exemplars": "10",
+      "method": "FRMT"
+    },
+    {
+      "value": "77.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "pt",
+      "exemplars": "10",
+      "method": "FRMT",
+      "delta": true
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "0",
+      "method": "Lexical"
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "0",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "3.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "0",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "0.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "0",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "0",
+      "method": "Entities"
+    },
+    {
+      "value": "6.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "0",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "1.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "0",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "0",
+      "method": "Random"
+    },
+    {
+      "value": "4.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "0",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "2.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh",
+      "exemplars": "0",
+      "method": "FRMT",
+      "delta": true
+    },
+    {
+      "value": "37.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "1",
+      "method": "Lexical"
+    },
+    {
+      "value": "70.1",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "1",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "25.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "1",
+      "method": "Lexical"
+    },
+    {
+      "value": "67.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "1",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "47.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "1",
+      "method": "Entities"
+    },
+    {
+      "value": "74.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "1",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "37.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "1",
+      "method": "Entities"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "1",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "39.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "1",
+      "method": "Random"
+    },
+    {
+      "value": "67.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "1",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "32.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "1",
+      "method": "Random"
+    },
+    {
+      "value": "65.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "1",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "36.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh",
+      "exemplars": "1",
+      "method": "FRMT"
+    },
+    {
+      "value": "69.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh",
+      "exemplars": "1",
+      "method": "FRMT",
+      "delta": true
+    },
+    {
+      "value": "70.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "2",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "27.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "2",
+      "method": "Lexical"
+    },
+    {
+      "value": "67.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "2",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "48.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "2",
+      "method": "Entities"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "2",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "38.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "2",
+      "method": "Entities"
+    },
+    {
+      "value": "73.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "2",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "39.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "2",
+      "method": "Random"
+    },
+    {
+      "value": "67.1",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "2",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "32.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "2",
+      "method": "Random"
+    },
+    {
+      "value": "65.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "2",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh",
+      "exemplars": "2",
+      "method": "FRMT"
+    },
+    {
+      "value": "69.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh",
+      "exemplars": "2",
+      "method": "FRMT",
+      "delta": true
+    },
+    {
+      "value": "70.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "5",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "26.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "5",
+      "method": "Lexical"
+    },
+    {
+      "value": "67.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "5",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "74.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "5",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "39.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "5",
+      "method": "Entities"
+    },
+    {
+      "value": "73.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "5",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "39.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "5",
+      "method": "Random"
+    },
+    {
+      "value": "66.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "5",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "32.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "5",
+      "method": "Random"
+    },
+    {
+      "value": "65.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "5",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "69.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh",
+      "exemplars": "5",
+      "method": "FRMT",
+      "delta": true
+    },
+    {
+      "value": "37.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "10",
+      "method": "Lexical"
+    },
+    {
+      "value": "70.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "10",
+      "method": "Lexical",
+      "delta": true
+    },
+    {
+      "value": "25.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "10",
+      "method": "Lexical"
+    },
+    {
+      "value": "48.1",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "10",
+      "method": "Entities"
+    },
+    {
+      "value": "38.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "10",
+      "method": "Entities"
+    },
+    {
+      "value": "72.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "10",
+      "method": "Entities",
+      "delta": true
+    },
+    {
+      "value": "38.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "10",
+      "method": "Random"
+    },
+    {
+      "value": "66.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-CN",
+      "exemplars": "10",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "30.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "10",
+      "method": "Random"
+    },
+    {
+      "value": "64.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh-TW",
+      "exemplars": "10",
+      "method": "Random",
+      "delta": true
+    },
+    {
+      "value": "36.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "language_pair": "zh",
+      "exemplars": "10",
+      "method": "FRMT"
+    }
+  ],
+  "num_gold_annotations": 302,
+  "ablation": "no_intelligence",
+  "elapsed_seconds": 52.5
+}

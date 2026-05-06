@@ -1,0 +1,43 @@
+{
+  "pdf_id": "S0022309305003959",
+  "predictions": [
+    {
+      "sample_id": "BZH6",
+      "component": "Bi2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BZH4",
+      "component": "Bi2O3",
+      "value": 6.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BZH7",
+      "component": "Bi2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BZH2",
+      "component": "Bi2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BZH2",
+      "component": "ZnO",
+      "value": 28.64,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BZH2",
+      "component": "Bi2O3",
+      "value": 46.85,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 16.4,
+  "raw_preview": "Looking through the paper text, I can find composition information for the BZH glass samples. The text mentions specific mol% values for Bi2O3 content in the different BZH glasses:\n\n- BZH6: bismuth-free (0 mol% Bi2O3)\n- BZH4: 6.25 mol% Bi2O3\n- BZH7: 12.5 mol% Bi2O3\n- BZH2: 25.0 mol% Bi2O3\n\nThe paper also mentions nominal weight percentages for BZH components from EDX analysis context (ZnO: 28.64 wt%, Bi2O3: 46.85 wt%).\n\nThe system is described as Bi2O3\u2013ZnO\u2013B2O3. Based on the explicit mol% values"
+}

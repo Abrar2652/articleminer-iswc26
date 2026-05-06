@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309307012458",
+  "predictions": [],
+  "elapsed_seconds": 36.6,
+  "raw_preview": "{\"sample\\_id\": \"KAl\\_P_x\", \"component\": \"Qn m;Al Ox\", \"value\": [<number>, <number>, <number>, <number>, <number>], \"unit\": \"mol\"}\n\nThe following entries can be extracted from the paper text:\n\n1. For KAl P_5: Q1 1;Al O6, Q1 1;Al O5, Q1 1;Al O4, Q2 1;Al O6, Q2 1;Al O5\n{\"sample\\_id\": \"KAl\\_P_5\", \"component\": \"Qn m;Al Ox\", \"value\": [1, 1, 1, 1, 1, 1], \"unit\": \"mol\"}\n\n2. For KAl P_10: Q1 1;Al O6, Q1 1;Al O5, Q1 1;Al O4, Q2 1;Al O6, Q2 1;Al O5, Q3 1;Al O4\n{\"sample\\_id\": \"KAl\\_P_10\", \"component\": \"Qn m"
+}

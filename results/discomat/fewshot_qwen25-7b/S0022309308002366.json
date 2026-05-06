@@ -1,0 +1,25 @@
+{
+  "pdf_id": "S0022309308002366",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1",
+      "component": "Leucite",
+      "value": 68.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1",
+      "component": "Phlogopite",
+      "value": 19.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1",
+      "component": "Diopside",
+      "value": 13.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 10.2,
+  "raw_preview": "{\"sample_id\": \"S0022309303006537_0_1\", \"component\": \"Leucite\", \"value\": 68.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_1\", \"component\": \"Phlogopite\", \"value\": 19.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_1\", \"component\": \"Diopside\", \"value\": 13.0, \"unit\": \"wt\"}"
+}

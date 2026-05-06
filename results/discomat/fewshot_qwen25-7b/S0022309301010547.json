@@ -1,0 +1,385 @@
+{
+  "pdf_id": "S0022309301010547",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_11",
+      "component": "XAg2O",
+      "value": 0.121,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_11",
+      "component": "XB2O3",
+      "value": 0.468,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_11",
+      "component": "XLi2O",
+      "value": 0.178,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_12",
+      "component": "XAg2O",
+      "value": 0.035,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_12",
+      "component": "XB2O3",
+      "value": 0.389,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_12",
+      "component": "XK2O",
+      "value": 0.323,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_13",
+      "component": "XAg2O",
+      "value": 0.042,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_13",
+      "component": "XB2O3",
+      "value": 0.364,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_13",
+      "component": "XK2O",
+      "value": 0.327,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_14",
+      "component": "XAg2O",
+      "value": 0.027,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_14",
+      "component": "XB2O3",
+      "value": 0.342,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_14",
+      "component": "XK2O",
+      "value": 0.359,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_15",
+      "component": "XAg2O",
+      "value": 0.096,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_15",
+      "component": "XB2O3",
+      "value": 0.474,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_15",
+      "component": "XK2O",
+      "value": 0.185,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_16",
+      "component": "XAg2O",
+      "value": 0.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_16",
+      "component": "XB2O3",
+      "value": 0.397,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_16",
+      "component": "XK2O",
+      "value": 0.285,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_17",
+      "component": "XAg2O",
+      "value": 0.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_17",
+      "component": "XB2O3",
+      "value": 0.395,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_17",
+      "component": "XK2O",
+      "value": 0.308,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_18",
+      "component": "XAg2O",
+      "value": 0.029,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_18",
+      "component": "XB2O3",
+      "value": 0.344,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_18",
+      "component": "XK2O",
+      "value": 0.374,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_41",
+      "component": "XAg2O",
+      "value": 0.057,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_41",
+      "component": "XB2O3",
+      "value": 0.619,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_41",
+      "component": "XK2O",
+      "value": 0.143,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_42",
+      "component": "XAg2O",
+      "value": 0.039,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_42",
+      "component": "XB2O3",
+      "value": 0.554,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_42",
+      "component": "XK2O",
+      "value": 0.177,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_43",
+      "component": "XAg2O",
+      "value": 0.031,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_43",
+      "component": "XB2O3",
+      "value": 0.507,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_43",
+      "component": "XK2O",
+      "value": 0.193,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_44",
+      "component": "XAg2O",
+      "value": 0.015,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_44",
+      "component": "XB2O3",
+      "value": 0.396,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_44",
+      "component": "XK2O",
+      "value": 0.255,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_51",
+      "component": "XAg2O",
+      "value": 0.049,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_51",
+      "component": "XB2O3",
+      "value": 0.459,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_51",
+      "component": "XCaO",
+      "value": 0.338,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_52",
+      "component": "XAg2O",
+      "value": 0.032,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_52",
+      "component": "XB2O3",
+      "value": 0.285,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_52",
+      "component": "XCaO",
+      "value": 0.388,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_53",
+      "component": "XAg2O",
+      "value": 0.028,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_53",
+      "component": "XB2O3",
+      "value": 0.291,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_53",
+      "component": "XCaO",
+      "value": 0.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_54",
+      "component": "XAg2O",
+      "value": 0.014,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_54",
+      "component": "XB2O3",
+      "value": 0.238,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_54",
+      "component": "XCaO",
+      "value": 0.469,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_55",
+      "component": "XAg2O",
+      "value": 0.01,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_55",
+      "component": "XB2O3",
+      "value": 0.315,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_55",
+      "component": "XCaO",
+      "value": 0.467,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_56",
+      "component": "XAg2O",
+      "value": 0.048,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_56",
+      "component": "XB2O3",
+      "value": 0.424,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_56",
+      "component": "XCaO",
+      "value": 0.304,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_57",
+      "component": "XAg2O",
+      "value": 0.033,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_57",
+      "component": "XB2O3",
+      "value": 0.387,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_57",
+      "component": "XCaO",
+      "value": 0.373,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_58",
+      "component": "XAg2O",
+      "value": 0.017,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_58",
+      "component": "XB2O3",
+      "value": 0.337,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_58",
+      "component": "XCaO",
+      "value": 0.446,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_59",
+      "component": "XAg2O",
+      "value": 0.012,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_59",
+      "component": "XB2O3",
+      "value": 0.314,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_59",
+      "component": "XCaO",
+      "value": 0.502,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 119.3,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_11\", \"component\": \"XAg2O\", \"value\": 0.121, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_11\", \"component\": \"XB2O3\", \"value\": 0.468, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_11\", \"component\": \"XLi2O\", \"value\": 0.178, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_12\", \"component\": \"XAg2O\", \"value\": 0.035, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_12\", \"component\": \"XB2O3\", \"value\": 0.389, \"unit\": \"mol\"}\n{\"sample_id\": \"S0"
+}

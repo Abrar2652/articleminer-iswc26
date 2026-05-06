@@ -1,0 +1,5611 @@
+{
+  "arxiv_id": "2211.05783v1",
+  "predictions": [
+    {
+      "value": "1.8",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param (M)",
+      "model": "cost volume + conv"
+    },
+    {
+      "value": "0",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#blocks",
+      "model": "cost volume + conv"
+    },
+    {
+      "value": "20.58",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.93",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.99",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.71",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "31.16",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.6",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param (M)",
+      "model": "cost volume + conv"
+    },
+    {
+      "value": "4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#blocks",
+      "model": "cost volume + conv"
+    },
+    {
+      "value": "9.59",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.44",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.96",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "26.04",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.89",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.65",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.36",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.75",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.32",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.88",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.95",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "27.33",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param (M)",
+      "model": "cost volume + conv"
+    },
+    {
+      "value": "9.04",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.37",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.84",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "24.46",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.78",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.32",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "16.69",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.07",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.76",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "25.44",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "11.5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param (M)",
+      "model": "cost volume + conv"
+    },
+    {
+      "value": "12",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#blocks",
+      "model": "cost volume + conv"
+    },
+    {
+      "value": "8.67",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.33",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.74",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "23.43",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.61",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.59",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.07",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "15.91",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.94",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.82",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.62",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "24.58",
+      "type": "Result",
+      "model": "cost volume + conv",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "15.7",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param (M)",
+      "model": "cost volume + conv"
+    },
+    {
+      "value": "18",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#blocks",
+      "model": "cost volume + conv"
+    },
+    {
+      "value": "22.93",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8.57",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "11.13",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "52.07",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8.44",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.71",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "11.6",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "42.1",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "10.28",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.11",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "13.83",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "53.34",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param (M)",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": "0",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#blocks",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": "11.45",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.98",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.68",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "28.35",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.12",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.27",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.08",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "22.25",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.11",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.7",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.89",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "33.52",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.6",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param (M)",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": "8.59",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.8",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.28",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "21.99",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.09",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.66",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.37",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.54",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.24",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.44",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "26",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param (M)",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#blocks",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": "7.19",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.4",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.62",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "18.66",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.43",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.73",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "14.23",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.78",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.01",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.27",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "22.37",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param (M)",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": "4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#blocks",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": "6.67",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.26",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.4",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.37",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.28",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.58",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.49",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "13.89",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.44",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.8",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.97",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "21.02",
+      "type": "Result",
+      "model": "Transformer + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param (M)",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": "6",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#blocks",
+      "model": "Transformer + softmax"
+    },
+    {
+      "value": "17.06",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.79",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.74",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "40.03",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.36",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.15",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8.53",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "31.53",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.45",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "10.42",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "42.09",
+      "type": "Result",
+      "model": "conv + softmax",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param (M)",
+      "model": "conv + softmax"
+    },
+    {
+      "value": "6",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#blocks",
+      "model": "conv + softmax"
+    },
+    {
+      "value": "6.67",
+      "type": "Result",
+      "model": "full",
+      "dataset": "Things (val)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.28",
+      "type": "Result",
+      "model": "full",
+      "dataset": "Sintel (train)",
+      "metric": "EPE clean",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.44",
+      "type": "Result",
+      "model": "full",
+      "dataset": "Sintel (train)",
+      "metric": "EPE final",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Parameters",
+      "model": "full"
+    },
+    {
+      "value": "10.84",
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Things (val)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.48",
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Sintel (train)",
+      "metric": "EPE clean",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.32",
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Sintel (train)",
+      "metric": "EPE final",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.8",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Parameters",
+      "model": "w/o cross attn."
+    },
+    {
+      "value": "8.38",
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Things (val)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.85",
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Sintel (train)",
+      "metric": "EPE clean",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.28",
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Sintel (train)",
+      "metric": "EPE final",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Parameters",
+      "model": "w/o position"
+    },
+    {
+      "value": "8.71",
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Things (val)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.1",
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Sintel (train)",
+      "metric": "EPE clean",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.43",
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Sintel (train)",
+      "metric": "EPE final",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.8",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Parameters",
+      "model": "w/o FFN"
+    },
+    {
+      "value": "7.04",
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Things (val)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.49",
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Sintel (train)",
+      "metric": "EPE clean",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.69",
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Sintel (train)",
+      "metric": "EPE final",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.8",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Parameters",
+      "model": "w/o self attn."
+    },
+    {
+      "value": "6.67",
+      "type": "Result",
+      "model": "global",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.26",
+      "type": "Result",
+      "model": "global",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.4",
+      "type": "Result",
+      "model": "global",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.37",
+      "type": "Result",
+      "model": "global",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "52.6",
+      "type": "Result",
+      "model": "global",
+      "dataset": "Things (val, clean)",
+      "metric": "Time",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "31.78",
+      "type": "Result",
+      "model": "local 3 \u00d7 3",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.19",
+      "type": "Result",
+      "model": "local 3 \u00d7 3",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "12.4",
+      "type": "Result",
+      "model": "local 3 \u00d7 3",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "85.39",
+      "type": "Result",
+      "model": "local 3 \u00d7 3",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "51.2",
+      "type": "Result",
+      "model": "local 3 \u00d7 3",
+      "dataset": "Things (val, clean)",
+      "metric": "Time",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "26.51",
+      "type": "Result",
+      "model": "local 5 \u00d7 5",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.89",
+      "type": "Result",
+      "model": "local 5 \u00d7 5",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.67",
+      "type": "Result",
+      "model": "local 5 \u00d7 5",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "76.76",
+      "type": "Result",
+      "model": "local 5 \u00d7 5",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "51.5",
+      "type": "Result",
+      "model": "local 5 \u00d7 5",
+      "dataset": "Things (val, clean)",
+      "metric": "Time",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "19.88",
+      "type": "Result",
+      "model": "local 9 \u00d7 9",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.01",
+      "type": "Result",
+      "model": "local 9 \u00d7 9",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.44",
+      "type": "Result",
+      "model": "local 9 \u00d7 9",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "61.06",
+      "type": "Result",
+      "model": "local 9 \u00d7 9",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "52.9",
+      "type": "Result",
+      "model": "local 9 \u00d7 9",
+      "dataset": "Things (val, clean)",
+      "metric": "Time",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.34",
+      "type": "Result",
+      "model": "1 \u00d7 1",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.26",
+      "type": "Result",
+      "model": "1 \u00d7 1",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0 - 10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.37",
+      "type": "Result",
+      "model": "1 \u00d7 1",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10 - 40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "16.36",
+      "type": "Result",
+      "model": "1 \u00d7 1",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "105",
+      "type": "Result",
+      "model": "1 \u00d7 1",
+      "metric": "Time (ms)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.67",
+      "type": "Result",
+      "model": "2 \u00d7 2",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.26",
+      "type": "Result",
+      "model": "2 \u00d7 2",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0 - 10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.4",
+      "type": "Result",
+      "model": "2 \u00d7 2",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10 - 40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.37",
+      "type": "Result",
+      "model": "2 \u00d7 2",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "53",
+      "type": "Result",
+      "model": "2 \u00d7 2",
+      "metric": "Time (ms)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.32",
+      "type": "Result",
+      "model": "4 \u00d7 4",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.29",
+      "type": "Result",
+      "model": "4 \u00d7 4",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0 - 10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.58",
+      "type": "Result",
+      "model": "4 \u00d7 4",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10 - 40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "19.26",
+      "type": "Result",
+      "model": "4 \u00d7 4",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "35",
+      "type": "Result",
+      "model": "4 \u00d7 4",
+      "metric": "Time (ms)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "14.28",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.47",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.62",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "40.48",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.04",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.77",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.3",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "26.66",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.45",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.99",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.3",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "35.19",
+      "type": "Result",
+      "model": "Unified model",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.3",
+      "type": "Result",
+      "model": "Unified model",
+      "metric": "Param.(M)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "25",
+      "type": "Result",
+      "model": "Unified model",
+      "metric": "Time (ms)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.27",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.67",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.63",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.92",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.47",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.32",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "11.37",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.25",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.65",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "20.04",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.3",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "metric": "Param.(M)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "39",
+      "type": "Result",
+      "model": "Unified model with 3 refinements",
+      "metric": "Time (ms)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.66",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.55",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.38",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "12.87",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.39",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "9.61",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.53",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.3",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.76",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.3",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "metric": "Param.(M)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "58",
+      "type": "Result",
+      "model": "Unified model with 7 refinements",
+      "metric": "Time (ms)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.31",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.53",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.33",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "11.79",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.55",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.41",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.73",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "9.19",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.72",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.12",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.43",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.3",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "metric": "Param.(M)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "78",
+      "type": "Result",
+      "model": "Unified model with 11 refinements",
+      "metric": "Time (ms)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.22",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.53",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.32",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "11.52",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.47",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.36",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.63",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "9",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.69",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.05",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.28",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.3",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "metric": "Param.(M)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "133",
+      "type": "Result",
+      "model": "Unified model with 23 refinements",
+      "metric": "Time (ms)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.25",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.53",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.31",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "11.63",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.41",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.32",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.55",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8.83",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.69",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.45",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.3",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "metric": "Param.(M)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "170",
+      "type": "Result",
+      "model": "Unified model with 31 refinements",
+      "metric": "Time (ms)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.48",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.31",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8.97",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.5",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.46",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.77",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8.26",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.96",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.72",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.45",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.7",
+      "type": "Result",
+      "model": "RAFT variant",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.7",
+      "type": "Result",
+      "model": "RAFT variant",
+      "metric": "Param.(M)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "57",
+      "type": "Result",
+      "model": "RAFT variant",
+      "metric": "Time (ms)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.53",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.01",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.31",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.08",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Sintel (train, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.25",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.26",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Sintel (train, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.48",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Sintel (train, final)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.51",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.81",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "15.67",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "dataset": "Sintel (train, final)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.7",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "metric": "Param.(M)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "151",
+      "type": "Result",
+      "model": "RAFT variant with 1 refinement",
+      "metric": "Time (ms)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.32",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Chairs + Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.46",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Chairs + Things",
+      "metric": "F1-all",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Chairs + Things",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.58",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Chairs + Things",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "13.68",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Chairs + Things",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.77",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Chairs + Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "23.4",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Chairs + Things",
+      "metric": "F1-all",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.74",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Chairs + Things",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.19",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Chairs + Things",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "20.34",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Chairs + Things",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.74",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Chairs + Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.63",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Chairs + Things",
+      "metric": "F1-all",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.64",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Chairs + Things",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.69",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Chairs + Things",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "14.86",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Chairs + Things",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.45",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Chairs + Things + VK",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.9",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Chairs + Things + VK",
+      "metric": "F1-all",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.43",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Chairs + Things + VK",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.18",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Chairs + Things + VK",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.7",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Chairs + Things + VK",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.85",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Chairs + Things + VK",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "10.77",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Chairs + Things + VK",
+      "metric": "F1-all",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.49",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Chairs + Things + VK",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.16",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Chairs + Things + VK",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.87",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Chairs + Things + VK",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.25",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Chairs + Things + VK",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.2",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Chairs + Things + VK",
+      "metric": "F1-all",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.48",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Chairs + Things + VK",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.1",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Chairs + Things + VK",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.12",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Chairs + Things + VK",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.22",
+      "type": "Result",
+      "model": "full",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.7",
+      "type": "Result",
+      "model": "full",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "full",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "10.53",
+      "type": "Result",
+      "model": "full",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.7",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.(M)",
+      "model": "full"
+    },
+    {
+      "value": "1.96",
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.84",
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.4",
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "31.97",
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.3",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.(M)",
+      "model": "w/o cross attn."
+    },
+    {
+      "value": "1.24",
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.46",
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.72",
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "12.07",
+      "type": "Result",
+      "model": "w/o position",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.7",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.(M)",
+      "model": "w/o position"
+    },
+    {
+      "value": "1.39",
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.93",
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.95",
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "14.86",
+      "type": "Result",
+      "model": "w/o FFN",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.3",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.(M)",
+      "model": "w/o FFN"
+    },
+    {
+      "value": "1.35",
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.47",
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.87",
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "13.04",
+      "type": "Result",
+      "model": "w/o self attn.",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.3",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.(M)",
+      "model": "w/o self attn."
+    },
+    {
+      "value": "2.33",
+      "type": "Result",
+      "model": "w/o propagation",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.08",
+      "type": "Result",
+      "model": "w/o propagation",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.76",
+      "type": "Result",
+      "model": "w/o propagation",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "10.09",
+      "type": "Result",
+      "model": "w/o propagation",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.6",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Param.(M)",
+      "model": "w/o propagation"
+    },
+    {
+      "value": "0.074",
+      "type": "Result",
+      "model": "full",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.028",
+      "type": "Result",
+      "model": "full",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.225",
+      "type": "Result",
+      "model": "full",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.103",
+      "type": "Result",
+      "model": "full",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.095",
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.043",
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.284",
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.132",
+      "type": "Result",
+      "model": "w/o cross attn.",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.078",
+      "type": "Result",
+      "model": "w/o position",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.031",
+      "type": "Result",
+      "model": "w/o position",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.237",
+      "type": "Result",
+      "model": "w/o position",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.109",
+      "type": "Result",
+      "model": "w/o position",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.089",
+      "type": "Result",
+      "model": "w/o FFN",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.041",
+      "type": "Result",
+      "model": "w/o FFN",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.276",
+      "type": "Result",
+      "model": "w/o FFN",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.127",
+      "type": "Result",
+      "model": "w/o FFN",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.081",
+      "type": "Result",
+      "model": "w/o self attn.",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.034",
+      "type": "Result",
+      "model": "w/o self attn.",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.248",
+      "type": "Result",
+      "model": "w/o self attn.",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.114",
+      "type": "Result",
+      "model": "w/o self attn.",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.091",
+      "type": "Result",
+      "model": "w/o propagation",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.045",
+      "type": "Result",
+      "model": "w/o propagation",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.293",
+      "type": "Result",
+      "model": "w/o propagation",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.144",
+      "type": "Result",
+      "model": "w/o propagation",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "75.24",
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "96.06",
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "103.47",
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "96.95",
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.58",
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "18.19",
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.98",
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "17.6",
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.22",
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.7",
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "10.53",
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.1",
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.04",
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.39",
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.56",
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.11",
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.05",
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.58",
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "9.93",
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.77",
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.37",
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.38",
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "50000",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "fine-tuning iterations",
+      "model": "rand init, ft (50K)"
+    },
+    {
+      "value": "50000",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "fine-tuning iterations",
+      "model": "flow init, ft (50K)"
+    },
+    {
+      "value": "100000",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "fine-tuning iterations",
+      "model": "rand init, ft (100K)"
+    },
+    {
+      "value": "100000",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "fine-tuning iterations",
+      "model": "flow init, ft (100K)"
+    },
+    {
+      "value": "0.536",
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "1.309",
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "1.3",
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.584",
+      "type": "Result",
+      "model": "rand init, w/o ft",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.198",
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.364",
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.599",
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.235",
+      "type": "Result",
+      "model": "flow init, w/o ft",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.074",
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.028",
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.225",
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.103",
+      "type": "Result",
+      "model": "rand init, ft (50K)",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.066",
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.023",
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.203",
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.092",
+      "type": "Result",
+      "model": "flow init, ft (50K)",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.069",
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.025",
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.211",
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.097",
+      "type": "Result",
+      "model": "rand init, ft (100K)",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.063",
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.021",
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.193",
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.088",
+      "type": "Result",
+      "model": "flow init, ft (100K)",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#refine",
+      "model": "GMFlow"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.53",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.01",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.31",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.08",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Sintel (clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#refine",
+      "model": "GMFlow+"
+    },
+    {
+      "value": "2.52",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.46",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.88",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.63",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.03",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#refine",
+      "model": "GMFlow+"
+    },
+    {
+      "value": "2.29",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.34",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.75",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.16",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.94",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "#refine",
+      "model": "GMFlow+"
+    },
+    {
+      "value": "2.2",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 0-10",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 10-40",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.97",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Things (val, clean)",
+      "metric": "s 40+",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (clean)",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.16",
+      "type": "Result",
+      "model": "FlowNet2",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.56",
+      "type": "Result",
+      "model": "FlowNet2",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "25.40",
+      "type": "Result",
+      "model": "FlowNet2",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.74",
+      "type": "Result",
+      "model": "FlowNet2",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.75",
+      "type": "Result",
+      "model": "FlowNet2",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "30.11",
+      "type": "Result",
+      "model": "FlowNet2",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.45",
+      "type": "Result",
+      "model": "PWC-Net+",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.41",
+      "type": "Result",
+      "model": "PWC-Net+",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "20.12",
+      "type": "Result",
+      "model": "PWC-Net+",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.6",
+      "type": "Result",
+      "model": "PWC-Net+",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.25",
+      "type": "Result",
+      "model": "PWC-Net+",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "23.70",
+      "type": "Result",
+      "model": "PWC-Net+",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.79",
+      "type": "Result",
+      "model": "HD3",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.62",
+      "type": "Result",
+      "model": "HD3",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "30.63",
+      "type": "Result",
+      "model": "HD3",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.67",
+      "type": "Result",
+      "model": "HD3",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.17",
+      "type": "Result",
+      "model": "HD3",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "24.99",
+      "type": "Result",
+      "model": "HD3",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.81",
+      "type": "Result",
+      "model": "VCN",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.11",
+      "type": "Result",
+      "model": "VCN",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "16.68",
+      "type": "Result",
+      "model": "VCN",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4.4",
+      "type": "Result",
+      "model": "VCN",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.22",
+      "type": "Result",
+      "model": "VCN",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "22.24",
+      "type": "Result",
+      "model": "VCN",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.63",
+      "type": "Result",
+      "model": "DICL",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.97",
+      "type": "Result",
+      "model": "DICL",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "16.24",
+      "type": "Result",
+      "model": "DICL",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.6",
+      "type": "Result",
+      "model": "DICL",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.66",
+      "type": "Result",
+      "model": "DICL",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "19.44",
+      "type": "Result",
+      "model": "DICL",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.94",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "3.18",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.74",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.65",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "10.56",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.9",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.32",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "15.80",
+      "type": "Result",
+      "model": "GMFlow",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "RAFT \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.62",
+      "type": "Result",
+      "model": "RAFT \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "9.65",
+      "type": "Result",
+      "model": "RAFT \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.86",
+      "type": "Result",
+      "model": "RAFT \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.41",
+      "type": "Result",
+      "model": "RAFT \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "14.68",
+      "type": "Result",
+      "model": "RAFT \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.39",
+      "type": "Result",
+      "model": "GMA \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.58",
+      "type": "Result",
+      "model": "GMA \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.96",
+      "type": "Result",
+      "model": "GMA \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.47",
+      "type": "Result",
+      "model": "GMA \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.24",
+      "type": "Result",
+      "model": "GMA \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "12.50",
+      "type": "Result",
+      "model": "GMA \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.39",
+      "type": "Result",
+      "model": "GMFlowNet",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "model": "GMFlowNet",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8.49",
+      "type": "Result",
+      "model": "GMFlowNet",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.65",
+      "type": "Result",
+      "model": "GMFlowNet",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.27",
+      "type": "Result",
+      "model": "GMFlowNet",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "13.88",
+      "type": "Result",
+      "model": "GMFlowNet",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.44",
+      "type": "Result",
+      "model": "DIP \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "model": "DIP \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8.92",
+      "type": "Result",
+      "model": "DIP \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.83",
+      "type": "Result",
+      "model": "DIP \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.28",
+      "type": "Result",
+      "model": "DIP \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "15.49",
+      "type": "Result",
+      "model": "DIP \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.43",
+      "type": "Result",
+      "model": "AGFlow \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.56",
+      "type": "Result",
+      "model": "AGFlow \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8.54",
+      "type": "Result",
+      "model": "AGFlow \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.47",
+      "type": "Result",
+      "model": "AGFlow \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.22",
+      "type": "Result",
+      "model": "AGFlow \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "12.64",
+      "type": "Result",
+      "model": "AGFlow \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.44",
+      "type": "Result",
+      "model": "CRAFT \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.61",
+      "type": "Result",
+      "model": "CRAFT \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "8.20",
+      "type": "Result",
+      "model": "CRAFT \u2020",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.42",
+      "type": "Result",
+      "model": "CRAFT \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.16",
+      "type": "Result",
+      "model": "CRAFT \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "12.64",
+      "type": "Result",
+      "model": "CRAFT \u2020",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "model": "FlowFormer",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.41",
+      "type": "Result",
+      "model": "FlowFormer",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "7.63",
+      "type": "Result",
+      "model": "FlowFormer",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.12",
+      "type": "Result",
+      "model": "FlowFormer",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.99",
+      "type": "Result",
+      "model": "FlowFormer",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "11.37",
+      "type": "Result",
+      "model": "FlowFormer",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.34",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.68",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (clean)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.37",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (all)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.10",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (matched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "12.74",
+      "type": "Result",
+      "model": "GMFlow+",
+      "dataset": "Sintel (final)",
+      "metric": "EPE (unmatched)",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "number of refinement steps",
+      "setup": "baseline"
+    },
+    {
+      "value": "0.94",
+      "type": "Result",
+      "model": "baseline",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.95",
+      "type": "Result",
+      "model": "baseline",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.31",
+      "type": "Result",
+      "model": "baseline",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.79",
+      "type": "Result",
+      "model": "baseline",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "number of refinement steps",
+      "setup": "1D correlation"
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.46",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.27",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.22",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.83",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.42",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.25",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "5.96",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "number of refinement steps",
+      "setup": "1D correlation"
+    },
+    {
+      "value": "0.82",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.32",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.32",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.50",
+      "type": "Result",
+      "model": "1D correlation",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "0.77",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "Things",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "2.22",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "Things",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.24",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "KITTI",
+      "metric": "end-point-error",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "6.00",
+      "type": "Result",
+      "model": "2D correlation",
+      "dataset": "KITTI",
+      "metric": "D1",
+      "task": "optical flow estimation"
+    },
+    {
+      "value": "1.65",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "D1-all (All)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "1.51",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "D1-all (Noc)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.69",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "D1-all (All)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "1.54",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "D1-all (Noc)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "0.41",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.81",
+      "type": "Result",
+      "model": "GANet-deep",
+      "metric": "D1-all (All)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "1.63",
+      "type": "Result",
+      "model": "GANet-deep",
+      "metric": "D1-all (Noc)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "1.8",
+      "type": "Result",
+      "model": "GANet-deep",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.88",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "D1-all (All)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "1.73",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "D1-all (Noc)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "0.18",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "2.03",
+      "type": "Result",
+      "model": "AANet+",
+      "metric": "D1-all (All)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "1.85",
+      "type": "Result",
+      "model": "AANet+",
+      "metric": "D1-all (Noc)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "0.06",
+      "type": "Result",
+      "model": "AANet+",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "2.32",
+      "type": "Result",
+      "model": "PSMNet",
+      "metric": "D1-all (All)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "2.14",
+      "type": "Result",
+      "model": "PSMNet",
+      "metric": "D1-all (Noc)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "0.41",
+      "type": "Result",
+      "model": "PSMNet",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.77",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "D1-all (All)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "D1-all (Noc)",
+      "dataset": "KITTI 2015"
+    },
+    {
+      "value": "0.17",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "3.71",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "2.04",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.15",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "AvgErr",
+      "task": "stereo matching"
+    },
+    {
+      "value": "7.7",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "RMS",
+      "task": "stereo matching"
+    },
+    {
+      "value": "3.55",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "4.74",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "2.75",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.27",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "AvgErr",
+      "task": "stereo matching"
+    },
+    {
+      "value": "8.41",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "RMS",
+      "task": "stereo matching"
+    },
+    {
+      "value": "11.6",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "7.15",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "2.75",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.43",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "AvgErr",
+      "task": "stereo matching"
+    },
+    {
+      "value": "8.11",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "RMS",
+      "task": "stereo matching"
+    },
+    {
+      "value": "2.90",
+      "type": "Result",
+      "model": "LEAStereo",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "10.2",
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "4.83",
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "2.07",
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "AvgErr",
+      "task": "stereo matching"
+    },
+    {
+      "value": "10.3",
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "RMS",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.51",
+      "type": "Result",
+      "model": "HSMNet",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "10.1",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "6.49",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "3.49",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "AvgErr",
+      "task": "stereo matching"
+    },
+    {
+      "value": "15.4",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "RMS",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "7.14",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "2.96",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.31",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "AvgErr",
+      "task": "stereo matching"
+    },
+    {
+      "value": "6.45",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "RMS",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.73",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "6.56",
+      "type": "Result",
+      "model": "GANet",
+      "metric": "bad 1.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.1",
+      "type": "Result",
+      "model": "GANet",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.54",
+      "type": "Result",
+      "model": "GANet",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "5.01",
+      "type": "Result",
+      "model": "AANet",
+      "metric": "bad 1.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.66",
+      "type": "Result",
+      "model": "AANet",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.75",
+      "type": "Result",
+      "model": "AANet",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "3.31",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "bad 1.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.77",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.31",
+      "type": "Result",
+      "model": "CFNet",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "2.44",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "bad 1.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.44",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.15",
+      "type": "Result",
+      "model": "RAFT-Stereo",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.98",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "bad 1.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.22",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "CREStereo",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.83",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "bad 1.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.25",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "bad 2.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.08",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "bad 4.0",
+      "task": "stereo matching"
+    },
+    {
+      "value": "4.06",
+      "type": "Result",
+      "model": "ACVNet",
+      "metric": "all:10",
+      "task": "stereo matching"
+    },
+    {
+      "value": "6.46",
+      "type": "Result",
+      "model": "ACVNet",
+      "metric": "all:5",
+      "task": "stereo matching"
+    },
+    {
+      "value": "10.1",
+      "type": "Result",
+      "model": "ACVNet",
+      "metric": "all:3",
+      "task": "stereo matching"
+    },
+    {
+      "value": "236",
+      "type": "Result",
+      "model": "ACVNet",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "3.78",
+      "type": "Result",
+      "model": "Odepth",
+      "metric": "all:10",
+      "task": "stereo matching"
+    },
+    {
+      "value": "7.55",
+      "type": "Result",
+      "model": "Odepth",
+      "metric": "all:5",
+      "task": "stereo matching"
+    },
+    {
+      "value": "12.33",
+      "type": "Result",
+      "model": "Odepth",
+      "metric": "all:3",
+      "task": "stereo matching"
+    },
+    {
+      "value": "199",
+      "type": "Result",
+      "model": "Odepth",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "2.47",
+      "type": "Result",
+      "model": "LRM",
+      "metric": "all:10",
+      "task": "stereo matching"
+    },
+    {
+      "value": "4.71",
+      "type": "Result",
+      "model": "LRM",
+      "metric": "all:5",
+      "task": "stereo matching"
+    },
+    {
+      "value": "8.44",
+      "type": "Result",
+      "model": "LRM",
+      "metric": "all:3",
+      "task": "stereo matching"
+    },
+    {
+      "value": "191",
+      "type": "Result",
+      "model": "LRM",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "2.39",
+      "type": "Result",
+      "model": "MSCLab",
+      "metric": "all:10",
+      "task": "stereo matching"
+    },
+    {
+      "value": "6.29",
+      "type": "Result",
+      "model": "MSCLab",
+      "metric": "all:5",
+      "task": "stereo matching"
+    },
+    {
+      "value": "11.65",
+      "type": "Result",
+      "model": "MSCLab",
+      "metric": "all:3",
+      "task": "stereo matching"
+    },
+    {
+      "value": "150",
+      "type": "Result",
+      "model": "MSCLab",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "all:10",
+      "task": "stereo matching"
+    },
+    {
+      "value": "3.19",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "all:5",
+      "task": "stereo matching"
+    },
+    {
+      "value": "6.86",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "all:3",
+      "task": "stereo matching"
+    },
+    {
+      "value": "190",
+      "type": "Result",
+      "model": "GMStereo",
+      "metric": "Time",
+      "task": "stereo matching"
+    },
+    {
+      "value": "0.231",
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.761",
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.289",
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "model": "DeMoN",
+      "dataset": "Chairs and Things",
+      "metric": "Time",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.161",
+      "type": "Result",
+      "model": "BA-Net",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.092",
+      "type": "Result",
+      "model": "BA-Net",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.346",
+      "type": "Result",
+      "model": "BA-Net",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.214",
+      "type": "Result",
+      "model": "BA-Net",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.38",
+      "type": "Result",
+      "model": "BA-Net",
+      "dataset": "Chairs and Things",
+      "metric": "Time",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.057",
+      "type": "Result",
+      "model": "DeepV2D",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.01",
+      "type": "Result",
+      "model": "DeepV2D",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.168",
+      "type": "Result",
+      "model": "DeepV2D",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.08",
+      "type": "Result",
+      "model": "DeepV2D",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "model": "DeepV2D",
+      "dataset": "Chairs and Things",
+      "metric": "Time",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.059",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Chairs and Things",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.019",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Chairs and Things",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.179",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.082",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Chairs and Things",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.04",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Chairs and Things",
+      "metric": "Time",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.157",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "RGBD-SLAM",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.294",
+      "type": "Result",
+      "model": "DeepMVS",
+      "dataset": "RGBD-SLAM",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.154",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "RGBD-SLAM",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.095",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "RGBD-SLAM",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.524",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "RGBD-SLAM",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.430",
+      "type": "Result",
+      "model": "DeepMVS",
+      "dataset": "RGBD-SLAM",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.215",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "RGBD-SLAM",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "1.780",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "RGBD-SLAM",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.868",
+      "type": "Result",
+      "model": "DeepMVS",
+      "dataset": "RGBD-SLAM",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.723",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "RGBD-SLAM",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.550",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "RGBD-SLAM",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.556",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "RGBD-SLAM",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.202",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "RGBD-SLAM",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.351",
+      "type": "Result",
+      "model": "DeepMVS",
+      "dataset": "RGBD-SLAM",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.226",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "RGBD-SLAM",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.101",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "RGBD-SLAM",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.177",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "RGBD-SLAM",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.167",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "RGBD-SLAM",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.214",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "1.120",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "SUN3D",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "2.421",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "SUN3D",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.206",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "SUN3D",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.282",
+      "type": "Result",
+      "model": "DeepMVS [104]",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.435",
+      "type": "Result",
+      "model": "DeepMVS [104]",
+      "dataset": "SUN3D",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.944",
+      "type": "Result",
+      "model": "DeepMVS [104]",
+      "dataset": "SUN3D",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.363",
+      "type": "Result",
+      "model": "DeepMVS [104]",
+      "dataset": "SUN3D",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.147",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.107",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "SUN3D",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.427",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "SUN3D",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.191",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "SUN3D",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.099",
+      "type": "Result",
+      "model": "IIB [29]",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.293",
+      "type": "Result",
+      "model": "IIB [29]",
+      "dataset": "SUN3D",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.112",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "SUN3D",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.068",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "SUN3D",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.336",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "SUN3D",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.146",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "SUN3D",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.556",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "3.402",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "Scenes11",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "2.603",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "Scenes11",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.391",
+      "type": "Result",
+      "model": "DeMoN [37]",
+      "dataset": "Scenes11",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.210",
+      "type": "Result",
+      "model": "DeepMVS [104]",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.373",
+      "type": "Result",
+      "model": "DeepMVS [104]",
+      "dataset": "Scenes11",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.891",
+      "type": "Result",
+      "model": "DeepMVS [104]",
+      "dataset": "Scenes11",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.270",
+      "type": "Result",
+      "model": "DeepMVS [104]",
+      "dataset": "Scenes11",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.056",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.144",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "Scenes11",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.714",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "Scenes11",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.140",
+      "type": "Result",
+      "model": "DPSNet [63]",
+      "dataset": "Scenes11",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.056",
+      "type": "Result",
+      "model": "IIB [29]",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.523",
+      "type": "Result",
+      "model": "IIB [29]",
+      "dataset": "Scenes11",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.050",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Scenes11",
+      "metric": "Abs Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.069",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Scenes11",
+      "metric": "Sq Rel",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.491",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Scenes11",
+      "metric": "RMSE",
+      "task": "Depth Estimation"
+    },
+    {
+      "value": "0.106",
+      "type": "Result",
+      "model": "GMDepth",
+      "dataset": "Scenes11",
+      "metric": "RMSE log",
+      "task": "Depth Estimation"
+    }
+  ],
+  "num_gold_annotations": 122,
+  "elapsed_seconds": 198.4,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

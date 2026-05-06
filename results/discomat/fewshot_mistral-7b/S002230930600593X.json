@@ -1,0 +1,31 @@
+{
+  "pdf_id": "S002230930600593X",
+  "predictions": [
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "V2O5",
+      "value": 10.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 185.1,
+  "raw_preview": "309303001832_0_2_TV-10\", \"component\": \"Li2O\", \"value\": 30, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"B2O3\", \"value\": 55, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"ZnO\", \"value\": 5, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"TiO2\", \"value\": 0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"V2O5\", \"value\": 10, \"unit\": \"mol\"}\n---\n\nJSON for the given paper:\n[\n  {\n    \"sample_id\":"
+}

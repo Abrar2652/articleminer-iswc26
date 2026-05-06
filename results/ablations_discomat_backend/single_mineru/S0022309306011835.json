@@ -1,0 +1,9 @@
+{
+  "pii": "S0022309306011835",
+  "predictions": [],
+  "num_gold_tuples": 26,
+  "elapsed_seconds": 18.2,
+  "backends": [
+    "mineru"
+  ]
+}

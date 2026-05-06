@@ -1,0 +1,7 @@
+{
+  "ablation": "no_self_correct",
+  "dataset": "mltables",
+  "model": "claude-haiku-4-5-20251001",
+  "n_pdfs": 15,
+  "elapsed_seconds": 1597.1
+}

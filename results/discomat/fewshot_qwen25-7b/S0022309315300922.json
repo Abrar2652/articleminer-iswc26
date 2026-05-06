@@ -1,0 +1,115 @@
+{
+  "pdf_id": "S0022309315300922",
+  "predictions": [
+    {
+      "sample_id": "0Mo",
+      "component": "Na2Mo O4 cubic",
+      "value": 36.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Mo",
+      "component": "Na2Mo O4, 2H2O orthorhombic",
+      "value": 0.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0Mo",
+      "component": "Na2Mo O4 orthorhombic",
+      "value": 63.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2Mo O4 cubic",
+      "value": 28.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2Mo O4, 2H2O orthorhombic",
+      "value": 43.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2Mo O4 orthorhombic",
+      "value": 15.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2Mo O4 cubic",
+      "value": 18.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2Mo O4, 2H2O orthorhombic",
+      "value": 45.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2Mo O4 orthorhombic",
+      "value": 20.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2Mo O4 cubic",
+      "value": 22.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2Mo O4, 2H2O orthorhombic",
+      "value": 38.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2Mo O4 orthorhombic",
+      "value": 17.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2Mo O4 cubic",
+      "value": 28.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2Mo O4, 2H2O orthorhombic",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2Mo2O7",
+      "value": 12.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2Mo2O7",
+      "value": 15.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2Mo2O7",
+      "value": 21.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2Mo2O7",
+      "value": 28.9,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 31.7,
+  "raw_preview": "```json\n{\"sample_id\": \"0Mo\", \"component\": \"Na2Mo O4 cubic\", \"value\": 36.2, \"unit\": \"mol\"}\n{\"sample_id\": \"0Mo\", \"component\": \"Na2Mo O4, 2H2O orthorhombic\", \"value\": 0.8, \"unit\": \"mol\"}\n{\"sample_id\": \"0Mo\", \"component\": \"Na2Mo O4 orthorhombic\", \"value\": 63.0, \"unit\": \"mol\"}\n{\"sample_id\": \"3Mo\", \"component\": \"Na2Mo O4 cubic\", \"value\": 28.4, \"unit\": \"mol\"}\n{\"sample_id\": \"3Mo\", \"component\": \"Na2Mo O4, 2H2O orthorhombic\", \"value\": 43.0, \"unit\": \"mol\"}\n{\"sample_id\": \"3Mo\", \"component\": \"Na2Mo O4 orthor"
+}

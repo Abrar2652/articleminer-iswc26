@@ -1,0 +1,215 @@
+{
+  "pii": "S0022309314001094",
+  "predictions": [
+    {
+      "sample_id": "0_S1",
+      "component": "Na2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0_S1",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5_S1",
+      "component": "Na2O",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5_S1",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5_S1",
+      "component": "P2O5",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10_S1",
+      "component": "Na2O",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10_S1",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10_S1",
+      "component": "P2O5",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20_S1",
+      "component": "Na2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20_S1",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20_S1",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30_S1",
+      "component": "Na2O",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30_S1",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30_S1",
+      "component": "P2O5",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "33_S1",
+      "component": "Na2O",
+      "value": 33.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "33_S1",
+      "component": "ZnO",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "33_S1",
+      "component": "P2O5",
+      "value": 33.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0_S2",
+      "component": "Na2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "0_S2",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5_S2",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5_S2",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10_S2",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10_S2",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15_S2",
+      "component": "ZnO",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15_S2",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20_S2",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20_S2",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "25_S2",
+      "component": "ZnO",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "25_S2",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30_S2",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30_S2",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "33_S2",
+      "component": "Na2O",
+      "value": 33.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "33_S2",
+      "component": "ZnO",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "33_S2",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 92,
+  "elapsed_seconds": 149.0,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

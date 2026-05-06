@@ -1,0 +1,130 @@
+{
+  "pii": "S0022309314005110",
+  "predictions": [
+    {
+      "sample_id": "IPG",
+      "component": "Fe2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG",
+      "component": "P2O5",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS5",
+      "component": "Fe2O3",
+      "value": 38.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS5",
+      "component": "P2O5",
+      "value": 57.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS5",
+      "component": "Cs2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS12",
+      "component": "Fe2O3",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS12",
+      "component": "P2O5",
+      "value": 53.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS12",
+      "component": "Cs2O",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS18",
+      "component": "Fe2O3",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS18",
+      "component": "P2O5",
+      "value": 49.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS18",
+      "component": "Cs2O",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS26",
+      "component": "Fe2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS26",
+      "component": "P2O5",
+      "value": 44.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS26",
+      "component": "Cs2O",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS28",
+      "component": "Fe2O3",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS28",
+      "component": "P2O5",
+      "value": 43.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS28",
+      "component": "Cs2O",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS35",
+      "component": "Fe2O3",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS35",
+      "component": "P2O5",
+      "value": 39.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPGCS35",
+      "component": "Cs2O",
+      "value": 35.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 20,
+  "elapsed_seconds": 116.5,
+  "backends": [
+    "camelot"
+  ]
+}

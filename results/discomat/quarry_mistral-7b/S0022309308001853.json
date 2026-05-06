@@ -1,0 +1,216 @@
+{
+  "pii": "S0022309308001853",
+  "predictions": [
+    {
+      "sample_id": "O-Si glass 1",
+      "component": "SiO2",
+      "value": 61.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si glass 1",
+      "component": "B2O3",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si glass 1",
+      "component": "Na2O",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si glass 1",
+      "component": "CaO",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 1",
+      "component": "SiO2",
+      "value": 56.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 1",
+      "component": "B2O3",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 1",
+      "component": "Na2O",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 1",
+      "component": "CaO",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si glass 2",
+      "component": "SiO2",
+      "value": 64.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si glass 2",
+      "component": "B2O3",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si glass 2",
+      "component": "Na2O",
+      "value": 14.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si glass 2",
+      "component": "CaO",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 2",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 2",
+      "component": "B2O3",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 2",
+      "component": "Na2O",
+      "value": 14.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 2",
+      "component": "CaO",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Si gel 1",
+      "component": "SiO2",
+      "value": 92.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Si gel 1",
+      "component": "CaO",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Si-Zr gel 1",
+      "component": "SiO2",
+      "value": 87.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Si-Zr gel 1",
+      "component": "Na2O",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Si-Zr gel 1",
+      "component": "CaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si glass 3",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si glass 3",
+      "component": "B2O3",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si glass 3",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si glass 3",
+      "component": "CaO",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 3",
+      "component": "SiO2",
+      "value": 67.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 3",
+      "component": "B2O3",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 3",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "O-Si-Zr glass 3",
+      "component": "CaO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Si gel 3",
+      "component": "SiO2",
+      "value": 97.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Si gel 3",
+      "component": "CaO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Si-Zr gel 3",
+      "component": "SiO2",
+      "value": 88.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Si-Zr gel 3",
+      "component": "Na2O",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Si-Zr gel 3",
+      "component": "CaO",
+      "value": 5.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 54,
+  "elapsed_seconds": 140.5,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

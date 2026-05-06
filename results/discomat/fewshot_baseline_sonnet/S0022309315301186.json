@@ -1,0 +1,97 @@
+{
+  "pdf_id": "S0022309315301186",
+  "predictions": [
+    {
+      "sample_id": "S1",
+      "component": "H3BO3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "Li2CO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "SrO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "H3BO3",
+      "value": 77.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "Li2CO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "SrO",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "H3BO3",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "Li2CO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "SrO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "H3BO3",
+      "value": 72.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "Li2CO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "SrO",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5",
+      "component": "H3BO3",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5",
+      "component": "Li2CO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5",
+      "component": "SrO",
+      "value": 15.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 23.0,
+  "raw_preview": "I'll extract the composition data from the paper text. The glasses are described as:\n(85 \u2212 x) H3BO3 + 15% Li2CO3 + x SrO2 (x = 5, 7.5, 10, 12.5 and 15 mol%)\n\nSo:\n- S1: x=5, H3BO3=80, Li2CO3=15, SrO=5\n- S2: x=7.5, H3BO3=77.5, Li2CO3=15, SrO=7.5\n- S3: x=10, H3BO3=75, Li2CO3=15, SrO=10\n- S4: x=12.5, H3BO3=72.5, Li2CO3=15, SrO=12.5\n- S5: x=15, H3BO3=70, Li2CO3=15, SrO=15\n\n{\"sample_id\": \"S1\", \"component\": \"H3BO3\", \"value\": 80.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S1\", \"component\": \"Li2CO3\", \"value\": 15.0,"
+}

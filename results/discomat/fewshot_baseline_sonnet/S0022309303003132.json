@@ -1,0 +1,73 @@
+{
+  "pdf_id": "S0022309303003132",
+  "predictions": [
+    {
+      "sample_id": "ETZ",
+      "component": "TeO2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZ",
+      "component": "ZnO",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "TeO2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "ZnO",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "ZnF2",
+      "value": 7.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "TeO2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "ZnO",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "ZnF2",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "TeO2",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "ZnO",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "ZnF2",
+      "value": 35.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 32.7,
+  "raw_preview": "I'll extract all material-composition entries from the paper text. The compositions mentioned are:\n\n1. ETZ: 75TeO2\u201325ZnO\n2. ETZF-1: 75TeO2\u201318ZnO\u20137ZnF2 (also mentioned as 75TeO2\u201317ZnO\u20138ZnF2 in Table 4)\n3. ETZF-2: 75TeO2\u20139ZnO\u201316ZnF2\n4. ETZF-5: 47TeO2\u201318ZnO\u201335ZnF2\n\nUsing the compositions from the XRD/DTA section as primary references:\n\n{\"sample_id\": \"ETZ\", \"component\": \"TeO2\", \"value\": 75.0, \"unit\": \"mol\"}\n{\"sample_id\": \"ETZ\", \"component\": \"ZnO\", \"value\": 25.0, \"unit\": \"mol\"}\n{\"sample_id\": \"ETZF-1\""
+}

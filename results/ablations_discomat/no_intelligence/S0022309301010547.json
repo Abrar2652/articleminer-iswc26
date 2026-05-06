@@ -1,0 +1,512 @@
+{
+  "pdf_id": "S0022309301010547",
+  "predictions": [
+    {
+      "sample_id": "11",
+      "component": "Ag2O",
+      "value": 0.121,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "11",
+      "component": "B2O3",
+      "value": 0.468,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "11",
+      "component": "Li2O",
+      "value": 0.178,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "11",
+      "component": "Al2O3",
+      "value": 0.233,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "12",
+      "component": "Ag2O",
+      "value": 0.035,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "12",
+      "component": "B2O3",
+      "value": 0.389,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "12",
+      "component": "Li2O",
+      "value": 0.323,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "12",
+      "component": "Al2O3",
+      "value": 0.253,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "13",
+      "component": "Ag2O",
+      "value": 0.042,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "13",
+      "component": "B2O3",
+      "value": 0.364,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "13",
+      "component": "Li2O",
+      "value": 0.327,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "13",
+      "component": "Al2O3",
+      "value": 0.267,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "14",
+      "component": "Ag2O",
+      "value": 0.027,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "14",
+      "component": "B2O3",
+      "value": 0.342,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "14",
+      "component": "Li2O",
+      "value": 0.359,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "14",
+      "component": "Al2O3",
+      "value": 0.272,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15",
+      "component": "Ag2O",
+      "value": 0.096,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15",
+      "component": "B2O3",
+      "value": 0.474,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15",
+      "component": "Li2O",
+      "value": 0.185,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15",
+      "component": "Al2O3",
+      "value": 0.245,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "16",
+      "component": "Ag2O",
+      "value": 0.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "16",
+      "component": "B2O3",
+      "value": 0.397,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "16",
+      "component": "Li2O",
+      "value": 0.285,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "16",
+      "component": "Al2O3",
+      "value": 0.268,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17",
+      "component": "Ag2O",
+      "value": 0.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17",
+      "component": "B2O3",
+      "value": 0.395,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17",
+      "component": "Li2O",
+      "value": 0.308,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17",
+      "component": "Al2O3",
+      "value": 0.247,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "18",
+      "component": "Ag2O",
+      "value": 0.029,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "18",
+      "component": "B2O3",
+      "value": 0.344,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "18",
+      "component": "Li2O",
+      "value": 0.374,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "18",
+      "component": "Al2O3",
+      "value": 0.253,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "41",
+      "component": "Ag2O",
+      "value": 0.057,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "41",
+      "component": "B2O3",
+      "value": 0.619,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "41",
+      "component": "K2O",
+      "value": 0.143,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "41",
+      "component": "Al2O3",
+      "value": 0.181,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "42",
+      "component": "Ag2O",
+      "value": 0.039,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "42",
+      "component": "B2O3",
+      "value": 0.554,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "42",
+      "component": "K2O",
+      "value": 0.177,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "42",
+      "component": "Al2O3",
+      "value": 0.23,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "43",
+      "component": "Ag2O",
+      "value": 0.031,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "43",
+      "component": "B2O3",
+      "value": 0.507,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "43",
+      "component": "K2O",
+      "value": 0.193,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "43",
+      "component": "Al2O3",
+      "value": 0.269,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "44",
+      "component": "Ag2O",
+      "value": 0.015,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "44",
+      "component": "B2O3",
+      "value": 0.396,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "44",
+      "component": "K2O",
+      "value": 0.255,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "44",
+      "component": "Al2O3",
+      "value": 0.334,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "51",
+      "component": "Ag2O",
+      "value": 0.049,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "51",
+      "component": "B2O3",
+      "value": 0.459,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "51",
+      "component": "CaO",
+      "value": 0.338,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "51",
+      "component": "Al2O3",
+      "value": 0.154,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "52",
+      "component": "Ag2O",
+      "value": 0.032,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "52",
+      "component": "B2O3",
+      "value": 0.285,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "52",
+      "component": "CaO",
+      "value": 0.388,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "52",
+      "component": "Al2O3",
+      "value": 0.295,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "53",
+      "component": "Ag2O",
+      "value": 0.028,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "53",
+      "component": "B2O3",
+      "value": 0.291,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "53",
+      "component": "CaO",
+      "value": 0.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "53",
+      "component": "Al2O3",
+      "value": 0.301,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "54",
+      "component": "Ag2O",
+      "value": 0.014,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "54",
+      "component": "B2O3",
+      "value": 0.238,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "54",
+      "component": "CaO",
+      "value": 0.469,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "54",
+      "component": "Al2O3",
+      "value": 0.279,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "55",
+      "component": "Ag2O",
+      "value": 0.01,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "55",
+      "component": "B2O3",
+      "value": 0.315,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "55",
+      "component": "CaO",
+      "value": 0.467,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "55",
+      "component": "Al2O3",
+      "value": 0.208,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "56",
+      "component": "Ag2O",
+      "value": 0.048,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "56",
+      "component": "B2O3",
+      "value": 0.424,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "56",
+      "component": "CaO",
+      "value": 0.304,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "56",
+      "component": "Al2O3",
+      "value": 0.224,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "57",
+      "component": "Ag2O",
+      "value": 0.033,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "57",
+      "component": "B2O3",
+      "value": 0.387,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "57",
+      "component": "CaO",
+      "value": 0.373,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "57",
+      "component": "Al2O3",
+      "value": 0.207,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "58",
+      "component": "Ag2O",
+      "value": 0.017,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "58",
+      "component": "B2O3",
+      "value": 0.337,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "58",
+      "component": "CaO",
+      "value": 0.446,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "58",
+      "component": "Al2O3",
+      "value": 0.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "59",
+      "component": "Ag2O",
+      "value": 0.012,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "59",
+      "component": "B2O3",
+      "value": 0.314,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "59",
+      "component": "CaO",
+      "value": 0.502,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "59",
+      "component": "Al2O3",
+      "value": 0.172,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 84,
+  "ablation": "no_intelligence",
+  "elapsed_seconds": 29.5
+}

@@ -1,0 +1,133 @@
+{
+  "pii": "S0022309303004356",
+  "predictions": [
+    {
+      "sample_id": "ETZN",
+      "component": "TeO2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZN",
+      "component": "ZnO",
+      "value": 20.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZN",
+      "component": "Na2O",
+      "value": 4.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZ",
+      "component": "TeO2",
+      "value": 75.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZ",
+      "component": "ZnO",
+      "value": 24.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "TeO2",
+      "value": 74.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "ZnO",
+      "value": 18.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-1",
+      "component": "ZnF2",
+      "value": 7.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "TeO2",
+      "value": 74.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "ZnO",
+      "value": 8.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-2",
+      "component": "ZnF2",
+      "value": 16.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-3",
+      "component": "TeO2",
+      "value": 69.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-3",
+      "component": "ZnO",
+      "value": 9.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-3",
+      "component": "ZnF2",
+      "value": 21.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-4",
+      "component": "TeO2",
+      "value": 60.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-4",
+      "component": "ZnO",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-4",
+      "component": "ZnF2",
+      "value": 27.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "TeO2",
+      "value": 46.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "ZnO",
+      "value": 18.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ETZF-5",
+      "component": "ZnF2",
+      "value": 35.2,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 20,
+  "elapsed_seconds": 61.5,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

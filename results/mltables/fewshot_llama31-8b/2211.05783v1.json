@@ -1,0 +1,777 @@
+{
+  "pdf_id": "2211.05783v1",
+  "predictions": [
+    {
+      "value": "1.22",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE",
+      "model": "RAFT"
+    },
+    {
+      "value": "3.70",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "D1",
+      "model": "RAFT"
+    },
+    {
+      "value": "1.61",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT"
+    },
+    {
+      "value": "10.53",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT"
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT"
+    },
+    {
+      "value": "1.96",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE",
+      "model": "RAFT w/o cross attn."
+    },
+    {
+      "value": "7.84",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "D1",
+      "model": "RAFT w/o cross attn."
+    },
+    {
+      "value": "5.40",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT w/o cross attn."
+    },
+    {
+      "value": "31.97",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT w/o cross attn."
+    },
+    {
+      "value": "4.3",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT w/o cross attn."
+    },
+    {
+      "value": "1.24",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE",
+      "model": "RAFT w/o position"
+    },
+    {
+      "value": "4.46",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "D1",
+      "model": "RAFT w/o position"
+    },
+    {
+      "value": "1.72",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT w/o position"
+    },
+    {
+      "value": "12.07",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT w/o position"
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT w/o position"
+    },
+    {
+      "value": "1.39",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE",
+      "model": "RAFT w/o FFN"
+    },
+    {
+      "value": "4.93",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "D1",
+      "model": "RAFT w/o FFN"
+    },
+    {
+      "value": "1.95",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT w/o FFN"
+    },
+    {
+      "value": "14.86",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT w/o FFN"
+    },
+    {
+      "value": "2.3",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT w/o FFN"
+    },
+    {
+      "value": "1.35",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE",
+      "model": "RAFT w/o self attn."
+    },
+    {
+      "value": "4.47",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "D1",
+      "model": "RAFT w/o self attn."
+    },
+    {
+      "value": "1.87",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT w/o self attn."
+    },
+    {
+      "value": "13.04",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT w/o self attn."
+    },
+    {
+      "value": "4.3",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT w/o self attn."
+    },
+    {
+      "value": "2.33",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE",
+      "model": "RAFT w/o propagation"
+    },
+    {
+      "value": "6.08",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "D1",
+      "model": "RAFT w/o propagation"
+    },
+    {
+      "value": "1.76",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT w/o propagation"
+    },
+    {
+      "value": "10.09",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "RAFT w/o propagation"
+    },
+    {
+      "value": "4.6",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT w/o propagation"
+    },
+    {
+      "value": "0.074",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "RAFT"
+    },
+    {
+      "value": "0.028",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "RAFT"
+    },
+    {
+      "value": "0.225",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "RAFT"
+    },
+    {
+      "value": "0.103",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "RAFT"
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT"
+    },
+    {
+      "value": "0.095",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "RAFT w/o cross attn."
+    },
+    {
+      "value": "0.043",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "RAFT w/o cross attn."
+    },
+    {
+      "value": "0.284",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "RAFT w/o cross attn."
+    },
+    {
+      "value": "0.132",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "RAFT w/o cross attn."
+    },
+    {
+      "value": "4.3",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT w/o cross attn."
+    },
+    {
+      "value": "0.078",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "RAFT w/o position"
+    },
+    {
+      "value": "0.031",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "RAFT w/o position"
+    },
+    {
+      "value": "0.237",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "RAFT w/o position"
+    },
+    {
+      "value": "0.109",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "RAFT w/o position"
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT w/o position"
+    },
+    {
+      "value": "0.089",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "RAFT w/o FFN"
+    },
+    {
+      "value": "0.041",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "RAFT w/o FFN"
+    },
+    {
+      "value": "0.276",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "RAFT w/o FFN"
+    },
+    {
+      "value": "0.127",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "RAFT w/o FFN"
+    },
+    {
+      "value": "2.3",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT w/o FFN"
+    },
+    {
+      "value": "0.081",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "RAFT w/o self attn."
+    },
+    {
+      "value": "0.034",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "RAFT w/o self attn."
+    },
+    {
+      "value": "0.248",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "RAFT w/o self attn."
+    },
+    {
+      "value": "0.114",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "RAFT w/o self attn."
+    },
+    {
+      "value": "4.3",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT w/o self attn."
+    },
+    {
+      "value": "0.091",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "RAFT w/o propagation"
+    },
+    {
+      "value": "0.045",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "RAFT w/o propagation"
+    },
+    {
+      "value": "0.293",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "RAFT w/o propagation"
+    },
+    {
+      "value": "0.144",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "RAFT w/o propagation"
+    },
+    {
+      "value": "4.6",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "RAFT w/o propagation"
+    },
+    {
+      "value": "1.25",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE",
+      "model": "2D"
+    },
+    {
+      "value": "3.97",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "D1",
+      "model": "2D"
+    },
+    {
+      "value": "1.80",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "2D"
+    },
+    {
+      "value": "13.66",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "2D"
+    },
+    {
+      "value": "61",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Time",
+      "model": "2D"
+    },
+    {
+      "value": "1.22",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE",
+      "model": "1D"
+    },
+    {
+      "value": "3.70",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "D1",
+      "model": "1D"
+    },
+    {
+      "value": "1.61",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "1D"
+    },
+    {
+      "value": "10.53",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "EPE D1 (M)",
+      "model": "1D"
+    },
+    {
+      "value": "50",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Time",
+      "model": "1D"
+    },
+    {
+      "value": "0.074",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "full"
+    },
+    {
+      "value": "0.028",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "full"
+    },
+    {
+      "value": "0.225",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "full"
+    },
+    {
+      "value": "0.103",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "full"
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "full"
+    },
+    {
+      "value": "0.095",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "w/o cross attn."
+    },
+    {
+      "value": "0.043",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "w/o cross attn."
+    },
+    {
+      "value": "0.284",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "w/o cross attn."
+    },
+    {
+      "value": "0.132",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "w/o cross attn."
+    },
+    {
+      "value": "4.3",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "w/o cross attn."
+    },
+    {
+      "value": "0.078",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "w/o position"
+    },
+    {
+      "value": "0.031",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "w/o position"
+    },
+    {
+      "value": "0.237",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "w/o position"
+    },
+    {
+      "value": "0.109",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "w/o position"
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "w/o position"
+    },
+    {
+      "value": "0.089",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "w/o FFN"
+    },
+    {
+      "value": "0.041",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "w/o FFN"
+    },
+    {
+      "value": "0.276",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "w/o FFN"
+    },
+    {
+      "value": "0.127",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "w/o FFN"
+    },
+    {
+      "value": "2.3",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "w/o FFN"
+    },
+    {
+      "value": "0.081",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "w/o self attn."
+    },
+    {
+      "value": "0.034",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "w/o self attn."
+    },
+    {
+      "value": "0.248",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "w/o self attn."
+    },
+    {
+      "value": "0.114",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "w/o self attn."
+    },
+    {
+      "value": "4.3",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "w/o self attn."
+    },
+    {
+      "value": "0.091",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "w/o propagation"
+    },
+    {
+      "value": "0.045",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "w/o propagation"
+    },
+    {
+      "value": "0.293",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "w/o propagation"
+    },
+    {
+      "value": "0.144",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "w/o propagation"
+    },
+    {
+      "value": "4.6",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "w/o propagation"
+    },
+    {
+      "value": "0.074",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Abs Rel",
+      "model": "full"
+    },
+    {
+      "value": "0.028",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Sq Rel",
+      "model": "full"
+    },
+    {
+      "value": "0.225",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE",
+      "model": "full"
+    },
+    {
+      "value": "0.103",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "RMSE log",
+      "model": "full"
+    },
+    {
+      "value": "4.7",
+      "type": "Data Stat.",
+      "dataset": "Things",
+      "metric": "Param",
+      "model": "full"
+    },
+    {
+      "value": "2.29",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RAFT",
+      "metric": "Speedup",
+      "dataset": "Things"
+    },
+    {
+      "value": "1.87",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RAFT",
+      "metric": "Speedup",
+      "dataset": "Things"
+    },
+    {
+      "value": "151",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RAFT",
+      "metric": "Inference Time",
+      "dataset": "Things"
+    },
+    {
+      "value": "66",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RAFT",
+      "metric": "Inference Time",
+      "dataset": "Things"
+    },
+    {
+      "value": "170",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RAFT",
+      "metric": "Inference Time",
+      "dataset": "Things"
+    }
+  ],
+  "elapsed_seconds": 231.4,
+  "raw_preview": "{\"value\": \"1.22\", \"type\": \"Data Stat.\", \"dataset\": \"Things\", \"metric\": \"EPE\", \"model\": \"RAFT\"}\n{\"value\": \"3.70\", \"type\": \"Data Stat.\", \"dataset\": \"Things\", \"metric\": \"D1\", \"model\": \"RAFT\"}\n{\"value\": \"1.61\", \"type\": \"Data Stat.\", \"dataset\": \"Things\", \"metric\": \"EPE D1 (M)\", \"model\": \"RAFT\"}\n{\"value\": \"10.53\", \"type\": \"Data Stat.\", \"dataset\": \"Things\", \"metric\": \"EPE D1 (M)\", \"model\": \"RAFT\"}\n{\"value\": \"4.7\", \"type\": \"Data Stat.\", \"dataset\": \"Things\", \"metric\": \"Param\", \"model\": \"RAFT\"}\n{\"value\": "
+}

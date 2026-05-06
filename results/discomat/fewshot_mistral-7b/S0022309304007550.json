@@ -1,0 +1,19 @@
+{
+  "pdf_id": "S0022309304007550",
+  "predictions": [
+    {
+      "sample_id": "Nd-glass_xNa2O_yAl2O3_zNd2O3",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Nd-glass_xNa2O_yAl2O3_zNd2O3",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 17.9,
+  "raw_preview": "Based on the provided paper text, I have identified the following material-composition entries related to the glass/ceramic samples. I have extracted the sample id, component, value, and unit for each entry.\n\n```json\n{\"sample_id\": \"Nd-glass_xNa2O_yAl2O3_zNd2O3\", \"component\": \"SiO2\", \"value\": 60.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Nd-glass_xNa2O_yAl2O3_zNd2O3\", \"component\": \"B2O3\", \"value\": 15.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Nd-glass_xNa2O_yAl2O3_zNd2O3\", \"component\": \"Na2O\", \"value\": x, \"unit\": \"m"
+}

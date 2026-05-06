@@ -1,0 +1,601 @@
+{
+  "pdf_id": "S0022309300002805",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "GaS3/2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "GeS2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "LaS3/2",
+      "value": 29.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "SiO2",
+      "value": 65.63,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Na2CO3",
+      "value": 31.25,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Ag2O",
+      "value": 3.12,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "V2O5",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "TiO2",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "V2O5",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "V2O5",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "TiO2",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "V2O5",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "TiO2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "V2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1",
+      "component": "V2O5",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1",
+      "component": "TeO2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2",
+      "component": "V2O5",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2",
+      "component": "Sb",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2",
+      "component": "TeO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3",
+      "component": "V2O5",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3",
+      "component": "TeO2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4",
+      "component": "V2O5",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4",
+      "component": "TeO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "V2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "TeO2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "7",
+      "component": "V2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "7",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "7",
+      "component": "TeO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "8",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "8",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "8",
+      "component": "TeO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "70V2O5  30Te O2",
+      "component": "V2O5",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "70V2O5  30Te O2",
+      "component": "TeO2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "70V2O5  10Sb  20Te O2",
+      "component": "V2O5",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "70V2O5  10Sb  20Te O2",
+      "component": "Sb",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "70V2O5  10Sb  20Te O2",
+      "component": "TeO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "70V2O5  20Sb  20Te O2",
+      "component": "V2O5",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "70V2O5  20Sb  20Te O2",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "70V2O5  20Sb  20Te O2",
+      "component": "TeO2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "62V2O5  4Sb2O3  33Te O2",
+      "component": "V2O5",
+      "value": 62.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "62V2O5  4Sb2O3  33Te O2",
+      "component": "Sb2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "62V2O5  4Sb2O3  33Te O2",
+      "component": "TeO2",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "TeO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "XV2O5  20Sb  80 \u00ff XTe O2",
+      "component": "X",
+      "value": 30.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 225.3,
+  "raw_preview": "{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"GaS3/2\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"GeS2\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"LaS3/2\", \"value\": 29.5, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303001832_0_1_M3\", \"component\": \"SiO2\", \"value\": 65.63, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_1_M3\", \"component\": \"Na2CO3\", \"value\": 31.25, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_1_M"
+}

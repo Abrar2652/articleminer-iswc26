@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309314003688",
+  "predictions": [],
+  "elapsed_seconds": 23.5,
+  "raw_preview": "{\"sample\\_id\": \"S00223093_XX_XX_x\\_Ag2O\", \"component\": \"Ag2O\", \"value\": <x>, \"unit\": \"mol\"}\n\nWhere x is the mol% of Ag2O in the glass composition.\n\nHere are the entries extracted from the paper text:\n\n{\"sample\\_id\": \"S00223093_XX_XX_0_Ag2O\", \"component\": \"Ag2O\", \"value\": 0, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S00223093_XX_XX_0.3_Ag2O\", \"component\": \"Ag2O\", \"value\": 0.3, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S00223093_XX_XX_0.5_Ag2O\", \"component\": \"Ag2O\", \"value\": 0.5, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0022309"
+}

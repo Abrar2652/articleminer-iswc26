@@ -1,0 +1,414 @@
+{
+  "pdf_id": "PMC3241339",
+  "predictions": [
+    {
+      "value": "1.0",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "50",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.5",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "4",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "3.2",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "5",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "28",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "5",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.43",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "6",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "3.4",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "6",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "3.2",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "rac-7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "rac-7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "3.0",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "(R)-7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "13",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "(R)-7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2.3",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "(S)-7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "3.5",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "(S)-7",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.88",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "8",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "19",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "8",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "3.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "9",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "9",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "10",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "23",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "10",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.7",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "11",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "11",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "11",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.67",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "12",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "16",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "12",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.29",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "12",
+      "type": "IC50",
+      "target": "CHK2",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "64",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "18.5",
+      "type": "IC50",
+      "target": "HT29",
+      "treatment": "2",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "62",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "8",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "13.5",
+      "type": "IC50",
+      "target": "HT29",
+      "treatment": "8",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "17.5",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "3.1",
+      "type": "IC50",
+      "target": "HT29",
+      "treatment": "13",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.4",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "19",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "24",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "19",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.12",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "20",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "76.5",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "20",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.9",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "24",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "46",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "24",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "23",
+      "type": "IC50",
+      "target": "HT29",
+      "treatment": "24",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.049",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "26",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "125",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "26",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "128",
+      "type": "IC50",
+      "target": "HT29",
+      "treatment": "26",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.2",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "27",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "26",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "27",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": ">100",
+      "type": "IC50",
+      "target": "HT29",
+      "treatment": "27",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.017",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "28",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.2",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "28",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.17",
+      "type": "IC50",
+      "target": "HT29",
+      "treatment": "28",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.74",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "29",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "120",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "29",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "2.7",
+      "type": "IC50",
+      "target": "HT29",
+      "treatment": "29",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.022",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "30",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.53",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "30",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.18",
+      "type": "IC50",
+      "target": "HT29",
+      "treatment": "30",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.013",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "(R)-3",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.47",
+      "type": "GI50",
+      "target": "HT29",
+      "treatment": "(R)-3",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.055",
+      "type": "IC50",
+      "target": "HT29",
+      "treatment": "(R)-3",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "0.40",
+      "type": "IC50",
+      "target": "CHK1",
+      "treatment": "19",
+      "unit": "\u00b5M"
+    }
+  ],
+  "num_gold_annotations": 59,
+  "ablation": "no_vision",
+  "elapsed_seconds": 81.6
+}

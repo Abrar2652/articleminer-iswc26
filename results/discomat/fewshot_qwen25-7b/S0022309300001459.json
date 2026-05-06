@@ -1,0 +1,31 @@
+{
+  "pdf_id": "S0022309300001459",
+  "predictions": [
+    {
+      "sample_id": "",
+      "component": "Ca O",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "",
+      "component": "Si O2",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "",
+      "component": "Al2O3",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "",
+      "component": "Mg O",
+      "value": 10.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 6.8,
+  "raw_preview": "```json\n{\"sample_id\": \"\", \"component\": \"Ca O\", \"value\": 50.0, \"unit\": \"wt\"}\n{\"sample_id\": \"\", \"component\": \"Si O2\", \"value\": 50.0, \"unit\": \"wt\"}\n{\"sample_id\": \"\", \"component\": \"Al2O3\", \"value\": 10.0, \"unit\": \"wt\"}\n{\"sample_id\": \"\", \"component\": \"Mg O\", \"value\": 10.0, \"unit\": \"wt\"}\n```"
+}

@@ -1,0 +1,781 @@
+{
+  "pdf_id": "S002230931400670X",
+  "predictions": [
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3",
+      "component": "Al2O3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 200.5,
+  "raw_preview": "{\"sample_id\": \"Ca O-Si O2\", \"component\": \"CaO\", \"value\": 80, \"unit\": \"mol\"}\n{\"sample_id\": \"Ca O-Si O2\", \"component\": \"SiO2\", \"value\": 20, \"unit\": \"mol\"}\n{\"sample_id\": \"Ca O-Si O2\", \"component\": \"CaO\", \"value\": 60, \"unit\": \"mol\"}\n{\"sample_id\": \"Ca O-Si O2\", \"component\": \"SiO2\", \"value\": 40, \"unit\": \"mol\"}\n{\"sample_id\": \"Ca O-Si O2\", \"component\": \"CaO\", \"value\": 40, \"unit\": \"mol\"}\n{\"sample_id\": \"Ca O-Si O2\", \"component\": \"SiO2\", \"value\": 60, \"unit\": \"mol\"}\n{\"sample_id\": \"Ca O-Si O2\", \"component\": "
+}

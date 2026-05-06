@@ -1,0 +1,13 @@
+{
+  "pmc_id": "PMC3983390",
+  "predictions": [],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 8,
+  "elapsed_seconds": 65.1,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "pdf_id": "2210.00912v1",
+  "predictions": [
+    {
+      "value": "63.56",
+      "type": "Result",
+      "metric": "testing accuracy"
+    },
+    {
+      "value": "7",
+      "type": "Data Stat.",
+      "metric": "seconds",
+      "dataset": "2048 images with 256\u00d7256 resolution"
+    },
+    {
+      "value": "54",
+      "type": "Data Stat.",
+      "metric": "seconds",
+      "dataset": "2048 images of 256\u00d7256 resolution"
+    },
+    {
+      "value": "2048",
+      "type": "Data Stat.",
+      "metric": "number of images",
+      "dataset": "256\u00d7256 resolution"
+    },
+    {
+      "value": "256",
+      "type": "Data Stat.",
+      "metric": "image resolution",
+      "dataset": "2048 images"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "CCST",
+      "parameter/architecture name": "K"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": "CCST",
+      "parameter/architecture name": "K"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "model": "CCST",
+      "parameter/architecture name": "K"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "CCST",
+      "parameter/architecture name": "K"
+    },
+    {
+      "value": "95.75",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "87.5",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "74.66",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "76.56",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "83.62",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "96.71",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "85.69",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "76.19",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "73.76",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "83.09",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "95.77",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "86.23",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "75.73",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "80.12",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "84.71",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "96.89",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "87.16",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "79.31",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "74.32",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "84.42",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "96.65",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=3"
+    },
+    {
+      "value": "86.63",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=3"
+    },
+    {
+      "value": "74.53",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=3"
+    },
+    {
+      "value": "81.85",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=3"
+    },
+    {
+      "value": "84.84",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=3"
+    },
+    {
+      "value": "96.65",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=3"
+    },
+    {
+      "value": "86.87",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=3"
+    },
+    {
+      "value": "79.74",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=3"
+    },
+    {
+      "value": "77.3",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=3"
+    },
+    {
+      "value": "85.14",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=3"
+    },
+    {
+      "value": "95.69",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=1"
+    },
+    {
+      "value": "86.67",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=1"
+    },
+    {
+      "value": "75.85",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=1"
+    },
+    {
+      "value": "77.37",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=1"
+    },
+    {
+      "value": "83.9",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=1"
+    },
+    {
+      "value": "96.89",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=1"
+    },
+    {
+      "value": "86.38",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=1"
+    },
+    {
+      "value": "78.92",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=1"
+    },
+    {
+      "value": "72.36",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=1"
+    },
+    {
+      "value": "83.64",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=1"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=2"
+    },
+    {
+      "value": "88.72",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=2"
+    },
+    {
+      "value": "78.03",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=2"
+    },
+    {
+      "value": "80.91",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=2"
+    },
+    {
+      "value": "86.02",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=2"
+    },
+    {
+      "value": "93.95",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=2"
+    },
+    {
+      "value": "79.79",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=2"
+    },
+    {
+      "value": "72.18",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=2"
+    },
+    {
+      "value": "77.96",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=2"
+    },
+    {
+      "value": "80.97",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=2"
+    },
+    {
+      "value": "96.65",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=3"
+    },
+    {
+      "value": "88.33",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=3"
+    },
+    {
+      "value": "78.2",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=3"
+    },
+    {
+      "value": "82.9",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=3"
+    },
+    {
+      "value": "86.52",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=3"
+    },
+    {
+      "value": "95.21",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=3"
+    },
+    {
+      "value": "81.25",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=3"
+    },
+    {
+      "value": "73.34",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=3"
+    },
+    {
+      "value": "80.27",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=3"
+    },
+    {
+      "value": "82.52",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "PACS",
+      "model": "CCST",
+      "parameter/architecture name": "Overall, K=3"
+    },
+    {
+      "value": "91.44",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "Fed Avg"
+    },
+    {
+      "value": "75.98",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "Fed Avg"
+    },
+    {
+      "value": "73.21",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "Fed Avg"
+    },
+    {
+      "value": "61.08",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "Fed Avg"
+    },
+    {
+      "value": "75.43",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "Fed Avg"
+    },
+    {
+      "value": "60.08",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "Fed Avg"
+    },
+    {
+      "value": "45.59",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "Fed Avg"
+    },
+    {
+      "value": "69.48",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "Fed Avg"
+    },
+    {
+      "value": "72.82",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "Fed Avg"
+    },
+    {
+      "value": "61.99",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "Fed Avg"
+    },
+    {
+      "value": "94.07",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "77.73",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "70.99",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "72.82",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "78.9",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "55.14",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "43.64",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "68.58",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "68.92",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "59.07",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=1"
+    },
+    {
+      "value": "95.27",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "79.05",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    },
+    {
+      "value": "72.82",
+      "type": "Result",
+      "metric": "accuracy",
+      "dataset": "Office-Home",
+      "model": "CCST",
+      "parameter/architecture name": "Single, K=2"
+    }
+  ],
+  "elapsed_seconds": 200.9,
+  "raw_preview": "{\"value\": \"63.56\", \"type\": \"Result\", \"metric\": \"testing accuracy\"}\n{\"value\": \"7\", \"type\": \"Data Stat.\", \"metric\": \"seconds\", \"dataset\": \"2048 images with 256\u00d7256 resolution\"}\n{\"value\": \"54\", \"type\": \"Data Stat.\", \"metric\": \"seconds\", \"dataset\": \"2048 images of 256\u00d7256 resolution\"}\n{\"value\": \"2048\", \"type\": \"Data Stat.\", \"metric\": \"number of images\", \"dataset\": \"256\u00d7256 resolution\"}\n{\"value\": \"256\", \"type\": \"Data Stat.\", \"metric\": \"image resolution\", \"dataset\": \"2048 images\"}\n{\"value\": \"3\", \"type"
+}

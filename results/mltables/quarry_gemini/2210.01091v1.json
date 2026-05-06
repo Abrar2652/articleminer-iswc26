@@ -1,0 +1,179 @@
+{
+  "arxiv_id": "2210.01091v1",
+  "predictions": [
+    {
+      "value": "0.832",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "SmallSectionof GoEmotions Dataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.89",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "SmallSectionof GoEmotions Dataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.71",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "SmallSectionof GoEmotions Dataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.76",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "SmallSectionof GoEmotions Dataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.59",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "SmallSectionof GoEmotions Dataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.62",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "SmallSectionof GoEmotions Dataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.68",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "French-German EmotionsDataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.61",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "French-German EmotionsDataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.716",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "French-German EmotionsDataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.66",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "French-German EmotionsDataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.57",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "French-German EmotionsDataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.53",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "French-German EmotionsDataset",
+      "task": "Sentimental Analysis"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "FinancialDomain Dataset",
+      "task": "Sentence Similarity"
+    },
+    {
+      "value": "0.52",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "FinancialDomain Dataset",
+      "task": "Sentence Similarity"
+    },
+    {
+      "value": "0.72",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "FinancialDomain Dataset",
+      "task": "Sentence Similarity"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "FinancialDomain Dataset",
+      "task": "Sentence Similarity"
+    },
+    {
+      "value": "0.55",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "FinancialDomain Dataset",
+      "task": "Sentence Similarity"
+    },
+    {
+      "value": "0.47",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "FinancialDomain Dataset",
+      "task": "Sentence Similarity"
+    },
+    {
+      "value": "0.67",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": "Sectionof PAWS-XDataset",
+      "task": "Sentence Similarity"
+    },
+    {
+      "value": "0.61",
+      "type": "Result",
+      "model": "BERT (fine-tuned)",
+      "dataset": "Sectionof PAWS-XDataset",
+      "task": "Sentence Similarity"
+    },
+    {
+      "value": "0.736",
+      "type": "Result",
+      "model": "ROBERTa",
+      "dataset": "Sectionof PAWS-XDataset",
+      "task": "Sentence Similarity"
+    },
+    {
+      "value": "0.711",
+      "type": "Result",
+      "model": "ROBERTa (fine-tuned)",
+      "dataset": "Sectionof PAWS-XDataset",
+      "task": "Sentence Similarity"
+    },
+    {
+      "value": "0.58",
+      "type": "Result",
+      "model": "XLNet",
+      "dataset": "Sectionof PAWS-XDataset",
+      "task": "Sentence Similarity"
+    },
+    {
+      "value": "0.62",
+      "type": "Result",
+      "model": "XLNet (fine-tuned)",
+      "dataset": "Sectionof PAWS-XDataset",
+      "task": "Sentence Similarity"
+    }
+  ],
+  "num_gold_annotations": 54,
+  "elapsed_seconds": 39.8,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

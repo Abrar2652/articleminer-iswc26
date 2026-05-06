@@ -1,0 +1,149 @@
+{
+  "arxiv_id": "2210.00698v1",
+  "predictions": [
+    {
+      "value": "76.2",
+      "type": "Result",
+      "model": "PSPNet",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "77.3",
+      "type": "Result",
+      "model": "PSANet",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "78.1",
+      "type": "Result",
+      "model": "PADNet",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "77.8",
+      "type": "Result",
+      "model": "DenseASPP",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "79.5",
+      "type": "Result",
+      "model": "DeepLabv3",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "80.3",
+      "type": "Result",
+      "model": "Auto-DeepLab",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "44.42",
+      "type": "Result",
+      "model": "Auto-DeepLab",
+      "dataset": "Cityscapes",
+      "metric": "Params(M)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "model": "HRNetV2",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "69.06",
+      "type": "Result",
+      "model": "HRNetV2",
+      "dataset": "Cityscapes",
+      "metric": "Params(M)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "81.4",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "68.67",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "Cityscapes",
+      "metric": "Params(M)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "81.0",
+      "type": "Result",
+      "model": "Ours + RSP",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "17.20",
+      "type": "Result",
+      "model": "Ours + RSP",
+      "dataset": "Cityscapes",
+      "metric": "Params(M)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "81",
+      "type": "Result",
+      "model": "Ours + RSP",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "model": "DCNAS (Zhang et al. 2020)",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "82.1",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "81.7",
+      "type": "Result",
+      "model": "Ours + RSP",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    }
+  ],
+  "num_gold_annotations": 33,
+  "elapsed_seconds": 41.2,
+  "backends": [
+    "docling",
+    "mineru",
+    "pdfplumber",
+    "camelot"
+  ]
+}

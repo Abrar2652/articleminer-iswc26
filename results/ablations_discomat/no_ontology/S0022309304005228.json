@@ -1,0 +1,98 @@
+{
+  "pdf_id": "S0022309304005228",
+  "predictions": [
+    {
+      "sample_id": "40",
+      "component": "SnO",
+      "value": 39.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40",
+      "component": "Na2O",
+      "value": 30.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40",
+      "component": "P2O5",
+      "value": 29.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30",
+      "component": "SnO",
+      "value": 28.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30",
+      "component": "Na2O",
+      "value": 35.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "30",
+      "component": "P2O5",
+      "value": 35.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15",
+      "component": "SnO",
+      "value": 15.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15",
+      "component": "Na2O",
+      "value": 39.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15",
+      "component": "P2O5",
+      "value": 44.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "SnO",
+      "value": 5.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "Na2O",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "P2O5",
+      "value": 49.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5_duplicate",
+      "component": "SnO",
+      "value": 5.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5_duplicate",
+      "component": "Na2O",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5_duplicate",
+      "component": "P2O5",
+      "value": 49.8,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 25,
+  "ablation": "no_ontology",
+  "elapsed_seconds": 56.9
+}

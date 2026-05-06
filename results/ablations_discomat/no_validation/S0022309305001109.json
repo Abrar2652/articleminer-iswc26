@@ -1,0 +1,230 @@
+{
+  "pdf_id": "S0022309305001109",
+  "predictions": [
+    {
+      "sample_id": "P0",
+      "component": "Na2O",
+      "value": 21.41,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P0",
+      "component": "CaO",
+      "value": 4.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P0",
+      "component": "SiO2",
+      "value": 74.49,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P1",
+      "component": "Na2O",
+      "value": 20.34,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P1",
+      "component": "CaO",
+      "value": 3.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P1",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P1",
+      "component": "SiO2",
+      "value": 70.77,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P2",
+      "component": "Na2O",
+      "value": 19.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P2",
+      "component": "CaO",
+      "value": 3.79,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P2",
+      "component": "ZrO2",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P2",
+      "component": "SiO2",
+      "value": 68.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P3",
+      "component": "Na2O",
+      "value": 19.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P3",
+      "component": "CaO",
+      "value": 3.69,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P3",
+      "component": "ZrO2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P3",
+      "component": "SiO2",
+      "value": 67.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P4",
+      "component": "Na2O",
+      "value": 18.73,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P4",
+      "component": "CaO",
+      "value": 3.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P4",
+      "component": "ZrO2",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P4",
+      "component": "SiO2",
+      "value": 65.18,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P5",
+      "component": "Na2O",
+      "value": 18.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P5",
+      "component": "CaO",
+      "value": 3.49,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P5",
+      "component": "ZrO2",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P5",
+      "component": "SiO2",
+      "value": 63.32,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P6",
+      "component": "Na2O",
+      "value": 17.66,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P6",
+      "component": "CaO",
+      "value": 3.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P6",
+      "component": "ZrO2",
+      "value": 17.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P6",
+      "component": "SiO2",
+      "value": 61.45,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P7",
+      "component": "Na2O",
+      "value": 17.13,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P7",
+      "component": "CaO",
+      "value": 3.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P7",
+      "component": "ZrO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P7",
+      "component": "SiO2",
+      "value": 59.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P1",
+      "component": "ZrO2",
+      "value": 4.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P2",
+      "component": "ZrO2",
+      "value": 6.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P3",
+      "component": "ZrO2",
+      "value": 7.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P4",
+      "component": "ZrO2",
+      "value": 11.09,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P5",
+      "component": "ZrO2",
+      "value": 12.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P6",
+      "component": "ZrO2",
+      "value": 14.72,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 59,
+  "ablation": "no_validation",
+  "elapsed_seconds": 48.6
+}

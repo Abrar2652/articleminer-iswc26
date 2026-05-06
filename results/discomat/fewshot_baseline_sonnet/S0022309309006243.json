@@ -1,0 +1,97 @@
+{
+  "pdf_id": "S0022309309006243",
+  "predictions": [
+    {
+      "sample_id": "CZ_05",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_05",
+      "component": "MgO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_05",
+      "component": "P2O5",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_08",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_08",
+      "component": "MgO",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_08",
+      "component": "P2O5",
+      "value": 62.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_13",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_13",
+      "component": "MgO",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_13",
+      "component": "P2O5",
+      "value": 57.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_18",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_18",
+      "component": "MgO",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_18",
+      "component": "P2O5",
+      "value": 52.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_20",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_20",
+      "component": "MgO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CZ_20",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 16.6,
+  "raw_preview": "I'll extract all material-composition entries from the paper text. The glasses follow the formula (ZnO)30(MgO)x(P2O5)70-x with x = 5, 8, 13, 18, and 20 mol%.\n\n{\"sample_id\": \"CZ_05\", \"component\": \"ZnO\", \"value\": 30, \"unit\": \"mol\"}\n{\"sample_id\": \"CZ_05\", \"component\": \"MgO\", \"value\": 5, \"unit\": \"mol\"}\n{\"sample_id\": \"CZ_05\", \"component\": \"P2O5\", \"value\": 65, \"unit\": \"mol\"}\n{\"sample_id\": \"CZ_08\", \"component\": \"ZnO\", \"value\": 30, \"unit\": \"mol\"}\n{\"sample_id\": \"CZ_08\", \"component\": \"MgO\", \"value\": 8, \"u"
+}

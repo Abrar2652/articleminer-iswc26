@@ -1,0 +1,212 @@
+{
+  "arxiv_id": "2210.00698v1",
+  "predictions": [
+    {
+      "value": "76.2",
+      "type": "Result",
+      "model": "PSPNet (Hengshuang et al. 2018)",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes",
+      "task": "image segmentation"
+    },
+    {
+      "value": "77.3",
+      "type": "Result",
+      "model": "PSANet (Hengshuang et al. 2018)",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes",
+      "task": "image segmentation"
+    },
+    {
+      "value": "78.1",
+      "type": "Result",
+      "model": "PADNet (Xu et al. 2018)",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes",
+      "task": "image segmentation"
+    },
+    {
+      "value": "77.8",
+      "type": "Result",
+      "model": "DenseASPP (Maoke et al. 2018)",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes",
+      "task": "image segmentation"
+    },
+    {
+      "value": "79.5",
+      "type": "Result",
+      "model": "DeepLabv3 (Chen et al. 2017)",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes",
+      "task": "image segmentation"
+    },
+    {
+      "value": "80.3",
+      "type": "Result",
+      "model": "Auto-DeepLab (Liu et al. 2019)",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes",
+      "task": "image segmentation"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "model": "HRNetV2 (Sun et al. 2019)",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes",
+      "task": "image segmentation"
+    },
+    {
+      "value": "81.4",
+      "type": "Result",
+      "model": "Ours",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes",
+      "task": "image segmentation"
+    },
+    {
+      "value": "81",
+      "type": "Result",
+      "model": "Ours + RSP",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes",
+      "task": "image segmentation"
+    },
+    {
+      "value": "44.42",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "Auto-DeepLab (Liu et al. 2019)"
+    },
+    {
+      "value": "69.06",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "HRNetV2 (Sun et al. 2019)"
+    },
+    {
+      "value": "68.67",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "Ours"
+    },
+    {
+      "value": "17.20",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "Ours + RSP"
+    },
+    {
+      "value": "80.6",
+      "type": "Result",
+      "model": "Mapillary (Neuhold et al. 2017)",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "image segmentation"
+    },
+    {
+      "value": "81.7",
+      "type": "Result",
+      "model": "HANet (Sungha, Joanne, and Jaegul 2020)",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "image segmentation"
+    },
+    {
+      "value": "81.8",
+      "type": "Result",
+      "model": "HRNetV2+OCR (Sun et al. 2019)",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "image segmentation"
+    },
+    {
+      "value": "81.6",
+      "type": "Result",
+      "model": "DecoupleSegNets",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "image segmentation"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "model": "DCNAS (Zhang et al. 2020)",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "image segmentation"
+    },
+    {
+      "value": "81.4",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "image segmentation"
+    },
+    {
+      "value": "82.1",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "image segmentation"
+    },
+    {
+      "value": 76.16,
+      "type": "Result",
+      "model": "HRNetV2 (Sun et al. 2019)",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": 78.2,
+      "type": "Result",
+      "model": "HRNetV2",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": 80.9,
+      "type": "Result",
+      "model": "HRNetV2",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": 81.6,
+      "type": "Result",
+      "model": "HRNetV2",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": 81.9,
+      "type": "Result",
+      "model": "DCNAS (Zhang et al. 2020)",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": 83.2,
+      "type": "Result",
+      "model": "Ours",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": 82.5,
+      "type": "Result",
+      "model": "Ours + RSP",
+      "metric": "mIOU(%)",
+      "dataset": "Cityscapes"
+    }
+  ],
+  "num_gold_annotations": 33,
+  "elapsed_seconds": 64.7,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

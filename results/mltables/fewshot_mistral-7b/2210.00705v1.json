@@ -1,0 +1,798 @@
+{
+  "pdf_id": "2210.00705v1",
+  "predictions": [
+    {
+      "value": "0.755",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Bus Booking"
+      ],
+      "task": "Zero Shot",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.762",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Bus Booking"
+      ],
+      "task": "Zero Shot",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.787",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Hotel Reservation"
+      ],
+      "task": "Zero Shot",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.379",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Bus Booking"
+      ],
+      "task": "FS - 10 samples",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.448",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Hotel Reservation"
+      ],
+      "task": "FS - 10 samples",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.467",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Hotel Reservation"
+      ],
+      "task": "FS - 10 samples",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.793",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Bus Booking"
+      ],
+      "task": "FS - 50 samples",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.720",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Hotel Reservation"
+      ],
+      "task": "FS - 50 samples",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.939",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Hotel Reservation"
+      ],
+      "task": "FS - 50 samples",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "11.3",
+      "type": "Data Stat.",
+      "dataset": [
+        "-"
+      ],
+      "attribute name": "average number of tokens in a Flickr8k utterance"
+    },
+    {
+      "value": "4.1",
+      "type": "Data Stat.",
+      "dataset": [
+        "-"
+      ],
+      "attribute name": "standard deviation of tokens in a Flickr8k utterance"
+    },
+    {
+      "value": "8",
+      "type": "Result",
+      "task": "Retrieving semantically related keywords from speech signals",
+      "metric": "optimal number of keywords K"
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "#Samples/Intent": "10"
+      }
+    },
+    {
+      "value": "0.81",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.74",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "1.3B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "1.3B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.77",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "SGD",
+        "Schema Guided Dialogue"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "345M",
+        "#Samples/Intent": "10"
+      }
+    },
+    {
+      "value": "0.75",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": [
+        "SGD",
+        "Schema Guided Dialogue"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "#Samples/Intent": "10"
+      }
+    },
+    {
+      "value": "0.767",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": [
+        "SGD",
+        "Schema Guided Dialogue"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.773",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": [
+        "SGD",
+        "Schema Guided Dialogue"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.82",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "1.3B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.767",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.773",
+      "type": "Result",
+      "model": "BERT",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "1.3B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "1.3B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "1.3B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "1.3B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "1.3B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "1.3B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "5B",
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "model": "Speech CLIP",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "Model Size": "1.3B",
+        "#Samples/Intent": "30"
+      }
+    }
+  ],
+  "elapsed_seconds": 181.7,
+  "raw_preview": "{\"value\": \"0.755\", \"type\": \"Result\", \"model\": \"Speech CLIP\", \"dataset\": [\"Bus Booking\"], \"task\": \"Zero Shot\", \"metric\": \"Accuracy\"}\n{\"value\": \"0.762\", \"type\": \"Result\", \"model\": \"Speech CLIP\", \"dataset\": [\"Bus Booking\"], \"task\": \"Zero Shot\", \"metric\": \"Accuracy\"}\n{\"value\": \"0.787\", \"type\": \"Result\", \"model\": \"Speech CLIP\", \"dataset\": [\"Hotel Reservation\"], \"task\": \"Zero Shot\", \"metric\": \"Accuracy\"}\n{\"value\": \"0.379\", \"type\": \"Result\", \"model\": \"Speech CLIP\", \"dataset\": [\"Bus Booking\"], \"task\": \""
+}

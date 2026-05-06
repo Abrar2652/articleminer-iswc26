@@ -1,0 +1,215 @@
+{
+  "arxiv_id": "2210.00193v1",
+  "predictions": [
+    {
+      "value": 43.5,
+      "type": "Result",
+      "model": "CHRF",
+      "dataset": "FRMT",
+      "metric": "Kendall's \u03c4"
+    },
+    {
+      "value": 44.3,
+      "type": "Result",
+      "model": "CHRF",
+      "dataset": "FRMT",
+      "metric": "Pearson \u03c1"
+    },
+    {
+      "value": 44.3,
+      "type": "Result",
+      "model": "BLEU",
+      "dataset": "FRMT",
+      "metric": "Kendall's \u03c4"
+    },
+    {
+      "value": 56.6,
+      "type": "Result",
+      "model": "BLEU",
+      "dataset": "FRMT",
+      "metric": "Pearson \u03c1"
+    },
+    {
+      "value": 49.5,
+      "type": "Result",
+      "model": "BLEURT-D3",
+      "dataset": "FRMT",
+      "metric": "Kendall's \u03c4"
+    },
+    {
+      "value": 61.7,
+      "type": "Result",
+      "model": "BLEURT-D3",
+      "dataset": "FRMT",
+      "metric": "Pearson \u03c1"
+    },
+    {
+      "value": 50.4,
+      "type": "Result",
+      "model": "BLEURT-D6",
+      "dataset": "FRMT",
+      "metric": "Kendall's \u03c4"
+    },
+    {
+      "value": 62.8,
+      "type": "Result",
+      "model": "BLEURT-D6",
+      "dataset": "FRMT",
+      "metric": "Pearson \u03c1"
+    },
+    {
+      "value": 51,
+      "type": "Result",
+      "model": "BLEURT-D12",
+      "dataset": "FRMT",
+      "metric": "Kendall's \u03c4"
+    },
+    {
+      "value": 63.7,
+      "type": "Result",
+      "model": "BLEURT-D12",
+      "dataset": "FRMT",
+      "metric": "Pearson \u03c1"
+    },
+    {
+      "value": 52.2,
+      "type": "Result",
+      "model": "BLEURT",
+      "dataset": "FRMT",
+      "metric": "Kendall's \u03c4"
+    },
+    {
+      "value": 65.2,
+      "type": "Result",
+      "model": "BLEURT",
+      "dataset": "FRMT",
+      "metric": "Pearson \u03c1"
+    },
+    {
+      "value": 98.6,
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "pt",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 94.4,
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "zh",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 50.4,
+      "type": "Result",
+      "model": "UR",
+      "dataset": "pt",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 50.6,
+      "type": "Result",
+      "model": "UR",
+      "dataset": "zh",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 51.2,
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "pt",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 50.9,
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "zh",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 66.7,
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "pt",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 50,
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "zh",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 51,
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "zh",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 85,
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "pt",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 69,
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "zh",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 90.4,
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "pt",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 70.8,
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "zh",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 93.2,
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "pt",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 83.6,
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "zh",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 50,
+      "type": "Result",
+      "model": "Online",
+      "dataset": "pt",
+      "metric": "MQM Score"
+    },
+    {
+      "value": 50,
+      "type": "Result",
+      "model": "Online",
+      "dataset": "zh",
+      "metric": "MQM Score"
+    }
+  ],
+  "num_gold_annotations": 302,
+  "elapsed_seconds": 76.0,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

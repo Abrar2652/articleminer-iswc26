@@ -1,0 +1,693 @@
+{
+  "pdf_id": "2210.00627v1",
+  "predictions": [
+    {
+      "value": "22.13",
+      "type": "Result",
+      "metric": "PSNR",
+      "dataset": "ZJU-Mo Cap",
+      "model": "pixel Ne RF"
+    },
+    {
+      "value": "0.8604",
+      "type": "Result",
+      "metric": "SSIM",
+      "dataset": "ZJU-Mo Cap",
+      "model": "pixel Ne RF"
+    },
+    {
+      "value": "16.79",
+      "type": "Result",
+      "metric": "PSNR",
+      "dataset": "ZJU-Mo Cap",
+      "model": "NHP"
+    },
+    {
+      "value": "0.6308",
+      "type": "Result",
+      "metric": "SSIM",
+      "dataset": "ZJU-Mo Cap",
+      "model": "NHP"
+    },
+    {
+      "value": "25.36",
+      "type": "Result",
+      "metric": "PSNR",
+      "dataset": "ZJU-Mo Cap",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "0.9093",
+      "type": "Result",
+      "metric": "SSIM",
+      "dataset": "ZJU-Mo Cap",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "16.58",
+      "type": "Result",
+      "metric": "PSNR",
+      "dataset": "ZJU-Mo Cap",
+      "model": "NHP"
+    },
+    {
+      "value": "0.6934",
+      "type": "Result",
+      "metric": "SSIM",
+      "dataset": "ZJU-Mo Cap",
+      "model": "NHP"
+    },
+    {
+      "value": "17.61",
+      "type": "Result",
+      "metric": "PSNR",
+      "dataset": "ZJU-Mo Cap",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "0.7186",
+      "type": "Result",
+      "metric": "SSIM",
+      "dataset": "ZJU-Mo Cap",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "20.89",
+      "type": "Result",
+      "metric": "PSNR",
+      "dataset": "ZJU-Mo Cap",
+      "model": "NHP"
+    },
+    {
+      "value": "0.8364",
+      "type": "Result",
+      "metric": "SSIM",
+      "dataset": "ZJU-Mo Cap",
+      "model": "NHP"
+    },
+    {
+      "value": "22.25",
+      "type": "Result",
+      "metric": "PSNR",
+      "dataset": "ZJU-Mo Cap",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "0.8673",
+      "type": "Result",
+      "metric": "SSIM",
+      "dataset": "ZJU-Mo Cap",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "5mm",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "voxel size"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "number of rays"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "batch size"
+    },
+    {
+      "value": "5\u00d710\u22124",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "initial learning rate"
+    },
+    {
+      "value": "5\u00d710\u22125",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "final learning rate"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "number of MLP layers in mesh inpainter"
+    },
+    {
+      "value": "32",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in mesh inpainter"
+    },
+    {
+      "value": "6890",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "number of mesh vertices"
+    },
+    {
+      "value": "256",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in geometry branch"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in geometry branch"
+    },
+    {
+      "value": "128",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "height of feature map"
+    },
+    {
+      "value": "128",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "width of feature map"
+    },
+    {
+      "value": "256",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "height of feature map"
+    },
+    {
+      "value": "16",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "width of feature map"
+    },
+    {
+      "value": "32",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "height of feature map"
+    },
+    {
+      "value": "32",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "width of feature map"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in 1-by-1 convolution layer"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "kernel size in 1-by-1 convolution layer"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "kernel size in convolution layer"
+    },
+    {
+      "value": "32",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "stride in convolution layer"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "stride in convolution layer"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "dilation in convolution layer"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "dilation in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Mono NHR",
+      "parameter/architecture name": "channel dimension in convolution layer"
+    }
+  ],
+  "elapsed_seconds": 212.8,
+  "raw_preview": "{\"value\": \"22.13\", \"type\": \"Result\", \"metric\": \"PSNR\", \"dataset\": \"ZJU-Mo Cap\", \"model\": \"pixel Ne RF\"}\n{\"value\": \"0.8604\", \"type\": \"Result\", \"metric\": \"SSIM\", \"dataset\": \"ZJU-Mo Cap\", \"model\": \"pixel Ne RF\"}\n{\"value\": \"16.79\", \"type\": \"Result\", \"metric\": \"PSNR\", \"dataset\": \"ZJU-Mo Cap\", \"model\": \"NHP\"}\n{\"value\": \"0.6308\", \"type\": \"Result\", \"metric\": \"SSIM\", \"dataset\": \"ZJU-Mo Cap\", \"model\": \"NHP\"}\n{\"value\": \"25.36\", \"type\": \"Result\", \"metric\": \"PSNR\", \"dataset\": \"ZJU-Mo Cap\", \"model\": \"Mono NHR"
+}

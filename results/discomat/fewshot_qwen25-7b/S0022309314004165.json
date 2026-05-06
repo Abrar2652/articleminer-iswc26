@@ -1,0 +1,103 @@
+{
+  "pdf_id": "S0022309314004165",
+  "predictions": [
+    {
+      "sample_id": "G0.26Nd10-SC",
+      "component": "Nd",
+      "value": 0.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10-SC",
+      "component": "Si",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10-SC",
+      "component": "B",
+      "value": 0.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10-SC",
+      "component": "Ca",
+      "value": 0.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10-SC",
+      "component": "Al",
+      "value": 0.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10-SC",
+      "component": "Nd",
+      "value": 0.51,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10-SC",
+      "component": "Si",
+      "value": 0.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10-SC",
+      "component": "B",
+      "value": 0.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10-SC",
+      "component": "Ca",
+      "value": 0.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10-SC",
+      "component": "Al",
+      "value": 0.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10-SC",
+      "component": "Nd",
+      "value": 0.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10-SC",
+      "component": "Nd",
+      "value": 0.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10-SC",
+      "component": "Si",
+      "value": 0.51,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10-SC",
+      "component": "B",
+      "value": 0.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10-SC",
+      "component": "Ca",
+      "value": 0.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10-SC",
+      "component": "Al",
+      "value": 0.06,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 23.8,
+  "raw_preview": "```json\n{\"sample_id\": \"G0.26Nd10-SC\", \"component\": \"Nd\", \"value\": 0.39, \"unit\": \"mol\"}\n{\"sample_id\": \"G0.26Nd10-SC\", \"component\": \"Si\", \"value\": 0.7, \"unit\": \"mol\"}\n{\"sample_id\": \"G0.26Nd10-SC\", \"component\": \"B\", \"value\": 0.04, \"unit\": \"mol\"}\n{\"sample_id\": \"G0.26Nd10-SC\", \"component\": \"Ca\", \"value\": 0.02, \"unit\": \"mol\"}\n{\"sample_id\": \"G0.26Nd10-SC\", \"component\": \"Al\", \"value\": 0.06, \"unit\": \"mol\"}\n{\"sample_id\": \"G0.40Nd10-SC\", \"component\": \"Nd\", \"value\": 0.51, \"unit\": \"mol\"}\n{\"sample_id\": \"G0.40"
+}

@@ -1,0 +1,3210 @@
+{
+  "arxiv_id": "2210.00910v1",
+  "predictions": [
+    {
+      "value": 66.4,
+      "type": "Result",
+      "model": "(ETHOS) SVM",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 80,
+      "type": "Result",
+      "model": "(ETHOS) BERT",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 80.4,
+      "type": "Result",
+      "model": "(ETHOS) DistilBERT",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 69.6,
+      "type": "Result",
+      "model": "That contains hate speech.",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 75.5,
+      "type": "Result",
+      "model": "FBT (TG)",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 78.7,
+      "type": "Result",
+      "model": "FBT (TC)",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 69.6,
+      "type": "Result",
+      "model": "FCS",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 71.3,
+      "type": "Result",
+      "model": "FRS",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 69.5,
+      "type": "Result",
+      "model": "CDC (TC)",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 78.7,
+      "type": "Result",
+      "model": "FBT (TC) + FCS",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 79.7,
+      "type": "Result",
+      "model": "FBT (TC) + FRS",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 71.3,
+      "type": "Result",
+      "model": "FCS + FRS",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 79.7,
+      "type": "Result",
+      "model": "FBT (TC) + FCS + FRS",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 79.6,
+      "type": "Result",
+      "model": "CDC (TC) + FBT (TC) + FCS + FRS",
+      "metric": "accuracy",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 95.8,
+      "type": "Result",
+      "model": "That is about black people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 85,
+      "type": "Result",
+      "model": "That is about black people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 92.5,
+      "type": "Result",
+      "model": "That is about black people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 78.7,
+      "type": "Result",
+      "model": "That is about black people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 95.2,
+      "type": "Result",
+      "model": "This text is about black people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 83.6,
+      "type": "Result",
+      "model": "This text is about black people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 94.4,
+      "type": "Result",
+      "model": "This text is about black people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 75,
+      "type": "Result",
+      "model": "This text is about black people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 95,
+      "type": "Result",
+      "model": "This is about black people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 83,
+      "type": "Result",
+      "model": "This is about black people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 93.6,
+      "type": "Result",
+      "model": "This is about black people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 74.5,
+      "type": "Result",
+      "model": "This is about black people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 94.3,
+      "type": "Result",
+      "model": "That example is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 80.7,
+      "type": "Result",
+      "model": "That example is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 92.7,
+      "type": "Result",
+      "model": "That example is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 71.4,
+      "type": "Result",
+      "model": "That example is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 94,
+      "type": "Result",
+      "model": "That is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 79.8,
+      "type": "Result",
+      "model": "That is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 91.3,
+      "type": "Result",
+      "model": "That is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 70.9,
+      "type": "Result",
+      "model": "That is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 93.8,
+      "type": "Result",
+      "model": "This example is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 79.3,
+      "type": "Result",
+      "model": "This example is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 92.3,
+      "type": "Result",
+      "model": "This example is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 69.5,
+      "type": "Result",
+      "model": "This example is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 94.6,
+      "type": "Result",
+      "model": "That is about race.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 77.5,
+      "type": "Result",
+      "model": "That is about race.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 72.6,
+      "type": "Result",
+      "model": "That is about race.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 83.1,
+      "type": "Result",
+      "model": "That is about race.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 90.9,
+      "type": "Result",
+      "model": "This example is about race.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 72.3,
+      "type": "Result",
+      "model": "This example is about race.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 91.7,
+      "type": "Result",
+      "model": "This example is about race.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 59.6,
+      "type": "Result",
+      "model": "This example is about race.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 89.8,
+      "type": "Result",
+      "model": "That text is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 70.6,
+      "type": "Result",
+      "model": "That text is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 94.2,
+      "type": "Result",
+      "model": "That text is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 56.4,
+      "type": "Result",
+      "model": "That text is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 90.5,
+      "type": "Result",
+      "model": "That example is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 69.8,
+      "type": "Result",
+      "model": "That example is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 85.3,
+      "type": "Result",
+      "model": "That example is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 59.1,
+      "type": "Result",
+      "model": "That example is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 88.9,
+      "type": "Result",
+      "model": "This is about race.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 67.6,
+      "type": "Result",
+      "model": "This is about race.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 89.4,
+      "type": "Result",
+      "model": "This is about race.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 54.4,
+      "type": "Result",
+      "model": "This is about race.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 87.8,
+      "type": "Result",
+      "model": "That text is about race.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 66.3,
+      "type": "Result",
+      "model": "That text is about race.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 92.3,
+      "type": "Result",
+      "model": "That text is about race.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 51.7,
+      "type": "Result",
+      "model": "That text is about race.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 87.4,
+      "type": "Result",
+      "model": "That is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 65.9,
+      "type": "Result",
+      "model": "That is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 93.8,
+      "type": "Result",
+      "model": "That is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 50.8,
+      "type": "Result",
+      "model": "That is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 86.5,
+      "type": "Result",
+      "model": "This text is about race.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 64.5,
+      "type": "Result",
+      "model": "This text is about race.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 94.6,
+      "type": "Result",
+      "model": "This text is about race.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 48.9,
+      "type": "Result",
+      "model": "This text is about race.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 84.9,
+      "type": "Result",
+      "model": "This text is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 62.1,
+      "type": "Result",
+      "model": "This text is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 96.1,
+      "type": "Result",
+      "model": "This text is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 45.9,
+      "type": "Result",
+      "model": "This text is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 85.6,
+      "type": "Result",
+      "model": "This example is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 62.1,
+      "type": "Result",
+      "model": "This example is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 91.1,
+      "type": "Result",
+      "model": "This example is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 47.1,
+      "type": "Result",
+      "model": "This example is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 85.4,
+      "type": "Result",
+      "model": "This is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 58.1,
+      "type": "Result",
+      "model": "This is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 78.4,
+      "type": "Result",
+      "model": "This is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 46.2,
+      "type": "Result",
+      "model": "This is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 81.5,
+      "type": "Result",
+      "model": "That text is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 56.1,
+      "type": "Result",
+      "model": "That text is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 91.3,
+      "type": "Result",
+      "model": "That text is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 40.5,
+      "type": "Result",
+      "model": "That text is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 80.2,
+      "type": "Result",
+      "model": "This text is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 55,
+      "type": "Result",
+      "model": "This text is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 93.6,
+      "type": "Result",
+      "model": "This text is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 38.9,
+      "type": "Result",
+      "model": "This text is about ethnicity.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 74.8,
+      "type": "Result",
+      "model": "This is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 49.4,
+      "type": "Result",
+      "model": "This is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 95.2,
+      "type": "Result",
+      "model": "This is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 33.3,
+      "type": "Result",
+      "model": "This is about people of colour.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 87,
+      "type": "Result",
+      "model": "That text is about ethnicity.",
+      "dataset": "ETHOS",
+      "metric": "accuracy"
+    },
+    {
+      "value": 28.4,
+      "type": "Result",
+      "model": "That text is about ethnicity.",
+      "dataset": "ETHOS",
+      "metric": "F 1"
+    },
+    {
+      "value": 19.9,
+      "type": "Result",
+      "model": "That text is about ethnicity.",
+      "dataset": "ETHOS",
+      "metric": "Recall"
+    },
+    {
+      "value": 49.7,
+      "type": "Result",
+      "model": "That text is about ethnicity.",
+      "dataset": "ETHOS",
+      "metric": "Precision"
+    },
+    {
+      "value": "98.3",
+      "type": "Result",
+      "model": "That example is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "93.1",
+      "type": "Result",
+      "model": "That example is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "model": "That example is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "model": "That example is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "98.1",
+      "type": "Result",
+      "model": "This example is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "92.7",
+      "type": "Result",
+      "model": "This example is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "model": "This example is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "94.8",
+      "type": "Result",
+      "model": "This example is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "98.1",
+      "type": "Result",
+      "model": "This text is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "92.6",
+      "type": "Result",
+      "model": "This text is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "model": "This text is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "95",
+      "type": "Result",
+      "model": "This text is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "98",
+      "type": "Result",
+      "model": "That text is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "92.3",
+      "type": "Result",
+      "model": "That text is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "model": "That text is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "model": "That text is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "98",
+      "type": "Result",
+      "model": "That example is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "92",
+      "type": "Result",
+      "model": "That example is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "model": "That example is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "93.4",
+      "type": "Result",
+      "model": "That example is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.9",
+      "type": "Result",
+      "model": "This example is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "92",
+      "type": "Result",
+      "model": "This example is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "model": "This example is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "93",
+      "type": "Result",
+      "model": "This example is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.8",
+      "type": "Result",
+      "model": "This is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "91.6",
+      "type": "Result",
+      "model": "This is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "model": "This is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "model": "This is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.8",
+      "type": "Result",
+      "model": "This text is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "91.5",
+      "type": "Result",
+      "model": "This text is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "model": "This text is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "92.2",
+      "type": "Result",
+      "model": "This text is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.7",
+      "type": "Result",
+      "model": "That text is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "model": "That text is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "That text is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "92.2",
+      "type": "Result",
+      "model": "That text is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.7",
+      "type": "Result",
+      "model": "That text is about religion.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "model": "That text is about religion.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "83.3",
+      "type": "Result",
+      "model": "That text is about religion.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "98.5",
+      "type": "Result",
+      "model": "That text is about religion.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.5",
+      "type": "Result",
+      "model": "This example is about religion.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "89.7",
+      "type": "Result",
+      "model": "This example is about religion.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "83.9",
+      "type": "Result",
+      "model": "This example is about religion.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "96.4",
+      "type": "Result",
+      "model": "This example is about religion.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.3",
+      "type": "Result",
+      "model": "This is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "model": "This is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "89.9",
+      "type": "Result",
+      "model": "This is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "89.3",
+      "type": "Result",
+      "model": "This is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.5",
+      "type": "Result",
+      "model": "That text is about religion.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "89.5",
+      "type": "Result",
+      "model": "That text is about religion.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "82.9",
+      "type": "Result",
+      "model": "That text is about religion.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "97.3",
+      "type": "Result",
+      "model": "That is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "89.1",
+      "type": "Result",
+      "model": "That is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "88.6",
+      "type": "Result",
+      "model": "That is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "model": "That is about Muslims.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.3",
+      "type": "Result",
+      "model": "That example is about religion.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "88.5",
+      "type": "Result",
+      "model": "That example is about religion.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "80.2",
+      "type": "Result",
+      "model": "That example is about religion.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "model": "That example is about religion.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "96.8",
+      "type": "Result",
+      "model": "That is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "87.8",
+      "type": "Result",
+      "model": "That is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "89.7",
+      "type": "Result",
+      "model": "That is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "85.9",
+      "type": "Result",
+      "model": "That is about Muslim people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "96.4",
+      "type": "Result",
+      "model": "This is about religion.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "84.5",
+      "type": "Result",
+      "model": "This is about religion.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "model": "This is about religion.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "model": "This is about religion.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "95",
+      "type": "Result",
+      "model": "This example is about faith.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "78.2",
+      "type": "Result",
+      "model": "This example is about faith.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "69.2",
+      "type": "Result",
+      "model": "This example is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "model": "This example is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "95",
+      "type": "Result",
+      "model": "This text is about faith.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "78.1",
+      "type": "Result",
+      "model": "This text is about faith.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "69",
+      "type": "Result",
+      "model": "This text is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "90",
+      "type": "Result",
+      "model": "This text is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "model": "That text is about faith.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "74.2",
+      "type": "Result",
+      "model": "That text is about faith.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "62.4",
+      "type": "Result",
+      "model": "That text is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "91.5",
+      "type": "Result",
+      "model": "That text is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "93.4",
+      "type": "Result",
+      "model": "That example is about faith.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "68.9",
+      "type": "Result",
+      "model": "That example is about faith.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "56.6",
+      "type": "Result",
+      "model": "That example is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "model": "That example is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "92",
+      "type": "Result",
+      "model": "This is about faith.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "63.3",
+      "type": "Result",
+      "model": "This is about faith.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "52.9",
+      "type": "Result",
+      "model": "This is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "78.8",
+      "type": "Result",
+      "model": "This is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "model": "That is about religion.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "34.5",
+      "type": "Result",
+      "model": "That is about religion.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "21.1",
+      "type": "Result",
+      "model": "That is about religion.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "95.3",
+      "type": "Result",
+      "model": "That is about religion.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "88.3",
+      "type": "Result",
+      "model": "That is about faith.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "21.9",
+      "type": "Result",
+      "model": "That is about faith.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "12.6",
+      "type": "Result",
+      "model": "That is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "model": "That is about faith.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.8",
+      "type": "Result",
+      "model": "That example is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "91.2",
+      "type": "Result",
+      "model": "That example is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "model": "That example is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "89.9",
+      "type": "Result",
+      "model": "That example is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.7",
+      "type": "Result",
+      "model": "This example is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "90.8",
+      "type": "Result",
+      "model": "This example is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "model": "This example is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "This example is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.2",
+      "type": "Result",
+      "model": "That is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "88.8",
+      "type": "Result",
+      "model": "That is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "That is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "88.4",
+      "type": "Result",
+      "model": "That is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97",
+      "type": "Result",
+      "model": "That text is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "88.6",
+      "type": "Result",
+      "model": "That text is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "92.2",
+      "type": "Result",
+      "model": "That text is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "85.2",
+      "type": "Result",
+      "model": "That text is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "96.3",
+      "type": "Result",
+      "model": "This text is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "86.4",
+      "type": "Result",
+      "model": "This text is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "93.7",
+      "type": "Result",
+      "model": "This text is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "80.1",
+      "type": "Result",
+      "model": "This text is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "96.4",
+      "type": "Result",
+      "model": "This is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "86.2",
+      "type": "Result",
+      "model": "This is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "91.6",
+      "type": "Result",
+      "model": "This is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "81.4",
+      "type": "Result",
+      "model": "This is about immigrants.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "77.7",
+      "type": "Result",
+      "model": "This text is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "42.2",
+      "type": "Result",
+      "model": "This text is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "65.4",
+      "type": "Result",
+      "model": "This text is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "31.1",
+      "type": "Result",
+      "model": "This text is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "78",
+      "type": "Result",
+      "model": "That text is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "41.3",
+      "type": "Result",
+      "model": "That text is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "62.4",
+      "type": "Result",
+      "model": "That text is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "30.9",
+      "type": "Result",
+      "model": "That text is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "83.4",
+      "type": "Result",
+      "model": "This is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "37",
+      "type": "Result",
+      "model": "This is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "39.3",
+      "type": "Result",
+      "model": "This is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "35",
+      "type": "Result",
+      "model": "This is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "86.5",
+      "type": "Result",
+      "model": "That is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "24.6",
+      "type": "Result",
+      "model": "That is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "17.7",
+      "type": "Result",
+      "model": "That is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "40.2",
+      "type": "Result",
+      "model": "That is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "81.4",
+      "type": "Result",
+      "model": "That example is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "30",
+      "type": "Result",
+      "model": "That example is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "32.2",
+      "type": "Result",
+      "model": "That example is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "28.1",
+      "type": "Result",
+      "model": "That example is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "79.8",
+      "type": "Result",
+      "model": "This example is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "30",
+      "type": "Result",
+      "model": "This example is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "34.8",
+      "type": "Result",
+      "model": "This example is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "26.3",
+      "type": "Result",
+      "model": "This example is about national origin.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "98.4",
+      "type": "Result",
+      "model": "That example is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "93.7",
+      "type": "Result",
+      "model": "That example is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "model": "That example is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "97.3",
+      "type": "Result",
+      "model": "That example is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "98.4",
+      "type": "Result",
+      "model": "This example is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "93.5",
+      "type": "Result",
+      "model": "This example is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "This example is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "model": "This example is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "98",
+      "type": "Result",
+      "model": "This text is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "92.3",
+      "type": "Result",
+      "model": "This text is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "91.3",
+      "type": "Result",
+      "model": "This text is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "93.2",
+      "type": "Result",
+      "model": "This text is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.9",
+      "type": "Result",
+      "model": "That example is about disability.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "91.9",
+      "type": "Result",
+      "model": "That example is about disability.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "model": "That example is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "91.4",
+      "type": "Result",
+      "model": "That example is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.9",
+      "type": "Result",
+      "model": "That text is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "91.3",
+      "type": "Result",
+      "model": "That text is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "87",
+      "type": "Result",
+      "model": "That text is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "96.1",
+      "type": "Result",
+      "model": "That text is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.7",
+      "type": "Result",
+      "model": "This example is about disability.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "91.3",
+      "type": "Result",
+      "model": "This example is about disability.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "93",
+      "type": "Result",
+      "model": "This example is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "model": "This example is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.7",
+      "type": "Result",
+      "model": "That is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "model": "That is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "87.2",
+      "type": "Result",
+      "model": "That is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "94.8",
+      "type": "Result",
+      "model": "That is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.4",
+      "type": "Result",
+      "model": "This is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "89.9",
+      "type": "Result",
+      "model": "This is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "model": "This is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "89.5",
+      "type": "Result",
+      "model": "This is about disabled people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "96.6",
+      "type": "Result",
+      "model": "That text is about disability.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "87.6",
+      "type": "Result",
+      "model": "That text is about disability.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "91.5",
+      "type": "Result",
+      "model": "That text is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "84.1",
+      "type": "Result",
+      "model": "That text is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "96.6",
+      "type": "Result",
+      "model": "That is about disability.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "86",
+      "type": "Result",
+      "model": "That is about disability.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "80.4",
+      "type": "Result",
+      "model": "That is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "model": "That is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "94.8",
+      "type": "Result",
+      "model": "This is about disability.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "82",
+      "type": "Result",
+      "model": "This is about disability.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "91.7",
+      "type": "Result",
+      "model": "This is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "74.1",
+      "type": "Result",
+      "model": "This is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "94.5",
+      "type": "Result",
+      "model": "This text is about disability.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "81.6",
+      "type": "Result",
+      "model": "This text is about disability.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "model": "This text is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "71.9",
+      "type": "Result",
+      "model": "This text is about disability.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 99.1,
+      "type": "Result",
+      "model": "That example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 96.7,
+      "type": "Result",
+      "model": "That example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 94.2,
+      "type": "Result",
+      "model": "That example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 99.4,
+      "type": "Result",
+      "model": "That example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 99,
+      "type": "Result",
+      "model": "This example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 96.6,
+      "type": "Result",
+      "model": "This example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 94,
+      "type": "Result",
+      "model": "This example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 99.2,
+      "type": "Result",
+      "model": "This example is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.8,
+      "type": "Result",
+      "model": "This text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 95.9,
+      "type": "Result",
+      "model": "This text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 92.9,
+      "type": "Result",
+      "model": "This text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 99,
+      "type": "Result",
+      "model": "This text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.8,
+      "type": "Result",
+      "model": "This is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 95.8,
+      "type": "Result",
+      "model": "This is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 92.6,
+      "type": "Result",
+      "model": "This is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 99.2,
+      "type": "Result",
+      "model": "This is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.5,
+      "type": "Result",
+      "model": "That text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 94.6,
+      "type": "Result",
+      "model": "That text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 90,
+      "type": "Result",
+      "model": "That text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 99.6,
+      "type": "Result",
+      "model": "That text is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 98.4,
+      "type": "Result",
+      "model": "That is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 94.4,
+      "type": "Result",
+      "model": "That is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 90.4,
+      "type": "Result",
+      "model": "That is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 98.8,
+      "type": "Result",
+      "model": "That is about gay people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 99,
+      "type": "Result",
+      "model": "That example is about transgender people.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 95.8,
+      "type": "Result",
+      "model": "That example is about transgender people.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 92.7,
+      "type": "Result",
+      "model": "That example is about transgender people.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 99.1,
+      "type": "Result",
+      "model": "That example is about transgender people.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 99,
+      "type": "Result",
+      "model": "That text is about transgender people.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 95.6,
+      "type": "Result",
+      "model": "That text is about transgender people.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 92.2,
+      "type": "Result",
+      "model": "That text is about transgender people.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 99.3,
+      "type": "Result",
+      "model": "That text is about transgender people.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 98.9,
+      "type": "Result",
+      "model": "This text is about transgender people.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 95.6,
+      "type": "Result",
+      "model": "This text is about transgender people.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 92.9,
+      "type": "Result",
+      "model": "This text is about transgender people.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 98.4,
+      "type": "Result",
+      "model": "This text is about transgender people.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 98.9,
+      "type": "Result",
+      "model": "This example is about transgender people.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 95.4,
+      "type": "Result",
+      "model": "This example is about transgender people.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 92.2,
+      "type": "Result",
+      "model": "This example is about transgender people.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 98.8,
+      "type": "Result",
+      "model": "This example is about transgender people.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 98.8,
+      "type": "Result",
+      "model": "That is about transgender people.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 94.9,
+      "type": "Result",
+      "model": "That is about transgender people.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 92,
+      "type": "Result",
+      "model": "That is about transgender people.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 97.9,
+      "type": "Result",
+      "model": "That is about transgender people.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 98.7,
+      "type": "Result",
+      "model": "This is about transgender people.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 94.6,
+      "type": "Result",
+      "model": "This is about transgender people.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 92.2,
+      "type": "Result",
+      "model": "This is about transgender people.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 97,
+      "type": "Result",
+      "model": "This is about transgender people.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": 94.3,
+      "type": "Result",
+      "model": "This is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 88.6,
+      "type": "Result",
+      "model": "This is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 81.3,
+      "type": "Result",
+      "model": "This is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 97.5,
+      "type": "Result",
+      "model": "This is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 93.7,
+      "type": "Result",
+      "model": "That example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 87.1,
+      "type": "Result",
+      "model": "That example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 77.9,
+      "type": "Result",
+      "model": "That example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 98.8,
+      "type": "Result",
+      "model": "That example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 93.2,
+      "type": "Result",
+      "model": "This example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 85.9,
+      "type": "Result",
+      "model": "This example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 76.2,
+      "type": "Result",
+      "model": "This example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 98.5,
+      "type": "Result",
+      "model": "This example is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 93.1,
+      "type": "Result",
+      "model": "This text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 85.7,
+      "type": "Result",
+      "model": "This text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 76.4,
+      "type": "Result",
+      "model": "This text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 97.5,
+      "type": "Result",
+      "model": "This text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 92.4,
+      "type": "Result",
+      "model": "That is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 84,
+      "type": "Result",
+      "model": "That is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 73.5,
+      "type": "Result",
+      "model": "That is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 98.2,
+      "type": "Result",
+      "model": "That is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 91.7,
+      "type": "Result",
+      "model": "That text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 82.3,
+      "type": "Result",
+      "model": "That text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 70.8,
+      "type": "Result",
+      "model": "That text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 98.4,
+      "type": "Result",
+      "model": "That text is about queer people.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 97.2,
+      "type": "Result",
+      "model": "This example is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 90.2,
+      "type": "Result",
+      "model": "This example is about women.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 94.1,
+      "type": "Result",
+      "model": "This example is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 86.6,
+      "type": "Result",
+      "model": "This example is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 97.2,
+      "type": "Result",
+      "model": "That example is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 90.1,
+      "type": "Result",
+      "model": "That example is about women.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 94.1,
+      "type": "Result",
+      "model": "That example is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 86.5,
+      "type": "Result",
+      "model": "That example is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 96.2,
+      "type": "Result",
+      "model": "That is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 86.6,
+      "type": "Result",
+      "model": "That is about women.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 88.6,
+      "type": "Result",
+      "model": "That is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 84.6,
+      "type": "Result",
+      "model": "That is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 95.9,
+      "type": "Result",
+      "model": "This text is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 86.1,
+      "type": "Result",
+      "model": "This text is about women.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 93.9,
+      "type": "Result",
+      "model": "This text is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 79.5,
+      "type": "Result",
+      "model": "This text is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 95.7,
+      "type": "Result",
+      "model": "That text is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 85.3,
+      "type": "Result",
+      "model": "That text is about women.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 91.6,
+      "type": "Result",
+      "model": "That text is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 79.8,
+      "type": "Result",
+      "model": "That text is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": 94.8,
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": 83,
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": 92.7,
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": 75,
+      "type": "Result",
+      "model": "This is about women.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "90",
+      "type": "Result",
+      "model": "That example is about gender.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "81.8",
+      "type": "Result",
+      "model": "That example is about gender.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "85.8",
+      "type": "Result",
+      "model": "That example is about gender.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "78.2",
+      "type": "Result",
+      "model": "That example is about gender.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "89",
+      "type": "Result",
+      "model": "This example is about gender.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "80.5",
+      "type": "Result",
+      "model": "This example is about gender.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "87",
+      "type": "Result",
+      "model": "This example is about gender.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "74.9",
+      "type": "Result",
+      "model": "This example is about gender.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "88.4",
+      "type": "Result",
+      "model": "That text is about gender.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "79.6",
+      "type": "Result",
+      "model": "That text is about gender.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "86.8",
+      "type": "Result",
+      "model": "That text is about gender.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "model": "That text is about gender.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "87.9",
+      "type": "Result",
+      "model": "This text is about gender.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "79.3",
+      "type": "Result",
+      "model": "This text is about gender.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "88.9",
+      "type": "Result",
+      "model": "This text is about gender.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "71.5",
+      "type": "Result",
+      "model": "This text is about gender.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "87.1",
+      "type": "Result",
+      "model": "This is about gender.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "75.1",
+      "type": "Result",
+      "model": "This is about gender.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "74.7",
+      "type": "Result",
+      "model": "This is about gender.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "75.5",
+      "type": "Result",
+      "model": "This is about gender.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "81.6",
+      "type": "Result",
+      "model": "That is about gender.",
+      "metric": "accuracy (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "52.9",
+      "type": "Result",
+      "model": "That is about gender.",
+      "metric": "F 1 (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "39.5",
+      "type": "Result",
+      "model": "That is about gender.",
+      "metric": "recall (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "79.8",
+      "type": "Result",
+      "model": "That is about gender.",
+      "metric": "precision (%)",
+      "dataset": "Hate Check"
+    },
+    {
+      "value": "97.4",
+      "type": "Result",
+      "model": "That text is about myself.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "38.5",
+      "type": "Result",
+      "model": "That text is about myself.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "37",
+      "type": "Result",
+      "model": "That text is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "40",
+      "type": "Result",
+      "model": "That text is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "96.4",
+      "type": "Result",
+      "model": "This text is about myself.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "33.7",
+      "type": "Result",
+      "model": "This text is about myself.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "42",
+      "type": "Result",
+      "model": "This text is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "28.1",
+      "type": "Result",
+      "model": "This text is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97.3",
+      "type": "Result",
+      "model": "That is about myself.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "33.3",
+      "type": "Result",
+      "model": "That is about myself.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "30.9",
+      "type": "Result",
+      "model": "That is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "36.2",
+      "type": "Result",
+      "model": "That is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "97",
+      "type": "Result",
+      "model": "This is about myself.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "31.3",
+      "type": "Result",
+      "model": "This is about myself.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "30.9",
+      "type": "Result",
+      "model": "This is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "31.6",
+      "type": "Result",
+      "model": "This is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "96.2",
+      "type": "Result",
+      "model": "That example is about myself.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "31.2",
+      "type": "Result",
+      "model": "That example is about myself.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "39.5",
+      "type": "Result",
+      "model": "That example is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "25.8",
+      "type": "Result",
+      "model": "That example is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "This example is about myself.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "31.1",
+      "type": "Result",
+      "model": "This example is about myself.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "42",
+      "type": "Result",
+      "model": "This example is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "24.6",
+      "type": "Result",
+      "model": "This example is about myself.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "This text is about us.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "16.8",
+      "type": "Result",
+      "model": "This text is about us.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "69.1",
+      "type": "Result",
+      "model": "This text is about us.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "9.6",
+      "type": "Result",
+      "model": "This text is about us.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "89.4",
+      "type": "Result",
+      "model": "That text is about us.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "16.2",
+      "type": "Result",
+      "model": "That text is about us.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "46.9",
+      "type": "Result",
+      "model": "That text is about us.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "9.8",
+      "type": "Result",
+      "model": "That text is about us.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "88.3",
+      "type": "Result",
+      "model": "That is about us.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "14.8",
+      "type": "Result",
+      "model": "That is about us.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "46.9",
+      "type": "Result",
+      "model": "That is about us.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "8.8",
+      "type": "Result",
+      "model": "That is about us.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "77.4",
+      "type": "Result",
+      "model": "This example is about us.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "12.8",
+      "type": "Result",
+      "model": "This example is about us.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "76.5",
+      "type": "Result",
+      "model": "This example is about us.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "7",
+      "type": "Result",
+      "model": "This example is about us.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "75.8",
+      "type": "Result",
+      "model": "That example is about us.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "12.1",
+      "type": "Result",
+      "model": "That example is about us.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "76.5",
+      "type": "Result",
+      "model": "That example is about us.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "6.6",
+      "type": "Result",
+      "model": "That example is about us.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    },
+    {
+      "value": "73.9",
+      "type": "Result",
+      "model": "This is about us.",
+      "dataset": "Hate Check",
+      "metric": "accuracy"
+    },
+    {
+      "value": "10.3",
+      "type": "Result",
+      "model": "This is about us.",
+      "dataset": "Hate Check",
+      "metric": "F 1"
+    },
+    {
+      "value": "69.1",
+      "type": "Result",
+      "model": "This is about us.",
+      "dataset": "Hate Check",
+      "metric": "Recall"
+    },
+    {
+      "value": "5.6",
+      "type": "Result",
+      "model": "This is about us.",
+      "dataset": "Hate Check",
+      "metric": "Precision"
+    }
+  ],
+  "num_gold_annotations": 126,
+  "elapsed_seconds": 565.5,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

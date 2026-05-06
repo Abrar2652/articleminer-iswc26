@@ -1,0 +1,168 @@
+{
+  "pdf_id": "PMC4358631",
+  "predictions": [
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "P. aeruginosa",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "S. aureus",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "S. agalactiae",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "A. baumannii",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "M. smegmatis",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "12.5",
+      "type": "IC50",
+      "target": "\u03b17 n ACh Rs",
+      "treatment": "TP-2212-59",
+      "unit": "nM"
+    },
+    {
+      "value": "1000",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-2345",
+      "unit": "nM"
+    },
+    {
+      "value": "100000",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-2468",
+      "unit": "nM"
+    },
+    {
+      "value": "20000",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-2579",
+      "unit": "nM"
+    },
+    {
+      "value": "100000",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-2684",
+      "unit": "nM"
+    },
+    {
+      "value": "50000",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-2791",
+      "unit": "nM"
+    },
+    {
+      "value": "33333",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-2895",
+      "unit": "nM"
+    },
+    {
+      "value": "25000",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-2997",
+      "unit": "nM"
+    },
+    {
+      "value": "20000",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-3093",
+      "unit": "nM"
+    },
+    {
+      "value": "16667",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-3188",
+      "unit": "nM"
+    },
+    {
+      "value": "14286",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-3281",
+      "unit": "nM"
+    },
+    {
+      "value": "12500",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-3374",
+      "unit": "nM"
+    },
+    {
+      "value": "11111",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-3462",
+      "unit": "nM"
+    },
+    {
+      "value": "10000",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-3545",
+      "unit": "nM"
+    },
+    {
+      "value": "9091",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-3627",
+      "unit": "nM"
+    },
+    {
+      "value": "8333",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-3709",
+      "unit": "nM"
+    },
+    {
+      "value": "7692",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-3791",
+      "unit": "nM"
+    },
+    {
+      "value": "6667",
+      "type": "selectivity",
+      "target": "\u03b13\u03b24 n ACh Rs",
+      "treatment": "TP-3873",
+      "unit": "nM"
+    }
+  ],
+  "elapsed_seconds": 244.3,
+  "raw_preview": "\": \"M. chloro\", \"treatment\": \"9c\", \"unit\": \"\\u03bcgmL\\u22121\"}\n{\"value\": \"200\", \"type\": \"MIC\", \"target\": \"P. aeruginosa\", \"treatment\": \"9c\", \"unit\": \"\\u03bcgmL\\u22121\"}\n{\"value\": \"200\", \"type\": \"MIC\", \"target\": \"S. aureus\", \"treatment\": \"9c\", \"unit\": \"\\u03bcgmL\\u22121\"}\n{\"value\": \"200\", \"type\": \"MIC\", \"target\": \"S. agalactiae\", \"treatment\": \"9c\", \"unit\": \"\\u03bcgmL\\u22121\"}\n{\"value\": \"200\", \"type\": \"MIC\", \"target\": \"A. baumannii\", \"treatment\": \"9c\", \"unit\": \"\\u03bcgmL\\u22121\"}\n{\"value\": \"200\", \""
+}

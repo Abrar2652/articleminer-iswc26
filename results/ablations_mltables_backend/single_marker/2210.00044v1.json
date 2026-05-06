@@ -1,0 +1,1638 @@
+{
+  "arxiv_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": "25416",
+      "type": "Data Stat.",
+      "dataset": "VQA - Taxonomy Transport",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "1954",
+      "type": "Data Stat.",
+      "dataset": "VQA - Taxonomy Transport",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "18730",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Action",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "4700",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Action",
+      "attribute name": "number of validation samples"
+    },
+    {
+      "value": "11008",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Action",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "233",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Action",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "34588",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Color",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "8578",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Color",
+      "attribute name": "number of validation samples"
+    },
+    {
+      "value": "21559",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Color",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "92",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Color",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "38857",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Count",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "9649",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Count",
+      "attribute name": "number of validation samples"
+    },
+    {
+      "value": "23261",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Count",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "42",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Count",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "25850",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Scene",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "6417",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Scene",
+      "attribute name": "number of validation samples"
+    },
+    {
+      "value": "14847",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Scene",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "170",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Scene",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "22324",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Subcategory",
+      "attribute name": "number of training samples"
+    },
+    {
+      "value": "8578",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Subcategory",
+      "attribute name": "number of validation samples"
+    },
+    {
+      "value": "21559",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Subcategory",
+      "attribute name": "number of test samples"
+    },
+    {
+      "value": "659",
+      "type": "Data Stat.",
+      "dataset": "VQA - Question Subcategory",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "41.60",
+      "type": "Result",
+      "model": "Fixed Model",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "57.38",
+      "type": "Result",
+      "model": "Fixed Model",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "49.64",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "56.69",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Diverse",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-8.80",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Diverse",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-5.35",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Diverse",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "64.59",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "67.77",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Diverse",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-3.97",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Diverse",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-1.93",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Diverse",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "50.70",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "54.67",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Diverse",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-4.96",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Diverse",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-2.89",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Diverse",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "65.23",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "67.62",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Diverse",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-3.92",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Diverse",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-1.50",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Diverse",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "51.56",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "56.72",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Diverse",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-6.45",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Diverse",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-3.84",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Diverse",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "65.65",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "67.72",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Diverse",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-2.60",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Diverse",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-1.22",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Diverse",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "52.05",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "56.49",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Diverse",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-5.55",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Diverse",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-3.12",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Diverse",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "66.26",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "67.58",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Diverse",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-1.75",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Diverse",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-0.67",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Diverse",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "54.36",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "56.31",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Diverse",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-2.45",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Diverse",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-1.42",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Diverse",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "66.66",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "67.55",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Diverse",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-1.11",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Diverse",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-0.51",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Diverse",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "69.41",
+      "type": "Result",
+      "model": "Joint",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "69.76",
+      "type": "Result",
+      "model": "Joint",
+      "dataset": "VQA - Diverse",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "39.96",
+      "type": "Result",
+      "model": "Fixed Model",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "55.00",
+      "type": "Result",
+      "model": "Fixed Model",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "47.72",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "55.75",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Taxonomy",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-12.53",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Taxonomy",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-8.45",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Taxonomy",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "63.65",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "68.77",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Taxonomy",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-6.40",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Taxonomy",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-3.89",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Taxonomy",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "48.05",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "55.25",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Taxonomy",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-9.00",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Taxonomy",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-6.13",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Taxonomy",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "64.83",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "68.73",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Taxonomy",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-4.88",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Taxonomy",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-2.88",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Taxonomy",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "50.51",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "57.80",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Taxonomy",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-9.10",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Taxonomy",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-5.77",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Taxonomy",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "66.52",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "68.86",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Taxonomy",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-3.16",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Taxonomy",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-1.63",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Taxonomy",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "52.11",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "57.49",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Taxonomy",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-6.65",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Taxonomy",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-4.33",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Taxonomy",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "67.70",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "68.57",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Taxonomy",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-1.09",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Taxonomy",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-0.62",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Taxonomy",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "54.09",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "57.67",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Taxonomy",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-3.84",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Taxonomy",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-2.38",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Taxonomy",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "69.76",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "68.61",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Taxonomy",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-2.32",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Taxonomy",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-1.22",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Taxonomy",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "61.82",
+      "type": "Result",
+      "model": "Joint",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "70.08",
+      "type": "Result",
+      "model": "Joint",
+      "dataset": "VQA - Taxonomy",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "18.81",
+      "type": "Result",
+      "model": "Fixed Model",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "25.54",
+      "type": "Result",
+      "model": "Fixed Model",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "23.30",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "65.24",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Question",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-52.42",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Question",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-39.86",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Question",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "48.81",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "72.94",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Question",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-30.17",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Question",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-22.43",
+      "type": "Result",
+      "model": "Finetuning",
+      "dataset": "VQA - Question",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "26.23",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "60.69",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Question",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-43.08",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Question",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-34.32",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Question",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "46.61",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "72.06",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Question",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-31.82",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Question",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-25.13",
+      "type": "Result",
+      "model": "LoWF",
+      "dataset": "VQA - Question",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "50.73",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "65.38",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Question",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-18.31",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Question",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-10.02",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Question",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "68.30",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "72.96",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Question",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-5.83",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Question",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-2.93",
+      "type": "Result",
+      "model": "AGEM",
+      "dataset": "VQA - Question",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "36.77",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "49.95",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Question",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-15.35",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Question",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-11.76",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Question",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "66.77",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "70.03",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Question",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-4.08",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Question",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-2.62",
+      "type": "Result",
+      "model": "EWC",
+      "dataset": "VQA - Question",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "59.54",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "65.09",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Question",
+      "metric": "LA",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-6.93",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Question",
+      "metric": "BWT",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "-3.50",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Question",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "69.18",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "72.82",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Question",
+      "metric": "LA",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-4.56",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Question",
+      "metric": "BWT",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-1.82",
+      "type": "Result",
+      "model": "ER",
+      "dataset": "VQA - Question",
+      "metric": "semantic backward transfer",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "66.35",
+      "type": "Result",
+      "model": "Joint",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/o Pretraining"
+    },
+    {
+      "value": "72.54",
+      "type": "Result",
+      "model": "Joint",
+      "dataset": "VQA - Question",
+      "metric": "accuracy",
+      "pretraining": "w/ Pretraining"
+    },
+    {
+      "value": "-6.58",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Task 1 to Group 1"
+    },
+    {
+      "value": "-5.21",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Task 1 to Group 2"
+    },
+    {
+      "value": "-4.84",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Task 1 to Group 3"
+    },
+    {
+      "value": "-7.09",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Task 1 to Group 4"
+    },
+    {
+      "value": "-4.55",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 2 to Task 2"
+    },
+    {
+      "value": "-8.39",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 2 to Group 3"
+    },
+    {
+      "value": "-5.61",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 2 to Group 4"
+    },
+    {
+      "value": "-4.51",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 2 to Group 5"
+    },
+    {
+      "value": "-4.99",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 2 to Group 5"
+    },
+    {
+      "value": "-4.64",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 3 to Task 2"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 3 to Group 4"
+    },
+    {
+      "value": "-7.37",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 3 to Group 5"
+    },
+    {
+      "value": "-11.66",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 3 to Group 5"
+    },
+    {
+      "value": "-4.69",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 4 to Task 2"
+    },
+    {
+      "value": "-7.10",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 4 to Group 1"
+    },
+    {
+      "value": "-7.40",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 4 to Group 2"
+    },
+    {
+      "value": "-9.63",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 4 to Group 5"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 5 to Task 2"
+    },
+    {
+      "value": "-5.82",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 5 to Group 1"
+    },
+    {
+      "value": "-6.09",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 5 to Group 2"
+    },
+    {
+      "value": "-3.80",
+      "type": "Result",
+      "metric": "Backward Transfer or Accuracy Drop",
+      "task": "Continual Learning",
+      "comparison": "Group 5 to Group 4"
+    },
+    {
+      "value": "-8.06",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Animals\u2192Food"
+    },
+    {
+      "value": "-3.63",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Animals\u2192Interior"
+    },
+    {
+      "value": "-5.84",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Animals\u2192Sports"
+    },
+    {
+      "value": "-4.35",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Animals\u2192Transport"
+    },
+    {
+      "value": "-16.38",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Food\u2192Animals"
+    },
+    {
+      "value": "-17.08",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Food\u2192Sports"
+    },
+    {
+      "value": "-11.94",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Food\u2192Transport"
+    },
+    {
+      "value": "-5.75",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Interior\u2192Animals"
+    },
+    {
+      "value": "-5.19",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Interior\u2192Food"
+    },
+    {
+      "value": "-7.63",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Interior\u2192Sports"
+    },
+    {
+      "value": "-2.83",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Interior\u2192Transport"
+    },
+    {
+      "value": "-11.63",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Sports\u2192Animals"
+    },
+    {
+      "value": "-18.20",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Sports\u2192Food"
+    },
+    {
+      "value": "-9.60",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Sports\u2192Interior"
+    },
+    {
+      "value": "-9.47",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Sports\u2192Transport"
+    },
+    {
+      "value": "-4.19",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Transport\u2192Animals"
+    },
+    {
+      "value": "-8.48",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Transport\u2192Food"
+    },
+    {
+      "value": "-2.62",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Transport\u2192Interior"
+    },
+    {
+      "value": "-3.67",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "task_pair": "Transport\u2192Sports"
+    },
+    {
+      "value": "-68.40",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Action",
+      "task2": "Color",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-90.45",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Action",
+      "task2": "Count",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-19.59",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Action",
+      "task2": "Scene",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-12.58",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Action",
+      "task2": "Subcat.",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-88.89",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Color",
+      "task2": "Action",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-99.65",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Color",
+      "task2": "Count",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-27.75",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Color",
+      "task2": "Scene",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-62.46",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Color",
+      "task2": "Subcat.",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-99.17",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Count",
+      "task2": "Action",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-99.68",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Count",
+      "task2": "Color",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-87.52",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Count",
+      "task2": "Scene",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-87.00",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Count",
+      "task2": "Subcat.",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-10.91",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Scene",
+      "task2": "Action",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-34.40",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Scene",
+      "task2": "Color",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-77.73",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Scene",
+      "task2": "Count",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-15.22",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Scene",
+      "task2": "Subcat.",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-31.73",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Subcat.",
+      "task2": "Action",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-85.45",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Subcat.",
+      "task2": "Color",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-96.15",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Subcat.",
+      "task2": "Count",
+      "dataset": "VQA"
+    },
+    {
+      "value": "-30.55",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task1": "Subcat.",
+      "task2": "Scene",
+      "dataset": "VQA"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 106.9,
+  "backends": [
+    "marker"
+  ]
+}

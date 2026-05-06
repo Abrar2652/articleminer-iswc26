@@ -1,0 +1,112 @@
+{
+  "pmc_id": "PMC3654564",
+  "predictions": [
+    {
+      "value": "127",
+      "type": "IC50",
+      "target": "wt mCOX-2",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "267",
+      "type": "IC50",
+      "target": "wt mCOX-2",
+      "treatment": "CF3-INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "27",
+      "type": "IC50",
+      "target": "wt oCOX-1",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "71",
+      "type": "IC50",
+      "target": "mV349A",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "120",
+      "type": "IC50",
+      "target": "mV349A",
+      "treatment": "CF3-INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "315",
+      "type": "IC50",
+      "target": "mV349I",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "163",
+      "type": "IC50",
+      "target": "mV349I",
+      "treatment": "CF3-INDO",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "1.34",
+      "type": "IC50",
+      "target": "mV349L",
+      "treatment": "INDO",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "220",
+      "type": "IC50",
+      "target": "mS530A",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "435",
+      "type": "IC50",
+      "target": "mS530A",
+      "treatment": "CF3-INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "326",
+      "type": "IC50",
+      "target": "mR120Q",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "1.56",
+      "type": "IC50",
+      "target": "mR120Q",
+      "treatment": "CF3-INDO",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "475",
+      "type": "IC50",
+      "target": "mV531I",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": ">4",
+      "type": "IC50",
+      "target": "mV531I",
+      "treatment": "CF3-INDO",
+      "unit": "\u00b5M"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 14,
+  "elapsed_seconds": 33.1,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber",
+    "camelot"
+  ]
+}

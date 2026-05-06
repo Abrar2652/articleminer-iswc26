@@ -1,0 +1,8 @@
+{
+  "domain": "mltables",
+  "model": "mistral-7b-v02",
+  "shots": 3,
+  "n_pdfs": 15,
+  "total_preds": 721,
+  "elapsed_seconds": 2662.5
+}

@@ -1,0 +1,416 @@
+{
+  "pdf_id": "S0022309314000611",
+  "predictions": [
+    {
+      "sample_id": "S0",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1 - TiO2",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1 - TiO2",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1 - TiO2",
+      "component": "TiO2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2 - TiO2",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2 - TiO2",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2 - TiO2",
+      "component": "TiO2",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3 - TiO2",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3 - TiO2",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3 - TiO2",
+      "component": "TiO2",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4 - TiO2",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4 - TiO2",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4 - TiO2",
+      "component": "TiO2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5 - TiO2",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5 - TiO2",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5 - TiO2",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1 - BaO",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1 - BaO",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1 - BaO",
+      "component": "BaO",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2 - BaO",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2 - BaO",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2 - BaO",
+      "component": "BaO",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3 - BaO",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3 - BaO",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3 - BaO",
+      "component": "BaO",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4 - BaO",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4 - BaO",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4 - BaO",
+      "component": "BaO",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5 - BaO",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5 - BaO",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5 - BaO",
+      "component": "BaO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1 - Bi2O3",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1 - Bi2O3",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1 - Bi2O3",
+      "component": "Bi2O3",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2 - Bi2O3",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2 - Bi2O3",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2 - Bi2O3",
+      "component": "Bi2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3 - Bi2O3",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3 - Bi2O3",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3 - Bi2O3",
+      "component": "Bi2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4 - Bi2O3",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4 - Bi2O3",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4 - Bi2O3",
+      "component": "Bi2O3",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5 - Bi2O3",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5 - Bi2O3",
+      "component": "B2O3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S5 - Bi2O3",
+      "component": "Bi2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TeO2",
+      "component": "TeO2",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nb2O5",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nb2O5",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nb2O5",
+      "component": "WO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nb2O5",
+      "component": "Nb2O5",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201312WO3\u20133Nd2O3",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201312WO3\u20133Nd2O3",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201312WO3\u20133Nd2O3",
+      "component": "WO3",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201312WO3\u20133Nd2O3",
+      "component": "Nd2O3",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nd2O3",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nd2O3",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nd2O3",
+      "component": "WO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Nd2O3",
+      "component": "Nd2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Er2O3",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Er2O3",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Er2O3",
+      "component": "WO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u20135TiO2\u201310WO3\u20135Er2O3",
+      "component": "Er2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u201320MoO3",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u201320MoO3",
+      "component": "MoO3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u201320V2O5",
+      "component": "TeO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "80TeO2\u201320V2O5",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 47,
+  "ablation": "no_vision",
+  "elapsed_seconds": 99.3
+}

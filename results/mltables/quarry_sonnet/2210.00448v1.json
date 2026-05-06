@@ -1,0 +1,332 @@
+{
+  "arxiv_id": "2210.00448v1",
+  "predictions": [
+    {
+      "value": "74.9",
+      "type": "Result",
+      "model": "ResNet50",
+      "dataset": "ImageNet",
+      "metric": "Top-1 accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "4.2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total parameters (M)",
+      "model": "EfficientNetB0"
+    },
+    {
+      "value": "15.8",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total keras(.h5) model size (MB)",
+      "model": "EfficientNetB0"
+    },
+    {
+      "value": "99.44",
+      "type": "Result",
+      "model": "EfficientNetB0",
+      "metric": "Training accuracy (%)",
+      "task": "waste classification"
+    },
+    {
+      "value": "96.32",
+      "type": "Result",
+      "model": "EfficientNetB0",
+      "metric": "Top-1 Validation Accuracy (%)",
+      "task": "waste classification"
+    },
+    {
+      "value": "94.40",
+      "type": "Result",
+      "model": "EfficientNetB0",
+      "metric": "Top-1 Accuracy on test set (%)",
+      "task": "waste classification"
+    },
+    {
+      "value": "3.0",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total parameters (M)",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "11.7",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total keras(.h5) model size (MB)",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "99.50",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Training accuracy (%)",
+      "task": "waste classification"
+    },
+    {
+      "value": "94.94",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Top-1 Validation Accuracy (%)",
+      "task": "waste classification"
+    },
+    {
+      "value": "95.52",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Top-1 Accuracy on test set (%)",
+      "task": "waste classification"
+    },
+    {
+      "value": "0.94",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total parameters (M)",
+      "model": "MobileNet V3 Small"
+    },
+    {
+      "value": "3.87",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total keras(.h5) model size (MB)",
+      "model": "MobileNet V3 Small"
+    },
+    {
+      "value": "98.94",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Training accuracy (%)",
+      "task": "waste classification"
+    },
+    {
+      "value": "93.33",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Top-1 Validation Accuracy (%)",
+      "task": "waste classification"
+    },
+    {
+      "value": "93.56",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Top-1 Accuracy on test set (%)",
+      "task": "waste classification"
+    },
+    {
+      "value": "99.59",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "waste classification dataset",
+      "metric": "Training accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "95.23",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "waste classification dataset (5-class test set)",
+      "metric": "Top-1 Accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "94.79",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "waste classification dataset (5-class test set)",
+      "metric": "Per-class precision (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "waste classification dataset (7-class test set)",
+      "metric": "Top-1 Accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "95.97",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "waste classification dataset (7-class test set)",
+      "metric": "Per-class precision (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "99.46",
+      "type": "Result",
+      "model": "MobileNet V3 Large (512x384)",
+      "dataset": "waste classification dataset",
+      "metric": "Training accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "94.68",
+      "type": "Result",
+      "model": "MobileNet V3 Large (512x384)",
+      "dataset": "waste classification dataset (5-class test set)",
+      "metric": "Top-1 Accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "94.53",
+      "type": "Result",
+      "model": "MobileNet V3 Large (512x384)",
+      "dataset": "waste classification dataset (5-class test set)",
+      "metric": "Per-class precision (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "95.38",
+      "type": "Result",
+      "model": "MobileNet V3 Large (512x384)",
+      "dataset": "waste classification dataset (7-class test set)",
+      "metric": "Top-1 Accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "95.68",
+      "type": "Result",
+      "model": "MobileNet V3 Large (512x384)",
+      "dataset": "waste classification dataset (7-class test set)",
+      "metric": "Per-class precision (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "99.46",
+      "type": "Result",
+      "model": "MobileNet V3 Large (224x224)",
+      "dataset": "waste classification dataset",
+      "metric": "Training accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "95.79",
+      "type": "Result",
+      "model": "MobileNet V3 Large (224x224)",
+      "dataset": "waste classification dataset (5-class test set)",
+      "metric": "Top-1 Accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "95.70",
+      "type": "Result",
+      "model": "MobileNet V3 Large (224x224)",
+      "dataset": "waste classification dataset (5-class test set)",
+      "metric": "Per-class precision (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "MobileNet V3 Large (224x224)",
+      "dataset": "waste classification dataset (7-class test set)",
+      "metric": "Top-1 Accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "MobileNet V3 Large (224x224)",
+      "dataset": "waste classification dataset (7-class test set)",
+      "metric": "Per-class precision (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "512x384",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "input resolution",
+      "model": "EfficientNet B0"
+    },
+    {
+      "value": "512x384",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "input resolution",
+      "model": "MobileNet V3 Large (512x384)"
+    },
+    {
+      "value": "224x224",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "input resolution",
+      "model": "MobileNet V3 Large (224x224)"
+    },
+    {
+      "value": "384x288",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Input Resolution",
+      "model": "EfficientNetB0"
+    },
+    {
+      "value": "19",
+      "type": "Result",
+      "model": "EfficientNetB0",
+      "metric": "Inference Per second",
+      "task": "waste classification"
+    },
+    {
+      "value": "512x384",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Input Resolution",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "25",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Inference Per second",
+      "task": "waste classification"
+    },
+    {
+      "value": "224x224",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Input Resolution",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "40",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Inference Per second",
+      "task": "waste classification"
+    },
+    {
+      "value": "13",
+      "type": "Result",
+      "model": "EfficientNetB0",
+      "metric": "Inference Per second",
+      "task": "waste classification"
+    },
+    {
+      "value": "94.93",
+      "type": "Result",
+      "model": "EfficientNetB0",
+      "metric": "Memory (%)",
+      "task": "waste classification"
+    },
+    {
+      "value": "6.682",
+      "type": "Result",
+      "model": "EfficientNetB0",
+      "metric": "Power consumption (W)",
+      "task": "waste classification"
+    },
+    {
+      "value": "90.90",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Memory (%)",
+      "task": "waste classification"
+    },
+    {
+      "value": "4.698",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Power consumption (W)",
+      "task": "waste classification"
+    }
+  ],
+  "num_gold_annotations": 49,
+  "elapsed_seconds": 120.4,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "pdf_id": "S002230930601324X",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_1_1_1_0",
+      "component": "Ni O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_1_1_1_4",
+      "component": "Ni O",
+      "value": 3.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_1_1_1_7",
+      "component": "Ni O",
+      "value": 6.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_1_1_1_10",
+      "component": "Ni O",
+      "value": 8.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_1_2_1_0",
+      "component": "Ni O",
+      "value": 4.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_1_2_1_4",
+      "component": "Ni O",
+      "value": 4.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_1_2_1_7",
+      "component": "Ni O",
+      "value": 3.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_1_2_1_10",
+      "component": "Ni O",
+      "value": 3.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_2_1_1_7",
+      "component": "Ni O",
+      "value": 6.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_2_2_1_7",
+      "component": "Ni O",
+      "value": 7.2,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 23.7,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_1_1_1_0\", \"component\": \"Ni O\", \"value\": 0.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_1_1_1_4\", \"component\": \"Ni O\", \"value\": 3.9, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_1_1_1_7\", \"component\": \"Ni O\", \"value\": 6.1, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_1_1_1_10\", \"component\": \"Ni O\", \"value\": 8.8, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_1_2_1_0\", \"component\": \"Ni O\", \"value\": 4.6, \"unit\": \"wt\"}\n{\"sample_id\": \"S002230930300653"
+}

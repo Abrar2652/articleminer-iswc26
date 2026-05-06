@@ -1,0 +1,74 @@
+{
+  "pdf_id": "2210.00910v1",
+  "predictions": [
+    {
+      "value": "79.4%",
+      "type": "Result",
+      "model": "Zero-shot baseline",
+      "dataset": "Hate Check",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "69.6%",
+      "type": "Result",
+      "model": "Zero-shot baseline",
+      "dataset": "ETHOS",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "87.3%",
+      "type": "Result",
+      "model": "Google Jigsaw API",
+      "dataset": "Hate Check",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "82.1%",
+      "type": "Result",
+      "model": "Fine-tuned BERT",
+      "dataset": "Hate Check",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "79.4%",
+      "type": "Result",
+      "model": "Zero-shot baseline",
+      "dataset": "Hate Check",
+      "metric": "Accuracy",
+      "metric change": "+7.9 percentage points"
+    },
+    {
+      "value": "69.6%",
+      "type": "Result",
+      "model": "Zero-shot baseline",
+      "dataset": "ETHOS",
+      "metric": "Accuracy",
+      "metric change": "+10.0 percentage points"
+    },
+    {
+      "value": "66.6%",
+      "type": "Result",
+      "model": "Two lowest scoring hypotheses",
+      "dataset": "Hate Check",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3pp",
+      "type": "Result",
+      "model": "Zero-shot baseline",
+      "dataset": "ETHOS",
+      "metric": "Accuracy",
+      "metric change": "+3 percentage points"
+    },
+    {
+      "value": "10pp",
+      "type": "Result",
+      "model": "Fine-tuned BERT",
+      "dataset": "ETHOS",
+      "metric": "Accuracy",
+      "metric change": "-10 percentage points"
+    }
+  ],
+  "elapsed_seconds": 15.7,
+  "raw_preview": "{\"value\": \"79.4%\", \"type\": \"Result\", \"model\": \"Zero-shot baseline\", \"dataset\": \"Hate Check\", \"metric\": \"Accuracy\"}\n{\"value\": \"69.6%\", \"type\": \"Result\", \"model\": \"Zero-shot baseline\", \"dataset\": \"ETHOS\", \"metric\": \"Accuracy\"}\n{\"value\": \"87.3%\", \"type\": \"Result\", \"model\": \"Google Jigsaw API\", \"dataset\": \"Hate Check\", \"metric\": \"Accuracy\"}\n{\"value\": \"82.1%\", \"type\": \"Result\", \"model\": \"Fine-tuned BERT\", \"dataset\": \"Hate Check\", \"metric\": \"Accuracy\"}\n{\"value\": \"79.4%\", \"type\": \"Result\", \"model\": \"Ze"
+}

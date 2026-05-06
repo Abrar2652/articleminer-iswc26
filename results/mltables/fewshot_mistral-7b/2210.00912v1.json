@@ -1,0 +1,757 @@
+{
+  "pdf_id": "2210.00912v1",
+  "predictions": [
+    {
+      "value": "63.56%",
+      "type": "Result",
+      "model": "Fed DG",
+      "dataset": [
+        "PACS, Office Home, Camelyon17"
+      ],
+      "metric": "testing accuracy"
+    },
+    {
+      "value": "7 seconds",
+      "type": "Other",
+      "model": "CCST",
+      "task": "overall style computation"
+    },
+    {
+      "value": "54 seconds",
+      "type": "Other",
+      "model": "CCST",
+      "task": "image stylization"
+    },
+    {
+      "value": "2048 images",
+      "type": "Data Stat.",
+      "model": "CCST",
+      "dataset": [
+        "-"
+      ],
+      "attribute name": "number of images"
+    },
+    {
+      "value": "256\u00d7256 resolution",
+      "type": "Data Stat.",
+      "model": "CCST",
+      "dataset": [
+        "-"
+      ],
+      "attribute name": "image resolution"
+    },
+    {
+      "value": "NVIDIA RTX 2080Ti GPU",
+      "type": "Other",
+      "model": "CCST",
+      "task": "computation hardware"
+    },
+    {
+      "value": "Py Torch 1.11.0 with CUDA11",
+      "type": "Other",
+      "model": "CCST",
+      "task": "computation software"
+    },
+    {
+      "value": "95.75",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "87.5",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "74.66",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "76.56",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "83.62",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "96.71",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "85.69",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "76.19",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "73.76",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "83.09",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "96.65",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "86.63",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "74.53",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "81.85",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "84.84",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "96.65",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "86.87",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "79.74",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "77.3",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "85.14",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "95.21",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "81.25",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "73.34",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "80.27",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "82.52",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "93.95",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home"
+    },
+    {
+      "value": "79.79",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home"
+    },
+    {
+      "value": "72.18",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home"
+    },
+    {
+      "value": "77.96",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home"
+    },
+    {
+      "value": "80.97",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home"
+    },
+    {
+      "value": "95.21",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home"
+    },
+    {
+      "value": "81.25",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home"
+    },
+    {
+      "value": "73.34",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home"
+    },
+    {
+      "value": "80.27",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home"
+    },
+    {
+      "value": "82.52",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home"
+    },
+    {
+      "value": "95.21",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17"
+    },
+    {
+      "value": "81.25",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17"
+    },
+    {
+      "value": "73.34",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17"
+    },
+    {
+      "value": "80.27",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17"
+    },
+    {
+      "value": "82.52",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17"
+    },
+    {
+      "value": "2%",
+      "type": "Result",
+      "model": "FFT-based method",
+      "metric": "improvement compared with original version in Fed DG (single, K=1)"
+    },
+    {
+      "value": "0.9%",
+      "type": "Result",
+      "model": "CCST (overall, K=2)",
+      "model comparison": "vs CCST (single, K=3) (FFT amplitude exchange method)"
+    },
+    {
+      "value": "1.4%",
+      "type": "Result",
+      "model": "CCST (overall, K=3)",
+      "model comparison": "vs FFT amplitude exchange method (single, K=3)"
+    },
+    {
+      "value": "Random single image style",
+      "type": "Other",
+      "model": "CCST",
+      "task": "style selection strategy"
+    },
+    {
+      "value": "Overall domain style",
+      "type": "Other",
+      "model": "CCST",
+      "task": "style selection strategy"
+    },
+    {
+      "value": "High",
+      "type": "Other",
+      "model": "CCST",
+      "task": "communication cost flexibility"
+    },
+    {
+      "value": "Inflexible",
+      "type": "Other",
+      "model": "FFT amplitude exchange method",
+      "task": "communication cost flexibility"
+    },
+    {
+      "value": "Overall style with K=3 leads to the best performance",
+      "type": "Result",
+      "model": "CCST",
+      "dataset": [
+        "PACS, Office-Home"
+      ],
+      "metric": "performance improvement upon baseline"
+    },
+    {
+      "value": "More significant than that of using Res Net50",
+      "type": "Result",
+      "model": "CCST",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "performance improvement upon baseline (using Res Net18 as backbone)"
+    },
+    {
+      "value": "91.44",
+      "type": "Result",
+      "model": "Fed Avg",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS"
+    },
+    {
+      "value": "75.98",
+      "type": "Result",
+      "model": "Fed Avg",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home"
+    },
+    {
+      "value": "73.21",
+      "type": "Result",
+      "model": "Fed Avg",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17"
+    },
+    {
+      "value": "75.43",
+      "type": "Result",
+      "model": "Fed Avg",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS (test set)"
+    },
+    {
+      "value": "60.08",
+      "type": "Result",
+      "model": "Fed Avg",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home (test set)"
+    },
+    {
+      "value": "59.08",
+      "type": "Result",
+      "model": "Fed Avg",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17 (test set)"
+    },
+    {
+      "value": "45.59",
+      "type": "Result",
+      "model": "Fed Avg",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS (test set)"
+    },
+    {
+      "value": "69.48",
+      "type": "Result",
+      "model": "Fed Avg",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home (test set)"
+    },
+    {
+      "value": "72.82",
+      "type": "Result",
+      "model": "Fed Avg",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17 (test set)"
+    },
+    {
+      "value": "61.53",
+      "type": "Result",
+      "model": "Fed Avg",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17 (test set)"
+    },
+    {
+      "value": "94.07",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS (test set)"
+    },
+    {
+      "value": "77.73",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home (test set)"
+    },
+    {
+      "value": "70.99",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17 (test set)"
+    },
+    {
+      "value": "78.90",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS (test set)"
+    },
+    {
+      "value": "55.14",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home (test set)"
+    },
+    {
+      "value": "43.64",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17 (test set)"
+    },
+    {
+      "value": "68.58",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS (test set)"
+    },
+    {
+      "value": "68.92",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home (test set)"
+    },
+    {
+      "value": "59.07",
+      "type": "Result",
+      "model": "CCST (Single)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17 (test set)"
+    },
+    {
+      "value": "94.19",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS (test set)"
+    },
+    {
+      "value": "79.88",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home (test set)"
+    },
+    {
+      "value": "72.14",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17 (test set)"
+    },
+    {
+      "value": "75.41",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS (test set)"
+    },
+    {
+      "value": "80.41",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home (test set)"
+    },
+    {
+      "value": "59.47",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17 (test set)"
+    },
+    {
+      "value": "47.88",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "PACS"
+      ],
+      "metric": "Avg. PACS (test set)"
+    },
+    {
+      "value": "67.91",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home (test set)"
+    },
+    {
+      "value": "70.87",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17 (test set)"
+    },
+    {
+      "value": "61.53",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Camelyon17"
+      ],
+      "metric": "Avg. Camelyon17 (test set)"
+    },
+    {
+      "value": "93.95",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home (test set)"
+    },
+    {
+      "value": "79.79",
+      "type": "Result",
+      "model": "CCST (Overall)",
+      "dataset": [
+        "Office-Home"
+      ],
+      "metric": "Avg. Office-Home (test set)"
+    }
+  ],
+  "elapsed_seconds": 217.2,
+  "raw_preview": "{\"value\": \"63.56%\", \"type\": \"Result\", \"model\": \"Fed DG\", \"dataset\": [\"PACS, Office Home, Camelyon17\"], \"metric\": \"testing accuracy\"}\n{\"value\": \"7 seconds\", \"type\": \"Other\", \"model\": \"CCST\", \"task\": \"overall style computation\"}\n{\"value\": \"54 seconds\", \"type\": \"Other\", \"model\": \"CCST\", \"task\": \"image stylization\"}\n{\"value\": \"2048 images\", \"type\": \"Data Stat.\", \"model\": \"CCST\", \"dataset\": [\"-\"], \"attribute name\": \"number of images\"}\n{\"value\": \"256\u00d7256 resolution\", \"type\": \"Data Stat.\", \"model\": \"CC"
+}

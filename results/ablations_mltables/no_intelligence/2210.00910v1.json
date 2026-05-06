@@ -1,0 +1,160 @@
+{
+  "pdf_id": "2210.00910v1",
+  "predictions": [
+    {
+      "value": "-14.6",
+      "type": "Other"
+    },
+    {
+      "value": "0",
+      "type": "Other"
+    },
+    {
+      "value": "2.8",
+      "type": "Other"
+    },
+    {
+      "value": "-12.5",
+      "type": "Other"
+    },
+    {
+      "value": "6.7",
+      "type": "Other"
+    },
+    {
+      "value": "32.1",
+      "type": "Other"
+    },
+    {
+      "value": "-0.7",
+      "type": "Other"
+    },
+    {
+      "value": "49",
+      "type": "Other"
+    },
+    {
+      "value": "23",
+      "type": "Other"
+    },
+    {
+      "value": "50",
+      "type": "Other"
+    },
+    {
+      "value": "-2.9",
+      "type": "Other"
+    },
+    {
+      "value": "5.3",
+      "type": "Other"
+    },
+    {
+      "value": "-5",
+      "type": "Other"
+    },
+    {
+      "value": "-2.3",
+      "type": "Other"
+    },
+    {
+      "value": "8.7",
+      "type": "Other"
+    },
+    {
+      "value": "100",
+      "type": "Other"
+    },
+    {
+      "value": "7.8",
+      "type": "Other"
+    },
+    {
+      "value": "1.4",
+      "type": "Other"
+    },
+    {
+      "value": "8.5",
+      "type": "Other"
+    },
+    {
+      "value": "36.9",
+      "type": "Other"
+    },
+    {
+      "value": "9.2",
+      "type": "Other"
+    },
+    {
+      "value": "70.8",
+      "type": "Other"
+    },
+    {
+      "value": "83.9",
+      "type": "Other"
+    },
+    {
+      "value": "3.2",
+      "type": "Other"
+    },
+    {
+      "value": "-1.4",
+      "type": "Other"
+    },
+    {
+      "value": "0.7",
+      "type": "Other"
+    },
+    {
+      "value": "-4.3",
+      "type": "Other"
+    },
+    {
+      "value": "-3.5",
+      "type": "Other"
+    },
+    {
+      "value": "-11",
+      "type": "Other"
+    },
+    {
+      "value": "-0.6",
+      "type": "Other"
+    },
+    {
+      "value": "-11.6",
+      "type": "Other"
+    },
+    {
+      "value": "-12.7",
+      "type": "Other"
+    },
+    {
+      "value": "0.6",
+      "type": "Other"
+    },
+    {
+      "value": "-12.1",
+      "type": "Other"
+    },
+    {
+      "value": "3.3",
+      "type": "Other"
+    },
+    {
+      "value": "4.6",
+      "type": "Other"
+    },
+    {
+      "value": "0.2",
+      "type": "Other"
+    },
+    {
+      "value": "7.9",
+      "type": "Other"
+    }
+  ],
+  "num_gold_annotations": 126,
+  "ablation": "no_intelligence",
+  "elapsed_seconds": 29.5
+}

@@ -1,0 +1,67 @@
+{
+  "pdf_id": "S0022309307004747",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_AS",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_AS",
+      "component": "Na2O",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_AS",
+      "component": "CaO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_AS",
+      "component": "MgO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_AS",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_less Brittle Glass",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_less Brittle Glass",
+      "component": "Na2O",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_less Brittle Glass",
+      "component": "CaO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_less Brittle Glass",
+      "component": "MgO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_less Brittle Glass",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 20.8,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_AS\", \"component\": \"SiO2\", \"value\": 70.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_AS\", \"component\": \"Na2O\", \"value\": 13.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_AS\", \"component\": \"CaO\", \"value\": 10.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_AS\", \"component\": \"MgO\", \"value\": 5.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_AS\", \"component\": \"Al2O3\", \"value\": 2.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S00223093030065"
+}

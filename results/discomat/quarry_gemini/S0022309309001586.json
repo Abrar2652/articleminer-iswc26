@@ -1,0 +1,239 @@
+{
+  "pii": "S0022309309001586",
+  "predictions": [
+    {
+      "sample_id": "L1",
+      "component": "La2O3",
+      "value": 24.51,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L1",
+      "component": "P2O5",
+      "value": 75.49,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "La2O3",
+      "value": 18.98,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "P2O5",
+      "value": 76.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C1",
+      "component": "CaO",
+      "value": 5.32,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C2",
+      "component": "La2O3",
+      "value": 14.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C2",
+      "component": "P2O5",
+      "value": 75.81,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C2",
+      "component": "CaO",
+      "value": 10.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C3",
+      "component": "La2O3",
+      "value": 9.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C3",
+      "component": "P2O5",
+      "value": 75.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C3",
+      "component": "CaO",
+      "value": 15.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C4",
+      "component": "La2O3",
+      "value": 4.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C4",
+      "component": "P2O5",
+      "value": 74.84,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "C4",
+      "component": "CaO",
+      "value": 20.89,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "La2O3",
+      "value": 18.09,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "P2O5",
+      "value": 76.61,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "SrO",
+      "value": 5.34,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "La2O3",
+      "value": 13.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "P2O5",
+      "value": 76.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "SrO",
+      "value": 10.18,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "La2O3",
+      "value": 8.62,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "P2O5",
+      "value": 75.69,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "SrO",
+      "value": 15.69,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "La2O3",
+      "value": 4.01,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "P2O5",
+      "value": 75.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "SrO",
+      "value": 20.91,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B1",
+      "component": "La2O3",
+      "value": 18.33,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B1",
+      "component": "P2O5",
+      "value": 76.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B1",
+      "component": "BaO",
+      "value": 4.95,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B2",
+      "component": "La2O3",
+      "value": 13.69,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B2",
+      "component": "P2O5",
+      "value": 77.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B2",
+      "component": "BaO",
+      "value": 9.51,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B3",
+      "component": "La2O3",
+      "value": 8.96,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B3",
+      "component": "P2O5",
+      "value": 77.41,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B3",
+      "component": "BaO",
+      "value": 14.63,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B4",
+      "component": "La2O3",
+      "value": 5.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B4",
+      "component": "P2O5",
+      "value": 75.97,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "B4",
+      "component": "BaO",
+      "value": 18.43,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 76,
+  "elapsed_seconds": 67.1,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

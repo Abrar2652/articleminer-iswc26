@@ -1,0 +1,657 @@
+{
+  "pdf_id": "2210.00084v1",
+  "predictions": [
+    {
+      "value": "71.43\u02d85.23",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "73.62\u02d82.93",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "71.93\u02d83.51",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "76.21\u02d82.87",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "72.12\u02d84.88",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "10%"
+      },
+      "model": "CGFL-I"
+    },
+    {
+      "value": "74.08\u02d83.30",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "10%"
+      },
+      "model": "CGFL-I"
+    },
+    {
+      "value": "75.20\u02d84.34",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "Teacher-T"
+    },
+    {
+      "value": "78.35\u02d81.95",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "Teacher-T"
+    },
+    {
+      "value": "75.97\u02d85.02",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "CGFL-T"
+    },
+    {
+      "value": "79.10\u02d84.23",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "CGFL-T"
+    },
+    {
+      "value": "65.27\u02d87.67",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "WL"
+    },
+    {
+      "value": "68.39\u02d84.69",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "WL"
+    },
+    {
+      "value": "51.25\u02d84.02",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "Graphlet"
+    },
+    {
+      "value": "53.26\u02d82.95",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "Graphlet"
+    },
+    {
+      "value": "40.60\u02d83.91",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "AWE"
+    },
+    {
+      "value": "42.20\u02d82.87",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "AWE"
+    },
+    {
+      "value": "66.12\u02d85.21",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "Graph2Vec"
+    },
+    {
+      "value": "68.17\u02d84.26",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "Graph2Vec"
+    },
+    {
+      "value": "58.69\u02d86.39",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "Diffpool"
+    },
+    {
+      "value": "61.59\u02d85.21",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "Diffpool"
+    },
+    {
+      "value": "56.60\u02d87.86",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "Caps GNN"
+    },
+    {
+      "value": "60.67\u02d85.24",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "Caps GNN"
+    },
+    {
+      "value": "65.83\u02d87.17",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "GIN"
+    },
+    {
+      "value": "69.16\u02d85.14",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "GIN"
+    },
+    {
+      "value": "63.52\u02d87.27",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "GIN-KNN"
+    },
+    {
+      "value": "65.66\u02d88.69",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "GIN-KNN"
+    },
+    {
+      "value": "68.69\u02d86.50",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "GSM-GCN"
+    },
+    {
+      "value": "72.80\u02d84.12",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "GSM-GCN"
+    },
+    {
+      "value": "69.91\u02d85.90",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "GSM-GAT"
+    },
+    {
+      "value": "73.28\u02d83.46",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "GSM-GAT"
+    },
+    {
+      "value": "70.23\u02d81.53",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "AS-MAML"
+    },
+    {
+      "value": "73.19\u02d81.17",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "AS-MAML"
+    },
+    {
+      "value": "71.43\u02d85.23",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "73.62\u02d82.93",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "71.93\u02d83.51",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "76.21\u02d82.87",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "72.12\u02d84.88",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "10%"
+      },
+      "model": "CGFL-I"
+    },
+    {
+      "value": "74.08\u02d83.30",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "10%"
+      },
+      "model": "CGFL-I"
+    },
+    {
+      "value": "75.20\u02d84.34",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "Teacher-T"
+    },
+    {
+      "value": "78.35\u02d81.95",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "Teacher-T"
+    },
+    {
+      "value": "75.97\u02d85.02",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "CGFL-T"
+    },
+    {
+      "value": "79.10\u02d84.23",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "CGFL-T"
+    },
+    {
+      "value": "71.43\u02d85.23",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "73.62\u02d82.93",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "71.93\u02d83.51",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "76.21\u02d82.87",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "10%"
+      },
+      "model": "Teacher-I"
+    },
+    {
+      "value": "72.12\u02d84.88",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "10%"
+      },
+      "model": "CGFL-I"
+    },
+    {
+      "value": "74.08\u02d83.30",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "10%"
+      },
+      "model": "CGFL-I"
+    },
+    {
+      "value": "75.20\u02d84.34",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "5",
+        "label rate": "100%"
+      },
+      "model": "Teacher-T"
+    },
+    {
+      "value": "78.35\u02d81.95",
+      "type": "Result",
+      "training data/set": "Letter-High",
+      "test data/set": "Triangles",
+      "task": "Node Classification",
+      "metric": "Accuracy",
+      "experimental settings": {
+        "shot number": "10",
+        "label rate": "100%"
+      },
+      "model": "Teacher-T"
+    }
+  ],
+  "elapsed_seconds": 151.8,
+  "raw_preview": "{\"value\": \"71.43\u02d85.23\", \"type\": \"Result\", \"training data/set\": \"Letter-High\", \"test data/set\": \"Triangles\", \"task\": \"Node Classification\", \"metric\": \"Accuracy\", \"experimental settings\": {\"shot number\": \"5\", \"label rate\": \"10%\"}, \"model\": \"Teacher-I\"}\n{\"value\": \"73.62\u02d82.93\", \"type\": \"Result\", \"training data/set\": \"Letter-High\", \"test data/set\": \"Triangles\", \"task\": \"Node Classification\", \"metric\": \"Accuracy\", \"experimental settings\": {\"shot number\": \"10\", \"label rate\": \"10%\"}, \"model\": \"Teacher-I"
+}

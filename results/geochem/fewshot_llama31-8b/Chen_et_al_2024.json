@@ -1,0 +1,124 @@
+{
+  "paper": "Chen_et_al_2024",
+  "model": "llama31-8b",
+  "n_rows": 8,
+  "rows": [
+    {
+      "sample_id": "Sp A",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cd": 4869,
+        "Cu": 12.3,
+        "Ag": 15976,
+        "Au": 0,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Sn": -0.5
+      }
+    },
+    {
+      "sample_id": "Sp B",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cd": 5629,
+        "Cu": 8.2,
+        "Ag": 7224,
+        "Au": 0,
+        "Ga": -0.5,
+        "Ge": -0.5,
+        "In": -0.5,
+        "Sn": -0.5
+      }
+    },
+    {
+      "sample_id": "Yingqiao granite",
+      "mineral": "biotite monzonitic granite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "S": 0,
+        "Zn": 0,
+        "Fe": 0,
+        "Mn": -0.5,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Cu": -0.5
+      }
+    },
+    {
+      "sample_id": "Yingqiao granite",
+      "mineral": "biotite granite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "S": 0,
+        "Zn": 0,
+        "Fe": 0,
+        "Mn": -0.5,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Cu": -0.5
+      }
+    },
+    {
+      "sample_id": "porphyritic biotite monzogranite",
+      "mineral": "porphyritic biotite monzogranite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "S": 0,
+        "Zn": 0,
+        "Fe": 0,
+        "Mn": -0.5,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Cu": -0.5
+      }
+    },
+    {
+      "sample_id": "biotite granite",
+      "mineral": "biotite granite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "S": 0,
+        "Zn": 0,
+        "Fe": 0,
+        "Mn": -0.5,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Cu": -0.5
+      }
+    },
+    {
+      "sample_id": "sphalerite",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "S": 0,
+        "Zn": 0,
+        "Fe": 0,
+        "Mn": -0.5,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Cu": -0.5
+      }
+    },
+    {
+      "sample_id": "galena",
+      "mineral": "galena",
+      "method": "LA-ICPMS",
+      "elements": {
+        "S": 0,
+        "Zn": 0,
+        "Fe": 0,
+        "Mn": -0.5,
+        "Cd": -0.5,
+        "Ga": -0.5,
+        "Cu": -0.5
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "{\"sample_id\":\"Sp A\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Cd\":4869,\"Cu\":12.3,\"Ag\":15976,\"Au\":0,\"Ga\":-0.5,\"Ge\":-0.5,\"In\":-0.5,\"Sn\":-0.5}}\n{\"sample_id\":\"Sp B\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Cd\":5629,\"Cu\":8.2,\"Ag\":7224,\"Au\":0,\"Ga\":-0.5,\"Ge\":-0.5,\"In\":-0.5,\"Sn\"",
+  "elapsed_seconds": 46.2
+}

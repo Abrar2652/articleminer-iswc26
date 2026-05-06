@@ -1,0 +1,47 @@
+{
+  "pii": "S0022309313005486",
+  "predictions": [
+    {
+      "sample_id": "Nominal",
+      "component": "K2O",
+      "value": 23.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Nominal",
+      "component": "P2O5",
+      "value": 37.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Nominal",
+      "component": "Nb2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Measured",
+      "component": "K2O",
+      "value": 23.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Measured",
+      "component": "P2O5",
+      "value": 34.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Measured",
+      "component": "Nb2O5",
+      "value": 38.9,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 7,
+  "elapsed_seconds": 33.4,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

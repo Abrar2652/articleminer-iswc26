@@ -1,0 +1,746 @@
+{
+  "arxiv_id": "2210.00448v1",
+  "predictions": [
+    {
+      "value": "1800",
+      "type": "Data Stat.",
+      "dataset": "custom recycling waste images",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "70.6",
+      "type": "Result",
+      "model": "MobileNet V1",
+      "dataset": "ImageNet",
+      "metric": "accuracy",
+      "task": "Classification"
+    },
+    {
+      "value": "7.4",
+      "type": "Result",
+      "model": "ShuffleNet V2",
+      "metric": "Parameter Size (M)"
+    },
+    {
+      "value": "72.9",
+      "type": "Result",
+      "model": "ShuffleNet V2",
+      "dataset": "ImageNet",
+      "metric": "accuracy",
+      "task": "Classification"
+    },
+    {
+      "value": "14.3",
+      "type": "Result",
+      "model": "DenseNet",
+      "metric": "Parameter Size (M)"
+    },
+    {
+      "value": "76.2",
+      "type": "Result",
+      "model": "DenseNet",
+      "dataset": "ImageNet",
+      "metric": "accuracy",
+      "task": "Classification"
+    },
+    {
+      "value": "25.6",
+      "type": "Result",
+      "model": "ResNet50",
+      "metric": "Parameter Size (M)"
+    },
+    {
+      "value": "74.9",
+      "type": "Result",
+      "model": "ResNet50",
+      "dataset": "ImageNet",
+      "metric": "accuracy",
+      "task": "Classification"
+    },
+    {
+      "value": "5.3",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total parameters",
+      "model": "EfficientNet B0"
+    },
+    {
+      "value": "15.8",
+      "type": "Other",
+      "attribute name": "Total keras (h5) model size",
+      "model": "EfficientNet B0"
+    },
+    {
+      "value": "99.44",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "metric": "Training accuracy",
+      "dataset": "Combined Recycling Waste Dataset",
+      "task": "Classification"
+    },
+    {
+      "value": "96.32",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "metric": "Top-1 Validation Accuracy",
+      "dataset": "Combined Recycling Waste Dataset",
+      "task": "Classification"
+    },
+    {
+      "value": "94.48",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "metric": "Top-1 Accuracy on test set",
+      "dataset": "Combined Recycling Waste Dataset",
+      "task": "Classification"
+    },
+    {
+      "value": "5.0",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total parameters",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "11.9",
+      "type": "Other",
+      "attribute name": "Total keras (h5) model size",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "99.40",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Training accuracy",
+      "dataset": "Combined Recycling Waste Dataset",
+      "task": "Classification"
+    },
+    {
+      "value": "96.01",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Top-1 Validation Accuracy",
+      "dataset": "Combined Recycling Waste Dataset",
+      "task": "Classification"
+    },
+    {
+      "value": "93.72",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Top-1 Accuracy on test set",
+      "dataset": "Combined Recycling Waste Dataset",
+      "task": "Classification"
+    },
+    {
+      "value": "0.94",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total parameters",
+      "model": "MobileNet V3 Small"
+    },
+    {
+      "value": "3.87",
+      "type": "Other",
+      "attribute name": "Total keras (h5) model size",
+      "model": "MobileNet V3 Small"
+    },
+    {
+      "value": "98.94",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Training accuracy",
+      "dataset": "Combined Recycling Waste Dataset",
+      "task": "Classification"
+    },
+    {
+      "value": "93.33",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Top-1 Validation Accuracy",
+      "dataset": "Combined Recycling Waste Dataset",
+      "task": "Classification"
+    },
+    {
+      "value": "93.56",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Top-1 Accuracy on test set",
+      "dataset": "Combined Recycling Waste Dataset",
+      "task": "Classification"
+    },
+    {
+      "value": "54",
+      "type": "Result",
+      "model": "unspecified model",
+      "dataset": "unspecified dataset",
+      "metric": "count of predictions",
+      "task": "Classification",
+      "true_class": "cardboard",
+      "predicted_class": "cardboard"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "model": "unspecified model",
+      "dataset": "unspecified dataset",
+      "metric": "count of predictions",
+      "task": "Classification",
+      "true_class": "cardboard",
+      "predicted_class": "empty"
+    },
+    {
+      "value": "3",
+      "type": "Result",
+      "model": "unspecified model",
+      "dataset": "unspecified dataset",
+      "metric": "count of predictions",
+      "task": "Classification",
+      "true_class": "empty",
+      "predicted_class": "empty"
+    },
+    {
+      "value": "72",
+      "type": "Result",
+      "model": "unspecified model",
+      "dataset": "unspecified dataset",
+      "metric": "count of predictions",
+      "task": "Classification",
+      "true_class": "glass",
+      "predicted_class": "glass"
+    },
+    {
+      "value": "2",
+      "type": "Result",
+      "model": "unspecified model",
+      "dataset": "unspecified dataset",
+      "metric": "count of predictions",
+      "task": "Classification",
+      "true_class": "hand",
+      "predicted_class": "cardboard"
+    },
+    {
+      "value": "133",
+      "type": "Result",
+      "model": "unspecified model",
+      "dataset": "unspecified dataset",
+      "metric": "count of predictions",
+      "task": "Classification",
+      "true_class": "hand",
+      "predicted_class": "hand"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "model": "unspecified model",
+      "dataset": "unspecified dataset",
+      "metric": "count of predictions",
+      "task": "Classification",
+      "true_class": "hand",
+      "predicted_class": "metal"
+    },
+    {
+      "value": "61",
+      "type": "Result",
+      "model": "unspecified model",
+      "dataset": "unspecified dataset",
+      "metric": "count of predictions",
+      "task": "Classification",
+      "true_class": "metal",
+      "predicted_class": "metal"
+    },
+    {
+      "value": "80",
+      "type": "Result",
+      "model": "unspecified model",
+      "dataset": "unspecified dataset",
+      "metric": "count of predictions",
+      "task": "Classification",
+      "true_class": "paper",
+      "predicted_class": "paper"
+    },
+    {
+      "value": "4",
+      "type": "Result",
+      "model": "unspecified model",
+      "dataset": "unspecified dataset",
+      "metric": "count of predictions",
+      "task": "Classification",
+      "true_class": "plastic",
+      "predicted_class": "glass"
+    },
+    {
+      "value": "67",
+      "type": "Result",
+      "model": "unspecified model",
+      "dataset": "unspecified dataset",
+      "metric": "count of predictions",
+      "task": "Classification",
+      "true_class": "plastic",
+      "predicted_class": "plastic"
+    },
+    {
+      "value": "54",
+      "type": "Result",
+      "model": "Proposed System",
+      "dataset": "1800 recycling waste images (custom)",
+      "metric": "Count of samples",
+      "task": "Classification",
+      "true_class": "cardboard",
+      "predicted_class": "cardboard"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "model": "Proposed System",
+      "dataset": "1800 recycling waste images (custom)",
+      "metric": "Count of samples",
+      "task": "Classification",
+      "true_class": "cardboard",
+      "predicted_class": "empty"
+    },
+    {
+      "value": "3",
+      "type": "Result",
+      "model": "Proposed System",
+      "dataset": "1800 recycling waste images (custom)",
+      "metric": "Count of samples",
+      "task": "Classification",
+      "true_class": "empty",
+      "predicted_class": "empty"
+    },
+    {
+      "value": "75",
+      "type": "Result",
+      "model": "Proposed System",
+      "dataset": "1800 recycling waste images (custom)",
+      "metric": "Count of samples",
+      "task": "Classification",
+      "true_class": "glass",
+      "predicted_class": "glass"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "model": "Proposed System",
+      "dataset": "1800 recycling waste images (custom)",
+      "metric": "Count of samples",
+      "task": "Classification",
+      "true_class": "hand",
+      "predicted_class": "cardboard"
+    },
+    {
+      "value": "135",
+      "type": "Result",
+      "model": "Proposed System",
+      "dataset": "1800 recycling waste images (custom)",
+      "metric": "Count of samples",
+      "task": "Classification",
+      "true_class": "hand",
+      "predicted_class": "hand"
+    },
+    {
+      "value": "2",
+      "type": "Result",
+      "model": "Proposed System",
+      "dataset": "1800 recycling waste images (custom)",
+      "metric": "Count of samples",
+      "task": "Classification",
+      "true_class": "hand",
+      "predicted_class": "paper"
+    },
+    {
+      "value": "57",
+      "type": "Result",
+      "model": "Proposed System",
+      "dataset": "1800 recycling waste images (custom)",
+      "metric": "Count of samples",
+      "task": "Classification",
+      "true_class": "metal",
+      "predicted_class": "metal"
+    },
+    {
+      "value": "80",
+      "type": "Result",
+      "model": "Proposed System",
+      "dataset": "1800 recycling waste images (custom)",
+      "metric": "Count of samples",
+      "task": "Classification",
+      "true_class": "paper",
+      "predicted_class": "paper"
+    },
+    {
+      "value": "5",
+      "type": "Result",
+      "model": "Proposed System",
+      "dataset": "1800 recycling waste images (custom)",
+      "metric": "Count of samples",
+      "task": "Classification",
+      "true_class": "plastic",
+      "predicted_class": "glass"
+    },
+    {
+      "value": "66",
+      "type": "Result",
+      "model": "Proposed System",
+      "dataset": "1800 recycling waste images (custom)",
+      "metric": "Count of samples",
+      "task": "Classification",
+      "true_class": "plastic",
+      "predicted_class": "plastic"
+    },
+    {
+      "value": "384",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Input Resolution Width",
+      "model": "EfficientNetB0"
+    },
+    {
+      "value": "288",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Input Resolution Height",
+      "model": "EfficientNetB0"
+    },
+    {
+      "value": "19",
+      "type": "Result",
+      "model": "EfficientNetB0",
+      "metric": "Inference Per second",
+      "task": "Classification"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Input Resolution Width",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "384",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Input Resolution Height",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "25",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Inference Per second",
+      "task": "Classification"
+    },
+    {
+      "value": "224",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Input Resolution Width",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "40",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Inference Per second",
+      "task": "Classification"
+    },
+    {
+      "value": "512x384",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Base model input resolution",
+      "model": "EfficientNet B0"
+    },
+    {
+      "value": "99.59",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "Combined recycling waste dataset",
+      "metric": "Training accuracy",
+      "task": "Classification"
+    },
+    {
+      "value": "95.23",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "94.79",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "95.97",
+      "type": "Result",
+      "model": "EfficientNet B0",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "512x384",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Base model input resolution",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "99.46",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "Combined recycling waste dataset",
+      "metric": "Training accuracy",
+      "task": "Classification"
+    },
+    {
+      "value": "94.68",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "94.53",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "95.38",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "95.68",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "224x224",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Base model input resolution",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "95.79",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "95.70",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "7-class test set",
+      "metric": "Per-class precision",
+      "task": "Classification"
+    },
+    {
+      "value": "7",
+      "type": "Data Stat.",
+      "dataset": "test set",
+      "attribute name": "number of classes"
+    },
+    {
+      "value": "512x384",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Base Model Input Resolution",
+      "model": "EfficientNetB0"
+    },
+    {
+      "value": "15",
+      "type": "Result",
+      "model": "EfficientNetB0",
+      "dataset": "waste recycling task",
+      "metric": "Inference Per Second",
+      "task": "Classification"
+    },
+    {
+      "value": "94.93",
+      "type": "Result",
+      "model": "EfficientNetB0",
+      "dataset": "waste recycling task",
+      "metric": "Memory Consumption",
+      "task": "Classification"
+    },
+    {
+      "value": "6.682",
+      "type": "Result",
+      "model": "EfficientNetB0",
+      "dataset": "waste recycling task",
+      "metric": "Unnamed Metric",
+      "task": "Classification"
+    },
+    {
+      "value": "40",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "waste recycling task",
+      "metric": "Inference Per Second",
+      "task": "Classification"
+    },
+    {
+      "value": "90.90",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "waste recycling task",
+      "metric": "Memory Consumption",
+      "task": "Classification"
+    },
+    {
+      "value": "4.698",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "dataset": "waste recycling task",
+      "metric": "Unnamed Metric",
+      "task": "Classification"
+    },
+    {
+      "value": "58",
+      "type": "Result",
+      "model": null,
+      "dataset": "1800 recycling waste images",
+      "metric": "count of samples",
+      "task": "Classification",
+      "true_label": "cardboard",
+      "predicted_label": "cardboard"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "model": null,
+      "dataset": "1800 recycling waste images",
+      "metric": "count of samples",
+      "task": "Classification",
+      "true_label": "cardboard",
+      "predicted_label": "empty"
+    },
+    {
+      "value": "2",
+      "type": "Result",
+      "model": null,
+      "dataset": "1800 recycling waste images",
+      "metric": "count of samples",
+      "task": "Classification",
+      "true_label": "cardboard",
+      "predicted_label": "paper"
+    },
+    {
+      "value": "3",
+      "type": "Result",
+      "model": null,
+      "dataset": "1800 recycling waste images",
+      "metric": "count of samples",
+      "task": "Classification",
+      "true_label": "empty",
+      "predicted_label": "empty"
+    },
+    {
+      "value": "71",
+      "type": "Result",
+      "model": null,
+      "dataset": "1800 recycling waste images",
+      "metric": "count of samples",
+      "task": "Classification",
+      "true_label": "glass",
+      "predicted_label": "glass"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "model": null,
+      "dataset": "1800 recycling waste images",
+      "metric": "count of samples",
+      "task": "Classification",
+      "true_label": "glass",
+      "predicted_label": "plastic"
+    },
+    {
+      "value": "128",
+      "type": "Result",
+      "model": null,
+      "dataset": "1800 recycling waste images",
+      "metric": "count of samples",
+      "task": "Classification",
+      "true_label": "hand",
+      "predicted_label": "hand"
+    },
+    {
+      "value": "4",
+      "type": "Result",
+      "model": null,
+      "dataset": "1800 recycling waste images",
+      "metric": "count of samples",
+      "task": "Classification",
+      "true_label": "hand",
+      "predicted_label": "plastic"
+    },
+    {
+      "value": "61",
+      "type": "Result",
+      "model": null,
+      "dataset": "1800 recycling waste images",
+      "metric": "count of samples",
+      "task": "Classification",
+      "true_label": "metal",
+      "predicted_label": "metal"
+    },
+    {
+      "value": "89",
+      "type": "Result",
+      "model": null,
+      "dataset": "1800 recycling waste images",
+      "metric": "count of samples",
+      "task": "Classification",
+      "true_label": "paper",
+      "predicted_label": "paper"
+    },
+    {
+      "value": "66",
+      "type": "Result",
+      "model": null,
+      "dataset": "1800 recycling waste images",
+      "metric": "count of samples",
+      "task": "Classification",
+      "true_label": "plastic",
+      "predicted_label": "plastic"
+    }
+  ],
+  "num_gold_annotations": 49,
+  "elapsed_seconds": 196.2,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

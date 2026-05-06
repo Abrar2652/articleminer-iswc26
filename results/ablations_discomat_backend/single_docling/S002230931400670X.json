@@ -1,0 +1,118 @@
+{
+  "pii": "S002230931400670X",
+  "predictions": [
+    {
+      "sample_id": "CS1",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CS1",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CS2",
+      "component": "CaO",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CS2",
+      "component": "SiO2",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CS3",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CS3",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CS4",
+      "component": "CaO",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CS4",
+      "component": "SiO2",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CA3",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CA3",
+      "component": "Al2O3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CA4",
+      "component": "CaO",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CA4",
+      "component": "Al2O3",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CA5",
+      "component": "CaO",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CA5",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CA6",
+      "component": "CaO",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CA6",
+      "component": "Al2O3",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CA7",
+      "component": "CaO",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CA7",
+      "component": "Al2O3",
+      "value": 30.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 18,
+  "elapsed_seconds": 25.5,
+  "backends": [
+    "docling"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "pii": "S0022309304009032",
+  "predictions": [
+    {
+      "sample_id": "LG26",
+      "component": "Al2O3",
+      "value": 21.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LG26",
+      "component": "P2O5",
+      "value": 10.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LG26",
+      "component": "CaO",
+      "value": 21.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LG26",
+      "component": "CaF2",
+      "value": 14.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAN4",
+      "component": "SiO2",
+      "value": 61.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAN4",
+      "component": "CaO",
+      "value": 19.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAN4",
+      "component": "CaF2",
+      "value": 10.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAN4",
+      "component": "Na2O",
+      "value": 3.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAN4",
+      "component": "K2O",
+      "value": 5.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LD1G24",
+      "component": "SiO2",
+      "value": 42.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LD1G24",
+      "component": "Al2O3",
+      "value": 7.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LD1G24",
+      "component": "P2O5",
+      "value": 1.31,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LD1G24",
+      "component": "MgO",
+      "value": 27.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LD1G24",
+      "component": "MgF2",
+      "value": 13.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LD1G24",
+      "component": "BaO",
+      "value": 6.55,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F1",
+      "component": "SiO2",
+      "value": 53.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F1",
+      "component": "MgO",
+      "value": 33.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F1",
+      "component": "CaF2",
+      "value": 6.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F1",
+      "component": "Na2O",
+      "value": 3.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "F1",
+      "component": "K2O",
+      "value": 3.3,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 38,
+  "elapsed_seconds": 38.7,
+  "backends": [
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "pdf_id": "S0022309314006735",
+  "predictions": [
+    {
+      "sample_id": "IPG_with_4_Fe2+",
+      "component": "Fe2+",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_4_Fe2+",
+      "component": "Fe3+",
+      "value": 96.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_4_Fe2+",
+      "component": "P",
+      "value": 59.91,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_4_Fe2+",
+      "component": "O",
+      "value": 3.42,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_4_Fe2+_3_04",
+      "component": "Fe2+",
+      "value": 0.22,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_4_Fe2+_3_04",
+      "component": "Fe3+",
+      "value": 99.78,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_4_Fe2+_3_04",
+      "component": "P",
+      "value": 60.79,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_4_Fe2+_3_04",
+      "component": "O",
+      "value": 3.06,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+",
+      "component": "Fe2+",
+      "value": 1.09,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+",
+      "component": "Fe3+",
+      "value": 98.91,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+",
+      "component": "P",
+      "value": 58.32,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+",
+      "component": "O",
+      "value": 5.63,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+_2_95",
+      "component": "Fe2+",
+      "value": 0.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+_2_95",
+      "component": "Fe3+",
+      "value": 99.75,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+_2_95",
+      "component": "P",
+      "value": 58.32,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+_2_95",
+      "component": "O",
+      "value": 5.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+_3_04",
+      "component": "Fe2+",
+      "value": 1.26,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+_3_04",
+      "component": "Fe3+",
+      "value": 98.74,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+_3_04",
+      "component": "P",
+      "value": 57.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_with_17_Fe2+_3_04",
+      "component": "O",
+      "value": 5.63,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe3P2O7_2",
+      "component": "Fe3+",
+      "value": 96.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe3P2O7_2",
+      "component": "P",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe3P2O7_2",
+      "component": "O",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe4P3O12_3",
+      "component": "Fe4+",
+      "value": 96.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe4P3O12_3",
+      "component": "P",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fe4P3O12_3",
+      "component": "O",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FePO3_3",
+      "component": "Fe3+",
+      "value": 96.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FePO3_3",
+      "component": "P",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "FePO3_3",
+      "component": "O",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_4_Fe2+",
+      "component": "Fe2+",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_4_Fe2+",
+      "component": "Fe3+",
+      "value": 96.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_4_Fe2+",
+      "component": "P",
+      "value": 59.91,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_4_Fe2+",
+      "component": "O",
+      "value": 3.42,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_17_Fe2+",
+      "component": "Fe2+",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_17_Fe2+",
+      "component": "Fe3+",
+      "value": 83.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_17_Fe2+",
+      "component": "P",
+      "value": 58.32,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "IPG_17_Fe2+",
+      "component": "O",
+      "value": 5.63,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 51.8,
+  "raw_preview": "```json\n{\"sample_id\": \"IPG_with_4_Fe2+\", \"component\": \"Fe2+\", \"value\": 4.0, \"unit\": \"mol\"}\n{\"sample_id\": \"IPG_with_4_Fe2+\", \"component\": \"Fe3+\", \"value\": 96.0, \"unit\": \"mol\"}\n{\"sample_id\": \"IPG_with_4_Fe2+\", \"component\": \"P\", \"value\": 59.91, \"unit\": \"mol\"}\n{\"sample_id\": \"IPG_with_4_Fe2+\", \"component\": \"O\", \"value\": 3.42, \"unit\": \"mol\"}\n{\"sample_id\": \"IPG_with_4_Fe2+_3_04\", \"component\": \"Fe2+\", \"value\": 0.22, \"unit\": \"mol\"}\n{\"sample_id\": \"IPG_with_4_Fe2+_3_04\", \"component\": \"Fe3+\", \"value\": 99.78"
+}

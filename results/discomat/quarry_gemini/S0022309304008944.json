@@ -1,0 +1,29 @@
+{
+  "pii": "S0022309304008944",
+  "predictions": [
+    {
+      "sample_id": "Glass 1",
+      "component": "Al2O3",
+      "value": 22.83,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 1",
+      "component": "ZnO",
+      "value": 17.75,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 1",
+      "component": "TiO2",
+      "value": 3.84,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 16,
+  "elapsed_seconds": 41.7,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

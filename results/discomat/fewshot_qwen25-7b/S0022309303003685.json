@@ -1,0 +1,85 @@
+{
+  "pdf_id": "S0022309303003685",
+  "predictions": [
+    {
+      "sample_id": "Glass",
+      "component": "SiO2",
+      "value": 22.82,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Al2O3",
+      "value": 2.62,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "BO2",
+      "value": 4.68,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Eu2O3",
+      "value": 0.81,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "La2O3",
+      "value": 2.54,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "SiO2",
+      "value": 21.51,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "Al2O3",
+      "value": 6.0,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "Eu2O3",
+      "value": 2.7,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "LR_gel",
+      "component": "La2O3",
+      "value": 8.5,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "SiO2",
+      "value": 18.76,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "Al2O3",
+      "value": 5.76,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "Eu2O3",
+      "value": 3.56,
+      "unit": "wt%"
+    },
+    {
+      "sample_id": "HR_gel",
+      "component": "La2O3",
+      "value": 11.17,
+      "unit": "wt%"
+    }
+  ],
+  "elapsed_seconds": 18.8,
+  "raw_preview": "```json\n{\"sample_id\": \"Glass\", \"component\": \"SiO2\", \"value\": 22.82, \"unit\": \"wt%\"}\n{\"sample_id\": \"Glass\", \"component\": \"Al2O3\", \"value\": 2.62, \"unit\": \"wt%\"}\n{\"sample_id\": \"Glass\", \"component\": \"BO2\", \"value\": 4.68, \"unit\": \"wt%\"}\n{\"sample_id\": \"Glass\", \"component\": \"Eu2O3\", \"value\": 0.81, \"unit\": \"wt%\"}\n{\"sample_id\": \"Glass\", \"component\": \"La2O3\", \"value\": 2.54, \"unit\": \"wt%\"}\n{\"sample_id\": \"LR_gel\", \"component\": \"SiO2\", \"value\": 21.51, \"unit\": \"wt%\"}\n{\"sample_id\": \"LR_gel\", \"component\": \"Al2O3"
+}

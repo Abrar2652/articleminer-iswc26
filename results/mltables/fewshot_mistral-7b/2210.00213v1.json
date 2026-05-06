@@ -1,0 +1,773 @@
+{
+  "pdf_id": "2210.00213v1",
+  "predictions": [
+    {
+      "value": 0.69,
+      "type": "Result",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10"
+      }
+    },
+    {
+      "value": 0.81,
+      "type": "Result",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10"
+      }
+    },
+    {
+      "value": 0.84,
+      "type": "Result",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10"
+      }
+    },
+    {
+      "value": 640,
+      "type": "Data Stat.",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "sub-set/group name": "Train",
+      "attribute name": "Size",
+      "dataset features": {}
+    },
+    {
+      "value": 0.74,
+      "type": "Result",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": 0.84,
+      "type": "Result",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "20"
+      }
+    },
+    {
+      "value": 0.91,
+      "type": "Result",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": 1280,
+      "type": "Data Stat.",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "sub-set/group name": "Train",
+      "attribute name": "Size",
+      "dataset features": {}
+    },
+    {
+      "value": 0.79,
+      "type": "Result",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": 0.87,
+      "type": "Result",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30"
+      }
+    },
+    {
+      "value": 1920,
+      "type": "Data Stat.",
+      "dataset": [
+        "Assistant",
+        "Virtual Assistant"
+      ],
+      "sub-set/group name": "Train",
+      "attribute name": "Size",
+      "dataset features": {}
+    },
+    {
+      "value": 0.87,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Schema Guided Dialogue"
+      ],
+      "task": "Zero Shot",
+      "metric": "MNLL",
+      "experimental settings": {}
+    },
+    {
+      "value": 0.762,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Schema Guided Dialogue"
+      ],
+      "task": "Zero Shot",
+      "metric": "MAE",
+      "experimental settings": {}
+    },
+    {
+      "value": 0.379,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Schema Guided Dialogue"
+      ],
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "experimental settings": {}
+    },
+    {
+      "value": 0.448,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Schema Guided Dialogue"
+      ],
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "experimental settings": {}
+    },
+    {
+      "value": 0.467,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Schema Guided Dialogue"
+      ],
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "experimental settings": {}
+    },
+    {
+      "value": 0.69,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10"
+      }
+    },
+    {
+      "value": 0.81,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10"
+      }
+    },
+    {
+      "value": 0.84,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10"
+      }
+    },
+    {
+      "value": 0.69,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.81,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.84,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.74,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "20",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.84,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "20",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.91,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.79,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.87,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.91,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.79,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": 0.87,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": 0.91,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": 0.84,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": 0.91,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": 0.91,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": 1280,
+      "type": "Data Stat.",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "sub-set/group name": "Train",
+      "attribute name": "Size",
+      "dataset features": {}
+    },
+    {
+      "value": 0.79,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": 1920,
+      "type": "Data Stat.",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "sub-set/group name": "Train",
+      "attribute name": "Size",
+      "dataset features": {}
+    },
+    {
+      "value": 0.87,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "Assistant"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": 0.87,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10"
+      }
+    },
+    {
+      "value": 0.75,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10"
+      }
+    },
+    {
+      "value": 0.75,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.767,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.773,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "10",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.77,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "20",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.76,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "20",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.767,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "20",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.773,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "20",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.77,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.767,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.773,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": 0.77,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": 0.767,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": 0.773,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": 0.773,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": 0.77,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": 0.77,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": 0.77,
+      "type": "Result",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "task": "Accuracy",
+      "metric": "%",
+      "experimental settings": {
+        "#Samples/Intent": "30",
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": 1280,
+      "type": "Data Stat.",
+      "dataset": [
+        "Megatron-GPT",
+        "BERT"
+      ],
+      "sub-set/group name": "Train",
+      "attribute name": "Size",
+      "dataset features": {}
+    }
+  ],
+  "elapsed_seconds": 196.5,
+  "raw_preview": "{\"value\": 0.69, \"type\": \"Result\", \"dataset\": [\"Assistant\", \"Virtual Assistant\"], \"task\": \"Accuracy\", \"metric\": \"%\", \"experimental settings\": {\"#Samples/Intent\": \"10\"}}\n{\"value\": 0.81, \"type\": \"Result\", \"dataset\": [\"Assistant\", \"Virtual Assistant\"], \"task\": \"Accuracy\", \"metric\": \"%\", \"experimental settings\": {\"#Samples/Intent\": \"10\"}}\n{\"value\": 0.84, \"type\": \"Result\", \"dataset\": [\"Assistant\", \"Virtual Assistant\"], \"task\": \"Accuracy\", \"metric\": \"%\", \"experimental settings\": {\"#Samples/Intent\": \"10"
+}

@@ -1,0 +1,153 @@
+{
+  "arxiv_id": "2210.00627v1",
+  "predictions": [
+    {
+      "value": "22.13",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "16.79",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "AIST",
+      "metric": "PSNR",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "0.6308",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "AIST",
+      "metric": "SSIM",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "24.01",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "0.8953",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "25.36",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "0.9093",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "17.61",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "AIST",
+      "metric": "PSNR",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "0.7186",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "AIST",
+      "metric": "SSIM",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "20.89",
+      "type": "Result",
+      "model": "NHP",
+      "metric": "PSNR",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "0.8364",
+      "type": "Result",
+      "model": "NHP",
+      "metric": "SSIM",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "22.25",
+      "type": "Result",
+      "model": "MonoNHR",
+      "metric": "PSNR",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "0.8673",
+      "type": "Result",
+      "model": "MonoNHR",
+      "metric": "SSIM",
+      "task": "Free-viewpoint image rendering"
+    },
+    {
+      "value": "32",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "output channel dimension",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "stride",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "dilation",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "number of repetitions",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "dilation",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "dilation",
+      "model": "Mono NHR"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "out channel",
+      "model": "Mono NHR"
+    }
+  ],
+  "num_gold_annotations": 31,
+  "elapsed_seconds": 64.8,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

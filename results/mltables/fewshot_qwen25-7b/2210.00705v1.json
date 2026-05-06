@@ -1,0 +1,221 @@
+{
+  "pdf_id": "2210.00705v1",
+  "predictions": [
+    {
+      "value": "11.3",
+      "type": "Data Stat.",
+      "dataset": "Flickr8k",
+      "attribute name": [
+        "average number of subword tokens per utterance",
+        "utterance length"
+      ],
+      "metric": "Average"
+    },
+    {
+      "value": "4.1",
+      "type": "Data Stat.",
+      "dataset": "Flickr8k",
+      "attribute name": [
+        "standard deviation of subword tokens per utterance",
+        "utterance length"
+      ],
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "8",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Speech CLIP",
+      "parameter/architecture name": [
+        "number of keywords",
+        "K"
+      ],
+      "metric": "Performance",
+      "experimental settings": {
+        "cascaded model": "True"
+      },
+      "dataset": "Flickr8k"
+    },
+    {
+      "value": "0.755",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    },
+    {
+      "value": "0.762",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    },
+    {
+      "value": "0.787",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    },
+    {
+      "value": "0.379",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    },
+    {
+      "value": "0.448",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    },
+    {
+      "value": "0.467",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    },
+    {
+      "value": "0.907",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    },
+    {
+      "value": "0.789",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    },
+    {
+      "value": "0.942",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    },
+    {
+      "value": "0.793",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    },
+    {
+      "value": "0.720",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    },
+    {
+      "value": "0.939",
+      "type": "Result",
+      "training data/set": "Flickr8k",
+      "test data/set": "Flickr8k",
+      "task": "Keyword Retrieval",
+      "metric": "Retrieval Performance",
+      "experimental settings": {
+        "number of keywords": "8"
+      },
+      "model": "Speech CLIP",
+      "model settings": {
+        "cascaded model": "False"
+      }
+    }
+  ],
+  "elapsed_seconds": 41.3,
+  "raw_preview": "{\"value\": \"11.3\", \"type\": \"Data Stat.\", \"dataset\": \"Flickr8k\", \"attribute name\": [\"average number of subword tokens per utterance\", \"utterance length\"], \"metric\": \"Average\"}\n{\"value\": \"4.1\", \"type\": \"Data Stat.\", \"dataset\": \"Flickr8k\", \"attribute name\": [\"standard deviation of subword tokens per utterance\", \"utterance length\"], \"metric\": \"Standard Deviation\"}\n{\"value\": \"8\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"Speech CLIP\", \"parameter/architecture name\": [\"number of keywords\", \"K\"],"
+}

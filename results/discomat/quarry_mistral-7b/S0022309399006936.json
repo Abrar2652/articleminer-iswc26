@@ -1,0 +1,120 @@
+{
+  "pii": "S0022309399006936",
+  "predictions": [
+    {
+      "sample_id": "49",
+      "component": "Na2O",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "49",
+      "component": "B2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "49",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "Na2O",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "51",
+      "component": "Na2O",
+      "value": 35.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "51",
+      "component": "B2O3",
+      "value": 7.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "51",
+      "component": "SiO2",
+      "value": 57.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "52",
+      "component": "Na2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "52",
+      "component": "B2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "52",
+      "component": "SiO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "53",
+      "component": "Na2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "53",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "53",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "54",
+      "component": "Na2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "54",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "54",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 172,
+  "elapsed_seconds": 44.4,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

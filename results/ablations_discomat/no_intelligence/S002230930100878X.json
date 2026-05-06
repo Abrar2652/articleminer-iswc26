@@ -1,0 +1,152 @@
+{
+  "pdf_id": "S002230930100878X",
+  "predictions": [
+    {
+      "sample_id": "B20",
+      "component": "Al2O3",
+      "value": 4.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20",
+      "component": "B2O3",
+      "value": 19.05,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20",
+      "component": "SiO2",
+      "value": 57.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20",
+      "component": "Na2O",
+      "value": 19.05,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd5",
+      "component": "Al2O3",
+      "value": 4.72,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd5",
+      "component": "B2O3",
+      "value": 18.87,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd5",
+      "component": "SiO2",
+      "value": 56.61,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd5",
+      "component": "Na2O",
+      "value": 18.87,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd5",
+      "component": "Gd2O3",
+      "value": 0.92,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd20",
+      "component": "Al2O3",
+      "value": 4.15,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd20",
+      "component": "B2O3",
+      "value": 16.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd20",
+      "component": "SiO2",
+      "value": 49.81,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd20",
+      "component": "Na2O",
+      "value": 16.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd20",
+      "component": "Gd2O3",
+      "value": 3.86,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd30",
+      "component": "Al2O3",
+      "value": 4.43,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd30",
+      "component": "B2O3",
+      "value": 17.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd30",
+      "component": "SiO2",
+      "value": 53.11,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd30",
+      "component": "Na2O",
+      "value": 17.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd30",
+      "component": "Gd2O3",
+      "value": 7.06,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd47",
+      "component": "Al2O3",
+      "value": 4.12,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd47",
+      "component": "B2O3",
+      "value": 16.46,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd47",
+      "component": "SiO2",
+      "value": 49.38,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd47",
+      "component": "Na2O",
+      "value": 16.46,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B20Gd47",
+      "component": "Gd2O3",
+      "value": 13.58,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_annotations": 24,
+  "ablation": "no_intelligence",
+  "elapsed_seconds": 67.1
+}

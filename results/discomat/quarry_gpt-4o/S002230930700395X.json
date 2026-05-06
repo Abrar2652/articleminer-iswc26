@@ -1,0 +1,133 @@
+{
+  "pii": "S002230930700395X",
+  "predictions": [
+    {
+      "sample_id": "x = 5",
+      "component": "Li2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 5",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 5",
+      "component": "B2O3",
+      "value": 69.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 5",
+      "component": "MnO2",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 10",
+      "component": "Li2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 10",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 10",
+      "component": "B2O3",
+      "value": 69.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 10",
+      "component": "MnO2",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 15",
+      "component": "Li2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 15",
+      "component": "Na2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 15",
+      "component": "B2O3",
+      "value": 69.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 15",
+      "component": "MnO2",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 20",
+      "component": "Li2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 20",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 20",
+      "component": "B2O3",
+      "value": 69.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 20",
+      "component": "MnO2",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 25",
+      "component": "Li2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 25",
+      "component": "Na2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 25",
+      "component": "B2O3",
+      "value": 69.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x = 25",
+      "component": "MnO2",
+      "value": 0.5,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 20,
+  "elapsed_seconds": 92.7,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

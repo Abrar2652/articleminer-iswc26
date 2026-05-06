@@ -1,0 +1,37 @@
+{
+  "pdf_id": "S0022309314005110",
+  "predictions": [
+    {
+      "sample_id": "S0022309314006537_0_1_IPG",
+      "component": "Cs",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_IPGC18",
+      "component": "Cs",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_IPGC26",
+      "component": "Cs",
+      "value": 26.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_IPGC28",
+      "component": "Cs",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309314006537_0_1_IPGC35",
+      "component": "Cs",
+      "value": 35.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 29.4,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309314006537_0_1_IPG\", \"component\": \"Cs\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309314006537_0_1_IPGC18\", \"component\": \"Cs\", \"value\": 18.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309314006537_0_1_IPGC26\", \"component\": \"Cs\", \"value\": 26.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309314006537_0_1_IPGC28\", \"component\": \"Cs\", \"value\": 28.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309314006537_0_1_IPGC35\", \"component\": \"Cs\", \"value\": 35.0, \"unit\": \"mol\"}\n```"
+}

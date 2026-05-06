@@ -1,0 +1,127 @@
+{
+  "pdf_id": "S002230930700395X",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_x5",
+      "component": "Li2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x5",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x5",
+      "component": "B2O3",
+      "value": 69.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x5",
+      "component": "Mn O2",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x10",
+      "component": "Li2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x10",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x10",
+      "component": "B2O3",
+      "value": 69.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x10",
+      "component": "Mn O2",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x15",
+      "component": "Li2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x15",
+      "component": "Na2O",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x15",
+      "component": "B2O3",
+      "value": 69.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x15",
+      "component": "Mn O2",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x20",
+      "component": "Li2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x20",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x20",
+      "component": "B2O3",
+      "value": 69.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x20",
+      "component": "Mn O2",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x25",
+      "component": "Li2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x25",
+      "component": "Na2O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x25",
+      "component": "B2O3",
+      "value": 69.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x25",
+      "component": "Mn O2",
+      "value": 0.5,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 36.7,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_x5\", \"component\": \"Li2O\", \"value\": 5.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_x5\", \"component\": \"Na2O\", \"value\": 25.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_x5\", \"component\": \"B2O3\", \"value\": 69.5, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_x5\", \"component\": \"Mn O2\", \"value\": 0.5, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_x10\", \"component\": \"Li2O\", \"value\": 10.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S00223093030"
+}

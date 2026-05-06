@@ -1,0 +1,67 @@
+{
+  "pii": "S0022309308001853",
+  "predictions": [
+    {
+      "sample_id": "\u00b9\u2077O\u2013Si glass",
+      "component": "SiO\u2082",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "\u00b9\u2077O\u2013Si glass",
+      "component": "B\u2082O\u2083",
+      "value": 17.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "\u00b9\u2077O\u2013Si glass",
+      "component": "Na\u2082O",
+      "value": 9.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "\u00b9\u2077O\u2013Si glass",
+      "component": "CaO",
+      "value": 2.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "\u00b9\u2077O\u2013Si\u2013Zr glass",
+      "component": "SiO\u2082",
+      "value": 67.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "\u00b9\u2077O\u2013Si\u2013Zr glass",
+      "component": "B\u2082O\u2083",
+      "value": 15.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "\u00b9\u2077O\u2013Si\u2013Zr glass",
+      "component": "Na\u2082O",
+      "value": 10.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "\u00b9\u2077O\u2013Si\u2013Zr glass",
+      "component": "CaO",
+      "value": 3.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "\u00b9\u2077O\u2013Si\u2013Zr glass",
+      "component": "ZrO\u2082",
+      "value": 3.6,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 54,
+  "elapsed_seconds": 163.5,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "pdf_id": "S0022309300002453",
+  "predictions": [
+    {
+      "sample_id": "S0022309300000000_0_1_bioactive_glass",
+      "component": "SiO2",
+      "value": 53.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309300000000_0_1_biocompatible_glass_1",
+      "component": "SiO2",
+      "value": 58.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309300000000_0_1_biocompatible_glass_2",
+      "component": "SiO2",
+      "value": 58.5,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 8.2,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309300000000_0_1_bioactive_glass\", \"component\": \"SiO2\", \"value\": 53.0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309300000000_0_1_biocompatible_glass_1\", \"component\": \"SiO2\", \"value\": 58.5, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309300000000_0_1_biocompatible_glass_2\", \"component\": \"SiO2\", \"value\": 58.5, \"unit\": \"wt\"}\n```"
+}

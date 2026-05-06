@@ -1,0 +1,67 @@
+{
+  "pdf_id": "S0022309304008944",
+  "predictions": [
+    {
+      "sample_id": "S0022309305000149_0_1",
+      "component": "SiO2",
+      "value": 55.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309305000149_0_1",
+      "component": "Al2O3",
+      "value": 22.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309305000149_0_1",
+      "component": "ZnO",
+      "value": 17.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309305000149_0_1",
+      "component": "TiO2",
+      "value": 3.84,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309305000149_0_1_RietveldRefinement_ZnAlSiSs",
+      "component": "Zn",
+      "value": 0.69,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309305000149_0_1_RietveldRefinement_ZnAlSiSs",
+      "component": "Al",
+      "value": 1.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309305000149_0_1_RietveldRefinement_ZnAlSiSs",
+      "component": "Si",
+      "value": 1.62,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309305000149_0_1_RietveldRefinement_Gahnite",
+      "component": "Zn",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309305000149_0_1_RietveldRefinement_Gahnite",
+      "component": "Al",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309305000149_0_1_RietveldRefinement_Gahnite",
+      "component": "O",
+      "value": 4.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 22.5,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309305000149_0_1\", \"component\": \"SiO2\", \"value\": 55.6, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309305000149_0_1\", \"component\": \"Al2O3\", \"value\": 22.8, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309305000149_0_1\", \"component\": \"ZnO\", \"value\": 17.7, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309305000149_0_1\", \"component\": \"TiO2\", \"value\": 3.84, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309305000149_0_1_RietveldRefinement_ZnAlSiSs\", \"component\": \"Zn\", \"value\": 0.69, \"unit\": \"mol\"}\n{\"sample_id\": \"S"
+}

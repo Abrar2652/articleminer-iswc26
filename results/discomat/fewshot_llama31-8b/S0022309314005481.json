@@ -1,0 +1,595 @@
+{
+  "pdf_id": "S0022309314005481",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "GaS3/2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "GeS2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "LaS3/2",
+      "value": 29.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "SiO2",
+      "value": 65.63,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Na2CO3",
+      "value": 31.25,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Ag2O",
+      "value": 3.12,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "V2O5",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "TiO2",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "V2O5",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "V2O5",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "TiO2",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "V2O5",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "TiO2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "V2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "ErS3/2",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "MgO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "K2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Li2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "ZnO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Fe2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Cr2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "CaO",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "MgO",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Al2O3",
+      "value": 22.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "SiO2",
+      "value": 36.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Na2O",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "K2O",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Li2O",
+      "value": 0.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "ZnO",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "P2O5",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "TiO2",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Fe2O3",
+      "value": 1.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Cr2O3",
+      "value": 0.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "CaO",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "MgO",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "Al2O3",
+      "value": 22.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "SiO2",
+      "value": 36.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "Na2O",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "K2O",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "Li2O",
+      "value": 0.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "ZnO",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "P2O5",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "TiO2",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "Fe2O3",
+      "value": 1.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M2",
+      "component": "Cr2O3",
+      "value": 0.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "CaO",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "MgO",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Al2O3",
+      "value": 22.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "SiO2",
+      "value": 36.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Na2O",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "K2O",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Li2O",
+      "value": 0.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "ZnO",
+      "value": 2.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "P2O5",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "TiO2",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Fe2O3",
+      "value": 1.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Cr2O3",
+      "value": 0.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "CaO",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "MgO",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "Al2O3",
+      "value": 22.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "SiO2",
+      "value": 36.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "Na2O",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "K2O",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "Li2O",
+      "value": 0.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "ZnO",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "P2O5",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "TiO2",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "Fe2O3",
+      "value": 1.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "Cr2O3",
+      "value": 0.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "CaO",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "MgO",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "Al2O3",
+      "value": 22.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "SiO2",
+      "value": 36.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "Na2O",
+      "value": 8.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M1",
+      "component": "K2O",
+      "value": 2.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 197.0,
+  "raw_preview": "{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"GaS3/2\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"GeS2\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"LaS3/2\", \"value\": 29.5, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303001832_0_1_M3\", \"component\": \"SiO2\", \"value\": 65.63, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_1_M3\", \"component\": \"Na2CO3\", \"value\": 31.25, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_1_M"
+}

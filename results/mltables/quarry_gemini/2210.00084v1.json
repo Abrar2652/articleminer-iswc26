@@ -1,0 +1,161 @@
+{
+  "arxiv_id": "2210.00084v1",
+  "predictions": [
+    {
+      "value": "1",
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "number of graphs"
+    },
+    {
+      "value": "169,343",
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "number of nodes"
+    },
+    {
+      "value": "1,166,243",
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "number of edges"
+    },
+    {
+      "value": "128",
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "number of features"
+    },
+    {
+      "value": "40",
+      "type": "Data Stat.",
+      "dataset": "ogbn-arxiv",
+      "attribute name": "number of labels"
+    },
+    {
+      "value": "11",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "number of training classes"
+    },
+    {
+      "value": "4",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "number of test classes"
+    },
+    {
+      "value": "1,330",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "number of training graphs"
+    },
+    {
+      "value": "320",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "number of validation graphs"
+    },
+    {
+      "value": "600",
+      "type": "Data Stat.",
+      "dataset": "Letter-High",
+      "attribute name": "number of test graphs"
+    },
+    {
+      "value": "7",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "number of training classes"
+    },
+    {
+      "value": "3",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "number of test classes"
+    },
+    {
+      "value": "1,126",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "number of training graphs"
+    },
+    {
+      "value": "271",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "number of validation graphs"
+    },
+    {
+      "value": "603",
+      "type": "Data Stat.",
+      "dataset": "Triangles",
+      "attribute name": "number of test graphs"
+    },
+    {
+      "value": "7",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "number of training classes"
+    },
+    {
+      "value": "4",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "number of test classes"
+    },
+    {
+      "value": "566",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "number of training graphs"
+    },
+    {
+      "value": "141",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "number of validation graphs"
+    },
+    {
+      "value": "404",
+      "type": "Data Stat.",
+      "dataset": "Reddit-12K",
+      "attribute name": "number of test graphs"
+    },
+    {
+      "value": "4",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "number of training classes"
+    },
+    {
+      "value": "2",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "number of test classes"
+    },
+    {
+      "value": "320",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "number of training graphs"
+    },
+    {
+      "value": "80",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "number of validation graphs"
+    },
+    {
+      "value": "200",
+      "type": "Data Stat.",
+      "dataset": "Enzymes",
+      "attribute name": "number of test graphs"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 52.2,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

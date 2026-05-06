@@ -1,0 +1,1877 @@
+{
+  "arxiv_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": "-7.10",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Diverse Domains"
+    },
+    {
+      "value": "-7.40",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Diverse Domains"
+    },
+    {
+      "value": "-9.63",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Diverse Domains"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Diverse Domains"
+    },
+    {
+      "value": "-5.82",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Diverse Domains"
+    },
+    {
+      "value": "-6.09",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Diverse Domains"
+    },
+    {
+      "value": "-3.80",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Diverse Domains"
+    },
+    {
+      "value": "-8.06",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-3.63",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-5.84",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-4.35",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-16.38",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-4.29",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-17.08",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-11.94",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-5.75",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-5.19",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-7.63",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-2.83",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-11.63",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-18.20",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-9.60",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-9.47",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-4.19",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-8.48",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-2.62",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-3.67",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Taxonomy Domains"
+    },
+    {
+      "value": "-68.40",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-90.45",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-19.59",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-12.58",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-88.89",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-99.65",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-27.75",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-62.46",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-99.17",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-99.68",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-97.52",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-87.00",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-10.91",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-34.40",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-77.73",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-15.22",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-31.73",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-85.45",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-96.15",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "-30.55",
+      "type": "Result",
+      "metric": "Backward Transfer",
+      "task": "Continual Learning",
+      "dataset": "Question Types"
+    },
+    {
+      "value": "1.00",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "UNITER",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.95",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "UNITER",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.90",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "UNITER",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.85",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "UNITER",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.80",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "UNITER",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.75",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "UNITER",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.70",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "UNITER",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.65",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "UNITER",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "1.00",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "ViLT",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.95",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "ViLT",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.90",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "ViLT",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.85",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "ViLT",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.80",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "ViLT",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.75",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "ViLT",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.70",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "ViLT",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "0.65",
+      "type": "Result",
+      "metric": "CKA Similarity",
+      "model": "ViLT",
+      "task": "Diverse Domains"
+    },
+    {
+      "value": "1.0",
+      "type": "Other",
+      "description": "CKA Similarity scale maximum"
+    },
+    {
+      "value": "0.9",
+      "type": "Other",
+      "description": "CKA Similarity scale"
+    },
+    {
+      "value": "0.8",
+      "type": "Other",
+      "description": "CKA Similarity scale"
+    },
+    {
+      "value": "0.7",
+      "type": "Other",
+      "description": "CKA Similarity scale"
+    },
+    {
+      "value": "0.6",
+      "type": "Other",
+      "description": "CKA Similarity scale"
+    },
+    {
+      "value": "0.5",
+      "type": "Other",
+      "description": "CKA Similarity scale"
+    },
+    {
+      "value": "0.4",
+      "type": "Other",
+      "description": "CKA Similarity scale"
+    },
+    {
+      "value": "0.3",
+      "type": "Other",
+      "description": "CKA Similarity scale"
+    },
+    {
+      "value": "0.2",
+      "type": "Other",
+      "description": "CKA Similarity scale minimum"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Diverse"
+    },
+    {
+      "value": "8e-5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Diverse"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Diverse"
+    },
+    {
+      "value": "400",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "Diverse"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Diverse+PT"
+    },
+    {
+      "value": "8e-5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Diverse+PT"
+    },
+    {
+      "value": "0.7",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Diverse+PT"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "Diverse+PT"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "UNITER"
+    },
+    {
+      "value": "8e-5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "UNITER"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "UNITER"
+    },
+    {
+      "value": "600",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "UNITER"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Taxonomy"
+    },
+    {
+      "value": "5e-5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Taxonomy"
+    },
+    {
+      "value": "0.5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Taxonomy+PT"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "Taxonomy+PT"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Questions"
+    },
+    {
+      "value": "1e-4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Questions"
+    },
+    {
+      "value": "0.9",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Questions"
+    },
+    {
+      "value": "50000",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "Questions"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "Questions+PT"
+    },
+    {
+      "value": "5e-5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "Questions+PT"
+    },
+    {
+      "value": "0.4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "EWC \u03bb",
+      "model": "Questions+PT"
+    },
+    {
+      "value": "20000",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "Questions+PT"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "ViLT"
+    },
+    {
+      "value": "1e-5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "ViLT"
+    },
+    {
+      "value": "1024",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "ViLT Diverse+PT"
+    },
+    {
+      "value": "1e-5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "ViLT Diverse+PT"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "ViLT Diverse+PT"
+    },
+    {
+      "value": "700",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "ViLT Taxnomy+PT"
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Batch Size",
+      "model": "ViLT Questions+PT"
+    },
+    {
+      "value": "8e-5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Learning Rate",
+      "model": "ViLT Questions+PT"
+    },
+    {
+      "value": "10000",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "LwF \u03bb",
+      "model": "ViLT Questions+PT"
+    },
+    {
+      "value": "0.05",
+      "type": "Other",
+      "description": "p-value threshold for statistical significance"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Group 1",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "16000",
+      "type": "Data Stat.",
+      "dataset": "Group 1",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Group 1",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "5000",
+      "type": "Data Stat.",
+      "dataset": "Group 1",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Group 1",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "3000",
+      "type": "Data Stat.",
+      "dataset": "Group 1",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Group 1",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "1000",
+      "type": "Data Stat.",
+      "dataset": "Group 1",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "14000",
+      "type": "Data Stat.",
+      "dataset": "Group 1",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "12000",
+      "type": "Data Stat.",
+      "dataset": "Group 1",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Group 1",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "2",
+      "type": "Other"
+    },
+    {
+      "value": "1",
+      "type": "Other"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "7000",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "5000",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "3000",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "1000",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "14000",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "12000",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "10000",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Group 2",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "3",
+      "type": "Other"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Group 3",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Group 3",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "3000",
+      "type": "Data Stat.",
+      "dataset": "Group 3",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Group 3",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "1000",
+      "type": "Data Stat.",
+      "dataset": "Group 3",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "14000",
+      "type": "Data Stat.",
+      "dataset": "Group 3",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "12000",
+      "type": "Data Stat.",
+      "dataset": "Group 3",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "10000",
+      "type": "Data Stat.",
+      "dataset": "Group 3",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Group 3",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Group 3",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "5",
+      "type": "Other"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Group 4",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Group 4",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "3000",
+      "type": "Data Stat.",
+      "dataset": "Group 4",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Group 4",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "1000",
+      "type": "Data Stat.",
+      "dataset": "Group 4",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "12000",
+      "type": "Data Stat.",
+      "dataset": "Group 4",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "10000",
+      "type": "Data Stat.",
+      "dataset": "Group 4",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Group 4",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Group 4",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "5000",
+      "type": "Data Stat.",
+      "dataset": "Group 5",
+      "attribute name": "frequency or count"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "attribute name": "frequency or count"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "attribute name": "frequency or count"
+    },
+    {
+      "value": "7000",
+      "type": "Data Stat.",
+      "attribute name": "frequency or count"
+    },
+    {
+      "value": "3000",
+      "type": "Data Stat.",
+      "attribute name": "frequency or count"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "attribute name": "frequency or count"
+    },
+    {
+      "value": "5000",
+      "type": "Data Stat.",
+      "attribute name": "frequency or count"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "attribute name": "frequency or count"
+    },
+    {
+      "value": "1000",
+      "type": "Data Stat.",
+      "attribute name": "frequency or count"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Group 5",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "14000",
+      "type": "Data Stat.",
+      "dataset": "Animals",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "12000",
+      "type": "Data Stat.",
+      "dataset": "Animals",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "10000",
+      "type": "Data Stat.",
+      "dataset": "Animals",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Animals",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Animals",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Animals",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Animals",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Animals",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Food",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Food",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Food",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Food",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Food",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "16000",
+      "type": "Data Stat.",
+      "dataset": "Interior",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "14000",
+      "type": "Data Stat.",
+      "dataset": "Interior",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "12000",
+      "type": "Data Stat.",
+      "dataset": "Interior",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "10000",
+      "type": "Data Stat.",
+      "dataset": "Interior",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Interior",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Interior",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Interior",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Interior",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Interior",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "12000",
+      "type": "Data Stat.",
+      "dataset": "Sports",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "10000",
+      "type": "Data Stat.",
+      "dataset": "Sports",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Sports",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Sports",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Sports",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Sports",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Sports",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "14000",
+      "type": "Data Stat.",
+      "dataset": "Transport",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "12000",
+      "type": "Data Stat.",
+      "dataset": "Transport",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "10000",
+      "type": "Data Stat.",
+      "dataset": "Transport",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Transport",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Transport",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Transport",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Transport",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Transport",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "7",
+      "type": "Other",
+      "description": "numeric value in Transport section"
+    },
+    {
+      "value": "10",
+      "type": "Other",
+      "description": "numeric value in Transport section"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Action",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "5000",
+      "type": "Data Stat.",
+      "dataset": "Action",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Action",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "3000",
+      "type": "Data Stat.",
+      "dataset": "Action",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Action",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "1000",
+      "type": "Data Stat.",
+      "dataset": "Action",
+      "attribute name": "frequency count"
+    },
+    {
+      "value": "3500",
+      "type": "Other"
+    },
+    {
+      "value": "2500",
+      "type": "Other"
+    },
+    {
+      "value": "1500",
+      "type": "Other"
+    },
+    {
+      "value": "500",
+      "type": "Other"
+    },
+    {
+      "value": "12000",
+      "type": "Data Stat.",
+      "dataset": "Color",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "10000",
+      "type": "Data Stat.",
+      "dataset": "Color",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Color",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Color",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Color",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Color",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Color",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "20000",
+      "type": "Data Stat.",
+      "dataset": "Count",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "17500",
+      "type": "Data Stat.",
+      "dataset": "Count",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "15000",
+      "type": "Data Stat.",
+      "dataset": "Count",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "12500",
+      "type": "Data Stat.",
+      "dataset": "Count",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "10000",
+      "type": "Data Stat.",
+      "dataset": "Count",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "7500",
+      "type": "Data Stat.",
+      "dataset": "Count",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "5000",
+      "type": "Data Stat.",
+      "dataset": "Count",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "2500",
+      "type": "Data Stat.",
+      "dataset": "Count",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Count",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "16000",
+      "type": "Data Stat.",
+      "dataset": "Scene",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "14000",
+      "type": "Data Stat.",
+      "dataset": "Scene",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "12000",
+      "type": "Data Stat.",
+      "dataset": "Scene",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "10000",
+      "type": "Data Stat.",
+      "dataset": "Scene",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Scene",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Scene",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Scene",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Scene",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Scene",
+      "attribute name": "number of most common words"
+    },
+    {
+      "value": "10000",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "700",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "8000",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "600",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "6000",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "500",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "4000",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "400",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "2000",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "300",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "200",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "100",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "0",
+      "type": "Data Stat.",
+      "dataset": "Subcategory",
+      "attribute name": "frequency/count"
+    },
+    {
+      "value": "1.1",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.96",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "1.5",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "1.4",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "0.89",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "1.3",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "1.6",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "1.8",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "1.7",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "2.6",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "2.3",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "6.6",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "4.8",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "2.4",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "4.4",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "6.5",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "5.2",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "5.6",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "6",
+      "type": "Result",
+      "dataset": "VQA",
+      "task": "Continual Learning",
+      "metric": "accuracy"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "model": "Reference Answer",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.164",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "0",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.836",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.134",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.529",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.340",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.855",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.320",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.832",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "-0.115",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.164",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.093",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.818",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.197",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.676",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.151",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "-0.577",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.136",
+      "type": "Result",
+      "model": "Compared Answer 1",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    },
+    {
+      "value": "1",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "dataset": "VQA",
+      "metric": "accuracy",
+      "task": "visual question answering"
+    },
+    {
+      "value": "0.269",
+      "type": "Result",
+      "model": "Compared Answer 2",
+      "dataset": "VQA",
+      "metric": "semantic backward transfer",
+      "task": "Continual Learning"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 102.2,
+  "backends": [
+    "camelot"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "pdf_id": "S0022309399006791",
+  "predictions": [
+    {
+      "sample_id": "conventional_MCP",
+      "component": "H",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BC_glass",
+      "component": "H",
+      "value": 0.5,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 9.1,
+  "raw_preview": "I need to find Table 1 referenced in the paper, which contains the elemental composition of the two glass samples. The paper mentions \"the elemental composition listed in Table 1\" but the actual table content is not explicitly shown in the provided text. However, from the paper's context, I can extract what compositional information is available.\n\nFrom the text, I can identify:\n1. BC glass = vanadium phosphate semiconducting glass\n2. Conventional MCP = hydrogen-treated lead silicate glass\n3. H c"
+}

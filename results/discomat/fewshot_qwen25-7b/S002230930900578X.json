@@ -1,0 +1,25 @@
+{
+  "pdf_id": "S002230930900578X",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_Fe78Si9B13",
+      "component": "Fe",
+      "value": 78.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Fe78Si9B13",
+      "component": "Si",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Fe78Si9B13",
+      "component": "B",
+      "value": 13.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 8.6,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_Fe78Si9B13\", \"component\": \"Fe\", \"value\": 78.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Fe78Si9B13\", \"component\": \"Si\", \"value\": 9.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Fe78Si9B13\", \"component\": \"B\", \"value\": 13.0, \"unit\": \"mol\"}\n```"
+}

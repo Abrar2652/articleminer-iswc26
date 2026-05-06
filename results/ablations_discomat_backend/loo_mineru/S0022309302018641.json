@@ -1,0 +1,169 @@
+{
+  "pii": "S0022309302018641",
+  "predictions": [
+    {
+      "sample_id": "S90C10",
+      "component": "SiO2",
+      "value": 90.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S90C10",
+      "component": "CaO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S80C20",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S80C20",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S70C30",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S70C30",
+      "component": "CaO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S60C40",
+      "component": "SiO2",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S60C40",
+      "component": "CaO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S50C50",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S50C50",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S90C10",
+      "component": "SiO2",
+      "value": 93.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S90C10",
+      "component": "CaO",
+      "value": 7.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S80C20",
+      "component": "SiO2",
+      "value": 86.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S80C20",
+      "component": "CaO",
+      "value": 13.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S80C20",
+      "component": "SiO2",
+      "value": 81.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S80C20",
+      "component": "CaO",
+      "value": 18.91,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S70C30",
+      "component": "SiO2",
+      "value": 77.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S70C30",
+      "component": "CaO",
+      "value": 22.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S70C30",
+      "component": "SiO2",
+      "value": 71.43,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S70C30",
+      "component": "CaO",
+      "value": 28.57,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S60C40",
+      "component": "SiO2",
+      "value": 67.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S60C40",
+      "component": "CaO",
+      "value": 32.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S60C40",
+      "component": "SiO2",
+      "value": 61.64,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S60C40",
+      "component": "CaO",
+      "value": 38.36,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S50C50",
+      "component": "SiO2",
+      "value": 50.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S50C50",
+      "component": "CaO",
+      "value": 49.4,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 40,
+  "elapsed_seconds": 47.7,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber",
+    "camelot"
+  ]
+}

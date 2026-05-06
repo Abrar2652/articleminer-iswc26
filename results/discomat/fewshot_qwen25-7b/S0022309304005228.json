@@ -1,0 +1,157 @@
+{
+  "pdf_id": "S0022309304005228",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Sn O",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Sn O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 95.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 85.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 90.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 65.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_x_Sn_O",
+      "component": "Na PO3",
+      "value": 0.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 50.5,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_x_Sn_O\", \"component\": \"Sn O\", \"value\": 5.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_x_Sn_O\", \"component\": \"Sn O\", \"value\": 40.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_x_Sn_O\", \"component\": \"Na PO3\", \"value\": 95.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_x_Sn_O\", \"component\": \"Na PO3\", \"value\": 60.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_x_Sn_O\", \"component\": \"Na PO3\", \"value\": 85.0, \"unit\": \"mol\"}\n{\""
+}

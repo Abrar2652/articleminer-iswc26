@@ -1,0 +1,17 @@
+{
+  "pdf_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": -0.223,
+      "type": "Data Stat.",
+      "dataset": "VQA-v2",
+      "sub-set/group name": "Joint embeddings",
+      "attribute name": "Correlation",
+      "dataset features": {
+        "task": "Question Types"
+      }
+    }
+  ],
+  "elapsed_seconds": 58.7,
+  "raw_preview": "[\n{\"value\": \"0.567\", \"type\": \"Data Stat.\", \"dataset\": \"VQA-v2\", \"sub-set/group name\": \"Answer distributions\", \"attribute name\": \"Correlation\", \"dataset features\": {\"task\": \"Diverse Domains\"}},\n{\"value\": \"0.791\", \"type\": \"Data Stat.\", \"dataset\": \"VQA-v2\", \"sub-set/group name\": \"Answer distributions\", \"attribute name\": \"Correlation\", \"dataset features\": {\"task\": \"Taxonomy Domains\"}},\n{\"value\": \"0.795\", \"type\": \"Data Stat.\", \"dataset\": \"VQA-v2\", \"sub-set/group name\": \"Answer distributions\", \"attrib"
+}

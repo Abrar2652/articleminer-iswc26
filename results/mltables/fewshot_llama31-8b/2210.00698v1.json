@@ -1,0 +1,753 @@
+{
+  "pdf_id": "2210.00698v1",
+  "predictions": [
+    {
+      "value": "5,000",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes",
+      "sub-set/group name": "images",
+      "attribute name": "number of images",
+      "dataset features": {
+        "size": "1,024 \u00d7 2,048"
+      }
+    },
+    {
+      "value": "2,975,500",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes",
+      "sub-set/group name": "training images",
+      "attribute name": "number of images",
+      "dataset features": {
+        "size": "1,024 \u00d7 2,048"
+      }
+    },
+    {
+      "value": "1,525",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes",
+      "sub-set/group name": "test images",
+      "attribute name": "number of images",
+      "dataset features": {
+        "size": "1,024 \u00d7 2,048"
+      }
+    },
+    {
+      "value": "20,000",
+      "type": "Data Stat.",
+      "dataset": "Cityscapes",
+      "sub-set/group name": "weakly annotated frames",
+      "attribute name": "number of frames",
+      "dataset features": {
+        "size": "1,024 \u00d7 2,048"
+      }
+    },
+    {
+      "value": "25,000",
+      "type": "Data Stat.",
+      "dataset": "Mapillary Vistas Dataset",
+      "sub-set/group name": "images",
+      "attribute name": "number of images",
+      "dataset features": {
+        "size": "high-resolution"
+      }
+    },
+    {
+      "value": "66",
+      "type": "Data Stat.",
+      "dataset": "Mapillary Vistas Dataset",
+      "sub-set/group name": "object categories",
+      "attribute name": "number of categories",
+      "dataset features": {
+        "type": "object categories"
+      }
+    },
+    {
+      "value": "124",
+      "type": "Data Stat.",
+      "dataset": "Mapillary Vistas Dataset",
+      "sub-set/group name": "object categories",
+      "attribute name": "number of categories",
+      "dataset features": {
+        "type": "object categories"
+      }
+    },
+    {
+      "value": "37",
+      "type": "Data Stat.",
+      "dataset": "Mapillary Vistas Dataset",
+      "sub-set/group name": "object categories",
+      "attribute name": "number of instance-specific labels",
+      "dataset features": {
+        "type": "object categories"
+      }
+    },
+    {
+      "value": "70",
+      "type": "Data Stat.",
+      "dataset": "Mapillary Vistas Dataset",
+      "sub-set/group name": "object categories",
+      "attribute name": "number of instance-specific labels",
+      "dataset features": {
+        "type": "object categories"
+      }
+    },
+    {
+      "value": "512",
+      "type": "Hyper-parameter/Architecture",
+      "model": "DARTS",
+      "parameter/architecture name": "batch size",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "102",
+      "type": "Hyper-parameter/Architecture",
+      "model": "DARTS",
+      "parameter/architecture name": "random image crops",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "6",
+      "type": "Hyper-parameter/Architecture",
+      "model": "DARTS",
+      "parameter/architecture name": "batch size",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "300",
+      "type": "Hyper-parameter/Architecture",
+      "model": "DARTS",
+      "parameter/architecture name": "epochs",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "0.95",
+      "type": "Hyper-parameter/Architecture",
+      "model": "DARTS",
+      "parameter/architecture name": "momentum",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "0.0005",
+      "type": "Hyper-parameter/Architecture",
+      "model": "DARTS",
+      "parameter/architecture name": "weight decay",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "0.005",
+      "type": "Hyper-parameter/Architecture",
+      "model": "DARTS",
+      "parameter/architecture name": "learning rate",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "0.0001",
+      "type": "Hyper-parameter/Architecture",
+      "model": "DARTS",
+      "parameter/architecture name": "weight decay",
+      "dataset": "Cityscapes"
+    },
+    {
+      "value": "40",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "validation accuracy",
+      "experimental settings": {
+        "number of intermediate nodes": "2"
+      },
+      "model": "RSPNet",
+      "model settings": {
+        "number of cells": "1"
+      }
+    },
+    {
+      "value": "0.755",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.762",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.787",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.379",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.448",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.467",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.907",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "50"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.789",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "50"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.942",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "50"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.793",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "50"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.720",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "50"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.939",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "50"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.77",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.82",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "20"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "30"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.75",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "BERT",
+      "model settings": {
+        "Model Size": "B"
+      }
+    },
+    {
+      "value": "0.767",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "20"
+      },
+      "model": "BERT",
+      "model settings": {
+        "Model Size": "B"
+      }
+    },
+    {
+      "value": "0.773",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "30"
+      },
+      "model": "BERT",
+      "model settings": {
+        "Model Size": "B"
+      }
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.81",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "20"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "30"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.74",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "20"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "30"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.79",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "20"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "30"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "20"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "30"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "20"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "30"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "20"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "30"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "10"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "20"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Cityscapes",
+      "test data/set": "Cityscapes",
+      "task": "image segmentation",
+      "metric": "accuracy",
+      "experimental settings": {
+        "number of samples": "30"
+      },
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    }
+  ],
+  "elapsed_seconds": 189.6,
+  "raw_preview": "{\"value\": \"5,000\", \"type\": \"Data Stat.\", \"dataset\": \"Cityscapes\", \"sub-set/group name\": \"images\", \"attribute name\": \"number of images\", \"dataset features\": {\"size\": \"1,024 \u00d7 2,048\"}}\n{\"value\": \"2,975,500\", \"type\": \"Data Stat.\", \"dataset\": \"Cityscapes\", \"sub-set/group name\": \"training images\", \"attribute name\": \"number of images\", \"dataset features\": {\"size\": \"1,024 \u00d7 2,048\"}}\n{\"value\": \"1,525\", \"type\": \"Data Stat.\", \"dataset\": \"Cityscapes\", \"sub-set/group name\": \"test images\", \"attribute name\": "
+}

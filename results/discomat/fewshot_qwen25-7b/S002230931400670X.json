@@ -1,0 +1,31 @@
+{
+  "pdf_id": "S002230931400670X",
+  "predictions": [
+    {
+      "sample_id": "Ca O-Si O2_50_mol%",
+      "component": "Ca O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Si O2_50_mol%",
+      "component": "Si O2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3_50_mol%",
+      "component": "Ca O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca O-Al2O3_50_mol%",
+      "component": "Al2O3",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 9.3,
+  "raw_preview": "```json\n{\"sample_id\": \"Ca O-Si O2_50_mol%\", \"component\": \"Ca O\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ca O-Si O2_50_mol%\", \"component\": \"Si O2\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ca O-Al2O3_50_mol%\", \"component\": \"Ca O\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ca O-Al2O3_50_mol%\", \"component\": \"Al2O3\", \"value\": 50.0, \"unit\": \"mol\"}\n```"
+}

@@ -1,0 +1,569 @@
+{
+  "pii": "S0022309315300922",
+  "predictions": [
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4",
+      "value": 36.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4",
+      "value": 28.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4",
+      "value": 18.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4",
+      "value": 22.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4",
+      "value": 28.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 0.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 43.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 45.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 38.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 42.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 63.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 15.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 20.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2Mo2O7",
+      "value": 12.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2Mo2O7",
+      "value": 15.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2Mo2O7",
+      "value": 21.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na2Mo2O7",
+      "value": 28.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "2Mo",
+      "component": "Na/Mo_molar_ratio",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4",
+      "value": 36.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4",
+      "value": 28.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4",
+      "value": 18.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4",
+      "value": 22.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4",
+      "value": 28.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 0.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 43.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 45.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 38.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 42.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 63.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 15.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 20.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2Mo2O7",
+      "value": 12.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2Mo2O7",
+      "value": 15.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na2Mo2O7",
+      "value": 21.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "3Mo",
+      "component": "Na/Mo_molar_ratio",
+      "value": 1.85,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4",
+      "value": 36.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4",
+      "value": 28.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4",
+      "value": 18.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4",
+      "value": 22.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4",
+      "value": 28.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 0.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 43.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 45.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 38.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 42.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 63.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 15.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 20.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2Mo2O7",
+      "value": 12.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2Mo2O7",
+      "value": 15.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2Mo2O7",
+      "value": 21.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na2Mo2O7",
+      "value": 28.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "4Mo",
+      "component": "Na/Mo_molar_ratio",
+      "value": 1.82,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4",
+      "value": 36.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4",
+      "value": 28.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4",
+      "value": 18.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4",
+      "value": 22.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4",
+      "value": 28.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 0.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 43.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 45.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 38.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 42.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 63.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 15.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 20.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2Mo2O7",
+      "value": 12.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2Mo2O7",
+      "value": 15.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2Mo2O7",
+      "value": 21.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na2Mo2O7",
+      "value": 28.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "5Mo",
+      "component": "Na/Mo_molar_ratio",
+      "value": 1.76,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4",
+      "value": 36.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4",
+      "value": 28.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4",
+      "value": 18.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4",
+      "value": 22.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4",
+      "value": 28.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 0.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 43.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 45.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 38.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4_2H2O",
+      "value": 42.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 63.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 15.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 20.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2MoO4_orthorhombic",
+      "value": 17.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2Mo2O7",
+      "value": 12.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2Mo2O7",
+      "value": 15.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2Mo2O7",
+      "value": 21.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "10Mo",
+      "component": "Na2Mo2O7",
+      "value": 28.9,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 62,
+  "elapsed_seconds": 163.5,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

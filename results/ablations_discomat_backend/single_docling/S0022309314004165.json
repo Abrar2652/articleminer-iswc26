@@ -1,0 +1,430 @@
+{
+  "pii": "S0022309314004165",
+  "predictions": [
+    {
+      "sample_id": "G0.26Nd0",
+      "component": "SiO2",
+      "value": 57.45,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd0",
+      "component": "B2O3",
+      "value": 14.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd0",
+      "component": "Al2O3",
+      "value": 17.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd0",
+      "component": "Na2O",
+      "value": 6.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd0",
+      "component": "CaO",
+      "value": 4.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd2.3",
+      "component": "SiO2",
+      "value": 56.13,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd2.3",
+      "component": "B2O3",
+      "value": 14.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd2.3",
+      "component": "Al2O3",
+      "value": 16.64,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd2.3",
+      "component": "Na2O",
+      "value": 6.24,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd2.3",
+      "component": "CaO",
+      "value": 4.16,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd2.3",
+      "component": "Nd2O3",
+      "value": 2.27,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd4",
+      "component": "SiO2",
+      "value": 55.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd4",
+      "component": "B2O3",
+      "value": 14.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd4",
+      "component": "Al2O3",
+      "value": 16.33,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd4",
+      "component": "Na2O",
+      "value": 6.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd4",
+      "component": "CaO",
+      "value": 4.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd4",
+      "component": "Nd2O3",
+      "value": 4.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd6",
+      "component": "SiO2",
+      "value": 54.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd6",
+      "component": "B2O3",
+      "value": 14.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd6",
+      "component": "Al2O3",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd6",
+      "component": "Na2O",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd6",
+      "component": "CaO",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd6",
+      "component": "Nd2O3",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd8",
+      "component": "SiO2",
+      "value": 52.85,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd8",
+      "component": "B2O3",
+      "value": 13.71,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd8",
+      "component": "Al2O3",
+      "value": 15.66,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd8",
+      "component": "Na2O",
+      "value": 5.87,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd8",
+      "component": "CaO",
+      "value": 3.91,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd8",
+      "component": "Nd2O3",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10",
+      "component": "SiO2",
+      "value": 51.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10",
+      "component": "B2O3",
+      "value": 13.41,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10",
+      "component": "Al2O3",
+      "value": 15.32,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10",
+      "component": "Na2O",
+      "value": 5.74,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10",
+      "component": "CaO",
+      "value": 3.83,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.26Nd10",
+      "component": "Nd2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd0",
+      "component": "SiO2",
+      "value": 51.49,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd0",
+      "component": "B2O3",
+      "value": 20.85,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd0",
+      "component": "Al2O3",
+      "value": 17.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd0",
+      "component": "Na2O",
+      "value": 6.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd0",
+      "component": "CaO",
+      "value": 4.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd2.3",
+      "component": "SiO2",
+      "value": 50.31,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd2.3",
+      "component": "B2O3",
+      "value": 20.37,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd2.3",
+      "component": "Al2O3",
+      "value": 16.64,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd2.3",
+      "component": "Na2O",
+      "value": 6.23,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd2.3",
+      "component": "CaO",
+      "value": 4.16,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd2.3",
+      "component": "Nd2O3",
+      "value": 2.29,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd4",
+      "component": "SiO2",
+      "value": 49.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd4",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd4",
+      "component": "Al2O3",
+      "value": 16.33,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd4",
+      "component": "Na2O",
+      "value": 6.12,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd4",
+      "component": "CaO",
+      "value": 4.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd4",
+      "component": "Nd2O3",
+      "value": 4.08,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd6",
+      "component": "SiO2",
+      "value": 48.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd6",
+      "component": "B2O3",
+      "value": 19.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd6",
+      "component": "Al2O3",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd6",
+      "component": "Na2O",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd6",
+      "component": "CaO",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd6",
+      "component": "Nd2O3",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd8",
+      "component": "SiO2",
+      "value": 47.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd8",
+      "component": "B2O3",
+      "value": 19.18,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd8",
+      "component": "Al2O3",
+      "value": 15.66,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd8",
+      "component": "Na2O",
+      "value": 5.87,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd8",
+      "component": "CaO",
+      "value": 3.91,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd8",
+      "component": "Nd2O3",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10",
+      "component": "SiO2",
+      "value": 46.34,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10",
+      "component": "B2O3",
+      "value": 18.77,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10",
+      "component": "Al2O3",
+      "value": 15.32,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10",
+      "component": "Na2O",
+      "value": 5.74,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10",
+      "component": "CaO",
+      "value": 3.83,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "G0.40Nd10",
+      "component": "Nd2O3",
+      "value": 10.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 94,
+  "elapsed_seconds": 38.6,
+  "backends": [
+    "docling"
+  ]
+}

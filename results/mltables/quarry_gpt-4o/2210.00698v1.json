@@ -1,0 +1,179 @@
+{
+  "arxiv_id": "2210.00698v1",
+  "predictions": [
+    {
+      "value": "76.2",
+      "type": "Result",
+      "model": "PSPNet (Hengshuang et al. 2018)",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "77.3",
+      "type": "Result",
+      "model": "PSANet (Hengshuang et al. 2018)",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "78.1",
+      "type": "Result",
+      "model": "PANet (Xu et al. 2018)",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "77.8",
+      "type": "Result",
+      "model": "DenseASPP (Maoke et al. 2018)",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "79.5",
+      "type": "Result",
+      "model": "DeepLabv3 (Chen et al. 2017)",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "80.3",
+      "type": "Result",
+      "model": "Auto-DeepLab (Liu et al. 2019)",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "44.42",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "Auto-DeepLab (Liu et al. 2019)"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "model": "HRNetV2 (Sun et al. 2019)",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "69.06",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "HRNetV2 (Sun et al. 2019)"
+    },
+    {
+      "value": "81.4",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "68.67",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "Ours"
+    },
+    {
+      "value": "81.0",
+      "type": "Result",
+      "model": "Ours + RSP",
+      "dataset": "Cityscapes",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "17.20",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "Ours + RSP"
+    },
+    {
+      "value": "80.6",
+      "type": "Result",
+      "model": "Mapillary (Neuhold et al. 2017)",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "81.7",
+      "type": "Result",
+      "model": "HANet (Sungha, Joanne, and Jaegul 2020)",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "81.8",
+      "type": "Result",
+      "model": "HRNetV2+OCR (Sun et al. 2019)",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "10.37",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Params(M)",
+      "model": "HRNetV2+OCR (Sun et al. 2019)"
+    },
+    {
+      "value": "81.6",
+      "type": "Result",
+      "model": "DecoupleSegNets",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "model": "DCNAS (Zhang et al. 2020)",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "81.4",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "82.1",
+      "type": "Result",
+      "model": "Ours",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    },
+    {
+      "value": "81.7",
+      "type": "Result",
+      "model": "Ours + RSP",
+      "dataset": "Mapillary",
+      "metric": "mIOU(%)",
+      "task": "semantic segmentation"
+    }
+  ],
+  "num_gold_annotations": 33,
+  "elapsed_seconds": 71.7,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "pii": "S0022309300001459",
+  "predictions": [
+    {
+      "sample_id": "Slag",
+      "component": "CaO",
+      "value": 43.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "CaO",
+      "value": 43.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Slag",
+      "component": "SiO2",
+      "value": 35.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "SiO2",
+      "value": 35.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Slag",
+      "component": "Al2O3",
+      "value": 11.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Al2O3",
+      "value": 11.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Slag",
+      "component": "MgO",
+      "value": 6.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "MgO",
+      "value": 6.0,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 13,
+  "elapsed_seconds": 38.1,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

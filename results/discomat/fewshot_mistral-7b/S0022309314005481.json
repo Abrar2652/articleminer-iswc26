@@ -1,0 +1,13 @@
+{
+  "pdf_id": "S0022309314005481",
+  "predictions": [
+    {
+      "sample_id": "M3",
+      "component": "Cr2O3",
+      "value": 1.2,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 58.7,
+  "raw_preview": "[\n{\"sample_id\": \"M1\", \"component\": \"CaO\", \"value\": 17.4, \"unit\": \"wt\"},\n{\"sample_id\": \"M1\", \"component\": \"MgO\", \"value\": 8.0, \"unit\": \"wt\"},\n{\"sample_id\": \"M1\", \"component\": \"Al2O3\", \"value\": 36.0, \"unit\": \"wt\"},\n{\"sample_id\": \"M1\", \"component\": \"SiO2\", \"value\": 8.0, \"unit\": \"wt\"},\n{\"sample_id\": \"M1\", \"component\": \"Na2O\", \"value\": 2.0, \"unit\": \"wt\"},\n{\"sample_id\": \"M1\", \"component\": \"K2O\", \"value\": 1.5, \"unit\": \"wt\"},\n{\"sample_id\": \"M1\", \"component\": \"Li2O\", \"value\": 1.0, \"unit\": \"wt\"},\n{\"sample"
+}

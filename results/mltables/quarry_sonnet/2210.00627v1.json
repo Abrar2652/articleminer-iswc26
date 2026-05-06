@@ -1,0 +1,137 @@
+{
+  "arxiv_id": "2210.00627v1",
+  "predictions": [
+    {
+      "value": "22.13",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.8604",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "16.79",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "AIST",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.6308",
+      "type": "Result",
+      "model": "pixelNeRF",
+      "dataset": "AIST",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "24.01",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.8953",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "16.58",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "AIST",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.6934",
+      "type": "Result",
+      "model": "NHP",
+      "dataset": "AIST",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "25.36",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "ZJU-MoCap",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.9093",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "ZJU-MoCap",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "17.61",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "AIST",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.7186",
+      "type": "Result",
+      "model": "MonoNHR",
+      "dataset": "AIST",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "20.89",
+      "type": "Result",
+      "model": "NHP",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.8364",
+      "type": "Result",
+      "model": "NHP",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "22.25",
+      "type": "Result",
+      "model": "MonoNHR",
+      "metric": "PSNR",
+      "task": "novel view synthesis"
+    },
+    {
+      "value": "0.8673",
+      "type": "Result",
+      "model": "MonoNHR",
+      "metric": "SSIM",
+      "task": "novel view synthesis"
+    }
+  ],
+  "num_gold_annotations": 31,
+  "elapsed_seconds": 99.9,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

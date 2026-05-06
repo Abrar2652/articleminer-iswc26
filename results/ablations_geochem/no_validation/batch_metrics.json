@@ -1,0 +1,303 @@
+{
+  "variant": "no_validation",
+  "model": "claude-haiku-4-5-20251001",
+  "aggregate": {
+    "mean_T1_metadata_%": 60.46,
+    "mean_T2_numerical_%": 23.11,
+    "mean_T3_structural_%": 9.62,
+    "mean_T4_null_%": 59.88,
+    "mean_overall_%": 37.81,
+    "mean_precision_%": 9.25,
+    "mean_recall_%": 12.93,
+    "mean_f1_%": 7.91,
+    "n_papers": 26
+  },
+  "per_paper": {
+    "Bertrandsson_Erlandsson_et_al_2025": {
+      "T1_metadata_%": 68.66,
+      "T2_numerical_%": 0.0,
+      "T3_structural_%": 0.0,
+      "T4_null_%": 0.0,
+      "overall_%": 20.6,
+      "precision_%": 0.0,
+      "recall_%": 0.0,
+      "f1_%": 0.0,
+      "predicted_n": 18
+    },
+    "Chen_et_al_2024": {
+      "T1_metadata_%": 53.91,
+      "T2_numerical_%": 0.0,
+      "T3_structural_%": 0.0,
+      "T4_null_%": 0.0,
+      "overall_%": 16.17,
+      "precision_%": 0.0,
+      "recall_%": 0.0,
+      "f1_%": 0.0,
+      "predicted_n": 193
+    },
+    "Chu_et_al_2022": {
+      "T1_metadata_%": 59.26,
+      "T2_numerical_%": 6.45,
+      "T3_structural_%": 3.3,
+      "T4_null_%": 100.0,
+      "overall_%": 35.85,
+      "precision_%": 3.5,
+      "recall_%": 3.12,
+      "f1_%": 3.3,
+      "predicted_n": 143
+    },
+    "Ciccolella_et_al_2025": {
+      "T1_metadata_%": 55.6,
+      "T2_numerical_%": 0.0,
+      "T3_structural_%": 0.0,
+      "T4_null_%": 0.0,
+      "overall_%": 16.68,
+      "precision_%": 0.0,
+      "recall_%": 0.0,
+      "f1_%": 0.0,
+      "predicted_n": 5
+    },
+    "Denisov\u00e1_et_al_2024": {
+      "T1_metadata_%": 0.0,
+      "T2_numerical_%": 0.0,
+      "T3_structural_%": 0.0,
+      "T4_null_%": 0.0,
+      "overall_%": 0.0,
+      "precision_%": 0.0,
+      "recall_%": 0.0,
+      "f1_%": 0.0,
+      "predicted_n": 0
+    },
+    "He_et_al_2024": {
+      "T1_metadata_%": 62.05,
+      "T2_numerical_%": 31.29,
+      "T3_structural_%": 2.88,
+      "T4_null_%": 100.0,
+      "overall_%": 46.56,
+      "precision_%": 5.41,
+      "recall_%": 1.96,
+      "f1_%": 2.88,
+      "predicted_n": 37
+    },
+    "Jiang_et_al_2023": {
+      "T1_metadata_%": 73.84,
+      "T2_numerical_%": 0.0,
+      "T3_structural_%": 0.0,
+      "T4_null_%": 0.0,
+      "overall_%": 22.15,
+      "precision_%": 0.0,
+      "recall_%": 0.0,
+      "f1_%": 0.0,
+      "predicted_n": 28
+    },
+    "Lan_et_al_2024": {
+      "T1_metadata_%": 50.05,
+      "T2_numerical_%": 0.0,
+      "T3_structural_%": 0.0,
+      "T4_null_%": 0.0,
+      "overall_%": 15.01,
+      "precision_%": 0.0,
+      "recall_%": 0.0,
+      "f1_%": 0.0,
+      "predicted_n": 157
+    },
+    "Li_et_al_2025": {
+      "T1_metadata_%": 65.56,
+      "T2_numerical_%": 42.65,
+      "T3_structural_%": 2.25,
+      "T4_null_%": 90.16,
+      "overall_%": 50.59,
+      "precision_%": 2.94,
+      "recall_%": 1.82,
+      "f1_%": 2.25,
+      "predicted_n": 34
+    },
+    "Liu_et_al_2024": {
+      "T1_metadata_%": 78.71,
+      "T2_numerical_%": 29.12,
+      "T3_structural_%": 3.92,
+      "T4_null_%": 100.0,
+      "overall_%": 50.85,
+      "precision_%": 7.5,
+      "recall_%": 2.65,
+      "f1_%": 3.92,
+      "predicted_n": 40
+    },
+    "Soster_et_al_2023": {
+      "T1_metadata_%": 82.17,
+      "T2_numerical_%": 49.23,
+      "T3_structural_%": 2.99,
+      "T4_null_%": 100.0,
+      "overall_%": 59.79,
+      "precision_%": 25.0,
+      "recall_%": 1.59,
+      "f1_%": 2.99,
+      "predicted_n": 4
+    },
+    "Sun_et_al_2023": {
+      "T1_metadata_%": 68.82,
+      "T2_numerical_%": 14.63,
+      "T3_structural_%": 1.6,
+      "T4_null_%": 99.04,
+      "overall_%": 41.59,
+      "precision_%": 2.09,
+      "recall_%": 1.29,
+      "f1_%": 1.6,
+      "predicted_n": 191
+    },
+    "Sun_et_al_2024": {
+      "T1_metadata_%": 78.54,
+      "T2_numerical_%": 61.18,
+      "T3_structural_%": 7.34,
+      "T4_null_%": 100.0,
+      "overall_%": 64.13,
+      "precision_%": 9.52,
+      "recall_%": 5.97,
+      "f1_%": 7.34,
+      "predicted_n": 42
+    },
+    "Sun_et_al_2025": {
+      "T1_metadata_%": 43.81,
+      "T2_numerical_%": 10.0,
+      "T3_structural_%": 0.92,
+      "T4_null_%": 95.24,
+      "overall_%": 31.56,
+      "precision_%": 2.63,
+      "recall_%": 0.56,
+      "f1_%": 0.92,
+      "predicted_n": 38
+    },
+    "Tan_et_al_2025": {
+      "T1_metadata_%": 65.1,
+      "T2_numerical_%": 82.3,
+      "T3_structural_%": 23.01,
+      "T4_null_%": 100.0,
+      "overall_%": 70.9,
+      "precision_%": 15.85,
+      "recall_%": 41.94,
+      "f1_%": 23.01,
+      "predicted_n": 82
+    },
+    "Tomlinson_et_al_2021": {
+      "T1_metadata_%": 59.42,
+      "T2_numerical_%": 87.03,
+      "T3_structural_%": 25.4,
+      "T4_null_%": 100.0,
+      "overall_%": 71.45,
+      "precision_%": 7.77,
+      "recall_%": 100.0,
+      "f1_%": 14.41,
+      "predicted_n": 103
+    },
+    "Wang_et_al_2025": {
+      "T1_metadata_%": 32.33,
+      "T2_numerical_%": 7.14,
+      "T3_structural_%": 2.22,
+      "T4_null_%": 96.61,
+      "overall_%": 27.38,
+      "precision_%": 10.0,
+      "recall_%": 1.25,
+      "f1_%": 2.22,
+      "predicted_n": 10
+    },
+    "Wei_et_al_2024": {
+      "T1_metadata_%": 73.8,
+      "T2_numerical_%": 37.84,
+      "T3_structural_%": 4.27,
+      "T4_null_%": 95.86,
+      "overall_%": 52.3,
+      "precision_%": 2.26,
+      "recall_%": 37.62,
+      "f1_%": 4.27,
+      "predicted_n": 1680
+    },
+    "Wu_et_al_2024": {
+      "T1_metadata_%": 82.73,
+      "T2_numerical_%": 0.0,
+      "T3_structural_%": 0.0,
+      "T4_null_%": 0.0,
+      "overall_%": 24.82,
+      "precision_%": 0.0,
+      "recall_%": 0.0,
+      "f1_%": 0.0,
+      "predicted_n": 3
+    },
+    "Xia_et_al_2024": {
+      "T1_metadata_%": 73.37,
+      "T2_numerical_%": 78.5,
+      "T3_structural_%": 100.0,
+      "T4_null_%": 99.22,
+      "overall_%": 83.29,
+      "precision_%": 66.93,
+      "recall_%": 66.93,
+      "f1_%": 66.93,
+      "predicted_n": 127
+    },
+    "Yang_et_al_2022": {
+      "T1_metadata_%": 64.55,
+      "T2_numerical_%": 0.0,
+      "T3_structural_%": 0.0,
+      "T4_null_%": 0.0,
+      "overall_%": 19.37,
+      "precision_%": 0.0,
+      "recall_%": 0.0,
+      "f1_%": 0.0,
+      "predicted_n": 86
+    },
+    "Yuan_et_al_2018": {
+      "T1_metadata_%": 0.0,
+      "T2_numerical_%": 0.0,
+      "T3_structural_%": 0.0,
+      "T4_null_%": 0.0,
+      "overall_%": 0.0,
+      "precision_%": 0.0,
+      "recall_%": 0.0,
+      "f1_%": 0.0,
+      "predicted_n": 0
+    },
+    "Zhang_et_al_2022": {
+      "T1_metadata_%": 66.0,
+      "T2_numerical_%": 34.01,
+      "T3_structural_%": 62.62,
+      "T4_null_%": 100.0,
+      "overall_%": 57.8,
+      "precision_%": 60.36,
+      "recall_%": 64.42,
+      "f1_%": 62.33,
+      "predicted_n": 111
+    },
+    "Zhang_et_al_2024": {
+      "T1_metadata_%": 76.89,
+      "T2_numerical_%": 8.32,
+      "T3_structural_%": 5.56,
+      "T4_null_%": 96.36,
+      "overall_%": 41.68,
+      "precision_%": 16.67,
+      "recall_%": 3.33,
+      "f1_%": 5.56,
+      "predicted_n": 24
+    },
+    "Zhao_et_al_2024": {
+      "T1_metadata_%": 62.98,
+      "T2_numerical_%": 0.0,
+      "T3_structural_%": 0.0,
+      "T4_null_%": 0.0,
+      "overall_%": 18.89,
+      "precision_%": 0.0,
+      "recall_%": 0.0,
+      "f1_%": 0.0,
+      "predicted_n": 59
+    },
+    "Zhu_et_al_2024": {
+      "T1_metadata_%": 73.78,
+      "T2_numerical_%": 21.17,
+      "T3_structural_%": 1.82,
+      "T4_null_%": 84.48,
+      "overall_%": 43.55,
+      "precision_%": 1.96,
+      "recall_%": 1.69,
+      "f1_%": 1.82,
+      "predicted_n": 51
+    }
+  }
+}

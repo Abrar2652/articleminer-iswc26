@@ -1,0 +1,678 @@
+{
+  "pii": "S0022309302009481",
+  "predictions": [
+    {
+      "sample_id": "NS 4",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 0.39",
+      "component": "Al2O3",
+      "value": 61.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "SiO2",
+      "value": 42.86,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "CaO",
+      "value": 42.86,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "Al2O3",
+      "value": 14.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25",
+      "component": "CaO",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25",
+      "component": "Al2O3",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44",
+      "component": "SiO2",
+      "value": 11.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44",
+      "component": "CaO",
+      "value": 44.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44",
+      "component": "Al2O3",
+      "value": 44.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BNC",
+      "component": "Fe2O3",
+      "value": 0.17,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E",
+      "component": "SiO2",
+      "value": 59.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E",
+      "component": "CaO",
+      "value": 20.64,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E",
+      "component": "MgO",
+      "value": 4.15,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E",
+      "component": "Al2O3",
+      "value": 8.84,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E",
+      "component": "Na2O",
+      "value": 0.46,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E",
+      "component": "K2O",
+      "value": 0.23,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E",
+      "component": "B2O3",
+      "value": 5.81,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E",
+      "component": "TiO2",
+      "value": 0.09,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E",
+      "component": "Fe2O3",
+      "value": 0.48,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NS 4",
+      "component": "SiO2",
+      "value": 2.65,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 0.39",
+      "component": "SiO2",
+      "value": 4.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "SiO2",
+      "value": 3.13,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 76.11 c",
+      "component": "SiO2",
+      "value": 4.75,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25 c",
+      "component": "SiO2",
+      "value": 4.74,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44 c",
+      "component": "SiO2",
+      "value": 4.56,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Di c",
+      "component": "SiO2",
+      "value": 4.19,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ab c",
+      "component": "SiO2",
+      "value": 5.58,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NTS 4 d",
+      "component": "SiO2",
+      "value": 2.82,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KTS 2 d",
+      "component": "SiO2",
+      "value": 3.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NC e",
+      "component": "SiO2",
+      "value": 3.01,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BNC e",
+      "component": "SiO2",
+      "value": 3.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E e",
+      "component": "SiO2",
+      "value": 4.826606,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 0.39",
+      "component": "CaO",
+      "value": 4.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "CaO",
+      "value": 3.13,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 76.11 c",
+      "component": "CaO",
+      "value": 4.75,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25 c",
+      "component": "CaO",
+      "value": 4.74,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44 c",
+      "component": "CaO",
+      "value": 4.56,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ab c",
+      "component": "CaO",
+      "value": 5.58,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NTS 4 d",
+      "component": "CaO",
+      "value": 2.82,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KTS 2 d",
+      "component": "CaO",
+      "value": 3.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NC e",
+      "component": "CaO",
+      "value": 3.01,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BNC e",
+      "component": "CaO",
+      "value": 3.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E e",
+      "component": "CaO",
+      "value": 4.826606,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "MgO",
+      "value": 4099.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 76.11 c",
+      "component": "MgO",
+      "value": 8466.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25 c",
+      "component": "MgO",
+      "value": 5811.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44 c",
+      "component": "MgO",
+      "value": 4230.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ab c",
+      "component": "MgO",
+      "value": 13011.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NTS 4 d",
+      "component": "MgO",
+      "value": 3415.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KTS 2 d",
+      "component": "MgO",
+      "value": 2915.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NC e",
+      "component": "MgO",
+      "value": 4747.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BNC e",
+      "component": "MgO",
+      "value": 4207.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E e",
+      "component": "MgO",
+      "value": 551.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "Al2O3",
+      "value": 867.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 76.11 c",
+      "component": "Al2O3",
+      "value": 793.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25 c",
+      "component": "Al2O3",
+      "value": 781.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44 c",
+      "component": "Al2O3",
+      "value": 881.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ab c",
+      "component": "Al2O3",
+      "value": 345.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NTS 4 d",
+      "component": "Al2O3",
+      "value": 640.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KTS 2 d",
+      "component": "Al2O3",
+      "value": 671.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NC e",
+      "component": "Al2O3",
+      "value": 504.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BNC e",
+      "component": "Al2O3",
+      "value": 538.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "Na2O",
+      "value": 431.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 76.11 c",
+      "component": "Na2O",
+      "value": 648.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25 c",
+      "component": "Na2O",
+      "value": 781.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44 c",
+      "component": "Na2O",
+      "value": 881.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ab c",
+      "component": "Na2O",
+      "value": 345.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NTS 4 d",
+      "component": "Na2O",
+      "value": 640.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KTS 2 d",
+      "component": "Na2O",
+      "value": 671.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NC e",
+      "component": "Na2O",
+      "value": 504.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BNC e",
+      "component": "Na2O",
+      "value": 538.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "K2O",
+      "value": 4099.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 76.11 c",
+      "component": "K2O",
+      "value": 8466.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25 c",
+      "component": "K2O",
+      "value": 5811.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44 c",
+      "component": "K2O",
+      "value": 4230.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ab c",
+      "component": "K2O",
+      "value": 13011.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NTS 4 d",
+      "component": "K2O",
+      "value": 3415.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KTS 2 d",
+      "component": "K2O",
+      "value": 2915.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NC e",
+      "component": "K2O",
+      "value": 4747.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BNC e",
+      "component": "K2O",
+      "value": 4207.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E e",
+      "component": "K2O",
+      "value": 551.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "B2O3",
+      "value": 4156.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 76.11 c",
+      "component": "B2O3",
+      "value": 8466.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25 c",
+      "component": "B2O3",
+      "value": 5811.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44 c",
+      "component": "B2O3",
+      "value": 4230.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ab c",
+      "component": "B2O3",
+      "value": 13011.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NTS 4 d",
+      "component": "B2O3",
+      "value": 3415.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KTS 2 d",
+      "component": "B2O3",
+      "value": 2915.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NC e",
+      "component": "B2O3",
+      "value": 4747.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BNC e",
+      "component": "B2O3",
+      "value": 4207.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "E e",
+      "component": "B2O3",
+      "value": 551.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "TiO2",
+      "value": 867.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 76.11 c",
+      "component": "TiO2",
+      "value": 793.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25 c",
+      "component": "TiO2",
+      "value": 781.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44 c",
+      "component": "TiO2",
+      "value": 881.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ab c",
+      "component": "TiO2",
+      "value": 345.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NTS 4 d",
+      "component": "TiO2",
+      "value": 640.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KTS 2 d",
+      "component": "TiO2",
+      "value": 671.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NC e",
+      "component": "TiO2",
+      "value": 504.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BNC e",
+      "component": "TiO2",
+      "value": 538.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "Fe2O3",
+      "value": 793.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 76.11 c",
+      "component": "Fe2O3",
+      "value": 648.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 50.25 c",
+      "component": "Fe2O3",
+      "value": 781.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ca 12.44 c",
+      "component": "Fe2O3",
+      "value": 881.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ab c",
+      "component": "Fe2O3",
+      "value": 345.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NTS 4 d",
+      "component": "Fe2O3",
+      "value": 640.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "KTS 2 d",
+      "component": "Fe2O3",
+      "value": 671.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "NC e",
+      "component": "Fe2O3",
+      "value": 504.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "BNC e",
+      "component": "Fe2O3",
+      "value": 538.9,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 50,
+  "elapsed_seconds": 183.3,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

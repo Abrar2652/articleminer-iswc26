@@ -1,0 +1,21 @@
+{
+  "pdf_id": "2211.05783v1",
+  "predictions": [
+    {
+      "value": 5000000000,
+      "type": "Result",
+      "model": "N/A",
+      "dataset": "N/A",
+      "metric": "N/A"
+    },
+    {
+      "value": 5000000000,
+      "type": "Result",
+      "model": "N/A",
+      "dataset": "N/A",
+      "metric": "N/A"
+    }
+  ],
+  "elapsed_seconds": 108.9,
+  "raw_preview": "0.01      & 0.02     & 0.03     & 0.01        & 0.02       & 0.03       \\\\\nOne Shot        & 0.02      & 0.03     & 0.04     & 0.02        & 0.03       & 0.04       \\\\\nFew Shot        & 0.03      & 0.04     & 0.05     & 0.03        & 0.04       & 0.05       \\\\\nLong Tail       & 0.05      & 0.06     & 0.07     & 0.05        & 0.06       & 0.07       \\\\ \\bottomrule\n\\end{tabular}\n}\n\\caption{Performance comparison of different models on various tasks and datasets.}\n\\end{table}\n\nJSON:\n[\n  {\"value\": 0"
+}

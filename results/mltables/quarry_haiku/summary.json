@@ -1,0 +1,11 @@
+{
+  "dataset": "mltables",
+  "model": "claude-haiku-4-5-20251001",
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ],
+  "total_papers": 15,
+  "total_tuples": 2766,
+  "total_time": 1095.4
+}

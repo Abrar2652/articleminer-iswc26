@@ -1,0 +1,982 @@
+{
+  "paper": "Jiang_et_al_2023",
+  "model": "llama31-8b",
+  "n_rows": 49,
+  "rows": [
+    {
+      "sample_id": "645-1",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 10000,
+        "Mn": 1000,
+        "Cd": 10,
+        "Co": 20,
+        "Ni": 50,
+        "Cu": 12.3,
+        "In": 0.5,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-2",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9000,
+        "Mn": 900,
+        "Cd": 8,
+        "Co": 18,
+        "Ni": 45,
+        "Cu": 8.2,
+        "In": 0.4,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-3",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1000,
+        "As": 100,
+        "Sb": 50,
+        "Cr": 20,
+        "Mn": 100,
+        "Co": 20,
+        "Cu": 10,
+        "Sn": 5,
+        "Pb": 5000,
+        "Tl": 10,
+        "Se": 5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-4",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1100,
+        "As": 120,
+        "Sb": 60,
+        "Cr": 25,
+        "Mn": 120,
+        "Co": 25,
+        "Cu": 12,
+        "Sn": 6,
+        "Pb": 5200,
+        "Tl": 12,
+        "Se": 6,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-5",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9500,
+        "Mn": 950,
+        "Cd": 9,
+        "Co": 19,
+        "Ni": 48,
+        "Cu": 11.5,
+        "In": 0.6,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-6",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1050,
+        "As": 115,
+        "Sb": 55,
+        "Cr": 22,
+        "Mn": 110,
+        "Co": 22,
+        "Cu": 11,
+        "Sn": 5.5,
+        "Pb": 5100,
+        "Tl": 11,
+        "Se": 5.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-7",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9800,
+        "Mn": 980,
+        "Cd": 10,
+        "Co": 20,
+        "Ni": 52,
+        "Cu": 12.8,
+        "In": 0.7,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-8",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1080,
+        "As": 125,
+        "Sb": 62,
+        "Cr": 25,
+        "Mn": 125,
+        "Co": 25,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5200,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-9",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9600,
+        "Mn": 960,
+        "Cd": 9,
+        "Co": 19,
+        "Ni": 49,
+        "Cu": 11.2,
+        "In": 0.5,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-10",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1070,
+        "As": 120,
+        "Sb": 60,
+        "Cr": 23,
+        "Mn": 120,
+        "Co": 23,
+        "Cu": 12,
+        "Sn": 6,
+        "Pb": 5150,
+        "Tl": 12,
+        "Se": 6,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-11",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9900,
+        "Mn": 990,
+        "Cd": 11,
+        "Co": 21,
+        "Ni": 51,
+        "Cu": 12.5,
+        "In": 0.8,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-12",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1090,
+        "As": 130,
+        "Sb": 65,
+        "Cr": 26,
+        "Mn": 130,
+        "Co": 26,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5250,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-13",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9800,
+        "Mn": 980,
+        "Cd": 10,
+        "Co": 20,
+        "Ni": 50,
+        "Cu": 12.3,
+        "In": 0.5,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-14",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1060,
+        "As": 115,
+        "Sb": 58,
+        "Cr": 24,
+        "Mn": 120,
+        "Co": 24,
+        "Cu": 12,
+        "Sn": 6,
+        "Pb": 5200,
+        "Tl": 12,
+        "Se": 6,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-15",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9600,
+        "Mn": 960,
+        "Cd": 9,
+        "Co": 19,
+        "Ni": 48,
+        "Cu": 11.5,
+        "In": 0.6,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-16",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1080,
+        "As": 125,
+        "Sb": 62,
+        "Cr": 25,
+        "Mn": 125,
+        "Co": 25,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5200,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-17",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9900,
+        "Mn": 990,
+        "Cd": 11,
+        "Co": 21,
+        "Ni": 51,
+        "Cu": 12.5,
+        "In": 0.8,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-18",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1090,
+        "As": 130,
+        "Sb": 65,
+        "Cr": 26,
+        "Mn": 130,
+        "Co": 26,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5250,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-19",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9800,
+        "Mn": 980,
+        "Cd": 10,
+        "Co": 20,
+        "Ni": 50,
+        "Cu": 12.3,
+        "In": 0.5,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-20",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1060,
+        "As": 115,
+        "Sb": 58,
+        "Cr": 24,
+        "Mn": 120,
+        "Co": 24,
+        "Cu": 12,
+        "Sn": 6,
+        "Pb": 5200,
+        "Tl": 12,
+        "Se": 6,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-21",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9600,
+        "Mn": 960,
+        "Cd": 9,
+        "Co": 19,
+        "Ni": 49,
+        "Cu": 11.2,
+        "In": 0.5,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-22",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1080,
+        "As": 125,
+        "Sb": 62,
+        "Cr": 25,
+        "Mn": 125,
+        "Co": 25,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5200,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-23",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9900,
+        "Mn": 990,
+        "Cd": 11,
+        "Co": 21,
+        "Ni": 51,
+        "Cu": 12.5,
+        "In": 0.8,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-24",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1090,
+        "As": 130,
+        "Sb": 65,
+        "Cr": 26,
+        "Mn": 130,
+        "Co": 26,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5250,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-25",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9800,
+        "Mn": 980,
+        "Cd": 10,
+        "Co": 20,
+        "Ni": 50,
+        "Cu": 12.3,
+        "In": 0.5,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-26",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1060,
+        "As": 115,
+        "Sb": 58,
+        "Cr": 24,
+        "Mn": 120,
+        "Co": 24,
+        "Cu": 12,
+        "Sn": 6,
+        "Pb": 5200,
+        "Tl": 12,
+        "Se": 6,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-27",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9600,
+        "Mn": 960,
+        "Cd": 9,
+        "Co": 19,
+        "Ni": 48,
+        "Cu": 11.5,
+        "In": 0.6,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-28",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1080,
+        "As": 125,
+        "Sb": 62,
+        "Cr": 25,
+        "Mn": 125,
+        "Co": 25,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5200,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-29",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9900,
+        "Mn": 990,
+        "Cd": 11,
+        "Co": 21,
+        "Ni": 51,
+        "Cu": 12.5,
+        "In": 0.8,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-30",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1090,
+        "As": 130,
+        "Sb": 65,
+        "Cr": 26,
+        "Mn": 130,
+        "Co": 26,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5250,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-31",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9800,
+        "Mn": 980,
+        "Cd": 10,
+        "Co": 20,
+        "Ni": 50,
+        "Cu": 12.3,
+        "In": 0.5,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-32",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1060,
+        "As": 115,
+        "Sb": 58,
+        "Cr": 24,
+        "Mn": 120,
+        "Co": 24,
+        "Cu": 12,
+        "Sn": 6,
+        "Pb": 5200,
+        "Tl": 12,
+        "Se": 6,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-33",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9600,
+        "Mn": 960,
+        "Cd": 9,
+        "Co": 19,
+        "Ni": 49,
+        "Cu": 11.2,
+        "In": 0.5,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-34",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1080,
+        "As": 125,
+        "Sb": 62,
+        "Cr": 25,
+        "Mn": 125,
+        "Co": 25,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5200,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-35",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9900,
+        "Mn": 990,
+        "Cd": 11,
+        "Co": 21,
+        "Ni": 51,
+        "Cu": 12.5,
+        "In": 0.8,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-36",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1090,
+        "As": 130,
+        "Sb": 65,
+        "Cr": 26,
+        "Mn": 130,
+        "Co": 26,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5250,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-37",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9800,
+        "Mn": 980,
+        "Cd": 10,
+        "Co": 20,
+        "Ni": 50,
+        "Cu": 12.3,
+        "In": 0.5,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-38",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1060,
+        "As": 115,
+        "Sb": 58,
+        "Cr": 24,
+        "Mn": 120,
+        "Co": 24,
+        "Cu": 12,
+        "Sn": 6,
+        "Pb": 5200,
+        "Tl": 12,
+        "Se": 6,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-39",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9600,
+        "Mn": 960,
+        "Cd": 9,
+        "Co": 19,
+        "Ni": 48,
+        "Cu": 11.5,
+        "In": 0.6,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-40",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1080,
+        "As": 125,
+        "Sb": 62,
+        "Cr": 25,
+        "Mn": 125,
+        "Co": 25,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5200,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-41",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9900,
+        "Mn": 990,
+        "Cd": 11,
+        "Co": 21,
+        "Ni": 51,
+        "Cu": 12.5,
+        "In": 0.8,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-42",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1090,
+        "As": 130,
+        "Sb": 65,
+        "Cr": 26,
+        "Mn": 130,
+        "Co": 26,
+        "Cu": 13,
+        "Sn": 6.5,
+        "Pb": 5250,
+        "Tl": 13,
+        "Se": 6.5,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-43",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9800,
+        "Mn": 980,
+        "Cd": 10,
+        "Co": 20,
+        "Ni": 50,
+        "Cu": 12.3,
+        "In": 0.5,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "645-44",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1060,
+        "As": 115,
+        "Sb": 58,
+        "Cr": 24,
+        "Mn": 120,
+        "Co": 24,
+        "Cu": 12,
+        "Sn": 6,
+        "Pb": 5200,
+        "Tl": 12,
+        "Se": 6,
+        "Cd": -0.5,
+        "Au": -0.5,
+        "Ga": -0.5,
+        "In": -0.5,
+        "Bi": -0.5
+      }
+    },
+    {
+      "sample_id": "645-45",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 9600,
+        "Mn": 960,
+        "Cd": 9,
+        "Co": 19,
+        "Ni": 49,
+        "Cu": 11.2,
+        "In": 0.5,
+        "Sb": -0.5,
+        "Mo": -0.5
+      }
+    },
+    {
+      "sample_id": "Py I",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 0,
+        "As": 0,
+        "Sb": 0,
+        "Cr": 0,
+        "Mn": 0,
+        "Co": 0,
+        "Cu": 0,
+        "Sn": 0,
+        "Pb": 0,
+        "Tl": 0,
+        "Se": 0,
+        "Cd": 0,
+        "In": 0,
+        "Bi": 0,
+        "Au": 0,
+        "Ga": 0,
+        "Ge": 0,
+        "Fe": 0,
+        "Mo": 0,
+        "Ag": 0
+      }
+    },
+    {
+      "sample_id": "Py II",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 1000,
+        "As": 100,
+        "Sb": 100,
+        "Cr": 0,
+        "Mn": 0,
+        "Co": 0,
+        "Cu": 0,
+        "Sn": 0,
+        "Pb": 0,
+        "Tl": 0,
+        "Se": 0,
+        "Cd": 0,
+        "In": 0,
+        "Bi": 0,
+        "Au": 0,
+        "Ga": 0,
+        "Ge": 0,
+        "Fe": 0,
+        "Mo": 0,
+        "Ag": 0
+      }
+    },
+    {
+      "sample_id": "Py III",
+      "mineral": "pyrite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Ni": 500,
+        "As": 200,
+        "Sb": 150,
+        "Cr": 50,
+        "Mn": 0,
+        "Co": 0,
+        "Cu": 0,
+        "Sn": 0,
+        "Pb": 0,
+        "Tl": 0,
+        "Se": 0,
+        "Cd": 0,
+        "In": 0,
+        "Bi": 0,
+        "Au": 0,
+        "Ga": 0,
+        "Ge": 0,
+        "Fe": 0,
+        "Mo": 0,
+        "Ag": 0
+      }
+    },
+    {
+      "sample_id": "sphalerite",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Fe": 1000,
+        "Mn": 100,
+        "Cd": 100,
+        "Co": 100,
+        "Ni": 100,
+        "Cu": 100,
+        "In": 100,
+        "Sb": 0,
+        "Mo": 0,
+        "Ag": 0
+      }
+    }
+  ],
+  "n_chunks": 3,
+  "raw_preview": "{\"sample_id\":\"645-1\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Fe\":10000,\"Mn\":1000,\"Cd\":10,\"Co\":20,\"Ni\":50,\"Cu\":12.3,\"In\":0.5,\"Sb\":-0.5,\"Mo\":-0.5}}\n{\"sample_id\":\"645-2\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Fe\":9000,\"Mn\":900,\"Cd\":8,\"Co\":18,\"Ni\":45,\"Cu\":8.2,\"In\":0.4,\"S",
+  "elapsed_seconds": 331.3
+}

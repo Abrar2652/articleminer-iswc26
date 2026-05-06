@@ -1,0 +1,19 @@
+{
+  "pdf_id": "S0022309302013662",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_Na3S4",
+      "component": "Na2O",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na3S4",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 6.7,
+  "raw_preview": "{\"sample_id\": \"S0022309303006537_0_1_Na3S4\", \"component\": \"Na2O\", \"value\": 60.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Na3S4\", \"component\": \"SiO2\", \"value\": 40.0, \"unit\": \"mol\"}"
+}

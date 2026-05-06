@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309315301794",
+  "predictions": [],
+  "elapsed_seconds": 10.0,
+  "raw_preview": "{\"sample\\_id\": \"S0022309331561234_0_1\", \"component\": \"Li2O\", \"value\": x, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0022309331561234_0_1\", \"component\": \"Ba O\", \"value\": 5, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0022309331561234_0_1\", \"component\": \"B2O3\", \"value\": (95 - x), \"unit\": \"mol\"}\n\nThese lines should be generated for each value of x (5, 10, 15, and 20 mol%)."
+}

@@ -1,0 +1,127 @@
+{
+  "pdf_id": "S0022309315302106",
+  "predictions": [
+    {
+      "sample_id": "Ba PF0",
+      "component": "BaCO3",
+      "value": 20.98,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF0",
+      "component": "CaF2",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF0",
+      "component": "NH4H2PO4",
+      "value": 79.02,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "BaCO3",
+      "value": 39.21,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "CaF2",
+      "value": 2.86,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "NH4H2PO4",
+      "value": 58.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF0",
+      "component": "BaO",
+      "value": 46.52,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "BaO",
+      "value": 37.91,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF0",
+      "component": "CaF2",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "CaF2",
+      "value": 2.79,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF0",
+      "component": "P2O5",
+      "value": 53.48,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF0",
+      "component": "Oxygen",
+      "value": 32.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "Oxygen",
+      "value": 33.13,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF0",
+      "component": "Phosphorus",
+      "value": 29.53,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "Phosphorus",
+      "value": 32.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF0",
+      "component": "Barium",
+      "value": 23.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "Barium",
+      "value": 24.97,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF0",
+      "component": "Calcium",
+      "value": 23.55,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "Calcium",
+      "value": 25.68,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 34.1,
+  "raw_preview": "Here are the extracted material-composition entries:\n\n{\"sample_id\": \"Ba PF0\", \"component\": \"BaCO3\", \"value\": 20.98, \"unit\": \"wt\"}\n{\"sample_id\": \"Ba PF0\", \"component\": \"CaF2\", \"value\": 0.0, \"unit\": \"wt\"}\n{\"sample_id\": \"Ba PF0\", \"component\": \"NH4H2PO4\", \"value\": 79.02, \"unit\": \"wt\"}\n{\"sample_id\": \"Ba PF10\", \"component\": \"BaCO3\", \"value\": 39.21, \"unit\": \"wt\"}\n{\"sample_id\": \"Ba PF10\", \"component\": \"CaF2\", \"value\": 2.86, \"unit\": \"wt\"}\n{\"sample_id\": \"Ba PF10\", \"component\": \"NH4H2PO4\", \"value\": 58.93, "
+}

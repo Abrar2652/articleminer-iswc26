@@ -1,0 +1,601 @@
+{
+  "pdf_id": "S0022309307012100",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "GaS3/2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "GeS2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "LaS3/2",
+      "value": 29.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "SiO2",
+      "value": 65.63,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Na2CO3",
+      "value": 31.25,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_1_M3",
+      "component": "Ag2O",
+      "value": 3.12,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-10",
+      "component": "V2O5",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "TiO2",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-7.5",
+      "component": "V2O5",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-5.0",
+      "component": "V2O5",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "TiO2",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-2.5",
+      "component": "V2O5",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "TiO2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309315000526_0_1_TV-0.0",
+      "component": "V2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Al2O3",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Na2O",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "H3PO4",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "H3PO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "H3PO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Al2O3",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Na2O",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "H3PO4",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "H3PO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "H3PO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Al2O3",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Na2O",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "H3PO4",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "H3PO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "H3PO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Al2O3",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Na2O",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "H3PO4",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "H3PO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "H3PO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Al2O3",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Na2O",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "H3PO4",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "H3PO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4",
+      "component": "H3PO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Al2O3",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "Na2O",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na PO3",
+      "component": "H3PO4",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Al(lact)3/Na H2PO4/Na PO3",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 217.9,
+  "raw_preview": "{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"GaS3/2\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"GeS2\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_3\", \"component\": \"LaS3/2\", \"value\": 29.5, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303001832_0_1_M3\", \"component\": \"SiO2\", \"value\": 65.63, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_1_M3\", \"component\": \"Na2CO3\", \"value\": 31.25, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_1_M"
+}

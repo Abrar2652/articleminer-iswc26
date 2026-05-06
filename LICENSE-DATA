@@ -1,0 +1,46 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The GeoScholar-28 ground-truth annotations, 210-column CMiO-MIN schema
+extension, per-paper OntoQuorum predictions, 4-tier evaluation reports,
+and all derived results in this repository are released under the
+Creative Commons Attribution 4.0 International License.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Human-readable summary:
+
+  You are free to:
+    Share    -- copy and redistribute the material in any medium or format
+    Adapt    -- remix, transform, and build upon the material
+                for any purpose, even commercially.
+
+  Under the following terms:
+    Attribution -- You must give appropriate credit, provide a link to the
+                   license, and indicate if changes were made. You may do so
+                   in any reasonable manner, but not in any way that suggests
+                   the licensor endorses you or your use.
+    No additional restrictions -- You may not apply legal terms or
+                   technological measures that legally restrict others from
+                   doing anything the license permits.
+
+Please cite the accompanying ISWC 2026 paper when using GeoScholar-28 or
+derived results:
+
+  @inproceedings{ontoquorum2026,
+    title     = {OntoQuorum: A Domain-Adaptable Framework for
+                 Ontology-Grounded Knowledge Graph Construction from
+                 Scientific Tables},
+    author    = {Anonymised for review},
+    booktitle = {Proceedings of the 25th International Semantic Web
+                 Conference (ISWC 2026)},
+    year      = {2026},
+  }
+
+SOURCE-PAPER PDFs
+
+The 26 source-paper PDFs in data/geoscholar28/pdfs/ remain under their
+original publishers' copyright. They are included here under academic
+fair-use for the purpose of benchmark reproducibility. Downstream
+redistribution of those specific PDFs is subject to each publisher's
+terms; the CC BY 4.0 license above applies only to the annotations,
+schema, code-derived predictions and evaluation reports.

@@ -1,0 +1,189 @@
+{
+  "arxiv_id": "2210.00543v1",
+  "predictions": [
+    {
+      "value": "9.0",
+      "type": "Data Stat.",
+      "attribute name": "Error Types Ratio - Under-specified"
+    },
+    {
+      "value": "5.5",
+      "type": "Data Stat.",
+      "attribute name": "Error Types Ratio - Over-specified"
+    },
+    {
+      "value": "3.0",
+      "type": "Data Stat.",
+      "attribute name": "Error Types Ratio - Self-reference"
+    },
+    {
+      "value": "1.0",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "\u03bb"
+    },
+    {
+      "value": "79.86",
+      "type": "Result",
+      "metric": "NIST",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "0.4",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "\u03bb"
+    },
+    {
+      "value": "26.66",
+      "type": "Result",
+      "metric": "BLEU",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "77.68",
+      "type": "Result",
+      "metric": "NIST",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "0.2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "\u03bb"
+    },
+    {
+      "value": "26.54",
+      "type": "Result",
+      "metric": "BLEU",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "78.60",
+      "type": "Result",
+      "metric": "NIST",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "0.0",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "\u03bb"
+    },
+    {
+      "value": "25.44",
+      "type": "Result",
+      "metric": "BLEU",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "66.92",
+      "type": "Result",
+      "metric": "NIST",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "9.0",
+      "type": "Data Stat.",
+      "dataset": "Error Types",
+      "attribute name": "Under-specified ratio"
+    },
+    {
+      "value": "5.5",
+      "type": "Data Stat.",
+      "dataset": "Error Types",
+      "attribute name": "Over-specified ratio"
+    },
+    {
+      "value": "3.0",
+      "type": "Data Stat.",
+      "dataset": "Error Types",
+      "attribute name": "Self-reference ratio"
+    },
+    {
+      "value": "3.17",
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "accuracy",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "3.89",
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "Fluency",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "7.6",
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "Under-specification",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "3.43",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "accuracy",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "3.95",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "Fluency",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "5.4",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "Under-specification",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "3.46",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "metric": "accuracy",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "4.03",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "metric": "Fluency",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "4.6",
+      "type": "Result",
+      "model": "T5-Contrast",
+      "metric": "Under-specification",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "4.57",
+      "type": "Result",
+      "model": "Golden",
+      "metric": "accuracy",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "4.92",
+      "type": "Result",
+      "model": "Golden",
+      "metric": "Fluency",
+      "task": "Definition Generation"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "Golden",
+      "metric": "Under-specification",
+      "task": "Definition Generation"
+    }
+  ],
+  "num_gold_annotations": 109,
+  "elapsed_seconds": 35.6,
+  "backends": [
+    "mineru"
+  ]
+}

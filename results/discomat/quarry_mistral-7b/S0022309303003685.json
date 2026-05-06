@@ -1,0 +1,102 @@
+{
+  "pii": "S0022309303003685",
+  "predictions": [
+    {
+      "sample_id": "Glass",
+      "component": "SiO2",
+      "value": 22.82,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Al2O3",
+      "value": 2.62,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "B2O3",
+      "value": 4.68,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Na2O",
+      "value": 3.87,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "CaO",
+      "value": 2.84,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Eu2O3",
+      "value": 0.81,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "SiO2",
+      "value": 21.51,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Al2O3",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Na2O",
+      "value": 1.77,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "CaO",
+      "value": 3.43,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Eu2O3",
+      "value": 2.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "SiO2",
+      "value": 18.76,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Al2O3",
+      "value": 5.76,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "CaO",
+      "value": 2.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Eu2O3",
+      "value": 3.56,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 57,
+  "elapsed_seconds": 41.3,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

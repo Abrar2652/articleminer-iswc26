@@ -1,0 +1,25 @@
+{
+  "pdf_id": "S0022309314004086",
+  "predictions": [
+    {
+      "sample_id": "ZCP",
+      "component": "Fe2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 1.5",
+      "component": "Fe2O3",
+      "value": 1.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "ZCPFe 5.0",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 26.3,
+  "raw_preview": "Here are the material-composition entries extracted from the paper text:\n\n{\"sample_id\": \"ZCP\", \"component\": \"ZnO\", \"value\": null, \"unit\": \"null\"}\n{\"sample_id\": \"ZCP\", \"component\": \"CaF2\", \"value\": null, \"unit\": \"null\"}\n{\"sample_id\": \"ZCP\", \"component\": \"P2O5\", \"value\": null, \"unit\": \"null\"}\n{\"sample_id\": \"ZCPFe 1.5\", \"component\": \"ZnO\", \"value\": null, \"unit\": \"null\"}\n{\"sample_id\": \"ZCPFe 1.5\", \"component\": \"CaF2\", \"value\": null, \"unit\": \"null\"}\n{\"sample_id\": \"ZCPFe 1.5\", \"component\": \"P2O5\", \"va"
+}

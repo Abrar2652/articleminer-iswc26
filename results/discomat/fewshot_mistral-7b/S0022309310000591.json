@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309310000591",
+  "predictions": [],
+  "elapsed_seconds": 14.3,
+  "raw_preview": "{\"sample\\_id\": \"KNS-x\", \"component\": \"K2O\", \"value\": 50.0, \"unit\": \"mol\"},\n{\"sample\\_id\": \"KNS-x\", \"component\": \"Nb2O5\", \"value\": x, \"unit\": \"mol\"},\n{\"sample\\_id\": \"KNS-x\", \"component\": \"Si O2\", \"value\": (100.0 - 50.0 - x), \"unit\": \"mol\"}\n\nThese lines should be generated for each value of x in the range 0 to 0.35. The resulting JSON lines represent the composition of each KNS glass sample in terms of mol% of K2O, Nb2O5, and Si O2."
+}

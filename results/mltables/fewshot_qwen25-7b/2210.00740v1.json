@@ -1,0 +1,615 @@
+{
+  "pdf_id": "2210.00740v1",
+  "predictions": [
+    {
+      "value": "25K",
+      "type": "Data Stat.",
+      "dataset": "MPII",
+      "attribute name": [
+        "number of images",
+        "# images"
+      ],
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "40k",
+      "type": "Data Stat.",
+      "dataset": "MPII",
+      "attribute name": [
+        "number of person instances",
+        "# person instances"
+      ],
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "16",
+      "type": "Data Stat.",
+      "dataset": "MPII",
+      "attribute name": [
+        "number of body joints",
+        "# body joints"
+      ],
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "87.9",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "Integral Pose Regression",
+      "hyper-parameter": {
+        "Backbone": "Res Net-101",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "Integral Pose Regression",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W32",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "Dark Pose",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W32",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "Token Pose",
+      "hyper-parameter": {
+        "Backbone": "Token Pose-L/D6",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "Token Pose",
+      "hyper-parameter": {
+        "Backbone": "Token Pose-L/D12",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "Token Pose",
+      "hyper-parameter": {
+        "Backbone": "Token Pose-L/D24",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "89.9",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "Removing Bias",
+      "hyper-parameter": {
+        "Backbone": "Res Net-152",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "Removing Bias",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W32",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "Simple Baseline",
+      "hyper-parameter": {
+        "Backbone": "Res Net-152",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "Simple Baseline + Ours",
+      "hyper-parameter": {
+        "Backbone": "Res Net-152",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "HRNet",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W32",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "HRNet + Ours",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W32",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "90.5",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "HRNet",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "PCKh@0.5",
+      "model": "HRNet + Ours",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP",
+      "model": "Baseline(HRNet-W48)",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "91.8",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP50",
+      "model": "Baseline(HRNet-W48)",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "83.8",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP75",
+      "model": "Baseline(HRNet-W48)",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "APM",
+      "model": "Baseline(HRNet-W48)",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "83.5",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "APL",
+      "model": "Baseline(HRNet-W48)",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "81.8",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AR",
+      "model": "Baseline(HRNet-W48)",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP",
+      "model": "500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP50",
+      "model": "500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "84.9",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP75",
+      "model": "500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "APM",
+      "model": "500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "84.4",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "APL",
+      "model": "500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "82.7",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AR",
+      "model": "500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "78.8",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP",
+      "model": "1000 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP50",
+      "model": "1000 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP75",
+      "model": "1000 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "APM",
+      "model": "1000 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "APL",
+      "model": "1000 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AR",
+      "model": "1000 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "78.9",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP",
+      "model": "1500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP50",
+      "model": "1500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "85.2",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP75",
+      "model": "1500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "APM",
+      "model": "1500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "85.4",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "APL",
+      "model": "1500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "83.0",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AR",
+      "model": "1500 Sinkhorn iterations",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "77.9",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP",
+      "model": "Naive demanders formulation",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP50",
+      "model": "Naive demanders formulation",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "84.8",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AP75",
+      "model": "Naive demanders formulation",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "74.5",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "APM",
+      "model": "Naive demanders formulation",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "83.9",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "APL",
+      "model": "Naive demanders formulation",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "training data/set": "MPII",
+      "test data/set": "MPII",
+      "task": "Human Pose Estimation",
+      "metric": "AR",
+      "model": "Naive demanders formulation",
+      "hyper-parameter": {
+        "Backbone": "HRNet-W48",
+        "Input size": "256 \u00d7 256"
+      }
+    }
+  ],
+  "elapsed_seconds": 142.5,
+  "raw_preview": "{\"value\": \"25K\", \"type\": \"Data Stat.\", \"dataset\": \"MPII\", \"attribute name\": [\"number of images\", \"# images\"], \"dataset features\": {\"xx\": \"yy\"}}\n{\"value\": \"40k\", \"type\": \"Data Stat.\", \"dataset\": \"MPII\", \"attribute name\": [\"number of person instances\", \"# person instances\"], \"dataset features\": {\"xx\": \"yy\"}}\n{\"value\": \"16\", \"type\": \"Data Stat.\", \"dataset\": \"MPII\", \"attribute name\": [\"number of body joints\", \"# body joints\"], \"dataset features\": {\"xx\": \"yy\"}}\n{\"value\": \"87.9\", \"type\": \"Result\", \"tr"
+}

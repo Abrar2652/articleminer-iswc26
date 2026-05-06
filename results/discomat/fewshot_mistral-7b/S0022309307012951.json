@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309307012951",
+  "predictions": [],
+  "elapsed_seconds": 19.9,
+  "raw_preview": "{\"sample\\_id\": \"SGx\", \"component\": \"Si O2\", \"value\": x, \"unit\": \"% mol\"}\n{\"sample\\_id\": \"SGx\", \"component\": \"Ge O2\", \"value\": (100 - x), \"unit\": \"% mol\"}\n\nThese lines should be generated for each of the synthesized glasses (SGx) with x representing the amount of Si O2 in mol%.\n\nExample output:\n{\"sample\\_id\": \"SG30\", \"component\": \"Si O2\", \"value\": 30, \"unit\": \"% mol\"}\n{\"sample\\_id\": \"SG30\", \"component\": \"Ge O2\", \"value\": 70, \"unit\": \"% mol\"}\n{\"sample\\_id\": \"SG50\", \"component\": \"Si O2\", \"value\": 5"
+}

@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309302013662",
+  "predictions": [],
+  "elapsed_seconds": 32.9,
+  "raw_preview": "{\"sample\\_id\": \"S0022312345_0_1\", \"component\": \"LaS3/2\", \"value\": 29.5, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0022312345_0_1\", \"component\": \"SiO2\", \"value\": x, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0022312345_0_1\", \"component\": \"Na2O\", \"value\": y, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0022312345_0_1\", \"component\": \"La2O3\", \"value\": z, \"unit\": \"mol\"}\n\nThe values of x, y, and z need to be extracted from the text. For example, the composition of the simulated glass is given as \"The composition of this mixture is giv"
+}

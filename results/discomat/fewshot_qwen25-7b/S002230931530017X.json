@@ -1,0 +1,133 @@
+{
+  "pdf_id": "S002230931530017X",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_No. 1",
+      "component": "Li2CO3",
+      "value": 2.6001,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 1",
+      "component": "H3BO3",
+      "value": 8.7031,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 1",
+      "component": "Gd2O3",
+      "value": 1.4948,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 2",
+      "component": "Li2CO3",
+      "value": 2.6001,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 2",
+      "component": "H3BO3",
+      "value": 8.7031,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 2",
+      "component": "Gd2O3",
+      "value": 1.4948,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 2",
+      "component": "Ce O2",
+      "value": 0.0473,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 3",
+      "component": "Li2CO3",
+      "value": 2.6001,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 3",
+      "component": "H3BO3",
+      "value": 8.7031,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 3",
+      "component": "Gd2O3",
+      "value": 1.4948,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 3",
+      "component": "Ce F3",
+      "value": 0.0542,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 4",
+      "component": "Li2CO3",
+      "value": 2.6001,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 4",
+      "component": "H3BO3",
+      "value": 8.7031,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 4",
+      "component": "Gd2O3",
+      "value": 1.4948,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 4",
+      "component": "Ce F3",
+      "value": 0.0542,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 4",
+      "component": "Carbon",
+      "value": 0.038,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 5",
+      "component": "Li2CO3",
+      "value": 2.6001,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 5",
+      "component": "H3BO3",
+      "value": 8.7031,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 5",
+      "component": "Gd2O3",
+      "value": 1.4948,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 5",
+      "component": "Ce F3",
+      "value": 0.0542,
+      "unit": "g"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_No. 5",
+      "component": "Si3N4",
+      "value": 0.012,
+      "unit": "g"
+    }
+  ],
+  "elapsed_seconds": 42.1,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_No. 1\", \"component\": \"Li2CO3\", \"value\": 2.6001, \"unit\": \"g\"}\n{\"sample_id\": \"S0022309303006537_0_1_No. 1\", \"component\": \"H3BO3\", \"value\": 8.7031, \"unit\": \"g\"}\n{\"sample_id\": \"S0022309303006537_0_1_No. 1\", \"component\": \"Gd2O3\", \"value\": 1.4948, \"unit\": \"g\"}\n{\"sample_id\": \"S0022309303006537_0_1_No. 2\", \"component\": \"Li2CO3\", \"value\": 2.6001, \"unit\": \"g\"}\n{\"sample_id\": \"S0022309303006537_0_1_No. 2\", \"component\": \"H3BO3\", \"value\": 8.7031, \"unit\": \"g\"}\n{\"sam"
+}

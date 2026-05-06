@@ -1,0 +1,83 @@
+{
+  "pmc_id": "PMC3983390",
+  "predictions": [
+    {
+      "value": "58.8",
+      "type": "IC50",
+      "target": "D2",
+      "treatment": "( - )-5-OH-DPAT",
+      "unit": "nM"
+    },
+    {
+      "value": "186",
+      "type": "IC50",
+      "target": "D3",
+      "treatment": "1a",
+      "unit": "nM"
+    },
+    {
+      "value": "1.36",
+      "type": "IC50",
+      "target": "D2",
+      "treatment": "( 3 H)spiroperidol",
+      "unit": "nM"
+    },
+    {
+      "value": "1.86",
+      "type": "IC50",
+      "target": "D3",
+      "treatment": "( 3 H)spiroperidol",
+      "unit": "nM"
+    },
+    {
+      "value": "218",
+      "type": "EC50",
+      "target": "CHO - D 2",
+      "treatment": "dopamine",
+      "unit": "nM"
+    },
+    {
+      "value": "33.1",
+      "type": "EC50",
+      "target": "CHO - D 2",
+      "treatment": "1a",
+      "unit": "nM"
+    },
+    {
+      "value": "1.51",
+      "type": "EC50",
+      "target": "CHO - D 3",
+      "treatment": "1a",
+      "unit": "nM"
+    },
+    {
+      "value": "10.6",
+      "type": "EC50",
+      "target": "CHO - D 2",
+      "treatment": "dopamine",
+      "unit": "nM"
+    },
+    {
+      "value": "15.9",
+      "type": "EC50",
+      "target": "CHO - D 3",
+      "treatment": "( - )- 9b",
+      "unit": "nM"
+    },
+    {
+      "value": "0.10",
+      "type": "EC50",
+      "target": "CHO - D 3",
+      "treatment": "( - )- 9b",
+      "unit": "nM"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 8,
+  "elapsed_seconds": 83.3,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

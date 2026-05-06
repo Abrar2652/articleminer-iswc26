@@ -1,0 +1,282 @@
+{
+  "pii": "S0022309399003683",
+  "predictions": [
+    {
+      "sample_id": "GC1",
+      "component": "SiO2",
+      "value": 58.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC1",
+      "component": "Al2O3",
+      "value": 20.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC1",
+      "component": "ZnO",
+      "value": 8.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC1",
+      "component": "MgO",
+      "value": 4.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC1",
+      "component": "ZrO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC1",
+      "component": "TiO2",
+      "value": 3.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC1",
+      "component": "RO+R2O/Al2O3",
+      "value": 1.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GC2",
+      "component": "SiO2",
+      "value": 57.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC2",
+      "component": "Al2O3",
+      "value": 18.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC2",
+      "component": "ZnO",
+      "value": 14.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC2",
+      "component": "Cs2O",
+      "value": 4.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC2",
+      "component": "BaO",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC2",
+      "component": "ZrO2",
+      "value": 7.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC2",
+      "component": "TiO2",
+      "value": 5.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC2",
+      "component": "RO+R2O/Al2O3",
+      "value": 1.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GC3",
+      "component": "SiO2",
+      "value": 55.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC3",
+      "component": "Al2O3",
+      "value": 21.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC3",
+      "component": "ZnO",
+      "value": 13.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC3",
+      "component": "BaO",
+      "value": 2.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC3",
+      "component": "TiO2",
+      "value": 5.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC3",
+      "component": "RO+R2O/Al2O3",
+      "value": 0.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GC4",
+      "component": "SiO2",
+      "value": 57.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC4",
+      "component": "Al2O3",
+      "value": 21.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC4",
+      "component": "ZnO",
+      "value": 14.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC4",
+      "component": "MgO",
+      "value": 2.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC4",
+      "component": "BaO",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC4",
+      "component": "ZrO2",
+      "value": 3.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC4",
+      "component": "TiO2",
+      "value": 5.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC4",
+      "component": "RO+R2O/Al2O3",
+      "value": 0.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GC5",
+      "component": "SiO2",
+      "value": 57.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC5",
+      "component": "Al2O3",
+      "value": 18.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC5",
+      "component": "ZnO",
+      "value": 11.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC5",
+      "component": "MgO",
+      "value": 2.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC5",
+      "component": "BaO",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC5",
+      "component": "ZrO2",
+      "value": 3.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC5",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC5",
+      "component": "RO+R2O/Al2O3",
+      "value": 1.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GC6",
+      "component": "SiO2",
+      "value": 59.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC6",
+      "component": "Al2O3",
+      "value": 19.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC6",
+      "component": "ZnO",
+      "value": 9.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC6",
+      "component": "MgO",
+      "value": 2.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC6",
+      "component": "BaO",
+      "value": 2.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC6",
+      "component": "ZrO2",
+      "value": 3.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC6",
+      "component": "TiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GC6",
+      "component": "RO+R2O/Al2O3",
+      "value": 1.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 35,
+  "elapsed_seconds": 71.1,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "pii": "S0022309300001435",
+  "predictions": [
+    {
+      "sample_id": "x=0",
+      "component": "Li2O",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0",
+      "component": "SiO2",
+      "value": 78.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.1",
+      "component": "Li2O",
+      "value": 14.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.1",
+      "component": "TeO2",
+      "value": 19.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.1",
+      "component": "SiO2",
+      "value": 65.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.2",
+      "component": "Li2O",
+      "value": 12.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.2",
+      "component": "TeO2",
+      "value": 34.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.2",
+      "component": "SiO2",
+      "value": 52.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.25",
+      "component": "Li2O",
+      "value": 12.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.25",
+      "component": "TeO2",
+      "value": 41.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.25",
+      "component": "SiO2",
+      "value": 45.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.25",
+      "component": "K2O",
+      "value": 0.52,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.3",
+      "component": "Li2O",
+      "value": 11.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.3",
+      "component": "TeO2",
+      "value": 46.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.3",
+      "component": "SiO2",
+      "value": 40.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.3",
+      "component": "Al2O3",
+      "value": 0.65,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=0.3",
+      "component": "K2O",
+      "value": 0.47,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=1",
+      "component": "Li2O",
+      "value": 6.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "x=1",
+      "component": "TeO2",
+      "value": 92.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 32,
+  "elapsed_seconds": 56.1,
+  "backends": [
+    "docling"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "dataset": "discomat",
+  "model": "llama31-8b",
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ],
+  "total_papers": 111,
+  "total_tuples": 618,
+  "total_time": 3170.7
+}

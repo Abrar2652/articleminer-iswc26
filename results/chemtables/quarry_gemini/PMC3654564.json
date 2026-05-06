@@ -1,0 +1,96 @@
+{
+  "pmc_id": "PMC3654564",
+  "predictions": [
+    {
+      "value": "27",
+      "type": "IC50",
+      "target": "wt mCOX-2",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "71",
+      "type": "IC50",
+      "target": "mV349A",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "120",
+      "type": "IC50",
+      "target": "mV349A",
+      "treatment": "CF\u2083-INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "315",
+      "type": "IC50",
+      "target": "mY355A",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "165",
+      "type": "IC50",
+      "target": "mY355A",
+      "treatment": "CF\u2083-INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "130",
+      "type": "IC50",
+      "target": "mR120A",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "220",
+      "type": "IC50",
+      "target": "mR120L",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "435",
+      "type": "IC50",
+      "target": "mR120L",
+      "treatment": "CF\u2083-INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "326",
+      "type": "IC50",
+      "target": "mR120G",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": "1.56",
+      "type": "IC50",
+      "target": "mR120G",
+      "treatment": "CF\u2083-INDO",
+      "unit": "\u00b5M"
+    },
+    {
+      "value": "475",
+      "type": "IC50",
+      "target": "mY355H",
+      "treatment": "INDO",
+      "unit": "nM"
+    },
+    {
+      "value": ">4",
+      "type": "IC50",
+      "target": "mY355H",
+      "treatment": "CF\u2083-INDO",
+      "unit": "\u00b5M"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 14,
+  "elapsed_seconds": 35.6,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

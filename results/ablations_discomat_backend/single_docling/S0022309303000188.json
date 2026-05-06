@@ -1,0 +1,112 @@
+{
+  "pii": "S0022309303000188",
+  "predictions": [
+    {
+      "sample_id": "VBT0",
+      "component": "V2O5",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT0",
+      "component": "TeO2",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT5",
+      "component": "V2O5",
+      "value": 45.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT5",
+      "component": "Bi2O3",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT5",
+      "component": "TeO2",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT10",
+      "component": "V2O5",
+      "value": 40.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT10",
+      "component": "Bi2O3",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT10",
+      "component": "TeO2",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT15",
+      "component": "V2O5",
+      "value": 35.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT15",
+      "component": "Bi2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT15",
+      "component": "TeO2",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT20",
+      "component": "V2O5",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT20",
+      "component": "Bi2O3",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT20",
+      "component": "TeO2",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT25",
+      "component": "V2O5",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT25",
+      "component": "Bi2O3",
+      "value": 25.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "VBT25",
+      "component": "TeO2",
+      "value": 50.0,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 17,
+  "elapsed_seconds": 24.8,
+  "backends": [
+    "docling"
+  ]
+}

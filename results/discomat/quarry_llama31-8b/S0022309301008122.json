@@ -1,0 +1,84 @@
+{
+  "pii": "S0022309301008122",
+  "predictions": [
+    {
+      "sample_id": "50",
+      "component": "ZrF4",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "BaF2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "YF3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "NaF",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "BaF2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "NaF",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "BaF2",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "NaF",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "BaF2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "NaF",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "BaF2",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "50",
+      "component": "NaF",
+      "value": 35.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 24,
+  "elapsed_seconds": 49.8,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

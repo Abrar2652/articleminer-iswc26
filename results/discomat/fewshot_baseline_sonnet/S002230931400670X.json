@@ -1,0 +1,31 @@
+{
+  "pdf_id": "S002230931400670X",
+  "predictions": [
+    {
+      "sample_id": "CaO-SiO2_CaO50",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CaO-SiO2_CaO50",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CaO-Al2O3_CaO50",
+      "component": "CaO",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CaO-Al2O3_CaO50",
+      "component": "Al2O3",
+      "value": 50.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 19.5,
+  "raw_preview": "The paper text describes binary systems (CaO\u2013SiO2 and CaO\u2013Al2O3) with varying CaO content, but does not present explicit composition tables with specific sample IDs and numerical component values in a tabular format. The text mentions CaO = 50 mol% as an example, and refers to ranges of CaO content (e.g., 40\u201360 mol% for CaO\u2013SiO2, 50\u201370 mol% for CaO\u2013Al2O3), but these are axis ranges on figures, not discrete sample compositions.\n\nThe only specific composition explicitly stated is CaO = 50 mol% (wi"
+}

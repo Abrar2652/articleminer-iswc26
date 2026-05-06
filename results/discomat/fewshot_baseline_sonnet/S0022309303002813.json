@@ -1,0 +1,295 @@
+{
+  "pdf_id": "S0022309303002813",
+  "predictions": [
+    {
+      "sample_id": "chemical_analysis",
+      "component": "SiO2",
+      "value": 65.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "chemical_analysis",
+      "component": "Al2O3",
+      "value": 2.05,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "chemical_analysis",
+      "component": "Fe2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "chemical_analysis",
+      "component": "CaO",
+      "value": 5.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "chemical_analysis",
+      "component": "MgO",
+      "value": 0.82,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "chemical_analysis",
+      "component": "Mn2O3",
+      "value": 1.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "chemical_analysis",
+      "component": "CuO",
+      "value": 1.02,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "chemical_analysis",
+      "component": "K2O",
+      "value": 0.57,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "chemical_analysis",
+      "component": "Na2O",
+      "value": 23.39,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample1",
+      "component": "SiO2",
+      "value": 71.36,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample1",
+      "component": "Al2O3",
+      "value": 2.06,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample1",
+      "component": "Fe2O3",
+      "value": 0.54,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample1",
+      "component": "CaO",
+      "value": 7.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample1",
+      "component": "Mn2O3",
+      "value": 0.79,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample1",
+      "component": "K2O",
+      "value": 0.37,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample1",
+      "component": "Na2O",
+      "value": 17.88,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample2",
+      "component": "SiO2",
+      "value": 72.26,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample2",
+      "component": "Al2O3",
+      "value": 1.98,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample2",
+      "component": "Fe2O3",
+      "value": 0.78,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample2",
+      "component": "CaO",
+      "value": 7.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample2",
+      "component": "Mn2O3",
+      "value": 1.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample2",
+      "component": "K2O",
+      "value": 0.38,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "EPMA_sample2",
+      "component": "Na2O",
+      "value": 16.38,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glass_II-I_BC",
+      "component": "SiO2",
+      "value": 63.63,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glass_II-I_BC",
+      "component": "Al2O3",
+      "value": 1.95,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glass_II-I_BC",
+      "component": "Fe2O3",
+      "value": 0.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glass_II-I_BC",
+      "component": "CaO",
+      "value": 6.28,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glass_II-I_BC",
+      "component": "MgO",
+      "value": 2.53,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glass_II-I_BC",
+      "component": "Mn2O3",
+      "value": 0.07,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glass_II-I_BC",
+      "component": "CuO",
+      "value": 0.62,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glass_II-I_BC",
+      "component": "K2O",
+      "value": 0.11,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glass_II-I_BC",
+      "component": "Na2O",
+      "value": 23.86,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine_glass_IV_AD",
+      "component": "SiO2",
+      "value": 66.22,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine_glass_IV_AD",
+      "component": "Al2O3",
+      "value": 2.62,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine_glass_IV_AD",
+      "component": "Fe2O3",
+      "value": 1.26,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine_glass_IV_AD",
+      "component": "CaO",
+      "value": 8.28,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine_glass_IV_AD",
+      "component": "MgO",
+      "value": 1.24,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine_glass_IV_AD",
+      "component": "Mn2O3",
+      "value": 0.58,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine_glass_IV_AD",
+      "component": "K2O",
+      "value": 0.98,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Byzantine_glass_IV_AD",
+      "component": "Na2O",
+      "value": 18.28,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glasses_I-V_AD",
+      "component": "SiO2",
+      "value": 68.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glasses_I-V_AD",
+      "component": "Al2O3",
+      "value": 2.52,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glasses_I-V_AD",
+      "component": "Fe2O3",
+      "value": 0.81,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glasses_I-V_AD",
+      "component": "CaO",
+      "value": 6.98,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glasses_I-V_AD",
+      "component": "MgO",
+      "value": 1.03,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glasses_I-V_AD",
+      "component": "Mn2O3",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glasses_I-V_AD",
+      "component": "K2O",
+      "value": 1.13,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Roman_glasses_I-V_AD",
+      "component": "Na2O",
+      "value": 18.63,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 25.0,
+  "raw_preview": "I'll extract all material-composition entries from Table 1 in the paper.\n\n{\"sample_id\": \"chemical_analysis\", \"component\": \"SiO2\", \"value\": 65.93, \"unit\": \"wt\"}\n{\"sample_id\": \"chemical_analysis\", \"component\": \"Al2O3\", \"value\": 2.05, \"unit\": \"wt\"}\n{\"sample_id\": \"chemical_analysis\", \"component\": \"Fe2O3\", \"value\": 1.00, \"unit\": \"wt\"}\n{\"sample_id\": \"chemical_analysis\", \"component\": \"CaO\", \"value\": 5.14, \"unit\": \"wt\"}\n{\"sample_id\": \"chemical_analysis\", \"component\": \"MgO\", \"value\": 0.82, \"unit\": \"wt\"}\n"
+}

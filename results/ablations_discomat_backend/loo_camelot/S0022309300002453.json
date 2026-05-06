@@ -1,0 +1,145 @@
+{
+  "pii": "S0022309300002453",
+  "predictions": [
+    {
+      "sample_id": "Bioactive a",
+      "component": "Na2O",
+      "value": 6.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Bioactive a",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Bioactive a",
+      "component": "P2O5",
+      "value": 4.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Bioactive a",
+      "component": "SiO2",
+      "value": 53.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 1 b",
+      "component": "Na2O",
+      "value": 25.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 1 b",
+      "component": "CaO",
+      "value": 11.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 1 b",
+      "component": "B2O3",
+      "value": 1.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 1 b",
+      "component": "P2O5",
+      "value": 2.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 1 b",
+      "component": "SiO2",
+      "value": 59.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 2",
+      "component": "Na2O",
+      "value": 16.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 2",
+      "component": "K2O",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 2",
+      "component": "MgO",
+      "value": 10.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 2",
+      "component": "CaO",
+      "value": 6.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 2",
+      "component": "B2O3",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 2",
+      "component": "P2O5",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Biocompatible 2",
+      "component": "SiO2",
+      "value": 58.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "A",
+      "component": "Bioactive",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B",
+      "component": "Bioactive",
+      "value": 35.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B",
+      "component": "Biocompatible 1",
+      "value": 65.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "C",
+      "component": "Bioactive",
+      "value": 35.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "C",
+      "component": "Biocompatible 2",
+      "value": 65.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "D",
+      "component": "Biocompatible 2",
+      "value": 100.0,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 18,
+  "elapsed_seconds": 25.5,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

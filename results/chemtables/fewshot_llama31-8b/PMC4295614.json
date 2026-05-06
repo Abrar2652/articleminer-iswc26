@@ -1,0 +1,105 @@
+{
+  "pdf_id": "PMC4295614",
+  "predictions": [
+    {
+      "value": "0.23",
+      "type": "MIC",
+      "target": "Mycobacterium tuberculosis",
+      "treatment": "rifampicin",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.66",
+      "type": "MIC",
+      "target": "Mycobacterium tuberculosis",
+      "treatment": "isoniazid",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.12",
+      "type": "MIC",
+      "target": "Mycobacterium tuberculosis",
+      "treatment": "43b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.15",
+      "type": "MIC",
+      "target": "Mycobacterium tuberculosis",
+      "treatment": "65",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.13",
+      "type": "MIC",
+      "target": "Mycobacterium tuberculosis",
+      "treatment": "67",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.61",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "1",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.87",
+      "type": "IC50",
+      "target": "ITP",
+      "treatment": "1",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "10",
+      "type": "IC50",
+      "target": "K562",
+      "treatment": "2",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.36",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "16c",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "1.60",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "16f",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.36",
+      "type": "IC50",
+      "target": "IPT",
+      "treatment": "16h",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "B. subtilis",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": ">200",
+      "type": "MIC",
+      "target": "S. aureus",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    },
+    {
+      "value": "200",
+      "type": "MIC",
+      "target": "A. baumannii",
+      "treatment": "9c",
+      "unit": "\u03bcgmL\u22121"
+    }
+  ],
+  "elapsed_seconds": 28.5,
+  "raw_preview": "{\"value\": \"0.23\", \"type\": \"MIC\", \"target\": \"Mycobacterium tuberculosis\", \"treatment\": \"rifampicin\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"0.66\", \"type\": \"MIC\", \"target\": \"Mycobacterium tuberculosis\", \"treatment\": \"isoniazid\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"0.12\", \"type\": \"MIC\", \"target\": \"Mycobacterium tuberculosis\", \"treatment\": \"43b\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"0.15\", \"type\": \"MIC\", \"target\": \"Mycobacterium tuberculosis\", \"treatment\": \"65\", \"unit\": \"\\u03bcM\"}\n{\"value\": \"0.13\", \"type\": \"MIC\", \"target"
+}

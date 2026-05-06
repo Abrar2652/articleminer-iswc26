@@ -1,0 +1,13 @@
+{
+  "pdf_id": "S0022309301007311",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_H3",
+      "component": "H",
+      "value": 3.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 3.3,
+  "raw_preview": "{\"sample_id\": \"S0022309303006537_0_1_H3\", \"component\": \"H\", \"value\": 3.0, \"unit\": \"mol\"}"
+}

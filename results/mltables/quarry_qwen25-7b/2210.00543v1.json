@@ -1,0 +1,901 @@
+{
+  "arxiv_id": "2210.00543v1",
+  "predictions": [
+    {
+      "value": 7938,
+      "type": "Data Stat.",
+      "dataset": "WordNet",
+      "attribute name": "number of phrases"
+    },
+    {
+      "value": 998,
+      "type": "Data Stat.",
+      "dataset": "WordNet",
+      "attribute name": "number of validation phrases"
+    },
+    {
+      "value": 1001,
+      "type": "Data Stat.",
+      "dataset": "WordNet",
+      "attribute name": "number of test phrases"
+    },
+    {
+      "value": 33128,
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "number of phrases"
+    },
+    {
+      "value": 8867,
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "number of validation phrases"
+    },
+    {
+      "value": 8850,
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "number of test phrases"
+    },
+    {
+      "value": 190696,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "number of phrases"
+    },
+    {
+      "value": 26876,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "number of validation phrases"
+    },
+    {
+      "value": 25797,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "number of test phrases"
+    },
+    {
+      "value": 13883,
+      "type": "Data Stat.",
+      "dataset": "WordNet",
+      "attribute name": "number of entries"
+    },
+    {
+      "value": 1752,
+      "type": "Data Stat.",
+      "dataset": "WordNet",
+      "attribute name": "number of validation entries"
+    },
+    {
+      "value": 1775,
+      "type": "Data Stat.",
+      "dataset": "WordNet",
+      "attribute name": "number of test entries"
+    },
+    {
+      "value": 97855,
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "number of entries"
+    },
+    {
+      "value": 12232,
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "number of validation entries"
+    },
+    {
+      "value": 411384,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "number of entries"
+    },
+    {
+      "value": 57883,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "number of validation entries"
+    },
+    {
+      "value": 36450,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "number of test entries"
+    },
+    {
+      "value": 5.81,
+      "type": "Data Stat.",
+      "dataset": "WordNet",
+      "attribute name": "context length"
+    },
+    {
+      "value": 5.64,
+      "type": "Data Stat.",
+      "dataset": "WordNet",
+      "attribute name": "validation context length"
+    },
+    {
+      "value": 5.77,
+      "type": "Data Stat.",
+      "dataset": "WordNet",
+      "attribute name": "test context length"
+    },
+    {
+      "value": 17.74,
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "context length"
+    },
+    {
+      "value": 17.8,
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "validation context length"
+    },
+    {
+      "value": 17.56,
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "test context length"
+    },
+    {
+      "value": 10.89,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "context length"
+    },
+    {
+      "value": 10.86,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "validation context length"
+    },
+    {
+      "value": 11.22,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "test context length"
+    },
+    {
+      "value": 6.61,
+      "type": "Data Stat.",
+      "dataset": "WordNet",
+      "attribute name": "description length"
+    },
+    {
+      "value": 6.85,
+      "type": "Data Stat.",
+      "dataset": "WordNet",
+      "attribute name": "test description length"
+    },
+    {
+      "value": 11.02,
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "description length"
+    },
+    {
+      "value": 10.99,
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "validation description length"
+    },
+    {
+      "value": 10.95,
+      "type": "Data Stat.",
+      "dataset": "Oxford",
+      "attribute name": "test description length"
+    },
+    {
+      "value": 10.99,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "description length"
+    },
+    {
+      "value": 10.95,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "validation description length"
+    },
+    {
+      "value": 12.05,
+      "type": "Data Stat.",
+      "dataset": "Urban",
+      "attribute name": "test description length"
+    },
+    {
+      "value": "23.77",
+      "type": "Result",
+      "model": "I-Attention",
+      "metric": "WordNet.BLEU",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "44.30",
+      "type": "Result",
+      "model": "I-Attention",
+      "metric": "WordNet.NIST",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "17.45",
+      "type": "Result",
+      "model": "I-Attention",
+      "metric": "Oxford.BLEU",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "35.79",
+      "type": "Result",
+      "model": "I-Attention",
+      "metric": "Oxford.NIST",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "8.81",
+      "type": "Result",
+      "model": "I-Attention",
+      "metric": "Urban.BLEU",
+      "dataset": "Urban"
+    },
+    {
+      "value": "19.43",
+      "type": "Result",
+      "model": "I-Attention",
+      "metric": "Urban.NIST",
+      "dataset": "Urban"
+    },
+    {
+      "value": "24.78",
+      "type": "Result",
+      "model": "Local",
+      "metric": "WordNet.BLEU",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "40.32",
+      "type": "Result",
+      "model": "Local",
+      "metric": "WordNet.NIST",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "17.58",
+      "type": "Result",
+      "model": "Local",
+      "metric": "Oxford.BLEU",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "31.30",
+      "type": "Result",
+      "model": "Local",
+      "metric": "Oxford.NIST",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "8.99",
+      "type": "Result",
+      "model": "Local",
+      "metric": "Urban.BLEU",
+      "dataset": "Urban"
+    },
+    {
+      "value": "17.39",
+      "type": "Result",
+      "model": "Local",
+      "metric": "Urban.NIST",
+      "dataset": "Urban"
+    },
+    {
+      "value": "23.59",
+      "type": "Result",
+      "model": "Global",
+      "metric": "WordNet.BLEU",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "49.70",
+      "type": "Result",
+      "model": "Global",
+      "metric": "WordNet.NIST",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "14.95",
+      "type": "Result",
+      "model": "Global",
+      "metric": "Oxford.BLEU",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "32.79",
+      "type": "Result",
+      "model": "Global",
+      "metric": "Oxford.NIST",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "5.15",
+      "type": "Result",
+      "model": "Global",
+      "metric": "Urban.BLEU",
+      "dataset": "Urban"
+    },
+    {
+      "value": "10.45",
+      "type": "Result",
+      "model": "Global",
+      "metric": "Urban.NIST",
+      "dataset": "Urban"
+    },
+    {
+      "value": "25.19",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "metric": "WordNet.BLEU",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "43.54",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "metric": "WordNet.NIST",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "18.57",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "metric": "Oxford.BLEU",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "38.22",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "metric": "Oxford.NIST",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "9.93",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "metric": "Urban.BLEU",
+      "dataset": "Urban"
+    },
+    {
+      "value": "19.29",
+      "type": "Result",
+      "model": "LOG-CaD",
+      "metric": "Urban.NIST",
+      "dataset": "Urban"
+    },
+    {
+      "value": "32.72",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "WordNet.BLEU",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "64.57",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "WordNet.NIST",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "26.52",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "Oxford.BLEU",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "74.17",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "Oxford.NIST",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "17.71",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "Urban.BLEU",
+      "dataset": "Urban"
+    },
+    {
+      "value": "35.53",
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "Urban.NIST",
+      "dataset": "Urban"
+    },
+    {
+      "value": "32.05",
+      "type": "Result",
+      "model": "T5-Contrast (Ours) T5-Base",
+      "metric": "WordNet.BLEU",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "74.71",
+      "type": "Result",
+      "model": "T5-Contrast (Ours) T5-Base",
+      "metric": "WordNet.NIST",
+      "dataset": "WordNet"
+    },
+    {
+      "value": "27.11",
+      "type": "Result",
+      "model": "T5-Contrast (Ours) T5-Base",
+      "metric": "Oxford.BLEU",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "79.42",
+      "type": "Result",
+      "model": "T5-Contrast (Ours) T5-Base",
+      "metric": "Oxford.NIST",
+      "dataset": "Oxford"
+    },
+    {
+      "value": "19.44",
+      "type": "Result",
+      "model": "T5-Contrast (Ours) T5-Base",
+      "metric": "Urban.BLEU",
+      "dataset": "Urban"
+    },
+    {
+      "value": "41.01",
+      "type": "Result",
+      "model": "T5-Contrast (Ours) T5-Base",
+      "metric": "Urban.NIST",
+      "dataset": "Urban"
+    },
+    {
+      "value": 32.05,
+      "type": "Result",
+      "model": "Ours",
+      "metric": "WordNet.BLEU",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 74.71,
+      "type": "Result",
+      "model": "Ours",
+      "metric": "WordNet.NIST",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 27.1,
+      "type": "Result",
+      "model": "Ours",
+      "metric": "Oxford.BLEU",
+      "dataset": "Oxford"
+    },
+    {
+      "value": 79.42,
+      "type": "Result",
+      "model": "Ours",
+      "metric": "Oxford.NIST",
+      "dataset": "Oxford"
+    },
+    {
+      "value": 19.44,
+      "type": "Result",
+      "model": "Ours",
+      "metric": "Urban.BLEU",
+      "dataset": "Urban"
+    },
+    {
+      "value": 41.01,
+      "type": "Result",
+      "model": "Ours",
+      "metric": "Urban.NIST",
+      "dataset": "Urban"
+    },
+    {
+      "value": 31.07,
+      "type": "Result",
+      "model": "w/ Mean()",
+      "metric": "WordNet.BLEU",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 71.48,
+      "type": "Result",
+      "model": "w/ Mean()",
+      "metric": "WordNet.NIST",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 27.13,
+      "type": "Result",
+      "model": "w/ Mean()",
+      "metric": "Oxford.BLEU",
+      "dataset": "Oxford"
+    },
+    {
+      "value": 80.33,
+      "type": "Result",
+      "model": "w/ Mean()",
+      "metric": "Oxford.NIST",
+      "dataset": "Oxford"
+    },
+    {
+      "value": 18.57,
+      "type": "Result",
+      "model": "w/ Mean()",
+      "metric": "Urban.BLEU",
+      "dataset": "Urban"
+    },
+    {
+      "value": 40.29,
+      "type": "Result",
+      "model": "w/ Mean()",
+      "metric": "Urban.NIST",
+      "dataset": "Urban"
+    },
+    {
+      "value": 31.75,
+      "type": "Result",
+      "model": "w/ One-stage training",
+      "metric": "WordNet.BLEU",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 73.79,
+      "type": "Result",
+      "model": "w/ One-stage training",
+      "metric": "WordNet.NIST",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 27.06,
+      "type": "Result",
+      "model": "w/ One-stage training",
+      "metric": "Oxford.BLEU",
+      "dataset": "Oxford"
+    },
+    {
+      "value": 79.9,
+      "type": "Result",
+      "model": "w/ One-stage training",
+      "metric": "Oxford.NIST",
+      "dataset": "Oxford"
+    },
+    {
+      "value": 16.49,
+      "type": "Result",
+      "model": "w/ One-stage training",
+      "metric": "Urban.BLEU",
+      "dataset": "Urban"
+    },
+    {
+      "value": 31.46,
+      "type": "Result",
+      "model": "w/ One-stage training",
+      "metric": "Urban.NIST",
+      "dataset": "Urban"
+    },
+    {
+      "value": 31.72,
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "WordNet.BLEU",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 57.35,
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "WordNet.NIST",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 25.44,
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "Oxford.BLEU",
+      "dataset": "Oxford"
+    },
+    {
+      "value": 66.92,
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "Oxford.NIST",
+      "dataset": "Oxford"
+    },
+    {
+      "value": 17.66,
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "Urban.BLEU",
+      "dataset": "Urban"
+    },
+    {
+      "value": 26.86,
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "Urban.NIST",
+      "dataset": "Urban"
+    },
+    {
+      "value": "7.71",
+      "type": "Result",
+      "model": "\u03bb=1.0",
+      "metric": "BLEU",
+      "dataset": "Word Net"
+    },
+    {
+      "value": "25.67",
+      "type": "Result",
+      "model": "\u03bb=1.0",
+      "metric": "NIST",
+      "dataset": "Word Net"
+    },
+    {
+      "value": "27.11",
+      "type": "Result",
+      "model": "\u03bb=0.8",
+      "metric": "BLEU",
+      "dataset": "Word Net"
+    },
+    {
+      "value": "79.42",
+      "type": "Result",
+      "model": "\u03bb=0.8",
+      "metric": "NIST",
+      "dataset": "Word Net"
+    },
+    {
+      "value": "27.23",
+      "type": "Result",
+      "model": "\u03bb=0.6",
+      "metric": "BLEU",
+      "dataset": "Word Net"
+    },
+    {
+      "value": "79.86",
+      "type": "Result",
+      "model": "\u03bb=0.6",
+      "metric": "NIST",
+      "dataset": "Word Net"
+    },
+    {
+      "value": "26.66",
+      "type": "Result",
+      "model": "\u03bb=0.4",
+      "metric": "BLEU",
+      "dataset": "Word Net"
+    },
+    {
+      "value": "77.68",
+      "type": "Result",
+      "model": "\u03bb=0.4",
+      "metric": "NIST",
+      "dataset": "Word Net"
+    },
+    {
+      "value": "26.54",
+      "type": "Result",
+      "model": "\u03bb=0.2",
+      "metric": "BLEU",
+      "dataset": "Word Net"
+    },
+    {
+      "value": "78.60",
+      "type": "Result",
+      "model": "\u03bb=0.2",
+      "metric": "NIST",
+      "dataset": "Word Net"
+    },
+    {
+      "value": "25.44",
+      "type": "Result",
+      "model": "\u03bb=0.0",
+      "metric": "BLEU",
+      "dataset": "Word Net"
+    },
+    {
+      "value": "66.92",
+      "type": "Result",
+      "model": "\u03bb=0.0",
+      "metric": "NIST",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 3.17,
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "accuracy",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 3.89,
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "Flu.",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 7.6,
+      "type": "Result",
+      "model": "T5-Base",
+      "metric": "Under-spec.",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 3.43,
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "accuracy",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 3.95,
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "Flu.",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 5.4,
+      "type": "Result",
+      "model": "T5-Reranking",
+      "metric": "Under-spec.",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 3.46,
+      "type": "Result",
+      "model": "T5-Constrast (Ours)",
+      "metric": "accuracy",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 4.03,
+      "type": "Result",
+      "model": "T5-Constrast (Ours)",
+      "metric": "Flu.",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 4.6,
+      "type": "Result",
+      "model": "T5-Constrast (Ours)",
+      "metric": "Under-spec.",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 4.57,
+      "type": "Result",
+      "model": "Golden",
+      "metric": "accuracy",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 4.92,
+      "type": "Result",
+      "model": "Golden",
+      "metric": "Flu.",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 0.2,
+      "type": "Result",
+      "model": "Golden",
+      "metric": "Under-spec.",
+      "dataset": "Word Net"
+    },
+    {
+      "value": 140,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Max-epoch",
+      "stage": 1,
+      "dataset": "WordNet"
+    },
+    {
+      "value": 50,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Max-epoch",
+      "stage": 1,
+      "dataset": "Oxford"
+    },
+    {
+      "value": 30,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Max-epoch",
+      "stage": 1,
+      "dataset": "Urban"
+    },
+    {
+      "value": 70,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Max-epoch",
+      "stage": 2,
+      "dataset": "WordNet"
+    },
+    {
+      "value": 15,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Max-epoch",
+      "stage": 2,
+      "dataset": "Urban"
+    },
+    {
+      "value": 40,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Early-stop",
+      "stage": 1,
+      "dataset": "WordNet"
+    },
+    {
+      "value": 10,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Early-stop",
+      "stage": 1,
+      "dataset": "Oxford"
+    },
+    {
+      "value": 5,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Early-stop",
+      "stage": 1,
+      "dataset": "Urban"
+    },
+    {
+      "value": 0,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "\u03bb",
+      "stage": 1,
+      "dataset": "WordNet"
+    },
+    {
+      "value": 0,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "\u03bb",
+      "stage": 1,
+      "dataset": "Oxford"
+    },
+    {
+      "value": 0,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "\u03bb",
+      "stage": 1,
+      "dataset": "Urban"
+    },
+    {
+      "value": 0.8,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "\u03bb",
+      "stage": 2,
+      "dataset": "WordNet"
+    },
+    {
+      "value": 0.8,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "\u03bb",
+      "stage": 2,
+      "dataset": "Oxford"
+    },
+    {
+      "value": 0.8,
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "\u03bb",
+      "stage": 2,
+      "dataset": "Urban"
+    }
+  ],
+  "num_gold_annotations": 109,
+  "elapsed_seconds": 184.0,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

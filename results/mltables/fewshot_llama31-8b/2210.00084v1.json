@@ -1,0 +1,844 @@
+{
+  "pdf_id": "2210.00084v1",
+  "predictions": [
+    {
+      "value": "7",
+      "type": "Other",
+      "metric": "Figure number"
+    },
+    {
+      "value": "10",
+      "type": "Data Stat.",
+      "dataset": "None",
+      "sub-set/group name": "None",
+      "attribute name": "None",
+      "dataset features": "None"
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "None",
+      "sub-set/group name": "None",
+      "attribute name": "None",
+      "dataset features": "None"
+    },
+    {
+      "value": "30",
+      "type": "Data Stat.",
+      "dataset": "None",
+      "sub-set/group name": "None",
+      "attribute name": "None",
+      "dataset features": "None"
+    },
+    {
+      "value": "40",
+      "type": "Data Stat.",
+      "dataset": "None",
+      "sub-set/group name": "None",
+      "attribute name": "None",
+      "dataset features": "None"
+    },
+    {
+      "value": "50",
+      "type": "Data Stat.",
+      "dataset": "None",
+      "sub-set/group name": "None",
+      "attribute name": "None",
+      "dataset features": "None"
+    },
+    {
+      "value": "100",
+      "type": "Data Stat.",
+      "dataset": "None",
+      "sub-set/group name": "None",
+      "attribute name": "None",
+      "dataset features": "None"
+    },
+    {
+      "value": "65.27",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "7.67",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "68.39",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.69",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "51.25",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.02",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "53.26",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "2.95",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "40.26",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.17",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "42.57",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.69",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "55.78",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.72",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "58.47",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.84",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "33.76",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "6.94",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "37.59",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.60",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "40.17",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.18",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "43.76",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.09",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "33.76",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "6.94",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "37.59",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.60",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "53.17",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.92",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "55.30",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.78",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "40.60",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.91",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "42.20",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "2.87",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "39.36",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.85",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "42.58",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.11",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "30.24",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "2.34",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "33.44",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "2.04",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "43.75",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "1.85",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "45.58",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "2.11",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "66.12",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.21",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "68.17",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.26",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "48.38",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.85",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "50.16",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.15",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "27.85",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.21",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "29.97",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.17",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "55.88",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.86",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "58.22",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.30",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "58.69",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "6.39",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "61.59",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.21",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "64.17",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.87",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "67.12",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.29",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "35.24",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.69",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "37.43",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.94",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "45.64",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.56",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "49.64",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.23",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "56.60",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "7.86",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "60.67",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.24",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "65.40",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "6.13",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "68.37",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.67",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "36.58",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.28",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "39.16",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.73",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "52.67",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.51",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "55.31",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.23",
+      "type": "Result",
+      "model": "Caps GNN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "65.83",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "7.17",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "69.16",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.14",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "63.80",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.61",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "67.30",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.35",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "40.36",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.69",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "43.70",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "3.98",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "55.73",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.80",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    },
+    {
+      "value": "58.83",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.32",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "None",
+      "metric": "Standard Deviation"
+    }
+  ],
+  "elapsed_seconds": 191.1,
+  "raw_preview": "{\"value\": \"7\", \"type\": \"Other\", \"metric\": \"Figure number\"}\n{\"value\": \"10\", \"type\": \"Data Stat.\", \"dataset\": \"None\", \"sub-set/group name\": \"None\", \"attribute name\": \"None\", \"dataset features\": \"None\"}\n{\"value\": \"20\", \"type\": \"Data Stat.\", \"dataset\": \"None\", \"sub-set/group name\": \"None\", \"attribute name\": \"None\", \"dataset features\": \"None\"}\n{\"value\": \"30\", \"type\": \"Data Stat.\", \"dataset\": \"None\", \"sub-set/group name\": \"None\", \"attribute name\": \"None\", \"dataset features\": \"None\"}\n{\"value\": \"40\", \"t"
+}

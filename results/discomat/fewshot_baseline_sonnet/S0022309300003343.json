@@ -1,0 +1,367 @@
+{
+  "pdf_id": "S0022309300003343",
+  "predictions": [
+    {
+      "sample_id": "YSi17G16_eq",
+      "component": "Y",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16_eq",
+      "component": "Si",
+      "value": 56.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16_eq",
+      "component": "Al",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16_eq",
+      "component": "O",
+      "value": 83.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16_eq",
+      "component": "N",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16_at",
+      "component": "Y",
+      "value": 12.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16_at",
+      "component": "Si",
+      "value": 18.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16_at",
+      "component": "Al",
+      "value": 7.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16_at",
+      "component": "O",
+      "value": 54.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16_at",
+      "component": "N",
+      "value": 7.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B_phase_eq",
+      "component": "Y",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B_phase_eq",
+      "component": "Si",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B_phase_eq",
+      "component": "Al",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B_phase_eq",
+      "component": "O",
+      "value": 83.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B_phase_eq",
+      "component": "N",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B_phase_at",
+      "component": "Y",
+      "value": 15.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B_phase_at",
+      "component": "Si",
+      "value": 14.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B_phase_at",
+      "component": "Al",
+      "value": 8.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B_phase_at",
+      "component": "O",
+      "value": 54.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-B_phase_at",
+      "component": "N",
+      "value": 7.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q_phase_eq",
+      "component": "Y",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q_phase_eq",
+      "component": "Si",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q_phase_eq",
+      "component": "Al",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q_phase_eq",
+      "component": "O",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q_phase_eq",
+      "component": "N",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q_phase_at",
+      "component": "Y",
+      "value": 7.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q_phase_at",
+      "component": "Si",
+      "value": 15.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q_phase_at",
+      "component": "Al",
+      "value": 15.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q_phase_at",
+      "component": "O",
+      "value": 52.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y-Q_phase_at",
+      "component": "N",
+      "value": 8.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W_phase_eq",
+      "component": "La",
+      "value": 21.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W_phase_eq",
+      "component": "Si",
+      "value": 57.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W_phase_eq",
+      "component": "Al",
+      "value": 21.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W_phase_eq",
+      "component": "O",
+      "value": 87.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W_phase_eq",
+      "component": "N",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W_phase_at",
+      "component": "La",
+      "value": 9.35,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W_phase_at",
+      "component": "Si",
+      "value": 18.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W_phase_at",
+      "component": "Al",
+      "value": 9.35,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W_phase_at",
+      "component": "O",
+      "value": 57.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La-W_phase_at",
+      "component": "N",
+      "value": 5.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B_phase_eq",
+      "component": "Er",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B_phase_eq",
+      "component": "Si",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B_phase_eq",
+      "component": "Al",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B_phase_eq",
+      "component": "O",
+      "value": 83.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B_phase_eq",
+      "component": "N",
+      "value": 17.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B_phase_at",
+      "component": "Er",
+      "value": 15.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B_phase_at",
+      "component": "Si",
+      "value": 14.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B_phase_at",
+      "component": "Al",
+      "value": 8.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B_phase_at",
+      "component": "O",
+      "value": 54.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er-B_phase_at",
+      "component": "N",
+      "value": 7.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2_eq",
+      "component": "Eu",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2_eq",
+      "component": "Si",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2_eq",
+      "component": "Al",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2_eq",
+      "component": "O",
+      "value": 87.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2_eq",
+      "component": "N",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2_at",
+      "component": "Eu",
+      "value": 7.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2_at",
+      "component": "Si",
+      "value": 15.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2_at",
+      "component": "Al",
+      "value": 15.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2_at",
+      "component": "O",
+      "value": 55.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2_at",
+      "component": "N",
+      "value": 5.2,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 36.2,
+  "raw_preview": "I'll extract the composition data from Table 1 in the paper. The table provides cation and anion concentrations in equivalent percent (e/o) and atomic percent (at%).\n\n```json\n{\"sample_id\": \"YSi17G16_eq\", \"component\": \"Y\", \"value\": 28, \"unit\": \"mol\"}\n{\"sample_id\": \"YSi17G16_eq\", \"component\": \"Si\", \"value\": 56, \"unit\": \"mol\"}\n{\"sample_id\": \"YSi17G16_eq\", \"component\": \"Al\", \"value\": 16, \"unit\": \"mol\"}\n{\"sample_id\": \"YSi17G16_eq\", \"component\": \"O\", \"value\": 83, \"unit\": \"mol\"}\n{\"sample_id\": \"YSi17G16"
+}

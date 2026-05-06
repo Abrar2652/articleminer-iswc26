@@ -1,0 +1,751 @@
+{
+  "pdf_id": "S0022309309004104",
+  "predictions": [
+    {
+      "sample_id": "TZN1",
+      "component": "ZnO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "TeO2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "TeO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "TeO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Yb2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN2",
+      "component": "Tm2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN3",
+      "component": "Tm2O3",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "TZN1",
+      "component": "Yb2O3",
+      "value": 0.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 194.3,
+  "raw_preview": "{\"sample_id\": \"TZN1\", \"component\": \"ZnO\", \"value\": 40.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN1\", \"component\": \"TeO2\", \"value\": 30.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN1\", \"component\": \"Na2O\", \"value\": 30.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN2\", \"component\": \"ZnO\", \"value\": 30.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN2\", \"component\": \"TeO2\", \"value\": 40.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN2\", \"component\": \"Na2O\", \"value\": 30.0, \"unit\": \"mol\"}\n{\"sample_id\": \"TZN3\", \"component\": \"ZnO\", \"value\": 30.0, \"unit\":"
+}

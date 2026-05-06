@@ -1,0 +1,134 @@
+{
+  "pdf_id": "S002230930900578X",
+  "predictions": [
+    {
+      "sample_id": "1373K",
+      "component": "B",
+      "value": 4.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1273K",
+      "component": "Fe",
+      "value": 90.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1273K",
+      "component": "Si",
+      "value": 2.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1273K",
+      "component": "B",
+      "value": 6.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1173K",
+      "component": "Fe",
+      "value": 91.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1173K",
+      "component": "Si",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1173K",
+      "component": "B",
+      "value": 6.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1073K",
+      "component": "Fe",
+      "value": 94.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1073K",
+      "component": "Si",
+      "value": 2.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "1073K",
+      "component": "B",
+      "value": 3.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "973K",
+      "component": "Fe",
+      "value": 96.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "973K",
+      "component": "Si",
+      "value": 3.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "973K",
+      "component": "B",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "873K",
+      "component": "Fe",
+      "value": 95.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "873K",
+      "component": "Si",
+      "value": 4.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "773K",
+      "component": "Fe",
+      "value": 96.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "773K",
+      "component": "Si",
+      "value": 1.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "773K",
+      "component": "B",
+      "value": 2.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "300K",
+      "component": "Fe",
+      "value": 95.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "300K",
+      "component": "Si",
+      "value": 4.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "300K",
+      "component": "B",
+      "value": 0.7,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_annotations": 26,
+  "ablation": "no_intelligence",
+  "elapsed_seconds": 20.4
+}

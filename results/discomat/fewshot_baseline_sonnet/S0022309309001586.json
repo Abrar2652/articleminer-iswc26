@@ -1,0 +1,91 @@
+{
+  "pdf_id": "S0022309309001586",
+  "predictions": [
+    {
+      "sample_id": "L1",
+      "component": "La2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L1",
+      "component": "P2O5",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "La2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "SrO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S1",
+      "component": "P2O5",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "La2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "SrO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S2",
+      "component": "P2O5",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "La2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "SrO",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S3",
+      "component": "P2O5",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "La2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "SrO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S4",
+      "component": "P2O5",
+      "value": 75.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 25.4,
+  "raw_preview": "I need to find composition data from the paper. The paper describes glasses of composition [La(1-x)Mx]P3Oy with x = 0, 0.2, 0.4, 0.6, and 0.8, where M = Ba, Ca, Sr. The samples are labeled L1, C1-C4, S1-S4, B1-B4.\n\nFrom Table 1 (referenced in the text with ICP MS analysis showing starting and actual compositions), and from the figure labels showing mole amounts like \"25La75P\", \"5La20Sr75P\", \"10La15Sr75P\", \"15La10Sr75P\", \"20La5Sr75P\", I can extract composition data.\n\nThe figure labels suggest sta"
+}

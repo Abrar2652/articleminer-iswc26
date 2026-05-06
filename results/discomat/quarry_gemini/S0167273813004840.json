@@ -1,0 +1,173 @@
+{
+  "pii": "S0167273813004840",
+  "predictions": [
+    {
+      "sample_id": "Sample_1",
+      "component": "Fe2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_1",
+      "component": "SiO2",
+      "value": 49.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_1",
+      "component": "PbO",
+      "value": 49.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_2",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_2",
+      "component": "SiO2",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_2",
+      "component": "PbO",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_3",
+      "component": "Fe2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_3",
+      "component": "SiO2",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_3",
+      "component": "PbO",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_4",
+      "component": "Fe2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_4",
+      "component": "SiO2",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_4",
+      "component": "PbO",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_5",
+      "component": "Fe2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_5",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_5",
+      "component": "PbO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_6",
+      "component": "Fe2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_6",
+      "component": "SiO2",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_6",
+      "component": "PbO",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_7",
+      "component": "Fe2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_7",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_7",
+      "component": "PbO",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_8",
+      "component": "Fe2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_8",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_8",
+      "component": "PbO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_9",
+      "component": "Fe2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_9",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Sample_9",
+      "component": "PbO",
+      "value": 25.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 27,
+  "elapsed_seconds": 42.6,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

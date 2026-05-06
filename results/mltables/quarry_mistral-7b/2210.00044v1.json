@@ -1,0 +1,82 @@
+{
+  "arxiv_id": "2210.00044v1",
+  "predictions": [
+    {
+      "value": 512,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Diverse, Taxonomy, Questions, Diverse+PT, Taxonomy+PT, Questions+PT (first occurrence of each setting)"
+    },
+    {
+      "value": 1024,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Diverse+PT, Taxonomy+PT, Questions+PT (second occurrence of each setting)"
+    },
+    {
+      "value": 8e-05,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Diverse, Diverse+PT, Taxonomy, Taxonomy+PT, Questions, Questions+PT",
+      "metric": "LA"
+    },
+    {
+      "value": 8e-05,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Diverse, Questions",
+      "metric": "learning rate"
+    },
+    {
+      "value": 5e-05,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Taxonomy+PT, Questions+PT",
+      "metric": "learning rate"
+    },
+    {
+      "value": 0.0001,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Questions+PT",
+      "metric": "learning rate"
+    },
+    {
+      "value": 1e-05,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Diverse+PT, Taxonomy+PT",
+      "metric": "learning rate"
+    },
+    {
+      "value": 0.7,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Diverse+PT",
+      "metric": "LwF \u03bb"
+    },
+    {
+      "value": 0.5,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Taxonomy+PT",
+      "metric": "LwF \u03bb"
+    },
+    {
+      "value": 0.9,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Questions+PT",
+      "metric": "EWC \u03bb"
+    },
+    {
+      "value": 400,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Diverse",
+      "metric": "EWC \u03bb"
+    },
+    {
+      "value": 500,
+      "type": "Hyper-parameter/Architecture",
+      "model": "Diverse+PT, Taxonomy+PT, Questions+PT",
+      "metric": "EWC \u03bb"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 85.0,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

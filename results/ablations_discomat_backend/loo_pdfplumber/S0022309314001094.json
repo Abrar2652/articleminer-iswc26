@@ -1,0 +1,277 @@
+{
+  "pii": "S0022309314001094",
+  "predictions": [
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=0",
+      "component": "Na2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=0",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=5",
+      "component": "Na2O",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=5",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=5",
+      "component": "P2O5",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=10",
+      "component": "Na2O",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=10",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=10",
+      "component": "P2O5",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=15",
+      "component": "Na2O",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=15",
+      "component": "ZnO",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=15",
+      "component": "P2O5",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=20",
+      "component": "Na2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=20",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=20",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=25",
+      "component": "Na2O",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=25",
+      "component": "ZnO",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=25",
+      "component": "P2O5",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=30",
+      "component": "Na2O",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=30",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=30",
+      "component": "P2O5",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=33",
+      "component": "Na2O",
+      "value": 33.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=33",
+      "component": "ZnO",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-(50-x/2)P2O5, x=33",
+      "component": "P2O5",
+      "value": 33.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=0",
+      "component": "Na2O",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=5",
+      "component": "Na2O",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=5",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=10",
+      "component": "Na2O",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=10",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=10",
+      "component": "P2O5",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=15",
+      "component": "Na2O",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=15",
+      "component": "ZnO",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=15",
+      "component": "P2O5",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=20",
+      "component": "Na2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=20",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=20",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=25",
+      "component": "Na2O",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=25",
+      "component": "ZnO",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=25",
+      "component": "P2O5",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=30",
+      "component": "Na2O",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=30",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=30",
+      "component": "P2O5",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=33",
+      "component": "Na2O",
+      "value": 33.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=33",
+      "component": "ZnO",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "(50-x/2)Na2O-xZnO-50P2O5, x=33",
+      "component": "P2O5",
+      "value": 33.5,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 92,
+  "elapsed_seconds": 59.3,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "camelot"
+  ]
+}

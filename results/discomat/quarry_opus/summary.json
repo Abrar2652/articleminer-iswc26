@@ -1,0 +1,13 @@
+{
+  "dataset": "discomat",
+  "model": "claude-opus-4-6",
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ],
+  "total_papers": 111,
+  "total_tuples": 3404,
+  "total_time": 11400.9
+}

@@ -1,0 +1,1414 @@
+{
+  "pdf_id": "2210.00055v1",
+  "predictions": [
+    {
+      "value": "88.3",
+      "type": "Result",
+      "model": "Group DRO",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "91.8",
+      "type": "Result",
+      "model": "Group DRO",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "64.4",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "77.2",
+      "type": "Result",
+      "model": "LfF",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "LfF",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "83.2",
+      "type": "Result",
+      "model": "SD",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "2.0",
+      "type": "Result",
+      "model": "SD",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy std"
+    },
+    {
+      "value": "91.6",
+      "type": "Result",
+      "model": "SD",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "SD",
+      "dataset": "CelebA",
+      "metric": "Average accuracy std"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "JTT",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "88.0",
+      "type": "Result",
+      "model": "JTT",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "model": "CIM",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "CIM",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "47.2",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "36.1",
+      "type": "Result",
+      "model": "CVaR DRO",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "CVaR DRO (no group labels)",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "24.4",
+      "type": "Result",
+      "model": "LfF (no group labels)",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "model": "LfF (no group labels)",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "40.6",
+      "type": "Result",
+      "model": "JTT (no group labels)",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "88.0",
+      "type": "Result",
+      "model": "JTT (no group labels)",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "55.0",
+      "type": "Result",
+      "model": "DivDis",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "90.8",
+      "type": "Result",
+      "model": "DivDis",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "78.0",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy std"
+    },
+    {
+      "value": "91.3",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CelebA",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CelebA",
+      "metric": "Average accuracy std"
+    },
+    {
+      "value": "78",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "55",
+      "type": "Result",
+      "model": "ERM (comparison)",
+      "dataset": "CelebA",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "89.3",
+      "type": "Result",
+      "model": "Group DRO",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "3.1",
+      "type": "Result",
+      "model": "Group DRO",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy std"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "model": "Group DRO",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "0.7",
+      "type": "Result",
+      "model": "Group DRO",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy std"
+    },
+    {
+      "value": "80.8",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "1.3",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy std"
+    },
+    {
+      "value": "94.0",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy std"
+    },
+    {
+      "value": "86.4",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Waterbirds",
+      "metric": "Worst-group accuracy std"
+    },
+    {
+      "value": "93.0",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy"
+    },
+    {
+      "value": "0.7",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Waterbirds",
+      "metric": "Average accuracy std"
+    },
+    {
+      "value": "60",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "Waterbirds (original)",
+      "metric": "Worst-group accuracy"
+    },
+    {
+      "value": "96.3",
+      "type": "Result",
+      "model": "Baseline",
+      "dataset": "ImageNet-9 (Original)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "model": "Baseline",
+      "dataset": "ImageNet-9 (Mixed-same)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "75.6",
+      "type": "Result",
+      "model": "Baseline",
+      "dataset": "ImageNet-9 (Mixed-rand)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "85.6",
+      "type": "Result",
+      "model": "Baseline",
+      "dataset": "ImageNet-9 (Only-FG)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "97.7",
+      "type": "Result",
+      "model": "CIM",
+      "dataset": "ImageNet-9 (Original)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "model": "CIM",
+      "dataset": "ImageNet-9 (Mixed-same)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "CIM",
+      "dataset": "ImageNet-9 (Mixed-rand)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "SIN",
+      "dataset": "ImageNet-9 (Original)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "73.1",
+      "type": "Result",
+      "model": "SIN",
+      "dataset": "ImageNet-9 (Mixed-same)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "63.7",
+      "type": "Result",
+      "model": "SIN",
+      "dataset": "ImageNet-9 (Mixed-rand)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "94.7",
+      "type": "Result",
+      "model": "INSIN",
+      "dataset": "ImageNet-9 (Original)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "85.9",
+      "type": "Result",
+      "model": "INSIN",
+      "dataset": "ImageNet-9 (Mixed-same)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "78.5",
+      "type": "Result",
+      "model": "INSIN",
+      "dataset": "ImageNet-9 (Mixed-rand)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "94.2",
+      "type": "Result",
+      "model": "INCGN",
+      "dataset": "ImageNet-9 (Original)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "83.4",
+      "type": "Result",
+      "model": "INCGN",
+      "dataset": "ImageNet-9 (Mixed-same)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "80.1",
+      "type": "Result",
+      "model": "INCGN",
+      "dataset": "ImageNet-9 (Mixed-rand)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "ImageNet-9 (Original)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "ImageNet-9 (Mixed-same)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "ImageNet-9 (Mixed-rand)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "ImageNet-9 (Only-FG)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "ImageNet-9 (Only-FG)",
+      "metric": "Accuracy improvement over baseline"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "ImageNet-9 (Mixed-same)",
+      "metric": "Accuracy improvement over baseline"
+    },
+    {
+      "value": "99.99",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "9.58",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "11.07",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "10.81",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "9.74",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "99.99",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "0.02",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage std"
+    },
+    {
+      "value": "8.96",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "0.48",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Error std"
+    },
+    {
+      "value": "95.2",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "8.74",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "94.7",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "8.34",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "8.21",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "6.98",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "94.86",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "0.18",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage std"
+    },
+    {
+      "value": "6.54",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "0.39",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Error std"
+    },
+    {
+      "value": "90.5",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "6.52",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "6.45",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "6.14",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "4.67",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "89.73",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage"
+    },
+    {
+      "value": "0.22",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Coverage std"
+    },
+    {
+      "value": "4.74",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Error"
+    },
+    {
+      "value": "0.31",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "CIFAR-10",
+      "metric": "Error std"
+    },
+    {
+      "value": "99.97",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "3.86",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "4.27",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "4.03",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "4.27",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "100.0",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "0.00",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Coverage std"
+    },
+    {
+      "value": "3.68",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "0.16",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Error std"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "1.86",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "2.53",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "95.0",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "2.05",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "1.83",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "95.19",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "0.09",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Coverage std"
+    },
+    {
+      "value": "1.84",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "0.23",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Error std"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "1.04",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "1.31",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "1.06",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "1.01",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "89.55",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Coverage"
+    },
+    {
+      "value": "0.26",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Coverage std"
+    },
+    {
+      "value": "0.96",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Error"
+    },
+    {
+      "value": "0.11",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "SVHN",
+      "metric": "Error std"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "5.72",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "7.36",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "6.16",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "5.93",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "99.98",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "0.00",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage std"
+    },
+    {
+      "value": "4.83",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "0.17",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error std"
+    },
+    {
+      "value": "95.0",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "3.46",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "95.2",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "5.1",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "4.28",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "2.97",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "95.01",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "0.14",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage std"
+    },
+    {
+      "value": "2.96",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "0.15",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error std"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "2.28",
+      "type": "Result",
+      "model": "SR",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "3.3",
+      "type": "Result",
+      "model": "SN",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "DG",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "1.74",
+      "type": "Result",
+      "model": "OSP",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "90.78",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage"
+    },
+    {
+      "value": "0.16",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Coverage std"
+    },
+    {
+      "value": "1.94",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error"
+    },
+    {
+      "value": "0.18",
+      "type": "Result",
+      "model": "MaskTune",
+      "dataset": "Cats vs. Dogs",
+      "metric": "Error std"
+    },
+    {
+      "value": "18.59",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "Biased MNIST (2 spurious)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.75",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "Biased MNIST (2 spurious)",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "60.78",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "Original MNIST (2 spurious)",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.74",
+      "type": "Result",
+      "model": "ERM",
+      "dataset": "Original MNIST (2 spurious)",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "24.68",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 1 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "2.73",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 1 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "59.93",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 1 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.25",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 1 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "28.08",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 1 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "11.44",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 1 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "64.38",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 1 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "10.45",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 1 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "97.01",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 2 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "2.86",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 2 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "98.61",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 2 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.61",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 2 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "30.69",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 2 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "5.69",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 2 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "62.07",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 2 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "4.03",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 2 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "98.88",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 3 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.60",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 3 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "99.00",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 3 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.14",
+      "type": "Result",
+      "model": "MaskTune (accumulative, 3 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "24.91",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 3 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "2.45",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 3 iter)",
+      "dataset": "Biased MNIST",
+      "metric": "Accuracy std"
+    },
+    {
+      "value": "58.76",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 3 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy"
+    },
+    {
+      "value": "0.76",
+      "type": "Result",
+      "model": "MaskTune (non-accumulative, 3 iter)",
+      "dataset": "Original MNIST",
+      "metric": "Accuracy std"
+    }
+  ],
+  "elapsed_seconds": 79.7,
+  "raw_preview": "{\"value\": \"88.3\", \"type\": \"Result\", \"model\": \"Group DRO\", \"dataset\": \"CelebA\", \"metric\": \"Worst-group accuracy\"}\n{\"value\": \"91.8\", \"type\": \"Result\", \"model\": \"Group DRO\", \"dataset\": \"CelebA\", \"metric\": \"Average accuracy\"}\n{\"value\": \"64.4\", \"type\": \"Result\", \"model\": \"CVaR DRO\", \"dataset\": \"CelebA\", \"metric\": \"Worst-group accuracy\"}\n{\"value\": \"82.5\", \"type\": \"Result\", \"model\": \"CVaR DRO\", \"dataset\": \"CelebA\", \"metric\": \"Average accuracy\"}\n{\"value\": \"77.2\", \"type\": \"Result\", \"model\": \"LfF\", \"datas"
+}

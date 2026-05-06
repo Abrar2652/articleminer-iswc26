@@ -1,0 +1,42 @@
+{
+  "pdf_id": "2210.00705v1",
+  "predictions": [
+    {
+      "value": "11.3",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Flickr8k",
+      "metric": "mean number of subword tokens per utterance"
+    },
+    {
+      "value": "4.1",
+      "type": "Data Stat.",
+      "model": null,
+      "dataset": "Flickr8k",
+      "metric": "std of number of subword tokens per utterance"
+    },
+    {
+      "value": "8",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Cascaded Speech CLIP",
+      "dataset": "Flickr8k",
+      "metric": "number of keywords K"
+    },
+    {
+      "value": "8",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Speech CLIP",
+      "dataset": null,
+      "metric": "HuBERT layer index (start of important range)"
+    },
+    {
+      "value": "10",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Speech CLIP",
+      "dataset": null,
+      "metric": "HuBERT layer index (end of important range)"
+    }
+  ],
+  "elapsed_seconds": 24.6,
+  "raw_preview": "I'll extract all quantitative entries from the paper's tables and text. Based on the paper content provided, here are the quantitative entries:\n\n{\"value\": \"11.3\", \"type\": \"Data Stat.\", \"model\": null, \"dataset\": \"Flickr8k\", \"metric\": \"mean number of subword tokens per utterance\"}\n{\"value\": \"4.1\", \"type\": \"Data Stat.\", \"model\": null, \"dataset\": \"Flickr8k\", \"metric\": \"std of number of subword tokens per utterance\"}\n{\"value\": \"8\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"Cascaded Speech CLI"
+}

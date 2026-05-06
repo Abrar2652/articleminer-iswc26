@@ -1,0 +1,77 @@
+{
+  "pii": "S0022309302011596",
+  "predictions": [
+    {
+      "sample_id": "La 3 \u00fe 21.02",
+      "component": "La2O3",
+      "value": 21.02,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Y 3 \u00fe 18",
+      "component": "Y2O3",
+      "value": 18.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "La 3 \u00fe 9.15",
+      "component": "La2O3",
+      "value": 9.15,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Y 3 \u00fe 7.89",
+      "component": "Y2O3",
+      "value": 7.89,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "La 3 \u00fe 41.93",
+      "component": "La2O3",
+      "value": 41.93,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Y 3 \u00fe 28.16",
+      "component": "Y2O3",
+      "value": 28.16,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Si 4 \u00fe",
+      "component": "SiO2",
+      "value": 56.05,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Si 4 \u00fe",
+      "component": "SiO2",
+      "value": 15.44,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Al 3 \u00fe",
+      "component": "Al2O3",
+      "value": 21.02,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Al 3 \u00fe",
+      "component": "Al2O3",
+      "value": 9.15,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Al 3 \u00fe",
+      "component": "Al2O3",
+      "value": 15.33,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 22,
+  "elapsed_seconds": 54.1,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

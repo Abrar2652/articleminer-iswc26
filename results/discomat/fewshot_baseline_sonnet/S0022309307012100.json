@@ -1,0 +1,157 @@
+{
+  "pdf_id": "S0022309307012100",
+  "predictions": [
+    {
+      "sample_id": "10Na2O-90AlPO4",
+      "component": "Na2O",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Na2O-90AlPO4",
+      "component": "AlPO4",
+      "value": 90.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "33.3Na2O-66.6AlPO4",
+      "component": "Na2O",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "33.3Na2O-66.6AlPO4",
+      "component": "AlPO4",
+      "value": 66.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "37.5Na2O-12.5Al2O3-50P2O5",
+      "component": "Na2O",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "37.5Na2O-12.5Al2O3-50P2O5",
+      "component": "Al2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "37.5Na2O-12.5Al2O3-50P2O5",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Na2O-20Al2O3-40P2O5",
+      "component": "Na2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Na2O-20Al2O3-40P2O5",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "40Na2O-20Al2O3-40P2O5",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_40-20-40",
+      "component": "Na2O",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_40-20-40",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_40-20-40",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_33.3-33.3-33.3",
+      "component": "Na2O",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_33.3-33.3-33.3",
+      "component": "Al2O3",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_33.3-33.3-33.3",
+      "component": "P2O5",
+      "value": 33.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_37.5-12.5-50",
+      "component": "Na2O",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_37.5-12.5-50",
+      "component": "Al2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_37.5-12.5-50",
+      "component": "P2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_42.7-14.6-42.7",
+      "component": "Na2O",
+      "value": 42.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_42.7-14.6-42.7",
+      "component": "Al2O3",
+      "value": 14.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_42.7-14.6-42.7",
+      "component": "P2O5",
+      "value": 42.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_20-40-40",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_20-40-40",
+      "component": "Al2O3",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "xerogel_20-40-40",
+      "component": "P2O5",
+      "value": 40.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 28.4,
+  "raw_preview": "I'll extract all material-composition entries from the paper text. The compositions mentioned are in the ternary Na2O-Al2O3-P2O5 system, expressed as mol%.\n\nFrom the text and figures, I can identify the following compositions:\n\n{\"sample_id\": \"10Na2O-90AlPO4\", \"component\": \"Na2O\", \"value\": 10.0, \"unit\": \"mol\"}\n{\"sample_id\": \"10Na2O-90AlPO4\", \"component\": \"AlPO4\", \"value\": 90.0, \"unit\": \"mol\"}\n{\"sample_id\": \"33.3Na2O-66.6AlPO4\", \"component\": \"Na2O\", \"value\": 33.3, \"unit\": \"mol\"}\n{\"sample_id\": \"33."
+}

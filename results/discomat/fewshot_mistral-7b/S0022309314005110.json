@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309314005110",
+  "predictions": [],
+  "elapsed_seconds": 44.6,
+  "raw_preview": "Based on the provided paper text, I have identified some material composition entries related to the iron phosphate glasses and their cesium doped versions. I have extracted the relevant information and formatted it into JSON objects as requested. Please note that I have assumed that each entry in the text corresponds to a unique sample, and have assigned a sample ID based on the order of appearance in the text.\n\n```json\n{\"sample_id\": \"IPG_undoped\", \"component\": \"P\\(_2_)O\\(_5_\\)\", \"value\": 100.0"
+}

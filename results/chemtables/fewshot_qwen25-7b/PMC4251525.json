@@ -1,0 +1,56 @@
+{
+  "pdf_id": "PMC4251525",
+  "predictions": [
+    {
+      "value": "1.04 \u00b1 0.60",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "SL0101 (1)",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.76 \u00b1 0.43",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4a",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.23 \u00b1 0.07",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.11 \u00b1 0.09",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4c",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.44 \u00b1 0.39",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "2.33 \u00b1 0.88",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "5a",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.32 \u00b1 0.18",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "5b",
+      "unit": "\u03bcM"
+    }
+  ],
+  "elapsed_seconds": 14.0,
+  "raw_preview": "{\"value\": \"1.04 \u00b1 0.60\", \"type\": \"IC50\", \"target\": \"RSK2\", \"treatment\": \"SL0101 (1)\", \"unit\": \"\u03bcM\"}\n{\"value\": \"0.76 \u00b1 0.43\", \"type\": \"IC50\", \"target\": \"RSK2\", \"treatment\": \"4a\", \"unit\": \"\u03bcM\"}\n{\"value\": \"0.23 \u00b1 0.07\", \"type\": \"IC50\", \"target\": \"RSK2\", \"treatment\": \"4b\", \"unit\": \"\u03bcM\"}\n{\"value\": \"0.11 \u00b1 0.09\", \"type\": \"IC50\", \"target\": \"RSK2\", \"treatment\": \"4c\", \"unit\": \"\u03bcM\"}\n{\"value\": \"0.44 \u00b1 0.39\", \"type\": \"IC50\", \"target\": \"RSK2\", \"treatment\": \"4d\", \"unit\": \"\u03bcM\"}\n{\"value\": \"2.33 \u00b1 0.88\", \"type\":"
+}

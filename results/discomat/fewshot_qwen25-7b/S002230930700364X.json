@@ -1,0 +1,79 @@
+{
+  "pdf_id": "S002230930700364X",
+  "predictions": [
+    {
+      "sample_id": "20Zn Fe",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Zn Fe",
+      "component": "Fe2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Zn Fe",
+      "component": "SiO2",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Zn Fe",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Zn Fe",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Zn Fe",
+      "component": "SiO2",
+      "value": 85.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Zn Fe",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Zn Fe",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Zn Fe",
+      "component": "SiO2",
+      "value": 90.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2.5Zn Fe",
+      "component": "ZnO",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2.5Zn Fe",
+      "component": "Fe2O3",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2.5Zn Fe",
+      "component": "SiO2",
+      "value": 95.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 20.5,
+  "raw_preview": "```json\n{\"sample_id\": \"20Zn Fe\", \"component\": \"ZnO\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"20Zn Fe\", \"component\": \"Fe2O3\", \"value\": 10.0, \"unit\": \"mol\"}\n{\"sample_id\": \"20Zn Fe\", \"component\": \"SiO2\", \"value\": 70.0, \"unit\": \"mol\"}\n{\"sample_id\": \"10Zn Fe\", \"component\": \"ZnO\", \"value\": 10.0, \"unit\": \"mol\"}\n{\"sample_id\": \"10Zn Fe\", \"component\": \"Fe2O3\", \"value\": 5.0, \"unit\": \"mol\"}\n{\"sample_id\": \"10Zn Fe\", \"component\": \"SiO2\", \"value\": 85.0, \"unit\": \"mol\"}\n{\"sample_id\": \"5Zn Fe\", \"component\": "
+}

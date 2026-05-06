@@ -1,0 +1,91 @@
+{
+  "pdf_id": "S0167273814000617",
+  "predictions": [
+    {
+      "sample_id": "S0Fe2O3--93B2O3--2PbO",
+      "component": "Fe2O3",
+      "value": 2.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S19Fe2O3--81B2O3--2PbO",
+      "component": "Fe2O3",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S31Fe2O3--69B2O3--2PbO",
+      "component": "Fe2O3",
+      "value": 31.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S31Fe2O3--69B2O3--2PbO",
+      "component": "B2O3",
+      "value": 69.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S31Fe2O3--69B2O3--2PbO",
+      "component": "PbO",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S7Fe2O3--81B2O3--2PbO",
+      "component": "Fe2O3",
+      "value": 7.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S13Fe2O3--87B2O3--2PbO",
+      "component": "Fe2O3",
+      "value": 13.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S19Fe2O3--71B2O3--2PbO",
+      "component": "Fe2O3",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S25Fe2O3--50B2O3--2PbO",
+      "component": "Fe2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S31Fe2O3--59B2O3--2PbO",
+      "component": "Fe2O3",
+      "value": 31.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S37Fe2O3--52B2O3--2PbO",
+      "component": "Fe2O3",
+      "value": 37.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S37Fe2O3--52B2O3--2PbO",
+      "component": "B2O3",
+      "value": 52.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S37Fe2O3--52B2O3--2PbO",
+      "component": "PbO",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SxFe2O3--(100\u2212x)(B2O3--2PbO)",
+      "component": "PbO",
+      "value": 2.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 34.8,
+  "raw_preview": "Based on the provided paper text, here are the material-composition entries extracted from it:\n\n{\"sample_id\": \"S0Fe2O3--93B2O3--2PbO\", \"component\": \"Fe2O3\", \"value\": 2.5, \"unit\": \"mol\"}\n{\"sample_id\": \"S19Fe2O3--81B2O3--2PbO\", \"component\": \"Fe2O3\", \"value\": 19.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S31Fe2O3--69B2O3--2PbO\", \"component\": \"Fe2O3\", \"value\": 31.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S31Fe2O3--69B2O3--2PbO\", \"component\": \"B2O3\", \"value\": 69.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S31Fe2O3--69B2O3--2PbO\","
+}

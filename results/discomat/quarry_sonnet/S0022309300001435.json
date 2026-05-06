@@ -1,0 +1,151 @@
+{
+  "pii": "S0022309300001435",
+  "predictions": [
+    {
+      "sample_id": "x=0.00",
+      "component": "Li2O",
+      "value": 19.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.00",
+      "component": "SiO2",
+      "value": 78.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.00",
+      "component": "Al2O3",
+      "value": 0.23,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.10",
+      "component": "Li2O",
+      "value": 14.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.10",
+      "component": "TeO2",
+      "value": 19.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.10",
+      "component": "SiO2",
+      "value": 65.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.10",
+      "component": "Al2O3",
+      "value": 0.96,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.20",
+      "component": "Li2O",
+      "value": 12.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.20",
+      "component": "TeO2",
+      "value": 34.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.20",
+      "component": "SiO2",
+      "value": 52.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.20",
+      "component": "Al2O3",
+      "value": 0.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.25",
+      "component": "Li2O",
+      "value": 12.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.25",
+      "component": "TeO2",
+      "value": 41.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.25",
+      "component": "SiO2",
+      "value": 45.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.25",
+      "component": "Al2O3",
+      "value": 0.73,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.25",
+      "component": "K2O",
+      "value": 0.52,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.30",
+      "component": "Li2O",
+      "value": 11.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.30",
+      "component": "TeO2",
+      "value": 46.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.30",
+      "component": "SiO2",
+      "value": 40.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.30",
+      "component": "Al2O3",
+      "value": 0.65,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=0.30",
+      "component": "K2O",
+      "value": 0.47,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=1.00",
+      "component": "Li2O",
+      "value": 6.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "x=1.00",
+      "component": "TeO2",
+      "value": 92.0,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 32,
+  "elapsed_seconds": 39.7,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

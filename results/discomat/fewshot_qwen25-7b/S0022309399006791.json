@@ -1,0 +1,37 @@
+{
+  "pdf_id": "S0022309399006791",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_BC_glass",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_BC_glass",
+      "component": "P2O5",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_BC_glass",
+      "component": "SiO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_conventional_MCP_glass",
+      "component": "PbO",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_conventional_MCP_glass",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 10.5,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_BC_glass\", \"component\": \"V2O5\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_BC_glass\", \"component\": \"P2O5\", \"value\": 60.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_BC_glass\", \"component\": \"SiO2\", \"value\": 20.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_conventional_MCP_glass\", \"component\": \"PbO\", \"value\": 60.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_conventional_MCP_glass\", \"component\": \"SiO2\", "
+}

@@ -1,0 +1,823 @@
+{
+  "pdf_id": "S0022309399006250",
+  "predictions": [
+    {
+      "sample_id": "GI/1",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "P2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/1",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "P2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GI/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "P2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/1",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "P2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "CaO",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GII/2",
+      "component": "Al2O3",
+      "value": 0.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 192.6,
+  "raw_preview": "{\"sample_id\": \"GI/1\", \"component\": \"P2O5\", \"value\": 0, \"unit\": \"wt\"}\n{\"sample_id\": \"GI/1\", \"component\": \"CaO\", \"value\": 0, \"unit\": \"wt\"}\n{\"sample_id\": \"GI/1\", \"component\": \"Na2O\", \"value\": 0, \"unit\": \"wt\"}\n{\"sample_id\": \"GI/1\", \"component\": \"Al2O3\", \"value\": 0, \"unit\": \"wt\"}\n{\"sample_id\": \"GI/1\", \"component\": \"P2O5\", \"value\": 100, \"unit\": \"wt\"}\n{\"sample_id\": \"GI/1\", \"component\": \"CaO\", \"value\": 0, \"unit\": \"wt\"}\n{\"sample_id\": \"GI/1\", \"component\": \"Na2O\", \"value\": 0, \"unit\": \"wt\"}\n{\"sample_id\": \"G"
+}

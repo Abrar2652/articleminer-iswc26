@@ -1,0 +1,803 @@
+{
+  "arxiv_id": "2210.00705v1",
+  "predictions": [
+    {
+      "value": "26.6",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "56.4",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "68.8",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "36.2",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "66.1",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "76.5",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "29.3",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "58.6",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "71",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "37.9",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "68.5",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "79.9",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "33.2",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "62.7",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "73.9",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "49.6",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "79.2",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "87.5",
+      "type": "Result",
+      "model": "MILAN",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "26.7",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "57.1",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "70",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "41.3",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "73.9",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "84.2",
+      "type": "Result",
+      "model": "Parallel",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "8.2",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "25.7",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "37.2",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "14.1",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "34.5",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "49.2",
+      "type": "Result",
+      "model": "Cascaded",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "39.1",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "72.0",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "83",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "54.5",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "84.5",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "93.2",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "14.7",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "41.2",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "55.1",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "21.8",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "52.0",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "67.7",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "17.3",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "41.9",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "55",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "22.0",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "50.6",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "65.2",
+      "type": "Result",
+      "model": "ResDAVEnet",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "31.8",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "62.5",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "75",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "42.5",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "73.7",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "84.9",
+      "type": "Result",
+      "model": "FaST-VGSCO",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "35.9",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "66.3",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "77.9",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "48.8",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "78.2",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "87",
+      "type": "Result",
+      "model": "FaST-VGSCTF",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "35.8",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "66.5",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "78",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "50.6",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "89.1",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "6.4",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "20.7",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "31",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Image retrieval"
+    },
+    {
+      "value": "9.6",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@1",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "27.7",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@5",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "39.7",
+      "type": "Result",
+      "model": "Cascaded Large",
+      "dataset": "Flickr8k",
+      "metric": "Recall@10",
+      "task": "Image \u2192 Speech retrieval"
+    },
+    {
+      "value": "19.56",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Text retrieval"
+    },
+    {
+      "value": "44.06",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Text retrieval"
+    },
+    {
+      "value": "58.46",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Text retrieval"
+    },
+    {
+      "value": "22.50",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@1",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "44.14",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@5",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "54.54",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@10",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "97.06",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Text retrieval"
+    },
+    {
+      "value": "99.24",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Text retrieval"
+    },
+    {
+      "value": "99.46",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Text retrieval"
+    },
+    {
+      "value": "97.88",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@1",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "99.76",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@5",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "99.90",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@10",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "60.32",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Text retrieval"
+    },
+    {
+      "value": "81.81",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@5",
+      "task": "Speech \u2192 Text retrieval"
+    },
+    {
+      "value": "88.18",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Text retrieval"
+    },
+    {
+      "value": "65.45",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@1",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "85.82",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@5",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "91.27",
+      "type": "Result",
+      "model": "Parallel Large",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@10",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "95.02",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@1",
+      "task": "Speech \u2192 Text retrieval"
+    },
+    {
+      "value": "99.78",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@10",
+      "task": "Speech \u2192 Text retrieval"
+    },
+    {
+      "value": "95.35",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@1",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "99.68",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@5",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "99.93",
+      "type": "Result",
+      "model": "Parallel Large (Sup.)",
+      "dataset": "SpokenCOCO",
+      "metric": "Recall@10",
+      "task": "Text \u2192 Speech retrieval"
+    },
+    {
+      "value": "0.10",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "threshold",
+      "model": "Cascaded SpeechCLIP"
+    },
+    {
+      "value": "0.50",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "threshold",
+      "model": "Cascaded SpeechCLIP"
+    },
+    {
+      "value": "0.99",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "threshold",
+      "model": "Cascaded SpeechCLIP"
+    },
+    {
+      "value": "0.02",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "threshold",
+      "model": "Cascaded SpeechCLIP"
+    },
+    {
+      "value": "0.20",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "threshold",
+      "model": "Cascaded SpeechCLIP"
+    }
+  ],
+  "num_gold_annotations": 165,
+  "elapsed_seconds": 50.3,
+  "backends": [
+    "docling",
+    "mineru",
+    "pdfplumber",
+    "camelot"
+  ]
+}

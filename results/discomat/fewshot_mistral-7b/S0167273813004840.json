@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0167273813004840",
+  "predictions": [],
+  "elapsed_seconds": 27.4,
+  "raw_preview": "{\"sample\\_id\": \"S00XXYYZZ\\_0\\_1\\_Gx\", \"component\": \"Fe2O3\", \"value\": x, \"unit\": \"mol%\"}\n\nWhere x is the value of mol% for Fe2O3 in the glass composition mentioned in the text. The sample\\_id is a placeholder for the actual sample identifier from the paper. The label \"Gx\" is a placeholder for the label used to identify the group of glasses in the paper.\n\nHere are some examples based on the given text:\n\n{\"sample\\_id\": \"S0022309303006537\\_0\\_1\\_G1\", \"component\": \"Fe2O3\", \"value\": 2, \"unit\": \"mol%\"}"
+}

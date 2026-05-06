@@ -1,0 +1,245 @@
+{
+  "pmc_id": "PMC4358631",
+  "predictions": [
+    {
+      "value": "1727",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "35",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "35",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "35",
+      "unit": "nM"
+    },
+    {
+      "value": "469",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "41",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "41",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "41",
+      "unit": "nM"
+    },
+    {
+      "value": "397",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "42",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "42",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "42",
+      "unit": "nM"
+    },
+    {
+      "value": "307",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "43",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "43",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "43",
+      "unit": "nM"
+    },
+    {
+      "value": "310",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "44",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "44",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "44",
+      "unit": "nM"
+    },
+    {
+      "value": "463",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "47",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "47",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "47",
+      "unit": "nM"
+    },
+    {
+      "value": "298",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "57",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "57",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "57",
+      "unit": "nM"
+    },
+    {
+      "value": "345",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "58",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "58",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "58",
+      "unit": "nM"
+    },
+    {
+      "value": "183",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "59",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "59",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "59",
+      "unit": "nM"
+    },
+    {
+      "value": "320",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "60",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "60",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "60",
+      "unit": "nM"
+    },
+    {
+      "value": "1934",
+      "type": "IC50",
+      "target": "\u03b13\u03b24 nAChR",
+      "treatment": "63",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b13\u03b22 nAChR",
+      "treatment": "63",
+      "unit": "nM"
+    },
+    {
+      "value": ">10000",
+      "type": "IC50",
+      "target": "\u03b14\u03b22 nAChR",
+      "treatment": "63",
+      "unit": "nM"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 36,
+  "elapsed_seconds": 37.8,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "pii": "S0022309314002579",
+  "predictions": [
+    {
+      "sample_id": "GF/SF 0.0",
+      "component": "SiO2",
+      "value": 38.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 0.0",
+      "component": "CaO",
+      "value": 55.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 0.0",
+      "component": "P2O5",
+      "value": 6.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 3.0",
+      "component": "SiO2",
+      "value": 37.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 3.0",
+      "component": "CaO",
+      "value": 53.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 3.0",
+      "component": "P2O5",
+      "value": 6.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 3.0",
+      "component": "CaF2",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 4.5",
+      "component": "SiO2",
+      "value": 36.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 4.5",
+      "component": "CaO",
+      "value": 53.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 4.5",
+      "component": "P2O5",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 4.5",
+      "component": "CaF2",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 6.0",
+      "component": "SiO2",
+      "value": 35.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 6.0",
+      "component": "CaO",
+      "value": 52.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 6.0",
+      "component": "P2O5",
+      "value": 5.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 6.0",
+      "component": "CaF2",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 9.3",
+      "component": "SiO2",
+      "value": 34.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 9.3",
+      "component": "CaO",
+      "value": 50.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 9.3",
+      "component": "P2O5",
+      "value": 5.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 9.3",
+      "component": "CaF2",
+      "value": 9.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 13.6",
+      "component": "SiO2",
+      "value": 32.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 13.6",
+      "component": "CaO",
+      "value": 48.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 13.6",
+      "component": "P2O5",
+      "value": 5.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 13.6",
+      "component": "CaF2",
+      "value": 13.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 17.8",
+      "component": "SiO2",
+      "value": 31.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 17.8",
+      "component": "CaO",
+      "value": 45.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 17.8",
+      "component": "P2O5",
+      "value": 5.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 17.8",
+      "component": "CaF2",
+      "value": 17.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 25.5",
+      "component": "SiO2",
+      "value": 28.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 25.5",
+      "component": "CaO",
+      "value": 41.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 25.5",
+      "component": "P2O5",
+      "value": 4.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF/SF 25.5",
+      "component": "CaF2",
+      "value": 25.5,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 62,
+  "elapsed_seconds": 66.1,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

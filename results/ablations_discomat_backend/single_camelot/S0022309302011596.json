@@ -1,0 +1,9 @@
+{
+  "pii": "S0022309302011596",
+  "predictions": [],
+  "num_gold_tuples": 22,
+  "elapsed_seconds": 47.1,
+  "backends": [
+    "camelot"
+  ]
+}

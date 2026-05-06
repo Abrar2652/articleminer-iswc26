@@ -1,0 +1,1141 @@
+{
+  "arxiv_id": "2210.00084v1",
+  "predictions": [
+    {
+      "value": "45.1",
+      "type": "Result",
+      "model": "G-Meta",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "48.3",
+      "type": "Result",
+      "model": "G-Meta",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "60.2",
+      "type": "Result",
+      "model": "MeTTA",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "56.2",
+      "type": "Result",
+      "model": "MeTTA",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "52.0",
+      "type": "Result",
+      "model": "Teacher-I",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "51.8",
+      "type": "Result",
+      "model": "Teacher-I",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "52.8",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "56.1",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "55.4",
+      "type": "Result",
+      "model": "Teacher-T",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "58.4",
+      "type": "Result",
+      "model": "Teacher-T",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "58.7",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "57.8",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "62.77",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "89.49",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "51.52",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "52.26",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "40.26",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "42.57",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "56.77",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "57.84",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "33.76",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "37.59",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "40.71",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "43.76",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "33.76",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "37.59",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "53.17",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "55.03",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "20.25",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "22.87",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "39.36",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "42.56",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "33.20",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "33.94",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "47.85",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "48.37",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "56.92",
+      "type": "Result",
+      "model": "DiffPool",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "61.75",
+      "type": "Result",
+      "model": "DiffPool",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "61.87",
+      "type": "Result",
+      "model": "DiffPool",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "67.21",
+      "type": "Result",
+      "model": "DiffPool",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "58.54",
+      "type": "Result",
+      "model": "DiffPool",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "57.43",
+      "type": "Result",
+      "model": "DiffPool",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "56.41",
+      "type": "Result",
+      "model": "DiffPool",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "59.64",
+      "type": "Result",
+      "model": "DiffPool",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "58.67",
+      "type": "Result",
+      "model": "DGCNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "60.15",
+      "type": "Result",
+      "model": "DGCNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "60.46",
+      "type": "Result",
+      "model": "DGCNN",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "67.83",
+      "type": "Result",
+      "model": "DGCNN",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "36.84",
+      "type": "Result",
+      "model": "DGCNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "39.76",
+      "type": "Result",
+      "model": "DGCNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "57.67",
+      "type": "Result",
+      "model": "DGCNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "58.14",
+      "type": "Result",
+      "model": "DGCNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "65.83",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "66.57",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "63.80",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "67.33",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "43.76",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "53.73",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "53.85",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "63.52",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "66.64",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "59.43",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "61.55",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "41.32",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "43.38",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "57.34",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "59.45",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "69.68",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "72.80",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "62.37",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "73.13",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "40.77",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "42.88",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "54.34",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "56.18",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "69.91",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "73.38",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "71.56",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "71.59",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "45.67",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "54.25",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "54.25",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "60.94",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "70.25",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "71.96",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "71.56",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "75.65",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "40.91",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "46.56",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "56.03",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "60.79",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "71.43",
+      "type": "Result",
+      "model": "Teacher-I",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "73.69",
+      "type": "Result",
+      "model": "Teacher-I",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "71.93",
+      "type": "Result",
+      "model": "Teacher-I",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "76.21",
+      "type": "Result",
+      "model": "Teacher-I",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "42.82",
+      "type": "Result",
+      "model": "Teacher-I",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "46.31",
+      "type": "Result",
+      "model": "Teacher-I",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "57.33",
+      "type": "Result",
+      "model": "Teacher-I",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "61.29",
+      "type": "Result",
+      "model": "Teacher-I",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "72.12",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "74.03",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "73.24",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "76.82",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "42.83",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "46.93",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "57.94",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "61.64",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "70.50",
+      "type": "Result",
+      "model": "Teacher-T",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "73.85",
+      "type": "Result",
+      "model": "Teacher-T",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "75.83",
+      "type": "Result",
+      "model": "Teacher-T",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "81.03",
+      "type": "Result",
+      "model": "Teacher-T",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "44.80",
+      "type": "Result",
+      "model": "Teacher-T",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "49.95",
+      "type": "Result",
+      "model": "Teacher-T",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "59.35",
+      "type": "Result",
+      "model": "Teacher-T",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "62.30",
+      "type": "Result",
+      "model": "Teacher-T",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "79.57",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "79.10",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Letter-High",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "79.32",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "81.78",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Triangles",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "45.85",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "49.32",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "60.43",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "62.79",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Enzymes",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "385.15",
+      "type": "Result",
+      "model": "G-Meta",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "788.30",
+      "type": "Result",
+      "model": "G-Meta",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "383.49",
+      "type": "Result",
+      "model": "G-Meta",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "789.78",
+      "type": "Result",
+      "model": "G-Meta",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "374.42",
+      "type": "Result",
+      "model": "G-Meta",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "759.85",
+      "type": "Result",
+      "model": "G-Meta",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "305.29",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "663.38",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "300.99",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "610.59",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "290.20",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "592.48",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "276.30",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "523.86",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "267.33",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "520.62",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "264.23",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "503.56",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "classification"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 277.1,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

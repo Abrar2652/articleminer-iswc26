@@ -1,0 +1,1496 @@
+{
+  "arxiv_id": "2210.00912v1",
+  "predictions": [
+    {
+      "value": "95.51",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "82.23",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "78.20",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "73.56",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "82.37",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "60.08",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "45.59",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "69.48",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "72.82",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "R"
+    },
+    {
+      "value": "61.99",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "Office-Home",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "72.18",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS+Office-Home",
+      "metric": "accuracy (Overall Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "95.99",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "84.72",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "77.09",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "72.16",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "82.49",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "PACS",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "60.29",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "46.16",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "69.26",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "72.59",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "R"
+    },
+    {
+      "value": "62.07",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "Office-Home",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "72.28",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "PACS+Office-Home",
+      "metric": "accuracy (Overall Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "95.21",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "83.15",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "78.24",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "74.62",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "82.81",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "PACS",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "58.23",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "46.05",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "70.27",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "73.39",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "R"
+    },
+    {
+      "value": "61.99",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "Office-Home",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "72.40",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "PACS+Office-Home",
+      "metric": "accuracy (Overall Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "95.93",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "85.99",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "80.03",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "75.46",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "84.35",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "PACS",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "58.44",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "50.29",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "70.61",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "70.64",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "R"
+    },
+    {
+      "value": "62.49",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "Office-Home",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "73.42",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "PACS+Office-Home",
+      "metric": "accuracy (Overall Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "96.23",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "83.94",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "79.27",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "73.30",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "83.19",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "PACS",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "60.70",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "45.82",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "71.51",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "73.05",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "R"
+    },
+    {
+      "value": "62.77",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "Office-Home",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "72.98",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "PACS+Office-Home",
+      "metric": "accuracy (Overall Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "94.60",
+      "type": "Result",
+      "model": "COPA-Res18",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "83.30",
+      "type": "Result",
+      "model": "COPA-Res18",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "79.80",
+      "type": "Result",
+      "model": "COPA-Res18",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "82.50",
+      "type": "Result",
+      "model": "COPA-Res18",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "85.10",
+      "type": "Result",
+      "model": "COPA-Res18",
+      "dataset": "PACS",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "59.40",
+      "type": "Result",
+      "model": "COPA-Res18",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "55.10",
+      "type": "Result",
+      "model": "COPA-Res18",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "74.80",
+      "type": "Result",
+      "model": "COPA-Res18",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "75.00",
+      "type": "Result",
+      "model": "COPA-Res18",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "R"
+    },
+    {
+      "value": "66.10",
+      "type": "Result",
+      "model": "COPA-Res18",
+      "dataset": "Office-Home",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "75.60",
+      "type": "Result",
+      "model": "COPA-Res18",
+      "dataset": "PACS+Office-Home",
+      "metric": "accuracy (Overall Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "96.65",
+      "type": "Result",
+      "model": "CCST (Overall, K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "88.33",
+      "type": "Result",
+      "model": "CCST (Overall, K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "78.20",
+      "type": "Result",
+      "model": "CCST (Overall, K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "82.90",
+      "type": "Result",
+      "model": "CCST (Overall, K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "86.52",
+      "type": "Result",
+      "model": "CCST (Overall, K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "59.05",
+      "type": "Result",
+      "model": "CCST (Overall, K=3)",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "50.06",
+      "type": "Result",
+      "model": "CCST (Overall, K=3)",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "72.97",
+      "type": "Result",
+      "model": "CCST (Overall, K=3)",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "71.67",
+      "type": "Result",
+      "model": "CCST (Overall, K=3)",
+      "dataset": "Office-Home",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "R"
+    },
+    {
+      "value": "63.56",
+      "type": "Result",
+      "model": "CCST (Overall, K=3)",
+      "dataset": "Office-Home",
+      "metric": "accuracy (Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "75.04",
+      "type": "Result",
+      "model": "CCST (Overall, K=3)",
+      "dataset": "PACS+Office-Home",
+      "metric": "accuracy (Overall Avg.)",
+      "task": "domain generalization"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "K",
+      "model": "CCST"
+    },
+    {
+      "value": "95.75",
+      "type": "Result",
+      "model": "Single (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "P"
+    },
+    {
+      "value": "87.5",
+      "type": "Result",
+      "model": "Single (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "A"
+    },
+    {
+      "value": "74.66",
+      "type": "Result",
+      "model": "Single (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "C"
+    },
+    {
+      "value": "76.56",
+      "type": "Result",
+      "model": "Single (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "S"
+    },
+    {
+      "value": "83.62",
+      "type": "Result",
+      "model": "Single (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "Average"
+    },
+    {
+      "value": "96.77",
+      "type": "Result",
+      "model": "Single (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "P"
+    },
+    {
+      "value": "86.23",
+      "type": "Result",
+      "model": "Single (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "A"
+    },
+    {
+      "value": "75.73",
+      "type": "Result",
+      "model": "Single (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "C"
+    },
+    {
+      "value": "80.12",
+      "type": "Result",
+      "model": "Single (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "S"
+    },
+    {
+      "value": "84.71",
+      "type": "Result",
+      "model": "Single (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "Average"
+    },
+    {
+      "value": "96.65",
+      "type": "Result",
+      "model": "Single (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "P"
+    },
+    {
+      "value": "86.63",
+      "type": "Result",
+      "model": "Single (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "A"
+    },
+    {
+      "value": "74.53",
+      "type": "Result",
+      "model": "Single (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "C"
+    },
+    {
+      "value": "81.85",
+      "type": "Result",
+      "model": "Single (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "S"
+    },
+    {
+      "value": "84.84",
+      "type": "Result",
+      "model": "Single (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "Average"
+    },
+    {
+      "value": "95.69",
+      "type": "Result",
+      "model": "Overall (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "P"
+    },
+    {
+      "value": "86.67",
+      "type": "Result",
+      "model": "Overall (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "A"
+    },
+    {
+      "value": "75.85",
+      "type": "Result",
+      "model": "Overall (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "C"
+    },
+    {
+      "value": "77.37",
+      "type": "Result",
+      "model": "Overall (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "S"
+    },
+    {
+      "value": "83.90",
+      "type": "Result",
+      "model": "Overall (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "Average"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "Overall (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "P"
+    },
+    {
+      "value": "88.72",
+      "type": "Result",
+      "model": "Overall (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "A"
+    },
+    {
+      "value": "78.03",
+      "type": "Result",
+      "model": "Overall (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "C"
+    },
+    {
+      "value": "80.91",
+      "type": "Result",
+      "model": "Overall (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "S"
+    },
+    {
+      "value": "86.02",
+      "type": "Result",
+      "model": "Overall (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "Average"
+    },
+    {
+      "value": "96.65",
+      "type": "Result",
+      "model": "Overall (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "P"
+    },
+    {
+      "value": "88.33",
+      "type": "Result",
+      "model": "Overall (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "A"
+    },
+    {
+      "value": "78.20",
+      "type": "Result",
+      "model": "Overall (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "C"
+    },
+    {
+      "value": "82.90",
+      "type": "Result",
+      "model": "Overall (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "S"
+    },
+    {
+      "value": "86.52",
+      "type": "Result",
+      "model": "Overall (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "domain": "Average"
+    },
+    {
+      "value": "98.00",
+      "type": "Result",
+      "model": "EoA",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "90.50",
+      "type": "Result",
+      "model": "EoA",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "83.40",
+      "type": "Result",
+      "model": "EoA",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "82.50",
+      "type": "Result",
+      "model": "EoA",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "88.60",
+      "type": "Result",
+      "model": "EoA",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "Average"
+    },
+    {
+      "value": "97.78",
+      "type": "Result",
+      "model": "Single (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "89.55",
+      "type": "Result",
+      "model": "Single (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "84.51",
+      "type": "Result",
+      "model": "Single (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "82.79",
+      "type": "Result",
+      "model": "Single (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "88.66",
+      "type": "Result",
+      "model": "Single (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "Average"
+    },
+    {
+      "value": "97.54",
+      "type": "Result",
+      "model": "Single (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "89.40",
+      "type": "Result",
+      "model": "Single (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "84.43",
+      "type": "Result",
+      "model": "Single (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "85.42",
+      "type": "Result",
+      "model": "Single (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "89.20",
+      "type": "Result",
+      "model": "Single (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "Average"
+    },
+    {
+      "value": "98.08",
+      "type": "Result",
+      "model": "Single (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "89.75",
+      "type": "Result",
+      "model": "Single (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "86.05",
+      "type": "Result",
+      "model": "Single (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "86.03",
+      "type": "Result",
+      "model": "Single (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "89.98",
+      "type": "Result",
+      "model": "Single (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "Average"
+    },
+    {
+      "value": "97.78",
+      "type": "Result",
+      "model": "Overall (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "90.92",
+      "type": "Result",
+      "model": "Overall (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "86.01",
+      "type": "Result",
+      "model": "Overall (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "83.66",
+      "type": "Result",
+      "model": "Overall (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "89.59",
+      "type": "Result",
+      "model": "Overall (K=1)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "Average"
+    },
+    {
+      "value": "98.08",
+      "type": "Result",
+      "model": "Overall (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "98.38",
+      "type": "Result",
+      "model": "Overall (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "86.47",
+      "type": "Result",
+      "model": "Overall (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "85.62",
+      "type": "Result",
+      "model": "Overall (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "90.30",
+      "type": "Result",
+      "model": "Overall (K=2)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "Average"
+    },
+    {
+      "value": "98.14",
+      "type": "Result",
+      "model": "Overall (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "90.87",
+      "type": "Result",
+      "model": "Overall (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "86.77",
+      "type": "Result",
+      "model": "Overall (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "86.10",
+      "type": "Result",
+      "model": "Overall (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "90.47",
+      "type": "Result",
+      "model": "Overall (K=3)",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "domain generalization",
+      "attribute": "Average"
+    },
+    {
+      "value": "95.21",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "82.91",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "78.80",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "73.99",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "82.73",
+      "type": "Result",
+      "model": "FedAvg",
+      "dataset": "PACS",
+      "metric": "Average accuracy",
+      "task": "Domain Generalization"
+    },
+    {
+      "value": "95.63",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "83.25",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "81.10",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "71.95",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "82.98",
+      "type": "Result",
+      "model": "Jigen",
+      "dataset": "PACS",
+      "metric": "Average accuracy",
+      "task": "Domain Generalization"
+    },
+    {
+      "value": "94.55",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "83.20",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "79.99",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "72.79",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "85.31",
+      "type": "Result",
+      "model": "RSC",
+      "dataset": "PACS",
+      "metric": "Average accuracy",
+      "task": "Domain Generalization"
+    },
+    {
+      "value": "96.47",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "86.89",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "81.06",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "76.81",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "82.63",
+      "type": "Result",
+      "model": "MixStyle",
+      "dataset": "PACS",
+      "metric": "Average accuracy",
+      "task": "Domain Generalization"
+    },
+    {
+      "value": "95.93",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "P"
+    },
+    {
+      "value": "84.28",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "A"
+    },
+    {
+      "value": "79.44",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "C"
+    },
+    {
+      "value": "73.89",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "PACS",
+      "metric": "accuracy",
+      "task": "Domain Generalization",
+      "attribute": "S"
+    },
+    {
+      "value": "83.89",
+      "type": "Result",
+      "model": "FedDG",
+      "dataset": "PACS",
+      "metric": "Average accuracy",
+      "task": "Domain Generalization"
+    }
+  ],
+  "num_gold_annotations": 247,
+  "elapsed_seconds": 156.5,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

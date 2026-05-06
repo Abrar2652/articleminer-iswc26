@@ -1,0 +1,85 @@
+{
+  "pii": "S002230930900739X",
+  "predictions": [
+    {
+      "sample_id": "G1",
+      "component": "CdO",
+      "value": 70.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G1",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G1",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G2",
+      "component": "CdO",
+      "value": 50.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G2",
+      "component": "ZnO",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G2",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G3",
+      "component": "CdO",
+      "value": 60.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G3",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G3",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G4",
+      "component": "CdO",
+      "value": 70.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G4",
+      "component": "ZnO",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G4",
+      "component": "V2O5",
+      "value": 10.0,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 28,
+  "elapsed_seconds": 17.4,
+  "backends": [
+    "marker",
+    "mineru",
+    "pdfplumber",
+    "camelot"
+  ]
+}

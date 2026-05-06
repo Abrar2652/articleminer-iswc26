@@ -1,0 +1,127 @@
+{
+  "pdf_id": "S0022309300001435",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_30",
+      "component": "Li2O",
+      "value": 12.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_30",
+      "component": "TeO2",
+      "value": 46.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_30",
+      "component": "SiO2",
+      "value": 40.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_0",
+      "component": "Li2O",
+      "value": 17.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_0",
+      "component": "SiO2",
+      "value": 82.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "Li2O",
+      "value": 15.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "TeO2",
+      "value": 19.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "SiO2",
+      "value": 65.3,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_20",
+      "component": "Li2O",
+      "value": 13.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_20",
+      "component": "TeO2",
+      "value": 34.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_20",
+      "component": "SiO2",
+      "value": 51.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_25",
+      "component": "Li2O",
+      "value": 13.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_25",
+      "component": "TeO2",
+      "value": 40.8,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_25",
+      "component": "SiO2",
+      "value": 46.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_30",
+      "component": "Li2O",
+      "value": 12.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_30",
+      "component": "TeO2",
+      "value": 46.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_30",
+      "component": "SiO2",
+      "value": 40.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_1_00",
+      "component": "Li2O",
+      "value": 7.4,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_1_00",
+      "component": "TeO2",
+      "value": 6.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_1_00",
+      "component": "SiO2",
+      "value": 92.6,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 35.4,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_30\", \"component\": \"Li2O\", \"value\": 12.5, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_30\", \"component\": \"TeO2\", \"value\": 46.6, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_30\", \"component\": \"SiO2\", \"value\": 40.9, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_0\", \"component\": \"Li2O\", \"value\": 17.6, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_0\", \"component\": \"SiO2\", \"value\": 82.4, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303006537_0_10\", \"com"
+}

@@ -1,0 +1,110 @@
+{
+  "pdf_id": "S002230930100936X",
+  "predictions": [
+    {
+      "sample_id": "L9",
+      "component": "La2O3",
+      "value": 0.233,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L9",
+      "component": "P2O5",
+      "value": 0.72,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L9",
+      "component": "SiO2",
+      "value": 0.048,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L8",
+      "component": "La2O3",
+      "value": 0.21,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L8",
+      "component": "P2O5",
+      "value": 0.72,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L8",
+      "component": "SiO2",
+      "value": 0.063,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L7",
+      "component": "La2O3",
+      "value": 0.13,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L7",
+      "component": "P2O5",
+      "value": 0.84,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L7",
+      "component": "SiO2",
+      "value": 0.032,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L6",
+      "component": "La2O3",
+      "value": 0.11,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L6",
+      "component": "P2O5",
+      "value": 0.85,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L6",
+      "component": "SiO2",
+      "value": 0.043,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L5",
+      "component": "La2O3",
+      "value": 0.07,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L5",
+      "component": "P2O5",
+      "value": 0.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L5",
+      "component": "SiO2",
+      "value": 0.028,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L2",
+      "component": "La2O3",
+      "value": 0.05,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "L2",
+      "component": "P2O5",
+      "value": 0.95,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_annotations": 37,
+  "ablation": "no_intelligence",
+  "elapsed_seconds": 29.7
+}

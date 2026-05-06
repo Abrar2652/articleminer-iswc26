@@ -1,0 +1,379 @@
+{
+  "pmc_id": "PMC3983390",
+  "predictions": [
+    {
+      "value": "58.8",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "(-)-5-OH-DPAT",
+      "unit": "nM"
+    },
+    {
+      "value": "1.36",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "(-)-5-OH-DPAT",
+      "unit": "nM"
+    },
+    {
+      "value": "186",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "1a",
+      "unit": "nM"
+    },
+    {
+      "value": "2.10",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "1a",
+      "unit": "nM"
+    },
+    {
+      "value": "1073",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "1b",
+      "unit": "nM"
+    },
+    {
+      "value": "1.84",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "1b",
+      "unit": "nM"
+    },
+    {
+      "value": "213",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "8a",
+      "unit": "nM"
+    },
+    {
+      "value": "1.41",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "8a",
+      "unit": "nM"
+    },
+    {
+      "value": "464",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "8b",
+      "unit": "nM"
+    },
+    {
+      "value": "2.11",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "8b",
+      "unit": "nM"
+    },
+    {
+      "value": "343",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "(-)-8b",
+      "unit": "nM"
+    },
+    {
+      "value": "2.33",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "(-)-8b",
+      "unit": "nM"
+    },
+    {
+      "value": "274",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "8c",
+      "unit": "nM"
+    },
+    {
+      "value": "3.57",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "8c",
+      "unit": "nM"
+    },
+    {
+      "value": "230",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "9a",
+      "unit": "nM"
+    },
+    {
+      "value": "1.17",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "9a",
+      "unit": "nM"
+    },
+    {
+      "value": "347",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "9b",
+      "unit": "nM"
+    },
+    {
+      "value": "1.20",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "9b",
+      "unit": "nM"
+    },
+    {
+      "value": "369",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "(-)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "1.73",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "(-)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "1507",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "(+)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "19.7",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "(+)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "208",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "9c",
+      "unit": "nM"
+    },
+    {
+      "value": "1.80",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "9c",
+      "unit": "nM"
+    },
+    {
+      "value": "567",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "9d",
+      "unit": "nM"
+    },
+    {
+      "value": "9.43",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "9d",
+      "unit": "nM"
+    },
+    {
+      "value": "27.8",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "(-)-11",
+      "unit": "nM"
+    },
+    {
+      "value": "0.77",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "(-)-11",
+      "unit": "nM"
+    },
+    {
+      "value": "70.6",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "22",
+      "unit": "nM"
+    },
+    {
+      "value": "2.35",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "22",
+      "unit": "nM"
+    },
+    {
+      "value": "735",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "26a",
+      "unit": "nM"
+    },
+    {
+      "value": "3.65",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "26a",
+      "unit": "nM"
+    },
+    {
+      "value": "13121",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "27",
+      "unit": "nM"
+    },
+    {
+      "value": "67",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "27",
+      "unit": "nM"
+    },
+    {
+      "value": "1666",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "35",
+      "unit": "nM"
+    },
+    {
+      "value": "9.58",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "35",
+      "unit": "nM"
+    },
+    {
+      "value": "218",
+      "type": "EC50",
+      "target": "D2",
+      "treatment": "dopamine",
+      "unit": "nM"
+    },
+    {
+      "value": "10.6",
+      "type": "EC50",
+      "target": "D3",
+      "treatment": "dopamine",
+      "unit": "nM"
+    },
+    {
+      "value": "33.1",
+      "type": "EC50",
+      "target": "D2",
+      "treatment": "1a",
+      "unit": "nM"
+    },
+    {
+      "value": "1.51",
+      "type": "EC50",
+      "target": "D3",
+      "treatment": "1a",
+      "unit": "nM"
+    },
+    {
+      "value": "36.8",
+      "type": "EC50",
+      "target": "D2",
+      "treatment": "(-)-8b",
+      "unit": "nM"
+    },
+    {
+      "value": "3.42",
+      "type": "EC50",
+      "target": "D3",
+      "treatment": "(-)-8b",
+      "unit": "nM"
+    },
+    {
+      "value": "15.9",
+      "type": "EC50",
+      "target": "D2",
+      "treatment": "(-)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "0.10",
+      "type": "EC50",
+      "target": "D3",
+      "treatment": "(-)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "58.8",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "(\u2212)-5-OH-DPAT",
+      "unit": "nM"
+    },
+    {
+      "value": "1.36",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "(\u2212)-5-OH-DPAT",
+      "unit": "nM"
+    },
+    {
+      "value": "343",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "(\u2212)-8b",
+      "unit": "nM"
+    },
+    {
+      "value": "2.33",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "(\u2212)-8b",
+      "unit": "nM"
+    },
+    {
+      "value": "369",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "(\u2212)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "1.73",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "(\u2212)-9b",
+      "unit": "nM"
+    },
+    {
+      "value": "27.8",
+      "type": "IC50",
+      "target": "rD2L",
+      "treatment": "(\u2212)-11",
+      "unit": "nM"
+    },
+    {
+      "value": "0.77",
+      "type": "IC50",
+      "target": "rD3",
+      "treatment": "(\u2212)-11",
+      "unit": "nM"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 8,
+  "elapsed_seconds": 71.0,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber",
+    "camelot"
+  ]
+}

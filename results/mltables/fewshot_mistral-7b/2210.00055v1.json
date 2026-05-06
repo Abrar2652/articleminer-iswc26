@@ -1,0 +1,105 @@
+{
+  "pdf_id": "2210.00055v1",
+  "predictions": [
+    {
+      "value": 88.1,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": 78.6,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "Baseline [Xiao et al., 2020]"
+    },
+    {
+      "value": 85.6,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "Baseline [Xiao et al., 2020]"
+    },
+    {
+      "value": 75.6,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "Baseline [Xiao et al., 2020]"
+    },
+    {
+      "value": 95.6,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": 91.1,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": 78.6,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "CIM [Taghanaki et al., 2021]"
+    },
+    {
+      "value": 85.9,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "SIN [Sauer and Geiger, 2021]"
+    },
+    {
+      "value": 78.5,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "INSIN [Sauer and Geiger, 2021]"
+    },
+    {
+      "value": 83.4,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "INCGN [Sauer and Geiger, 2021]"
+    },
+    {
+      "value": 88.1,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "Mask Tune"
+    },
+    {
+      "value": 78.6,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "Baseline [Xiao et al., 2020]"
+    },
+    {
+      "value": 85.9,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "SIN [Sauer and Geiger, 2021]"
+    },
+    {
+      "value": 78.5,
+      "type": "Data Stat.",
+      "dataset": "Background Challenge on Image Net-9",
+      "metric": "accuracy",
+      "model": "INSIN [Sauer and Geiger, 2021]"
+    }
+  ],
+  "elapsed_seconds": 233.9,
+  "raw_preview": "{\"value\": 80.8\u00b11.3%, \"type\": \"Data Stat.\", \"dataset\": \"Waterbirds\", \"metric\": \"worst-group accuracy\", \"model\": \"ERM\"}\n{\"value\": 89.3\u00b13.1, \"type\": \"Data Stat.\", \"dataset\": \"Waterbirds\", \"metric\": \"average accuracy\", \"model\": \"Group DRO\"}\n{\"value\": 80.8\u00b11.3%, \"type\": \"Data Stat.\", \"dataset\": \"Waterbirds\", \"metric\": \"worst-group accuracy\", \"model\": \"Mask Tune\"}\n{\"value\": 94.4\u00b10.7, \"type\": \"Data Stat.\", \"dataset\": \"Waterbirds\", \"metric\": \"average accuracy\", \"model\": \"Group DRO\"}\n{\"value\": 93.0\u00b10.7, "
+}

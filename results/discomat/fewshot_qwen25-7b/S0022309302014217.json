@@ -1,0 +1,199 @@
+{
+  "pdf_id": "S0022309302014217",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_V-0.1",
+      "component": "Ca O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-0.1",
+      "component": "Si O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-0.1",
+      "component": "Zr O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-0.3",
+      "component": "Ca O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-0.3",
+      "component": "Si O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-0.3",
+      "component": "Zr O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-0.5",
+      "component": "Ca O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-0.5",
+      "component": "Si O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-0.5",
+      "component": "Zr O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-0.7",
+      "component": "Ca O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-0.7",
+      "component": "Si O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-0.7",
+      "component": "Zr O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-1.0",
+      "component": "Ca O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-1.0",
+      "component": "Si O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-1.0",
+      "component": "Zr O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-2.0",
+      "component": "Ca O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-2.0",
+      "component": "Si O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-2.0",
+      "component": "Zr O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-5.0",
+      "component": "Ca O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-5.0",
+      "component": "Si O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_V-5.0",
+      "component": "Zr O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_B-glass",
+      "component": "Ca O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_B-glass",
+      "component": "Si O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_B-glass",
+      "component": "Zr O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_Wollastonite",
+      "component": "Ca O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_Wollastonite",
+      "component": "Si O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_Calcia\u2013zirconia\u2013silicate",
+      "component": "Ca O",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_Calcia\u2013zirconia\u2013silicate",
+      "component": "Si O2",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_Calcia\u2013zirconia\u2013silicate",
+      "component": "Zr O2",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_Pseudowollastonite",
+      "component": "Ca O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_Pseudowollastonite",
+      "component": "Si O2",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_Pseudowollastonite",
+      "component": "Zr O2",
+      "value": 1.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 57.4,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_V-0.1\", \"component\": \"Ca O\", \"value\": 1, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_V-0.1\", \"component\": \"Si O2\", \"value\": 1, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_V-0.1\", \"component\": \"Zr O2\", \"value\": 1, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_V-0.3\", \"component\": \"Ca O\", \"value\": 1, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_V-0.3\", \"component\": \"Si O2\", \"value\": 1, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_V-0.3\", \"co"
+}

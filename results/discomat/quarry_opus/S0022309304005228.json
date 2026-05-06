@@ -1,0 +1,157 @@
+{
+  "pii": "S0022309304005228",
+  "predictions": [
+    {
+      "sample_id": "SnO40-batch",
+      "component": "SnO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO40-batch",
+      "component": "NaPO3",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO40-analyzed",
+      "component": "SnO",
+      "value": 39.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO40-analyzed",
+      "component": "Na2O",
+      "value": 30.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO40-analyzed",
+      "component": "P2O5",
+      "value": 29.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO30-batch",
+      "component": "SnO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO30-batch",
+      "component": "NaPO3",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO30-analyzed",
+      "component": "SnO",
+      "value": 28.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO30-analyzed",
+      "component": "Na2O",
+      "value": 35.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO30-analyzed",
+      "component": "P2O5",
+      "value": 35.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO15-batch",
+      "component": "SnO",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO15-batch",
+      "component": "NaPO3",
+      "value": 85.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO15-analyzed",
+      "component": "SnO",
+      "value": 15.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO15-analyzed",
+      "component": "Na2O",
+      "value": 39.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO15-analyzed",
+      "component": "P2O5",
+      "value": 44.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO5-batch",
+      "component": "SnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO5-batch",
+      "component": "NaPO3",
+      "value": 95.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO5-analyzed",
+      "component": "SnO",
+      "value": 5.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO5-analyzed",
+      "component": "Na2O",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO5-analyzed",
+      "component": "P2O5",
+      "value": 49.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO5b-batch",
+      "component": "SnO",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO5b-batch",
+      "component": "NaPO3",
+      "value": 95.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO5b-analyzed",
+      "component": "SnO",
+      "value": 5.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SnO5b-analyzed",
+      "component": "Na2O",
+      "value": 45.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 25,
+  "elapsed_seconds": 121.0,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

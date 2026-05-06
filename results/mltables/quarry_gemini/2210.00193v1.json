@@ -1,0 +1,4731 @@
+{
+  "arxiv_id": "2210.00193v1",
+  "predictions": [
+    {
+      "value": "37.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "pt-BR",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "60.9",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "pt-BR",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "32.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "pt-PT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "68.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "pt-PT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "40.7",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "pt-BR",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "74.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "pt-BR",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "35.7",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "pt-PT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "69.7",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "pt-PT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "34.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "pt-BR",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "67.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "pt-BR",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "pt-PT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "71.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "pt-PT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "45.5",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "pt-BR",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "70.1",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "pt-BR",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "32.5",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "pt-PT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "67.4",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "pt-PT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "39.5",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "pt-BR",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "69.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "pt-BR",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "35.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "pt-PT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "67.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "pt-PT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "49.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "pt-BR",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "73.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "pt-BR",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "36.7",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "pt-PT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "72.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "pt-PT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "53.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "pt-BR",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "pt-BR",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "40.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "pt-PT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "73.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "pt-PT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "56.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "pt-BR",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "pt-BR",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "35.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "pt-PT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "72.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "pt-PT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "46.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "76.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "40.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "73.6",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "53.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "79.8",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "45.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "75.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "48.4",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "43.3",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "78.4",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "48.6",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "73.8",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "40.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "72.8",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "45.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "79.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "38.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "54.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "80.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "44.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "77.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "59.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "81.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "49.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "79.8",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "63.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "84.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "46.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "39.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "70.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "35.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "69.2",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "43.1",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "70.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "35.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "68.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "40.1",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "70.4",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "41.0",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "73.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "48.1",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "70.5",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "69.0",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "39.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "69.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "32.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "67.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "49.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "73.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "38.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "71.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "54.8",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "76.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "45.6",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "75.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "65.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "80.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "42.9",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "38.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "71.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "42.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "71.7",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "38.2",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "72.8",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "41.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "70.6",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "38.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "70.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "46.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "73.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "50.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "77.3",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "49.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "77.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "22.6",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "58.5",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "13.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "56.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "33.3",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "65.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "18.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "58.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "33.3",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "64.9",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "19.4",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "59.0",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "33.8",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "64.3",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "18.8",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "58.8",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "17.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "55.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "13.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "52.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "29.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "62.2",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "20.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "59.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "34.8",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "66.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "24.8",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "63.3",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "39.7",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "68.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 1)"
+    },
+    {
+      "value": "21.9",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "61.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW (setting 2)"
+    },
+    {
+      "value": "26.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "67.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "19.5",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "65.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "43.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "31.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "70.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "44.2",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "72.3",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "33.9",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "71.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "40.8",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "70.2",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "31.6",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "69.8",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "28.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "65.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "24.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "63.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "8B",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "model size",
+      "model": "PaLM"
+    },
+    {
+      "value": "40.2",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "71.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "33.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "69.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "62B",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "model size",
+      "model": "PaLM"
+    },
+    {
+      "value": "45.8",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "73.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "38.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "72.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "540B",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "model size",
+      "model": "PaLM"
+    },
+    {
+      "value": "50.4",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (zh-TW, condition 1)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "37.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Automatic MT Metric",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "72.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (zh-TW, condition 2)",
+      "metric": "Human/MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "26.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "62.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "20.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "61.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "40.8",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "65.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "30.8",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "63.6",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "43.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "67.0",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "33.0",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "64.4",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "40.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "65.3",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "31.5",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "63.0",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "8",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "number of parameters (billions)",
+      "model": "PaLM"
+    },
+    {
+      "value": "21.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "56.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "18.2",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "56.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "62",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "number of parameters (billions)",
+      "model": "PaLM"
+    },
+    {
+      "value": "39.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "64.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "28.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "63.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "540",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "number of parameters (billions)",
+      "model": "PaLM"
+    },
+    {
+      "value": "45.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "67.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "36.6",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "66.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "56.1",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "72.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "zh-TW (setting 1)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "39.9",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 1",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "68.7",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "zh-TW (setting 2)",
+      "metric": "Score 2",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "21.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "61.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (Parenthetical)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "32.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "65.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (Parenthetical)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "65.3",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (Parenthetical)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "32.0",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "20.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "58.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (Parenthetical)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "30.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "65.1",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (Parenthetical)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "34.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "68.4",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (Parenthetical)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "40.1",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "69.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (Parenthetical)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-zh-TW"
+    },
+    {
+      "value": "98.6",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Portuguese"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Mandarin Chinese"
+    },
+    {
+      "value": "30.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Portuguese"
+    },
+    {
+      "value": "20.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Mandarin Chinese"
+    },
+    {
+      "value": "51.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Portuguese"
+    },
+    {
+      "value": "50.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Mandarin Chinese"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Portuguese"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "model": "M4-Prompts",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Mandarin Chinese"
+    },
+    {
+      "value": "66.7",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Portuguese"
+    },
+    {
+      "value": "51.0",
+      "type": "Result",
+      "model": "M4-Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Mandarin Chinese"
+    },
+    {
+      "value": "65.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Portuguese"
+    },
+    {
+      "value": "69.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Mandarin Chinese"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Portuguese"
+    },
+    {
+      "value": "70.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Mandarin Chinese"
+    },
+    {
+      "value": "93.3",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Portuguese"
+    },
+    {
+      "value": "83.6",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Mandarin Chinese"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "Portuguese"
+    },
+    {
+      "value": "8.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-2.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-7.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "-2.5",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "15.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-2.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-10.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "-5.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "19.5",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-5.7",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-13.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "-3.2",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "11.8",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-0.9",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-10.7",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "-3.0",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "13.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-5.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-5.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "-1.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "19.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-6.2",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "20.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-6.4",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-0.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "-0.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "20.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-6.4",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score (standard deviation)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-20.6",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "6.9",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-1.4",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-6.2",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-1.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "12.2",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-9.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "10.5",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.9",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-7.8",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.3",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "10.7",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.7",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-6.8",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.0",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "8.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-7.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "13.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-3.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "15.4",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-3.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-0.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-0.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "9.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-9.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "MQM Score Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "5.2",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "-0.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "10.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "-0.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "15.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "3.4",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "-12.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "-2.7",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "2.0",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "-9.7",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "-2.1",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "7.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "1.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "-2.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "-0.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "8",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "number of parameters (billions)",
+      "model": "PaLM 8B"
+    },
+    {
+      "value": "11.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "-0.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "62",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "number of parameters (billions)",
+      "model": "PaLM 62B"
+    },
+    {
+      "value": "15.3",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "2.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "540",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "number of parameters (billions)",
+      "model": "PaLM 540B"
+    },
+    {
+      "value": "22.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "5.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-BR"
+    },
+    {
+      "value": "-22.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "-5.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "Standard Deviation",
+      "task": "Few-shot Regionaware Machine Translation",
+      "language_pair": "en-pt-PT"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT_std",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "6.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT_std",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-4.9",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-1.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-11.1",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.5",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-10.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-10.9",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.7",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-10.7",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "2.1",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-11.1",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.6",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-9.9",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-11.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-10.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "2.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-3.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-1.0",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-8.7",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "1.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-3.3",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-0.8",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-9.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-14.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-2.8",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-14.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "3.3",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (English to zh-TW)",
+      "metric": "Secondary Human Evaluation Score",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-3.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-0.6",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "-0.3",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "-6.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-1.4",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "-0.1",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "M4-UR",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "-10.1",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-1.6",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "-0.1",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "M4 Prompts",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "-9.6",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-1.6",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "M4 Prompts FT",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "-10.8",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-1.6",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "-0.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "-2.6",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-0.2",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "3.3",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "-0.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "4.7",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "1.0",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "-16.2",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "-3.5",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 1)",
+      "task": "Few-shot Regionaware Machine Translation",
+      "sub_metric": "standard deviation"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Online",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Human Evaluation Score (Column 2)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "Human Evaluation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-1.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "MQM Score",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-1.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "MQM Score",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars"
+    },
+    {
+      "value": "51.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "Human Evaluation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "77.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "MQM Score",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "38.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "Human Evaluation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "74.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "MQM Score",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars"
+    },
+    {
+      "value": "51.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "Human Evaluation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "77.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "MQM Score",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "38.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "Human Evaluation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "MQM Score",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars"
+    },
+    {
+      "value": "52.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "Human Evaluation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "78.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "MQM Score",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "39.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "Human Evaluation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "75.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "MQM Score",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "10",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars"
+    },
+    {
+      "value": "54.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "Human Evaluation",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "MQM Score",
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "40.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "Human Evaluation",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "75.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A",
+      "metric": "MQM Score",
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=0"
+    },
+    {
+      "value": "-1.4",
+      "type": "Result",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "secondary score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=0"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=0"
+    },
+    {
+      "value": "-1.6",
+      "type": "Result",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "secondary score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=0"
+    },
+    {
+      "value": "56.5",
+      "type": "Result",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=1"
+    },
+    {
+      "value": "80.8",
+      "type": "Result",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "secondary score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=1"
+    },
+    {
+      "value": "47.5",
+      "type": "Result",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=1"
+    },
+    {
+      "value": "78.5",
+      "type": "Result",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "secondary score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=1"
+    },
+    {
+      "value": "57.0",
+      "type": "Result",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=2"
+    },
+    {
+      "value": "48.0",
+      "type": "Result",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=2"
+    },
+    {
+      "value": "57.9",
+      "type": "Result",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=5"
+    },
+    {
+      "value": "80.9",
+      "type": "Result",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "secondary score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=5"
+    },
+    {
+      "value": "48.9",
+      "type": "Result",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=5"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "secondary score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=5"
+    },
+    {
+      "value": "58.3",
+      "type": "Result",
+      "dataset": "FRMT (pt-BR)",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=10"
+    },
+    {
+      "value": "48.2",
+      "type": "Result",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=10"
+    },
+    {
+      "value": "78.9",
+      "type": "Result",
+      "dataset": "FRMT (pt-PT)",
+      "metric": "secondary score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter": "number of exemplars=10"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 0,
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-0.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "parenthesized score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 0,
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "-1.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "parenthesized score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 0,
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "53.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 1,
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "76.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "parenthesized score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 1,
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "45.1",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 1,
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "73.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "parenthesized score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 1,
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "53.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 2,
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "45.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 2,
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "74.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "parenthesized score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 2,
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "54.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 5,
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "76.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "parenthesized score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 5,
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "45.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 5,
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "74.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "parenthesized score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 5,
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "54.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 10,
+      "target_language_variant": "pt-BR"
+    },
+    {
+      "value": "46.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 10,
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "74.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "parenthesized score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "exemplars": 10,
+      "target_language_variant": "pt-PT"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT (std dev)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "48.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "77.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT (std dev)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "48.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT (std dev)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "49.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "77.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT (std dev)",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "50.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "\u0394FRMT",
+      "task": "Few-shot Regionaware Machine Translation"
+    },
+    {
+      "value": "0",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars",
+      "model": "unknown"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars",
+      "model": "unknown"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars",
+      "model": "unknown"
+    },
+    {
+      "value": "5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars",
+      "model": "unknown"
+    },
+    {
+      "value": "10",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars",
+      "model": "unknown"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 1",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "0",
+      "column_identifier": "zh-TW (first column)"
+    },
+    {
+      "value": "3.2",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 2",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "0",
+      "column_identifier": "zh-TW (second column)"
+    },
+    {
+      "value": "37.0",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 1",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "1",
+      "column_identifier": "zh-TW (first column)"
+    },
+    {
+      "value": "70.1",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 2",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "1",
+      "column_identifier": "zh-TW (first column)"
+    },
+    {
+      "value": "25.9",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 1",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "1",
+      "column_identifier": "zh-TW (second column)"
+    },
+    {
+      "value": "65.5",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 2",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "1",
+      "column_identifier": "zh-TW (second column)"
+    },
+    {
+      "value": "37.7",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 1",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "2",
+      "column_identifier": "zh-TW (first column)"
+    },
+    {
+      "value": "70.5",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 2",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "2",
+      "column_identifier": "zh-TW (first column)"
+    },
+    {
+      "value": "27.0",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 1",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "2",
+      "column_identifier": "zh-TW (second column)"
+    },
+    {
+      "value": "67.8",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 2",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "2",
+      "column_identifier": "zh-TW (second column)"
+    },
+    {
+      "value": "37.2",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 1",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "5",
+      "column_identifier": "zh-TW (first column)"
+    },
+    {
+      "value": "70.2",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 2",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "5",
+      "column_identifier": "zh-TW (first column)"
+    },
+    {
+      "value": "26.4",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 1",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "5",
+      "column_identifier": "zh-TW (second column)"
+    },
+    {
+      "value": "67.2",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 2",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "5",
+      "column_identifier": "zh-TW (second column)"
+    },
+    {
+      "value": "37.6",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 1",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "10",
+      "column_identifier": "zh-TW (first column)"
+    },
+    {
+      "value": "70.7",
+      "type": "Result",
+      "model": "unknown",
+      "dataset": "FRMT (zh-TW)",
+      "metric": "Metric 2",
+      "task": "Few-shot Regionaware Machine Translation",
+      "parameter/architecture name": "Exemplars",
+      "parameter value": "10",
+      "column_identifier": "zh-TW (first column)"
+    },
+    {
+      "value": "0.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "6.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "47.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "74.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "37.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "73.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "48.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "38.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "73.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "74.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "39.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "48.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "39.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "73.6",
+      "type": "Result",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language_variant": "zh-TW"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score Std Dev",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "4.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score Std Dev",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "67.0",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score Std Dev",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "35.5",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "68.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score Std Dev",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "39.3",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "67.1",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score Std Dev",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "32.2",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "65.7",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score Std Dev",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "39.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "66.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score Std Dev",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "32.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "65.4",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score Std Dev",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "40.9",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "32.8",
+      "type": "Result",
+      "dataset": "FRMT",
+      "metric": "MQM Score",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_language": "zh-TW"
+    },
+    {
+      "value": "0",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars",
+      "model": "N/A"
+    },
+    {
+      "value": "2.3",
+      "type": "Result",
+      "metric": "\u0394FRMT (std dev)",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars",
+      "model": "N/A"
+    },
+    {
+      "value": "36.1",
+      "type": "Result",
+      "metric": "\u0394FRMT",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A"
+    },
+    {
+      "value": "69.5",
+      "type": "Result",
+      "metric": "\u0394FRMT (std dev)",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A"
+    },
+    {
+      "value": "2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars",
+      "model": "N/A"
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "metric": "\u0394FRMT",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A"
+    },
+    {
+      "value": "69.8",
+      "type": "Result",
+      "metric": "\u0394FRMT (std dev)",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A"
+    },
+    {
+      "value": "5",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars",
+      "model": "N/A"
+    },
+    {
+      "value": "69.9",
+      "type": "Result",
+      "metric": "\u0394FRMT (std dev)",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A"
+    },
+    {
+      "value": "10",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Exemplars",
+      "model": "N/A"
+    },
+    {
+      "value": "38.4",
+      "type": "Result",
+      "metric": "\u0394FRMT",
+      "dataset": "FRMT",
+      "task": "Few-shot Regionaware Machine Translation",
+      "model": "N/A"
+    },
+    {
+      "value": "99.8",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "simp"
+    },
+    {
+      "value": "0.0",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "trad"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "amb"
+    },
+    {
+      "value": "99.4",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-TW",
+      "style_category": "simp"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "Gold",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-TW",
+      "style_category": "amb"
+    },
+    {
+      "value": "98.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "simp"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "amb"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "mix"
+    },
+    {
+      "value": "69.1",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-TW",
+      "style_category": "simp"
+    },
+    {
+      "value": "11.8",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-TW",
+      "style_category": "trad"
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-TW",
+      "style_category": "amb"
+    },
+    {
+      "value": "14.7",
+      "type": "Result",
+      "model": "UR",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-TW",
+      "style_category": "mix"
+    },
+    {
+      "value": "99.0",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "simp"
+    },
+    {
+      "value": "0.1",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "trad"
+    },
+    {
+      "value": "0.3",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "amb"
+    },
+    {
+      "value": "98.7",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-TW",
+      "style_category": "simp"
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-TW",
+      "style_category": "trad"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "PaLM 8B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-TW",
+      "style_category": "mix"
+    },
+    {
+      "value": "98.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "simp"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "trad"
+    },
+    {
+      "value": "0.5",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "amb"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "mix"
+    },
+    {
+      "value": "98.8",
+      "type": "Result",
+      "model": "PaLM 62B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-TW",
+      "style_category": "simp"
+    },
+    {
+      "value": "99.1",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "simp"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "amb"
+    },
+    {
+      "value": "0.5",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-CN",
+      "style_category": "mix"
+    },
+    {
+      "value": "99.2",
+      "type": "Result",
+      "model": "PaLM 540B",
+      "dataset": "FRMT",
+      "metric": "Proportion",
+      "task": "Few-shot Regionaware Machine Translation",
+      "target_variant": "zh-TW",
+      "style_category": "simp"
+    }
+  ],
+  "num_gold_annotations": 302,
+  "elapsed_seconds": 606.3,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "pii": "S0167273813004840",
+  "predictions": [
+    {
+      "sample_id": "2Fe2O3-49SiO2-49PbO",
+      "component": "Fe2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2Fe2O3-49SiO2-49PbO",
+      "component": "SiO2",
+      "value": 49.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2Fe2O3-49SiO2-49PbO",
+      "component": "PbO",
+      "value": 49.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Fe2O3-47.5SiO2-47.5PbO",
+      "component": "Fe2O3",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Fe2O3-47.5SiO2-47.5PbO",
+      "component": "SiO2",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5Fe2O3-47.5SiO2-47.5PbO",
+      "component": "PbO",
+      "value": 47.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Fe2O3-45SiO2-45PbO",
+      "component": "Fe2O3",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Fe2O3-45SiO2-45PbO",
+      "component": "SiO2",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "10Fe2O3-45SiO2-45PbO",
+      "component": "PbO",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe2O3-42.5SiO2-42.5PbO",
+      "component": "Fe2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe2O3-42.5SiO2-42.5PbO",
+      "component": "SiO2",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe2O3-42.5SiO2-42.5PbO",
+      "component": "PbO",
+      "value": 42.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe2O3-40SiO2-40PbO",
+      "component": "Fe2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe2O3-40SiO2-40PbO",
+      "component": "SiO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe2O3-40SiO2-40PbO",
+      "component": "PbO",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "25Fe2O3-37.5SiO2-37.5PbO",
+      "component": "Fe2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "25Fe2O3-37.5SiO2-37.5PbO",
+      "component": "SiO2",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "25Fe2O3-37.5SiO2-37.5PbO",
+      "component": "PbO",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe2O3-50SiO2-35PbO",
+      "component": "Fe2O3",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe2O3-50SiO2-35PbO",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "15Fe2O3-50SiO2-35PbO",
+      "component": "PbO",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe2O3-50SiO2-30PbO",
+      "component": "Fe2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe2O3-50SiO2-30PbO",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "20Fe2O3-50SiO2-30PbO",
+      "component": "PbO",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "25Fe2O3-50SiO2-25PbO",
+      "component": "Fe2O3",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "25Fe2O3-50SiO2-25PbO",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "25Fe2O3-50SiO2-25PbO",
+      "component": "PbO",
+      "value": 25.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 27,
+  "elapsed_seconds": 50.4,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

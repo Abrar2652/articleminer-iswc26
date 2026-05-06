@@ -1,0 +1,73 @@
+{
+  "pdf_id": "S0022309305001109",
+  "predictions": [
+    {
+      "sample_id": "Fisher2005_P0",
+      "component": "ZrO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fisher2005_P1",
+      "component": "ZrO2",
+      "value": 4.59,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fisher2005_P2",
+      "component": "ZrO2",
+      "value": 6.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fisher2005_P3",
+      "component": "ZrO2",
+      "value": 7.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fisher2005_P4",
+      "component": "ZrO2",
+      "value": 11.09,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fisher2005_P5",
+      "component": "ZrO2",
+      "value": 12.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fisher2005_P6",
+      "component": "ZrO2",
+      "value": 14.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fisher2005_P6_calc",
+      "component": "ZrO2",
+      "value": 17.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fisher2005_P7_calc",
+      "component": "ZrO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fisher2005_P4_calc",
+      "component": "ZrO2",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Fisher2005_P7_analyzed",
+      "component": "ZrO2",
+      "value": 15.25,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 17.1,
+  "raw_preview": "I'll extract all material-composition entries from the paper text. The key table is Table 1 (compositions), which based on the text describes Na2O\u2013CaO\u2013ZrO2\u2013SiO2 glasses with varying ZrO2 contents. From the text, I can extract the analyzed ZrO2 compositions mentioned explicitly.\n\nFrom the paper, the analyzed ZrO2 mol% values are given in Table 2 and Table 3, and referenced throughout the text:\n\n{\"sample_id\": \"Fisher2005_P0\", \"component\": \"ZrO2\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Fisher2"
+}

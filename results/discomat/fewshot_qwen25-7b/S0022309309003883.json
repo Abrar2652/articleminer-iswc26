@@ -1,0 +1,97 @@
+{
+  "pdf_id": "S0022309309003883",
+  "predictions": [
+    {
+      "sample_id": "Ga Ge S_0_0",
+      "component": "GeS2",
+      "value": 72.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_0_0",
+      "component": "GaS2.5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_0_0",
+      "component": "GS4/2",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_2_0",
+      "component": "GeS2",
+      "value": 71.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_2_0",
+      "component": "GaS2.5",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_2_0",
+      "component": "GS4/2",
+      "value": 27.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_5_0",
+      "component": "GeS2",
+      "value": 68.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_5_0",
+      "component": "GaS2.5",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_5_0",
+      "component": "GS4/2",
+      "value": 27.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_10_0",
+      "component": "GeS2",
+      "value": 65.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_10_0",
+      "component": "GaS2.5",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_10_0",
+      "component": "GS4/2",
+      "value": 24.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_15_0",
+      "component": "GeS2",
+      "value": 63.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_15_0",
+      "component": "GaS2.5",
+      "value": 15.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ga Ge S_15_0",
+      "component": "GS4/2",
+      "value": 22.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 26.1,
+  "raw_preview": "```json\n{\"sample_id\": \"Ga Ge S_0_0\", \"component\": \"GeS2\", \"value\": 72.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ga Ge S_0_0\", \"component\": \"GaS2.5\", \"value\": 0.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ga Ge S_0_0\", \"component\": \"GS4/2\", \"value\": 28.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ga Ge S_2_0\", \"component\": \"GeS2\", \"value\": 71.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ga Ge S_2_0\", \"component\": \"GaS2.5\", \"value\": 2.0, \"unit\": \"mol\"}\n{\"sample_id\": \"Ga Ge S_2_0\", \"component\": \"GS4/2\", \"value\": 27.0, \"unit\": \"mol\"}\n{\"sample"
+}

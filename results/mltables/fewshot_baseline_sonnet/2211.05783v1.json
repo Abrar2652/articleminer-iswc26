@@ -1,0 +1,749 @@
+{
+  "pdf_id": "2211.05783v1",
+  "predictions": [
+    {
+      "value": "1.22",
+      "type": "Result",
+      "model": "GMFlow (full, 1D attention)",
+      "dataset": "Things",
+      "metric": "EPE"
+    },
+    {
+      "value": "3.70",
+      "type": "Result",
+      "model": "GMFlow (full, 1D attention)",
+      "dataset": "Things",
+      "metric": "D1"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "GMFlow (full, 1D attention)",
+      "dataset": "KITTI",
+      "metric": "EPE"
+    },
+    {
+      "value": "10.53",
+      "type": "Result",
+      "model": "GMFlow (full, 1D attention)",
+      "dataset": "KITTI",
+      "metric": "D1"
+    },
+    {
+      "value": "4.7",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow (full)",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "1.96",
+      "type": "Result",
+      "model": "GMFlow w/o cross attn.",
+      "dataset": "Things",
+      "metric": "EPE"
+    },
+    {
+      "value": "7.84",
+      "type": "Result",
+      "model": "GMFlow w/o cross attn.",
+      "dataset": "Things",
+      "metric": "D1"
+    },
+    {
+      "value": "5.40",
+      "type": "Result",
+      "model": "GMFlow w/o cross attn.",
+      "dataset": "KITTI",
+      "metric": "EPE"
+    },
+    {
+      "value": "31.97",
+      "type": "Result",
+      "model": "GMFlow w/o cross attn.",
+      "dataset": "KITTI",
+      "metric": "D1"
+    },
+    {
+      "value": "4.3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow w/o cross attn.",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "1.24",
+      "type": "Result",
+      "model": "GMFlow w/o position",
+      "dataset": "Things",
+      "metric": "EPE"
+    },
+    {
+      "value": "4.46",
+      "type": "Result",
+      "model": "GMFlow w/o position",
+      "dataset": "Things",
+      "metric": "D1"
+    },
+    {
+      "value": "1.72",
+      "type": "Result",
+      "model": "GMFlow w/o position",
+      "dataset": "KITTI",
+      "metric": "EPE"
+    },
+    {
+      "value": "12.07",
+      "type": "Result",
+      "model": "GMFlow w/o position",
+      "dataset": "KITTI",
+      "metric": "D1"
+    },
+    {
+      "value": "4.7",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow w/o position",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "1.39",
+      "type": "Result",
+      "model": "GMFlow w/o FFN",
+      "dataset": "Things",
+      "metric": "EPE"
+    },
+    {
+      "value": "4.93",
+      "type": "Result",
+      "model": "GMFlow w/o FFN",
+      "dataset": "Things",
+      "metric": "D1"
+    },
+    {
+      "value": "1.95",
+      "type": "Result",
+      "model": "GMFlow w/o FFN",
+      "dataset": "KITTI",
+      "metric": "EPE"
+    },
+    {
+      "value": "14.86",
+      "type": "Result",
+      "model": "GMFlow w/o FFN",
+      "dataset": "KITTI",
+      "metric": "D1"
+    },
+    {
+      "value": "2.3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow w/o FFN",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "1.35",
+      "type": "Result",
+      "model": "GMFlow w/o self attn.",
+      "dataset": "Things",
+      "metric": "EPE"
+    },
+    {
+      "value": "4.47",
+      "type": "Result",
+      "model": "GMFlow w/o self attn.",
+      "dataset": "Things",
+      "metric": "D1"
+    },
+    {
+      "value": "1.87",
+      "type": "Result",
+      "model": "GMFlow w/o self attn.",
+      "dataset": "KITTI",
+      "metric": "EPE"
+    },
+    {
+      "value": "13.04",
+      "type": "Result",
+      "model": "GMFlow w/o self attn.",
+      "dataset": "KITTI",
+      "metric": "D1"
+    },
+    {
+      "value": "4.3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow w/o self attn.",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "2.33",
+      "type": "Result",
+      "model": "GMFlow w/o propagation",
+      "dataset": "Things",
+      "metric": "EPE"
+    },
+    {
+      "value": "6.08",
+      "type": "Result",
+      "model": "GMFlow w/o propagation",
+      "dataset": "Things",
+      "metric": "D1"
+    },
+    {
+      "value": "1.76",
+      "type": "Result",
+      "model": "GMFlow w/o propagation",
+      "dataset": "KITTI",
+      "metric": "EPE"
+    },
+    {
+      "value": "10.09",
+      "type": "Result",
+      "model": "GMFlow w/o propagation",
+      "dataset": "KITTI",
+      "metric": "D1"
+    },
+    {
+      "value": "4.6",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow w/o propagation",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "0.074",
+      "type": "Result",
+      "model": "GMDepth (full)",
+      "dataset": "ScanNet",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": "0.028",
+      "type": "Result",
+      "model": "GMDepth (full)",
+      "dataset": "ScanNet",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": "0.225",
+      "type": "Result",
+      "model": "GMDepth (full)",
+      "dataset": "ScanNet",
+      "metric": "RMSE"
+    },
+    {
+      "value": "0.103",
+      "type": "Result",
+      "model": "GMDepth (full)",
+      "dataset": "ScanNet",
+      "metric": "RMSE log"
+    },
+    {
+      "value": "4.7",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth (full)",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "0.095",
+      "type": "Result",
+      "model": "GMDepth w/o cross attn.",
+      "dataset": "ScanNet",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": "0.043",
+      "type": "Result",
+      "model": "GMDepth w/o cross attn.",
+      "dataset": "ScanNet",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": "0.284",
+      "type": "Result",
+      "model": "GMDepth w/o cross attn.",
+      "dataset": "ScanNet",
+      "metric": "RMSE"
+    },
+    {
+      "value": "0.132",
+      "type": "Result",
+      "model": "GMDepth w/o cross attn.",
+      "dataset": "ScanNet",
+      "metric": "RMSE log"
+    },
+    {
+      "value": "4.3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth w/o cross attn.",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "0.078",
+      "type": "Result",
+      "model": "GMDepth w/o position",
+      "dataset": "ScanNet",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": "0.031",
+      "type": "Result",
+      "model": "GMDepth w/o position",
+      "dataset": "ScanNet",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": "0.237",
+      "type": "Result",
+      "model": "GMDepth w/o position",
+      "dataset": "ScanNet",
+      "metric": "RMSE"
+    },
+    {
+      "value": "0.109",
+      "type": "Result",
+      "model": "GMDepth w/o position",
+      "dataset": "ScanNet",
+      "metric": "RMSE log"
+    },
+    {
+      "value": "4.7",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth w/o position",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "0.089",
+      "type": "Result",
+      "model": "GMDepth w/o FFN",
+      "dataset": "ScanNet",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": "0.041",
+      "type": "Result",
+      "model": "GMDepth w/o FFN",
+      "dataset": "ScanNet",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": "0.276",
+      "type": "Result",
+      "model": "GMDepth w/o FFN",
+      "dataset": "ScanNet",
+      "metric": "RMSE"
+    },
+    {
+      "value": "0.127",
+      "type": "Result",
+      "model": "GMDepth w/o FFN",
+      "dataset": "ScanNet",
+      "metric": "RMSE log"
+    },
+    {
+      "value": "2.3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth w/o FFN",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "0.081",
+      "type": "Result",
+      "model": "GMDepth w/o self attn.",
+      "dataset": "ScanNet",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": "0.034",
+      "type": "Result",
+      "model": "GMDepth w/o self attn.",
+      "dataset": "ScanNet",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": "0.248",
+      "type": "Result",
+      "model": "GMDepth w/o self attn.",
+      "dataset": "ScanNet",
+      "metric": "RMSE"
+    },
+    {
+      "value": "0.114",
+      "type": "Result",
+      "model": "GMDepth w/o self attn.",
+      "dataset": "ScanNet",
+      "metric": "RMSE log"
+    },
+    {
+      "value": "4.3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth w/o self attn.",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "0.091",
+      "type": "Result",
+      "model": "GMDepth w/o propagation",
+      "dataset": "ScanNet",
+      "metric": "Abs Rel"
+    },
+    {
+      "value": "0.045",
+      "type": "Result",
+      "model": "GMDepth w/o propagation",
+      "dataset": "ScanNet",
+      "metric": "Sq Rel"
+    },
+    {
+      "value": "0.293",
+      "type": "Result",
+      "model": "GMDepth w/o propagation",
+      "dataset": "ScanNet",
+      "metric": "RMSE"
+    },
+    {
+      "value": "0.144",
+      "type": "Result",
+      "model": "GMDepth w/o propagation",
+      "dataset": "ScanNet",
+      "metric": "RMSE log"
+    },
+    {
+      "value": "4.6",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth w/o propagation",
+      "dataset": null,
+      "metric": "Parameters (M)"
+    },
+    {
+      "value": "1.25",
+      "type": "Result",
+      "model": "GMStereo (2D attention)",
+      "dataset": "Things",
+      "metric": "EPE"
+    },
+    {
+      "value": "3.97",
+      "type": "Result",
+      "model": "GMStereo (2D attention)",
+      "dataset": "Things",
+      "metric": "D1"
+    },
+    {
+      "value": "1.80",
+      "type": "Result",
+      "model": "GMStereo (2D attention)",
+      "dataset": "KITTI",
+      "metric": "EPE"
+    },
+    {
+      "value": "13.66",
+      "type": "Result",
+      "model": "GMStereo (2D attention)",
+      "dataset": "KITTI",
+      "metric": "D1"
+    },
+    {
+      "value": "61",
+      "type": "Result",
+      "model": "GMStereo (2D attention)",
+      "dataset": null,
+      "metric": "Inference Time (ms)"
+    },
+    {
+      "value": "1.22",
+      "type": "Result",
+      "model": "GMStereo (1D attention)",
+      "dataset": "Things",
+      "metric": "EPE"
+    },
+    {
+      "value": "3.70",
+      "type": "Result",
+      "model": "GMStereo (1D attention)",
+      "dataset": "Things",
+      "metric": "D1"
+    },
+    {
+      "value": "1.61",
+      "type": "Result",
+      "model": "GMStereo (1D attention)",
+      "dataset": "KITTI",
+      "metric": "EPE"
+    },
+    {
+      "value": "10.53",
+      "type": "Result",
+      "model": "GMStereo (1D attention)",
+      "dataset": "KITTI",
+      "metric": "D1"
+    },
+    {
+      "value": "50",
+      "type": "Result",
+      "model": "GMStereo (1D attention)",
+      "dataset": null,
+      "metric": "Inference Time (ms)"
+    },
+    {
+      "value": "2.29",
+      "type": "Result",
+      "model": "Unified model (ours)",
+      "dataset": null,
+      "metric": "Speedup ratio (A100 GPU)"
+    },
+    {
+      "value": "1.87",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": null,
+      "metric": "Speedup ratio (A100 GPU)"
+    },
+    {
+      "value": "151",
+      "type": "Result",
+      "model": "Unified model (ours)",
+      "dataset": null,
+      "metric": "Inference time before speedup (ms)"
+    },
+    {
+      "value": "66",
+      "type": "Result",
+      "model": "Unified model (ours)",
+      "dataset": null,
+      "metric": "Inference time after speedup (ms)"
+    },
+    {
+      "value": "170",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": null,
+      "metric": "Inference time before speedup (ms)"
+    },
+    {
+      "value": "91",
+      "type": "Result",
+      "model": "RAFT",
+      "dataset": null,
+      "metric": "Inference time after speedup (ms)"
+    },
+    {
+      "value": "31",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RAFT",
+      "dataset": null,
+      "metric": "Number of refinement steps"
+    },
+    {
+      "value": "11",
+      "type": "Hyper-parameter/Architecture",
+      "model": "RAFT",
+      "dataset": null,
+      "metric": "Number of refinement steps"
+    },
+    {
+      "value": "100000",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow",
+      "dataset": "Chairs",
+      "metric": "Training iterations"
+    },
+    {
+      "value": "16",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow",
+      "dataset": "Chairs",
+      "metric": "Batch size"
+    },
+    {
+      "value": "4e-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow",
+      "dataset": "Chairs",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "200000",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow",
+      "dataset": "Things",
+      "metric": "Training iterations"
+    },
+    {
+      "value": "8",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow",
+      "dataset": "Things",
+      "metric": "Batch size"
+    },
+    {
+      "value": "2e-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMFlow",
+      "dataset": "Things",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "30000",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMStereo",
+      "dataset": "Virtual KITTI 2",
+      "metric": "Training iterations"
+    },
+    {
+      "value": "16",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMStereo",
+      "dataset": "Virtual KITTI 2",
+      "metric": "Batch size"
+    },
+    {
+      "value": "4e-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMStereo",
+      "dataset": "Virtual KITTI 2",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "10000",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMStereo",
+      "dataset": "KITTI 2012+2015",
+      "metric": "Training iterations"
+    },
+    {
+      "value": "16",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMStereo",
+      "dataset": "KITTI 2012+2015",
+      "metric": "Batch size"
+    },
+    {
+      "value": "4e-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMStereo",
+      "dataset": "KITTI 2012+2015",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "100000",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth",
+      "dataset": "ScanNet",
+      "metric": "Training iterations"
+    },
+    {
+      "value": "80",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth",
+      "dataset": "ScanNet",
+      "metric": "Batch size"
+    },
+    {
+      "value": "4e-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth",
+      "dataset": "ScanNet",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "50000",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth",
+      "dataset": "ScanNet",
+      "metric": "Training iterations (ablation)"
+    },
+    {
+      "value": "80",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth",
+      "dataset": "ScanNet",
+      "metric": "Batch size (ablation)"
+    },
+    {
+      "value": "4e-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth",
+      "dataset": "ScanNet",
+      "metric": "Learning rate (ablation)"
+    },
+    {
+      "value": "50000",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMStereo",
+      "dataset": "Scene Flow",
+      "metric": "Training iterations (ablation)"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMStereo",
+      "dataset": "Scene Flow",
+      "metric": "Batch size (ablation)"
+    },
+    {
+      "value": "1e-3",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMStereo",
+      "dataset": "Scene Flow",
+      "metric": "Learning rate (ablation)"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth",
+      "dataset": "ScanNet",
+      "metric": "Number of depth candidates"
+    },
+    {
+      "value": "100000",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth",
+      "dataset": "RGBD-SLAM/SUN3D/Scenes11",
+      "metric": "Training iterations"
+    },
+    {
+      "value": "64",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth",
+      "dataset": "RGBD-SLAM/SUN3D/Scenes11",
+      "metric": "Batch size"
+    },
+    {
+      "value": "4e-4",
+      "type": "Hyper-parameter/Architecture",
+      "model": "GMDepth",
+      "dataset": "RGBD-SLAM/SUN3D/Scenes11",
+      "metric": "Learning rate"
+    },
+    {
+      "value": "10",
+      "type": "Result",
+      "model": "Unified model (ours)",
+      "dataset": null,
+      "metric": "Speedup over BA-Net"
+    },
+    {
+      "value": "15",
+      "type": "Result",
+      "model": "Unified model (ours)",
+      "dataset": null,
+      "metric": "Speedup over Deep V2D"
+    },
+    {
+      "value": "15.52",
+      "type": "Result",
+      "model": null,
+      "dataset": null,
+      "metric": "Unknown (context unclear)"
+    }
+  ],
+  "elapsed_seconds": 65.3,
+  "raw_preview": "{\"value\": \"1.22\", \"type\": \"Result\", \"model\": \"GMFlow (full, 1D attention)\", \"dataset\": \"Things\", \"metric\": \"EPE\"}\n{\"value\": \"3.70\", \"type\": \"Result\", \"model\": \"GMFlow (full, 1D attention)\", \"dataset\": \"Things\", \"metric\": \"D1\"}\n{\"value\": \"1.61\", \"type\": \"Result\", \"model\": \"GMFlow (full, 1D attention)\", \"dataset\": \"KITTI\", \"metric\": \"EPE\"}\n{\"value\": \"10.53\", \"type\": \"Result\", \"model\": \"GMFlow (full, 1D attention)\", \"dataset\": \"KITTI\", \"metric\": \"D1\"}\n{\"value\": \"4.7\", \"type\": \"Hyper-parameter/Archi"
+}

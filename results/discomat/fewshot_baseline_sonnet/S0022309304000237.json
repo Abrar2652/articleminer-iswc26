@@ -1,0 +1,217 @@
+{
+  "pdf_id": "S0022309304000237",
+  "predictions": [
+    {
+      "sample_id": "G_series_base",
+      "component": "PbO",
+      "value": 65.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G_series_base",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "G_series_base",
+      "component": "SiO2",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F_series_base",
+      "component": "PbO",
+      "value": 68.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F_series_base",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F_series_base",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F_series_base",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "F_series_base",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B_series_base",
+      "component": "PbO",
+      "value": 68.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B_series_base",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B_series_base",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B_series_base",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "B_series_base",
+      "component": "Nd2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "IR_series_base",
+      "component": "PbO",
+      "value": 68.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "IR_series_base",
+      "component": "B2O3",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "IR_series_base",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "IR_series_base",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd0",
+      "component": "PbO",
+      "value": 68.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd0",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd0",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd0",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd0",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd0",
+      "component": "Nd2O3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd5",
+      "component": "PbO",
+      "value": 68.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd5",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd5",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd5",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd5",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd5",
+      "component": "Nd2O3",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd10",
+      "component": "PbO",
+      "value": 68.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd10",
+      "component": "B2O3",
+      "value": 15.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd10",
+      "component": "SiO2",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd10",
+      "component": "Al2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd10",
+      "component": "ZnO",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "XPS_F_series_Nd10",
+      "component": "Nd2O3",
+      "value": 10.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 24.1,
+  "raw_preview": "I'll extract all material-composition entries from the paper text. The compositions are described in the text (not in tables), so I'll parse each named series/composition.\n\n{\"sample_id\": \"G_series_base\", \"component\": \"PbO\", \"value\": 65.0, \"unit\": \"wt\"}\n{\"sample_id\": \"G_series_base\", \"component\": \"B2O3\", \"value\": 20.0, \"unit\": \"wt\"}\n{\"sample_id\": \"G_series_base\", \"component\": \"SiO2\", \"value\": 15.0, \"unit\": \"wt\"}\n{\"sample_id\": \"F_series_base\", \"component\": \"PbO\", \"value\": 68.0, \"unit\": \"wt\"}\n{\"sam"
+}

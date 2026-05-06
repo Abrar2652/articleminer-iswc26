@@ -1,0 +1,19 @@
+{
+  "pdf_id": "S0022309308001853",
+  "predictions": [
+    {
+      "sample_id": "Angeli2008_24Na2O-76SiO2",
+      "component": "Na2O",
+      "value": 24.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Angeli2008_24Na2O-76SiO2",
+      "component": "SiO2",
+      "value": 76.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 16.4,
+  "raw_preview": "I'll search through the paper text for any tables or sections containing glass composition data.\n\nFrom the paper text, I can identify the following glass compositions:\n\n1. The binary glass: 24Na2O\u201376SiO2 (mentioned in abstract/results sections)\n2. The paper references \"Table 2\" for molar compositions but the actual table data isn't fully reproduced in the provided text.\n3. The paper mentions \"17O\u2013Si glass\" and \"17O\u2013Si\u2013Zr glass\" compositions.\n\nFrom the text, the only explicit numerical compositio"
+}

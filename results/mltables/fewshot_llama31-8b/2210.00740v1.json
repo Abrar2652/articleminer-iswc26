@@ -1,0 +1,515 @@
+{
+  "pdf_id": "2210.00740v1",
+  "predictions": [
+    {
+      "value": "25K",
+      "type": "Data Stat.",
+      "dataset": "MPII",
+      "attribute name": "number of images"
+    },
+    {
+      "value": "40K",
+      "type": "Data Stat.",
+      "dataset": "MPII",
+      "attribute name": "number of person instances"
+    },
+    {
+      "value": "16",
+      "type": "Data Stat.",
+      "dataset": "MPII",
+      "attribute name": "number of body joints"
+    },
+    {
+      "value": "256",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Res Net-152",
+      "parameter/architecture name": "input size"
+    },
+    {
+      "value": "256",
+      "type": "Hyper-parameter/Architecture",
+      "model": "HRNet-W32",
+      "parameter/architecture name": "input size"
+    },
+    {
+      "value": "256",
+      "type": "Hyper-parameter/Architecture",
+      "model": "HRNet-W48",
+      "parameter/architecture name": "input size"
+    },
+    {
+      "value": "87.9",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Integral Pose Regression"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "UDP"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Dark Pose"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Token Pose"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Token Pose"
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Token Pose"
+    },
+    {
+      "value": "89.9",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Removing Bias"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Removing Bias"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Simple Baseline"
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Simple Baseline + Ours"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "HRNet"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "HRNet + Ours"
+    },
+    {
+      "value": "90.5",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "HRNet"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "HRNet + Ours"
+    },
+    {
+      "value": "87.9",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Integral Pose Regression"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "UDP"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Dark Pose"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Token Pose"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Token Pose"
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Token Pose"
+    },
+    {
+      "value": "89.9",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Removing Bias"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Removing Bias"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Simple Baseline"
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "Simple Baseline + Ours"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "HRNet"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "HRNet + Ours"
+    },
+    {
+      "value": "90.5",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "HRNet"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "dataset": "MPII",
+      "metric": "PCKh@0.5",
+      "model": "HRNet + Ours"
+    },
+    {
+      "value": "77.1",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP",
+      "model": "Baseline(HRNet-W48)"
+    },
+    {
+      "value": "78.3",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP",
+      "model": "500 Sinkhorn iterations"
+    },
+    {
+      "value": "78.8",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP",
+      "model": "1000 Sinkhorn iterations"
+    },
+    {
+      "value": "78.7",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP",
+      "model": "1500 Sinkhorn iterations"
+    },
+    {
+      "value": "77.9",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP",
+      "model": "Naive demanders formulation"
+    },
+    {
+      "value": "78.8",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP",
+      "model": "Sub-pixel demanders formulation"
+    },
+    {
+      "value": "91.8",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP50",
+      "model": "Baseline(HRNet-W48)"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP50",
+      "model": "500 Sinkhorn iterations"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP50",
+      "model": "1000 Sinkhorn iterations"
+    },
+    {
+      "value": "92.4",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP50",
+      "model": "1500 Sinkhorn iterations"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP50",
+      "model": "Naive demanders formulation"
+    },
+    {
+      "value": "92.5",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP50",
+      "model": "Sub-pixel demanders formulation"
+    },
+    {
+      "value": "83.8",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP75",
+      "model": "Baseline(HRNet-W48)"
+    },
+    {
+      "value": "84.9",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP75",
+      "model": "500 Sinkhorn iterations"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP75",
+      "model": "1000 Sinkhorn iterations"
+    },
+    {
+      "value": "85.2",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP75",
+      "model": "1500 Sinkhorn iterations"
+    },
+    {
+      "value": "84.8",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP75",
+      "model": "Naive demanders formulation"
+    },
+    {
+      "value": "85.1",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AP75",
+      "model": "Sub-pixel demanders formulation"
+    },
+    {
+      "value": "73.5",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APM",
+      "model": "Baseline(HRNet-W48)"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APM",
+      "model": "500 Sinkhorn iterations"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APM",
+      "model": "1000 Sinkhorn iterations"
+    },
+    {
+      "value": "74.8",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APM",
+      "model": "1500 Sinkhorn iterations"
+    },
+    {
+      "value": "74.5",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APM",
+      "model": "Naive demanders formulation"
+    },
+    {
+      "value": "75.0",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APM",
+      "model": "Sub-pixel demanders formulation"
+    },
+    {
+      "value": "83.5",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APL",
+      "model": "Baseline(HRNet-W48)"
+    },
+    {
+      "value": "84.4",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APL",
+      "model": "500 Sinkhorn iterations"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APL",
+      "model": "1000 Sinkhorn iterations"
+    },
+    {
+      "value": "85.4",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APL",
+      "model": "1500 Sinkhorn iterations"
+    },
+    {
+      "value": "83.9",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APL",
+      "model": "Naive demanders formulation"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "APL",
+      "model": "Sub-pixel demanders formulation"
+    },
+    {
+      "value": "81.8",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AR",
+      "model": "Baseline(HRNet-W48)"
+    },
+    {
+      "value": "82.7",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AR",
+      "model": "500 Sinkhorn iterations"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AR",
+      "model": "1000 Sinkhorn iterations"
+    },
+    {
+      "value": "83.0",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AR",
+      "model": "1500 Sinkhorn iterations"
+    },
+    {
+      "value": "82.4",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AR",
+      "model": "Naive demanders formulation"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "dataset": "COCO",
+      "metric": "AR",
+      "model": "Sub-pixel demanders formulation"
+    },
+    {
+      "value": "1",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Ours",
+      "parameter/architecture name": "Sinkhorn entropic regularization parameter"
+    },
+    {
+      "value": "1000",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Ours",
+      "parameter/architecture name": "number of Sinkhorn iterations"
+    },
+    {
+      "value": "500",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Ours",
+      "parameter/architecture name": "number of Sinkhorn iterations"
+    },
+    {
+      "value": "1500",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Ours",
+      "parameter/architecture name": "number of Sinkhorn iterations"
+    }
+  ],
+  "elapsed_seconds": 124.4,
+  "raw_preview": "{\"value\": \"25K\", \"type\": \"Data Stat.\", \"dataset\": \"MPII\", \"attribute name\": \"number of images\"}\n{\"value\": \"40K\", \"type\": \"Data Stat.\", \"dataset\": \"MPII\", \"attribute name\": \"number of person instances\"}\n{\"value\": \"16\", \"type\": \"Data Stat.\", \"dataset\": \"MPII\", \"attribute name\": \"number of body joints\"}\n{\"value\": \"256\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"Res Net-152\", \"parameter/architecture name\": \"input size\"}\n{\"value\": \"256\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"HRNet"
+}

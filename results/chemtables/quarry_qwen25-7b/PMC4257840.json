@@ -1,0 +1,40 @@
+{
+  "pmc_id": "PMC4257840",
+  "predictions": [
+    {
+      "value": "1136",
+      "type": "IC50",
+      "target": "xx",
+      "treatment": "35",
+      "unit": "nM"
+    },
+    {
+      "value": "732",
+      "type": "IC50",
+      "target": "xx",
+      "treatment": "38",
+      "unit": "nM"
+    },
+    {
+      "value": "663",
+      "type": "IC50",
+      "target": "xx",
+      "treatment": "28",
+      "unit": "nM"
+    },
+    {
+      "value": "20",
+      "type": "IC50",
+      "target": "xx",
+      "treatment": "32",
+      "unit": "nM"
+    }
+  ],
+  "num_tables_in_pdf": 1,
+  "num_gold_annotations": 13,
+  "elapsed_seconds": 56.4,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

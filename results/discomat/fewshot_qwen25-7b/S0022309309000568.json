@@ -1,0 +1,463 @@
+{
+  "pdf_id": "S0022309309000568",
+  "predictions": [
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 29.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 19.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 39.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 9.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 49.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 59.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 69.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 79.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 89.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 99.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 109.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 119.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 129.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 139.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 149.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 159.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 169.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 179.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 189.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 199.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_Na2O",
+      "component": "Na2O",
+      "value": 24.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_CaO",
+      "component": "CaO",
+      "value": 26.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_P2O5",
+      "component": "P2O5",
+      "value": 209.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_1_SiO2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 145.3,
+  "raw_preview": "```json\n{\"sample_id\": \"S0022309303006537_0_1_Na2O\", \"component\": \"Na2O\", \"value\": 24.3, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_CaO\", \"component\": \"CaO\", \"value\": 26.9, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_P2O5\", \"component\": \"P2O5\", \"value\": 29.8, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_SiO2\", \"component\": \"SiO2\", \"value\": 19.0, \"unit\": \"mol\"}\n{\"sample_id\": \"S0022309303006537_0_1_Na2O\", \"component\": \"Na2O\", \"value\": 24.3, \"unit\": \"mol\"}\n{\"sample_id\": \"S002"
+}

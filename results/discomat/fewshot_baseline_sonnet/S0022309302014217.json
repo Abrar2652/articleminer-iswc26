@@ -1,0 +1,55 @@
+{
+  "pdf_id": "S0022309302014217",
+  "predictions": [
+    {
+      "sample_id": "B-glass",
+      "component": "V2O5",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.1",
+      "component": "V2O5",
+      "value": 0.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.3",
+      "component": "V2O5",
+      "value": 0.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.5",
+      "component": "V2O5",
+      "value": 0.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-0.7",
+      "component": "V2O5",
+      "value": 0.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-1.0",
+      "component": "V2O5",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-2.0",
+      "component": "V2O5",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "V-5.0",
+      "component": "V2O5",
+      "value": 5.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 17.6,
+  "raw_preview": "I'll analyze the paper text to extract all material-composition entries. The paper describes CaO\u2013ZrO2\u2013SiO2 glasses doped with V2O5 at various concentrations (0.1\u20135 mol%). The base glass (B-glass) contains CaO, ZrO2, SiO2, and the doped samples add V2O5.\n\nFrom the text, the samples are: B-glass (0.0 mol% V2O5), V-0.1, V-0.3, V-0.5, V-0.7, V-1.0, V-2.0, V-5.0.\n\nThe paper doesn't provide a full composition table with exact mol% for CaO, ZrO2, SiO2. However, the V2O5 content for each sample is expli"
+}

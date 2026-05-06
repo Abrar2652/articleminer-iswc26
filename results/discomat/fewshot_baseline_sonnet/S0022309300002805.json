@@ -1,0 +1,151 @@
+{
+  "pdf_id": "S0022309300002805",
+  "predictions": [
+    {
+      "sample_id": "1",
+      "component": "V2O5",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1",
+      "component": "Sb",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "1",
+      "component": "TeO2",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2",
+      "component": "V2O5",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2",
+      "component": "Sb",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "2",
+      "component": "TeO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3",
+      "component": "V2O5",
+      "value": 70.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3",
+      "component": "TeO2",
+      "value": 10.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4",
+      "component": "V2O5",
+      "value": 60.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "4",
+      "component": "TeO2",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "V2O5",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "5",
+      "component": "TeO2",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6",
+      "component": "V2O5",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "6",
+      "component": "TeO2",
+      "value": 40.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "7",
+      "component": "V2O5",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "7",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "7",
+      "component": "TeO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "8",
+      "component": "V2O5",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "8",
+      "component": "Sb",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "8",
+      "component": "TeO2",
+      "value": 60.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 24.2,
+  "raw_preview": "I'll extract all material-composition entries from the paper text. The compositions are mentioned in the text and in Table 1 (partially reconstructed from the text).\n\nFrom the abstract and results sections, I can identify the following glass compositions:\n\n{\"sample_id\": \"1\", \"component\": \"V2O5\", \"value\": 70.0, \"unit\": \"mol\"}\n{\"sample_id\": \"1\", \"component\": \"Sb\", \"value\": 5.0, \"unit\": \"mol\"}\n{\"sample_id\": \"1\", \"component\": \"TeO2\", \"value\": 25.0, \"unit\": \"mol\"}\n{\"sample_id\": \"2\", \"component\": \"V2O"
+}

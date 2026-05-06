@@ -1,0 +1,2018 @@
+/HOME/.local/lib/python3.10/site-packages/requests/__init__.py:113: RequestsDependencyWarning: urllib3 (1.26.5) or chardet (7.2.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+/HOME/.local/lib/python3.10/site-packages/pypdf/_crypt_providers/_cryptography.py:32: CryptographyDeprecationWarning: ARC4 has been moved to cryptography.hazmat.decrepit.ciphers.algorithms.ARC4 and will be removed from cryptography.hazmat.primitives.ciphers.algorithms in 48.0.0.
+  from cryptography.hazmat.primitives.ciphers.algorithms import AES, ARC4
+Found 111 DiSCoMaT PDFs
+
+[1/111] Processing S0022309300001435...
+Extracting PDF text from S0022309300001435.pdf...
+Loading Marker models (first call, will be cached)...
+Marker models loaded: ['layout_model', 'recognition_model', 'table_rec_model', 'detection_model', 'ocr_error_model']
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 2, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1254.4 KB)
+Vision: rendered 4 data pages
+[S0022309300001435] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300001435] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Li2O", "TeO2", "SiO2"], "unit": "mol", "approx_samples": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300001435] validation wanted to drop 7 preds but cap is 4 (20%). Keeping first 4 flagged.
+[S0022309300001435] validation: 23→19 (dropped 4; reason: Al2O3 and K2O components are not mentioned in the paper; the system only contain)
+Pipeline: 1 tables → 23 raw → 19 validated → 19 deduped
+19 tuples (26s)
+  S0022309300001459... Extracting PDF text from S0022309300001459.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (blast-furnace slag glass) and glass-ceramic", "components": ["CaO", "SiO2"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300001459:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Reconstruct the actual data rows by identifying the column headers (Temperature, Time, Nv) and extracting numeric values from the fragmented text; the table appears to contain thermal treatment conditions and crystal nucleation data that should yield multiple rows of measurements. (Diagnosed cause: Table structure is malformed/corrupted with text wrapping and formatting artifacts.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (18s)
+  S0022309300002453... Extracting PDF text from S0022309300002453.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 4, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1207.8 KB)
+Vision: rendered 4 data pages
+[S0022309300002453] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300002453] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "bioactive glass and biocompatible glass (porous bodies formed by sintering micros
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300002453] validation wanted to drop 18 preds but cap is 3 (20%). Keeping first 3 flagged.
+[S0022309300002453] validation: 18→15 (dropped 3; reason: No composition data appears in the provided paper text; these entries appear to )
+Pipeline: 2 tables → 18 raw → 15 validated → 15 deduped
+15 tuples (27s)
+  S0022309300002805... Extracting PDF text from S0022309300002805.pdf...
+Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/17 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["V2O5", "Sb", "TeO2"], "unit": "mol", "approx_samples": 8}
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (29s)
+  S0022309300003343... Extracting PDF text from S0022309300003343.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxynitride glasses", "components": ["Y", "La", "Eu", "Er", "Si", "Al", "O", "N"],
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (16s)
+  S0022309300004130... Extracting PDF text from S0022309300004130.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1029.8 KB)
+Vision: rendered 4 data pages
+[S0022309300004130] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309300004130] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["PbBr2", "PbCl2", "PbF2", "PbO", "P2O5"], "unit": "atom%",
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (17s)
+  S0022309301004161... Extracting PDF text from S0022309301004161.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [5, 6, 7, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1405.5 KB)
+Vision: rendered 4 data pages
+[S0022309301004161] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301004161] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "Na2O", "PbO", "K2O", "CaO", "Al2O3"], "unit": "mo
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (27s)
+  S0022309301006159... Extracting PDF text from S0022309301006159.pdf...
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [5, 6, 7, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1514.1 KB)
+Vision: rendered 4 data pages
+[S0022309301006159] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301006159] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "Na2O", "K2O", "PbO", "CaO", "Al2O3"], "unit": "mo
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (26s)
+  S0022309301007311... Extracting PDF text from S0022309301007311.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 4, 5, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1544.1 KB)
+Vision: rendered 4 data pages
+[S0022309301007311] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301007311] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "Na2O", "CaO", "Al2O3", "MgO", "K2O", "Fe2O3"], "u
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (14s)
+  S0022309301008122... Extracting PDF text from S0022309301008122.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 3 data-dense pages: [2, 3, 4] (landscape/rotated: none)
+Rendered 3/3 pages (total 940.1 KB)
+Vision: rendered 3 data pages
+[S0022309301008122] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301008122] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "unknown - text corrupted", "components": [], "unit": "unknown", "approx_samples":
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (12s)
+
+[11/111] Processing S0022309301008754...
+Extracting PDF text from S0022309301008754.pdf...
+Recognizing Layout:   0%|          | 0/19 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/19 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [9, 10, 11, 12] (landscape/rotated: none)
+Rendered 4/4 pages (total 1407.7 KB)
+Vision: rendered 4 data pages
+[S0022309301008754] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301008754] vision transcribed 0 tables
+Pipeline: 0 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (17s)
+  S002230930100878X... Extracting PDF text from S002230930100878X.pdf...
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [5, 6, 7, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1421.1 KB)
+Vision: rendered 4 data pages
+[S002230930100878X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930100878X] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "PbO", "Na2O", "K2O", "CaO", "Al2O3"], "unit": "mo
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (66s)
+  S002230930100936X... Extracting PDF text from S002230930100936X.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 6, 10, 11] (landscape/rotated: none)
+Rendered 4/4 pages (total 1292.8 KB)
+Vision: rendered 4 data pages
+[S002230930100936X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930100936X] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["La2O3", "P2O5", "SiO2"], "unit": "mol", "approx
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930100936X] validation wanted to drop 5 preds but cap is 4 (20%). Keeping first 4 flagged.
+[S002230930100936X] validation: 21→17 (dropped 4; reason: SiO2 component appears in extracted entries but is not mentioned anywhere in the)
+Pipeline: 2 tables → 21 raw → 17 validated → 17 deduped
+17 tuples (29s)
+  S0022309301010547... Extracting PDF text from S0022309301010547.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 2, 5, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 908.3 KB)
+Vision: rendered 4 data pages
+[S0022309301010547] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309301010547] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (aluminoborate glass)", "components": ["Ag2O", "B2O3", "Al2O3", "Li2O", "K2
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 84 raw → 84 validated → 84 deduped
+84 tuples (34s)
+  S0022309302009481... Extracting PDF text from S0022309302009481.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 5 tables found
+Cross-backend dedup: 5 raw → 5 valid → 5 unique (5 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glasses (silicates, aluminosilicates, borosilicates, titanosilicates)", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 4 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302009481:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that 'Table 2' contains viscosity data with T(K) and log η columns; extract the NS4 sample rows (703.3, 717.9, 726.4 K) and their corresponding viscosity values, and look for additional sample compositions and temperature-viscosity pairs that may continue beyond the visible excerpt. (Diagnosed cause: Table structure not recognized; data split across columns with headers in wrong positions.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302009481:tbl2] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Parse the table by identifying that row with 'T (K)' and 'log g' are column headers, then extract all subsequent rows containing temperature and viscosity values as data entries. (Diagnosed cause: Table header structure not recognized; data rows treated as continuation of header text.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302009481:tbl3] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Parse each row after the header (NS4, Ca 0.39, Ca 42.14, etc.) as a separate sample entry, extracting all numeric values across columns as material properties. (Diagnosed cause: Extractor treated table header rows as non-data and failed to parse numeric data rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302009481] validation wanted to drop 37 preds but cap is 10 (20%). Keeping first 10 flagged.
+[S0022309302009481] validation: 50→40 (dropped 10; reason: All entries report units as 'mol' but the paper's intelligence metadata indicate)
+Pipeline: 5 tables → 50 raw → 40 validated → 40 deduped
+40 tuples (50s)
+  S0022309302010463... Extracting PDF text from S0022309302010463.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Na2O", "Al2O3", "SiO2"], "unit": "mol", "approx_samples":
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (9s)
+  S0022309302011596... Extracting PDF text from S0022309302011596.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 8, 9, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1115.3 KB)
+Vision: rendered 4 data pages
+[S0022309302011596] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302011596] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxynitride glass", "components": ["Si4+", "Al3+", "B3+", "O2-", "N3-", "Y3+", "La
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 0 relevant tables
+Pipeline: 5 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (47s)
+  S0022309302013662... Extracting PDF text from S0022309302013662.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running camelot...
+/HOME/.local/lib/python3.10/site-packages/camelot/parsers/base.py:238: UserWarning: No tables found in table area (32.5197, 317.07775780999987, 506.81432546999986, 484.12094407209304)
+  cols, rows, v_s, h_s = self._generate_columns_and_rows(bbox, user_cols)
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass", "components": ["SiO2", "Na2O", "La2O3"], "unit": "mol", "approx_
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (12s)
+  S0022309302014217... Extracting PDF text from S0022309302014217.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass and glass-ceramic", "components": ["CaO", "ZrO2", "SiO2", "V2O5"], "unit": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (12s)
+  S0022309302015946... Extracting PDF text from S0022309302015946.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (aluminosilicate glass doped with europium)", "components": ["Na2O", "MgO",
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (12s)
+
+[21/111] Processing S0022309302018641...
+Extracting PDF text from S0022309302018641.pdf...
+Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (gel-glass/xerogel)", "components": ["SiO2", "CaO"], "unit": "mol", "approx
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (23s)
+  S0022309302019658... Extracting PDF text from S0022309302019658.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (iron phosphate glasses)", "components": ["Na2O", "K2O", "Cs2O", "Fe2O3", "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309302019658] validation: 36→29 (dropped 7; reason: Sample IDs use suffix 'c' not 'a' in Table 1 (NKFP48-20c and NCFP48-20c), and en)
+Pipeline: 2 tables → 40 raw → 29 validated → 29 deduped
+29 tuples (23s)
+  S0022309303000188... Extracting PDF text from S0022309303000188.pdf...
+Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/15 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 5, 13, 14] (landscape/rotated: none)
+Rendered 4/4 pages (total 992.7 KB)
+Vision: rendered 4 data pages
+[S0022309303000188] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303000188] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["V2O5", "Bi2O3", "TeO2"], "unit": "wt", "approx_samples": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 18 raw → 17 validated → 17 deduped
+17 tuples (38s)
+  S0022309303000899... Extracting PDF text from S0022309303000899.pdf...
+Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass-forming liquids (inorganic glasses and metallic glass-forming alloys)", "co
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (17s)
+  S0022309303002813... Extracting PDF text from S0022309303002813.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (soda-lime-silica glass, Roman flat window glass)", "components": ["SiO2", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303002813] validation wanted to drop 8 preds but cap is 7 (20%). Keeping first 7 flagged.
+[S0022309303002813] validation: 38→31 (dropped 7; reason: These entries are from a literature reference table (Roman glass II–I c. BC), no)
+Pipeline: 1 tables → 38 raw → 31 validated → 31 deduped
+31 tuples (18s)
+  S0022309303003132... Extracting PDF text from S0022309303003132.pdf...
+Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/18 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 8 tables found
+Cross-backend dedup: 8 raw → 8 valid → 8 unique (8 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (oxyfluoride tellurite glass doped with rare earth ions)", "components": ["
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 8 -> 0 relevant tables
+Pipeline: 8 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (25s)
+  S0022309303003685... Extracting PDF text from S0022309303003685.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "aluminoborosilicate nuclear glass and gels", "components": ["SiO2", "B2O3", "Al2O
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303003685:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Look beyond the header rows for the actual data entries organized by excitation wavelength and sample type (Glass, LR gel, HR gel sites); the table contains multiple rows of numerical B2 parameters that follow the header structure. (Diagnosed cause: Table header structure misinterpreted; actual data rows not extracted.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303003685] validation wanted to drop 37 preds but cap is 11 (20%). Keeping first 11 flagged.
+[S0022309303003685] validation: 57→46 (dropped 11; reason: No compositional data in wt% appears anywhere in the provided paper text; all en)
+Pipeline: 2 tables → 60 raw → 46 validated → 46 deduped
+46 tuples (26s)
+  S0022309303004356... Extracting PDF text from S0022309303004356.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (oxyfluoride zinc tellurite glass doped with rare-earth erbium)", "componen
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (11s)
+  S0022309303006124... Extracting PDF text from S0022309303006124.pdf...
+Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/13 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 10 tables found
+Cross-backend dedup: 10 raw → 10 valid → 10 unique (10 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (glass-ceramic)", "components": ["BaO", "TiO2", "SiO2"], "unit": "mol", "ap
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 10 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303006124:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize this as a figure/graph table with axis labels and numerical data points; extract the coordinate pairs and data values from the axes (R values 0.00-0.35 µm paired with composition/temperature values like 500, 1000, 1500, 2000, 2500 and 0-220 range). (Diagnosed cause: Table structure misinterpreted as non-data content.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 10 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (28s)
+  S0022309303007592... Extracting PDF text from S0022309303007592.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1553.6 KB)
+Vision: rendered 4 data pages
+[S0022309303007592] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309303007592] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["SiO2", "P2O5", "Li2O", "Al2O3", "TiO2"], "unit"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 34 raw → 34 validated → 34 deduped
+34 tuples (30s)
+
+[31/111] Processing S0022309304000237...
+Extracting PDF text from S0022309304000237.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 3 tables found
+Cross-backend dedup: 3 raw → 3 valid → 3 unique (3 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (lead-based borosilicate and lead-borozincsilicate glasses)", "components":
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304000237:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): The table rows represent different samples or composition variations; extract all rows with component values as separate samples, not just the first labeled row. (Diagnosed cause: Only extracted one sample (B6) when table contains multiple samples with varying compositions.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304000237:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Parse rows where column 0 contains glass sample identifiers (G2, G3, G4, F2, F3, F4) as data entries, extracting the numerical values across columns 1-5 for each sample. (Diagnosed cause: Extractor failed to recognize data rows in table with non-standard row headers.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304000237] validation: 6→5 (dropped 1; reason: Nd2O3 content of 28 wt% exceeds the stated maximum of 0-25 wt% for G series and )
+Pipeline: 3 tables → 6 raw → 5 validated → 5 deduped
+5 tuples (26s)
+  S0022309304000705... Extracting PDF text from S0022309304000705.pdf...
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 4 tables found
+Cross-backend dedup: 4 raw → 4 valid → 4 unique (4 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass/melt", "components": ["SiO2", "Al2O3", "CaO"], "unit": "mol", "app
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304000705:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that columns are organized as alternating temperature and viscosity pairs for 5 different CAS samples (columns 0-1 for CAS1, 2-3 for CAS2, etc.), and extract each (T, log g) data point from all rows across all sample pairs. (Diagnosed cause: Extractor failed to parse multi-column paired data structure.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304000705:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): This appears to be extracted text from a figure's axes and labels rather than a structured data table; the extractor should recognize this is not tabular composition data and either skip it or look for the actual data table elsewhere in the document. (Diagnosed cause: Table is a graph axis/legend fragment, not a data table.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 4 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (32s)
+  S0022309304004557... Extracting PDF text from S0022309304004557.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 5 tables found
+Cross-backend dedup: 5 raw → 5 valid → 5 unique (5 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass (bioactive glass)", "components": ["SiO2", "P2O5", "CaO", "Na2O", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304004557:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Reconstruct the full table by recognizing that rows are split across multiple lines; identify that this is a multi-row data table with Field, dSi (ppm), Linewidth (ppm), and Contribution (%) columns, and extract all numeric data rows systematically rather than treating fragmented headers as the complete structure. (Diagnosed cause: Table structure fragmentation and header complexity.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 5 tables → 67 raw → 67 validated → 67 deduped
+67 tuples (38s)
+  S0022309304004958... Extracting PDF text from S0022309304004958.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1289.2 KB)
+Vision: rendered 4 data pages
+[S0022309304004958] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304004958] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass fibers (sodium aluminosilicate glass)", "components": ["Na2O", "Al2O3", "Si
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304004958] validation: 26→23 (dropped 3; reason: The paper states the compositional series has 0 ≤ x ≤ 32.5, but entries for x=35)
+Pipeline: 1 tables → 27 raw → 23 validated → 23 deduped
+23 tuples (34s)
+  S0022309304005228... Extracting PDF text from S0022309304005228.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1501.5 KB)
+Vision: rendered 4 data pages
+[S0022309304005228] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304005228] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["SnO", "Na2O", "P2O5"], "unit": "mol", "approx_s
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304005228:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Extract all 5 rows completely, including the R_xdox values for each sample, and handle the anomalous final row (row 5) which appears to be a duplicate/error case with different P2O5 value. (Diagnosed cause: Incomplete extraction - stopped mid-table and missed R_xdox column plus final rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304005228] validation: 15→14 (dropped 1; reason: Entry 14 shows P2O5 at 94.8 mol for SnO-5b, which would make the total compositi)
+Pipeline: 1 tables → 15 raw → 14 validated → 14 deduped
+14 tuples (37s)
+  S0022309304005757... Extracting PDF text from S0022309304005757.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (multiple types: silica, borosilicate, borate, fluoride phosphate)", "compo
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 25 raw → 25 validated → 25 deduped
+25 tuples (18s)
+  S0022309304006957... Extracting PDF text from S0022309304006957.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["PbO", "SiO2"], "unit": "mol", "approx_samples": 4}
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (11s)
+  S0022309304007550... Extracting PDF text from S0022309304007550.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (sodium alumino-borosilicate glass)", "components": ["SiO2", "B2O3", "Na2O"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304007550:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that each row with numerical values in columns 2-4 represents a distinct data entry; parse the labeled ranges (a1, a2, b1, d1, d2, e1) as identifiers for individual measurements rather than treating the entire table as a single axis definition. (Diagnosed cause: Table structure misinterpreted as axis labels rather than data entries.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304007550] validation: 61→53 (dropped 8; reason: Samples R0-Nd32 and R0-Nd60 have RPA=0 (no Na2O), but extracted entries show onl)
+Pipeline: 2 tables → 61 raw → 53 validated → 53 deduped
+53 tuples (33s)
+  S0022309304007872... Extracting PDF text from S0022309304007872.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 3, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1607.5 KB)
+Vision: rendered 4 data pages
+[S0022309304007872] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304007872] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (potassium borosilicate glass)", "components": ["SiO2", "B2O3", "K2O", "Al2
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304007872:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that the first row contains column headers (SiO₂, B₂O₃, K₂O, Al₂O₃, Au) and the sample_id column is separate; the table actually has only 2 data rows (samples A and B), each with 5 components, yielding 10 entries total, which is correct. (Diagnosed cause: Table structure misread; header row treated as data row.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 10 raw → 10 validated → 10 deduped
+10 tuples (30s)
+  S0022309304008944... Extracting PDF text from S0022309304008944.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass and glass-ceramics", "components": ["SiO2", "Al2O3", "ZnO", "TiO2"], "unit"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309304008944:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Extract the unit cell parameters (a values) for each temperature condition (1143K, 1193K, 1293K, 1423K) from Table 2, which contains 4 distinct measurements across different temperatures. (Diagnosed cause: Extracted only abstract composition instead of table data.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 4 raw → 4 validated → 4 deduped
+4 tuples (20s)
+
+[41/111] Processing S0022309304009032...
+Extracting PDF text from S0022309304009032.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (mould flux glass)", "components": ["SiO2", "Al2O3", "CaO", "CaF2", "P2O5",
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (16s)
+  S0022309304009342... Extracting PDF text from S0022309304009342.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Na2O", "Al2O3", "B2O3", "SiO2"], "unit": "mol", "approx_s
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (13s)
+  S0022309305001109... Extracting PDF text from S0022309305001109.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 3 tables found
+Cross-backend dedup: 3 raw → 3 valid → 3 unique (3 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass", "components": ["Na2O", "CaO", "ZrO2", "SiO2"], "unit": "mol", "a
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305001109:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Extract all numeric data columns from the table: for each glass sample (P0, P2, P3, etc.), capture both the ZrO2 mol% AND the corresponding Tg and Tc temperature values as separate entries. (Diagnosed cause: Only extracting ZrO2 composition data; missing Tg and Tc temperature values for each sample.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305001109:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): This appears to be a figure caption and axis layout rather than a data table; look for the actual numerical data table elsewhere in the document that lists sample compositions with mol% values for Na2O, CaO, ZrO2, and SiO2. (Diagnosed cause: Table contains figure labels and axis labels, not data rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 5 raw → 4 validated → 4 deduped
+4 tuples (33s)
+  S0022309305001262... Extracting PDF text from S0022309305001262.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 5, 7, 10] (landscape/rotated: none)
+Rendered 4/4 pages (total 1567.7 KB)
+Vision: rendered 4 data pages
+[S0022309305001262] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305001262] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (sodium aluminoborosilicate glassmelt)", "components": ["SiO2", "Na2O", "Al
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305001262] validation wanted to drop 16 preds but cap is 6 (20%). Keeping first 6 flagged.
+[S0022309305001262] validation: 32→26 (dropped 6; reason: Units listed as 'mol' are invalid for composition data; should be 'wt%' (weight )
+Pipeline: 1 tables → 32 raw → 26 validated → 23 deduped
+23 tuples (31s)
+  S0022309305003959... Extracting PDF text from S0022309305003959.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Bi2O3", "ZnO", "B2O3"], "unit": "mol", "approx_samples": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (15s)
+  S0022309305005041... Extracting PDF text from S0022309305005041.pdf...
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 3 tables found
+Cross-backend dedup: 3 raw → 3 valid → 3 unique (3 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["P2O5", "Fe2O3", "MnO"], "unit": "wt", "approx_s
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 3 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305005041:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that this table has fragmented headers spread across multiple rows and columns—reconstruct the logical structure by identifying that PFM-1 through PFM-12 are sample identifiers and the numeric values (-10.00 to -16.00) are log conductivity measurements, then extract all valid sample-measurement pairs. (Diagnosed cause: Table structure is malformed/transposed; row and column headers are mixed together.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305005041:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that the numeric values (0.5, 0.4, 0.3, 0.2, 0.1, 0, 22) represent actual composition data points or sample entries, not just formatting artifacts; parse the table as containing composition data with atomic fractions of Fe and other parameters. (Diagnosed cause: Table structure misinterpreted as non-data content.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309305005041:tbl2] self-correction attempt 1: RETRY HINT (self-correction attempt 1): This appears to be a figure caption and axis labels from a graph rather than a structured data table; look for the actual numerical data table in the paper that lists Fe concentration values and corresponding activation energy measurements. (Diagnosed cause: Table is a graph/chart with axis labels, not a data table with rows of entries.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (38s)
+  S002230930600593X... Extracting PDF text from S002230930600593X.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "borosilicate glasses (phospho-borosilicate glasses)", "components": ["Na2O", "B2O
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 87 raw → 87 validated → 87 deduped
+87 tuples (28s)
+  S0022309306011033... Extracting PDF text from S0022309306011033.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 4 tables found
+Cross-backend dedup: 4 raw → 4 valid → 4 unique (4 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["Na2O", "P2O5", "CaO", "MgO", "Fe2O3"], "unit": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 0 relevant tables
+Pipeline: 4 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (14s)
+  S002230930601132X... Extracting PDF text from S002230930601132X.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (medieval stained-glass)", "components": ["SiO2", "Al2O3", "Fe2O3", "MnO", 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930601132X:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): The extractor should recognize that this table fragment shows only a legend/axis label (Log(DH)-m2/s), a regression equation, and a references section—not actual compositional data entries. Look for the actual data table earlier or later in the document. (Diagnosed cause: Table contains references and equations, not data rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (14s)
+  S0022309306011331... Extracting PDF text from S0022309306011331.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass (bioactive glass)", "components": ["P2O5", "Na2O", "CaO", "TiO2"]
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309306011331] validation wanted to drop 5 preds but cap is 3 (20%). Keeping first 3 flagged.
+[S0022309306011331] validation: 17→14 (dropped 3; reason: TiO2 content is reported in wt% in the paper (0.5 wt%, 61.0 wt%), not mol%, maki)
+Pipeline: 1 tables → 18 raw → 14 validated → 14 deduped
+14 tuples (17s)
+
+[51/111] Processing S0022309306011835...
+Extracting PDF text from S0022309306011835.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Li2O", "Na2O", "Al2O3", "SiO2"], "unit": "mol", "approx_s
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (12s)
+  S0022309306013238... Extracting PDF text from S0022309306013238.pdf...
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 5, 9] (landscape/rotated: none)
+Rendered 4/4 pages (total 1767.9 KB)
+Vision: rendered 4 data pages
+[S0022309306013238] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309306013238] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxide glass and gel", "components": ["SiO2", "Al2O3", "B2O3", "Na2O", "CaO", "Li2
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 0 relevant tables
+Pipeline: 5 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (47s)
+  S002230930601324X... Extracting PDF text from S002230930601324X.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass and glass-ceramics", "components": ["SiO2", "Al2O3", "Fe2O3", "CaO", "MgO",
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930601324X:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Re-examine the source document; this appears to be OCR'd paragraph text mixed with axis labels rather than a structured composition table—look for the actual data table showing material compositions with component percentages. (Diagnosed cause: Table is malformed/corrupted text from PDF extraction, not a data table.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (22s)
+  S0022309307002116... Extracting PDF text from S0022309307002116.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxide glass (borate glass)", "components": ["Li2O", "Rb2O", "B2O3"], "unit": "mol
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (10s)
+  S0022309307002463... Extracting PDF text from S0022309307002463.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1566.5 KB)
+Vision: rendered 4 data pages
+[S0022309307002463] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307002463] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxide glass (borosilicate)", "components": ["SiO2", "B2O3", "Na2O", "BaO", "ZrO2"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (19s)
+  S002230930700364X... Extracting PDF text from S002230930700364X.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 4 tables found
+Cross-backend dedup: 4 raw → 4 valid → 4 unique (4 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (glass ceramics with nanoparticles)", "components": ["ZnO", "Fe2O3", "SiO2"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 0 relevant tables
+Pipeline: 4 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (19s)
+  S002230930700395X... Extracting PDF text from S002230930700395X.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1650.1 KB)
+Vision: rendered 4 data pages
+[S002230930700395X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930700395X] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (borate glass)", "components": ["Li2O", "Na2O", "B2O3", "MnO2"], "unit": "m
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (20s)
+  S0022309307004747... Extracting PDF text from S0022309307004747.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "Na2O", "CaO"], "unit": "not specified in provided
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (10s)
+  S0022309307006758... Extracting PDF text from S0022309307006758.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 5 tables found
+Cross-backend dedup: 5 raw → 5 valid → 5 unique (5 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "borosilicate glass", "components": ["SiO2", "B2O3", "Na2O", "Li2O", "Cs2O", "Al2O
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 4 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307006758:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): This appears to be axis labels and legend entries from a molar volume vs. composition graph rather than a structured data table; the extractor should recognize graph elements (axis labels, legend items, reference citations) as non-data content and either skip this table or extract legend/sample identifiers as separate metadata rather than data rows. (Diagnosed cause: Table is a figure/graph legend, not a data table with extractable rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307006758:tbl2] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that this is a dual-panel figure with axis labels and data points; extract numerical values from columns 1, 3, 6, and 8 as Q3 Fraction values paired with their corresponding Mass Loss (%) measurements. (Diagnosed cause: Table structure not recognized as data table; header/label rows misidentified.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 5 tables → 40 raw → 38 validated → 38 deduped
+38 tuples (37s)
+  S0022309307006813... Extracting PDF text from S0022309307006813.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 3 tables found
+Cross-backend dedup: 3 raw → 3 valid → 2 unique (2 groups, avg 1.5 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "metallic glasses / amorphous metals (Ti-Ni based alloys)", "components": ["Ti", "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (21s)
+
+[61/111] Processing S0022309307011088...
+Extracting PDF text from S0022309307011088.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 3, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1470.2 KB)
+Vision: rendered 4 data pages
+[S0022309307011088] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307011088] vision transcribed 0 tables
+Pipeline: 0 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (8s)
+  S002230930701112X... Extracting PDF text from S002230930701112X.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["P2O5", "CaO", "Al2O3"], "unit": "mol", "approx_
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930701112X:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that this is a figure caption describing a graph with multiple curves (CAP 4%, CAP 2%, CP) at different water vapor pressures; extract the experimental conditions and material variants as separate entries rather than treating the entire block as non-tabular text. (Diagnosed cause: Table structure misinterpreted as figure caption rather than data table.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 11 raw → 11 validated → 11 deduped
+11 tuples (19s)
+  S0022309307011659... Extracting PDF text from S0022309307011659.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1518.1 KB)
+Vision: rendered 4 data pages
+[S0022309307011659] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307011659] vision transcribed 5 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "borosilicate glass", "components": ["SiO2", "B2O3", "Al2O3", "CaO", "Na2O", "K2O"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 5 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 5 tables → 15 raw → 15 validated → 15 deduped
+15 tuples (24s)
+  S0022309307011684... Extracting PDF text from S0022309307011684.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glasses", "components": ["P2O5", "Na2O", "Al2O3", "B2O3", "ZnO", "TiO2"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307011684:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): The table appears to be severely truncated in the provided text. Re-examine the full original table structure to extract all ~100 glass samples and their complete compositional data across all 7 components (P2O5, Na2O, Al2O3, B2O3, ZnO, TiO2, Nb2O5). (Diagnosed cause: Extracted only a tiny fraction of the table; most of the data is missing or not parsed.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307011684] validation wanted to drop 6 preds but cap is 3 (20%). Keeping first 3 flagged.
+[S0022309307011684] validation: 16→13 (dropped 3; reason: Values for Glass 2 and Glass 4 are transposed/misaligned with their correct comp)
+Pipeline: 1 tables → 16 raw → 13 validated → 13 deduped
+13 tuples (18s)
+  S0022309307012100... Extracting PDF text from S0022309307012100.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1577.1 KB)
+Vision: rendered 4 data pages
+[S0022309307012100] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307012100] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass, gel (aluminophosphate)", "components": ["Al2O3", "P2O5", "Na2O"], "unit": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307012100] validation: 35→32 (dropped 3; reason: Sample '33.3-33.3-33.3' with equal mol% of Na2O, Al2O3, and P2O5 does not appear)
+Pipeline: 1 tables → 36 raw → 32 validated → 32 deduped
+32 tuples (29s)
+  S0022309307012458... Extracting PDF text from S0022309307012458.pdf...
+Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/12 [00:00<?, ?it/s]
+  Running camelot...
+/HOME/.local/lib/python3.10/site-packages/camelot/parsers/base.py:238: UserWarning: No tables found in table area (52.143127100000015, 96.10470400000001, 84.5769393, 288.9375175309525)
+  cols, rows, v_s, h_s = self._generate_columns_and_rows(bbox, user_cols)
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (aluminophosphate glass)", "components": ["K2O", "Al2O3", "P2O5"], "unit": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (14s)
+  S0022309307012938... Extracting PDF text from S0022309307012938.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (silicate and borosilicate)", "components": ["SiO2", "B2O3", "Li2O", "Na2O"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (20s)
+  S0022309307012951... Extracting PDF text from S0022309307012951.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 2, 3, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1976.9 KB)
+Vision: rendered 4 data pages
+[S0022309307012951] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309307012951] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "GeO2"], "unit": "mol", "approx_samples": 4}
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (17s)
+  S0022309308000744... Extracting PDF text from S0022309308000744.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxide glass (borate glass)", "components": ["La2O3", "CaO", "B2O3"], "unit": "mol
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308000744:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Skip the malformed header section and continue parsing to extract the actual data rows below the column definitions (Glass, Tg, Td, etc.), which should contain approximately 14 glass composition entries. (Diagnosed cause: Table header parsing failure - extractor stopped at column headers without processing data rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (25s)
+  S0022309308001853... Extracting PDF text from S0022309308001853.pdf...
+Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/10 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 4 tables found
+Cross-backend dedup: 4 raw → 4 valid → 4 unique (4 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (soda-lime borosilicate glass with zirconium)", "components": ["SiO2", "Na2
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 4 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308001853:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): The table has a complex multi-level header and the data rows are cut off in the provided text; re-parse by identifying that each glass composition (like '17O–Si glass') represents a sample with multiple sites (BO3 ring, BO4, etc.), and continue extracting all rows until the table ends. (Diagnosed cause: Table header structure and incomplete row data caused parser to miss data rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308001853:tbl2] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Parse the table to identify each site row (Si–O–Si, Si–O–B, B–O–B) as a separate entry with its associated NMR parameters across columns 2-8. (Diagnosed cause: Table structure misinterpreted; data rows not recognized as separate entries.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308001853:tbl3] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Extract all numeric values from the table including those in rows labeled 'Experimental', 'Random mixing', and '4B–O–4B avoidance' / '4B/6Zr–O–4B/6Zr avoidance' as separate data entries, recognizing that each labeled row represents a distinct measurement or model prediction. (Diagnosed cause: Extractor treated header rows and category labels as non-data content.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 4 tables → 45 raw → 45 validated → 45 deduped
+45 tuples (43s)
+
+[71/111] Processing S0022309308002366...
+Extracting PDF text from S0022309308002366.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 6 tables found
+Cross-backend dedup: 6 raw → 6 valid → 6 unique (6 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass / glass-ceramic", "components": ["SiO2", "K2O", "MgO", "CaO", "Al2
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 6 -> 6 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308002366:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Parse the table to recognize that rows with Tn values (590, 630) and their corresponding Tc/tc/phase composition combinations represent distinct heat treatment entries; each unique combination of Tn, tn, Tc, tc, and phase composition should be counted as one entry. (Diagnosed cause: Table structure misinterpreted as header-only with no data rows extracted.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308002366:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): The extractor should recognize that this table is primarily narrative text describing experimental procedures and figure references, not a data table with extractable composition or property entries; it should skip this table or extract only the implicit experimental conditions mentioned (temperatures: 560, 610, 630, 660, 680°C and 550-750°C range; times: 1, 3, 5 hours) as separate entries if the goal is to capture experimental parameters. (Diagnosed cause: Table contains mostly text/figure references rather than structured data rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308002366:tbl2] self-correction attempt 1: RETRY HINT (self-correction attempt 1): The extractor should recognize that this is a figure/graph axis template rather than a data table; look for the actual data table elsewhere in the document or re-examine the source to ensure the complete table with numerical entries is being processed. (Diagnosed cause: Table contains only axis labels and headers, no actual data rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308002366:tbl3] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Parse the table more carefully to identify actual data rows versus header/label rows; focus on extracting temperature values (Tp) and time parameters (t=0h, t=1h, t=3h, t=5h) that appear as distinct entries across the columns. (Diagnosed cause: Table structure is malformed/header-heavy with sparse data layout.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308002366:tbl4] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Parse the table row-by-row treating each numbered row (1012, 1011, 1010, 109, 108, etc.) as a separate entry, and extract numeric values from columns even when cells appear sparse or contain scientific notation with OCR artifacts like (cid:2) and (cid:3). (Diagnosed cause: Table structure not recognized; OCR artifacts and merged cells causing parsing failure.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308002366:tbl5] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Parse the table by recognizing that rows with numeric identifiers (101, 400, 1.035, 1.030, etc.) in column 0 are actual data entries, not labels; extract each distinct row with a leftmost value as a separate sample record. (Diagnosed cause: Table structure misinterpreted as headers/metadata rather than data rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 6 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (62s)
+  S0022309308007886... Extracting PDF text from S0022309308007886.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 2219.6 KB)
+Vision: rendered 4 data pages
+[S0022309308007886] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309308007886] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "bulk metallic glass (BMG)", "components": ["Zr", "Nb", "Cu", "Ag", "Al"], "unit":
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (17s)
+  S0022309309000568... Extracting PDF text from S0022309309000568.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (bioactive glass)", "components": ["Na2O", "CaO", "SiO2", "P2O5"], "unit": 
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (8s)
+  S0022309309001586... Extracting PDF text from S0022309309001586.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 3 tables found
+Cross-backend dedup: 3 raw → 3 valid → 3 unique (3 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["La2O3", "P2O5", "BaCO3", "SrCO3", "CaCO3", "H3P
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309001586:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): The input appears to be mid-paragraph text flow rather than a structured data table; verify the source document and extract from the actual composition/data table showing phosphate glass sample compositions with component amounts. (Diagnosed cause: Table is fragmented/corrupted text, not a data table.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (22s)
+  S0022309309003883... Extracting PDF text from S0022309309003883.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1618.1 KB)
+Vision: rendered 4 data pages
+[S0022309309003883] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309003883] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "chalcogenide glass", "components": ["Ga", "Ge", "S"], "unit": "mol", "approx_samp
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (24s)
+  S0022309309004104... Extracting PDF text from S0022309309004104.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 3, 5, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1818.1 KB)
+Vision: rendered 4 data pages
+[S0022309309004104] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309004104] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (tellurite glass)", "components": ["TeO2", "ZnO", "Na2O", "Yb2O3", "Tm2O3"]
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (15s)
+  S0022309309004979... Extracting PDF text from S0022309309004979.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 3 tables found
+Cross-backend dedup: 3 raw → 3 valid → 3 unique (3 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass-ceramic", "components": ["Li2O", "Al2O3", "GeO2", "P2O5"], "unit": "mol", "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309004979:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Reconstruct the table by identifying the actual data rows (likely composition samples a, b, c, etc.) and their corresponding numerical values across temperature conditions, ignoring the fragmented header information. (Diagnosed cause: Table structure is malformed/corrupted with misaligned columns and header rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (27s)
+  S002230930900578X... Extracting PDF text from S002230930900578X.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "metallic glass / amorphous metal alloy", "components": ["Fe", "Si", "B"], "unit":
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (9s)
+  S0022309309006243... Extracting PDF text from S0022309309006243.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["ZnO", "MgO", "P2O5"], "unit": "mol", "approx_samples": 5}
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (11s)
+  S0022309309006899... Extracting PDF text from S0022309309006899.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate glass", "components": ["SiO2", "BaO", "Al2O3", "Li2O", "Na2O", "K2O", "D
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309006899] validation wanted to drop 38 preds but cap is 9 (20%). Keeping first 9 flagged.
+[S0022309309006899] validation: 48→39 (dropped 9; reason: All extracted composition data do not appear anywhere in the provided paper text)
+Pipeline: 2 tables → 48 raw → 39 validated → 39 deduped
+39 tuples (18s)
+
+[81/111] Processing S0022309309007212...
+Extracting PDF text from S0022309309007212.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 3, 4, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1721.7 KB)
+Vision: rendered 4 data pages
+[S0022309309007212] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309007212] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass-ceramic", "components": ["SiO2", "Li2O", "Al2O3", "CaO", "TiO2", "ZrO2", "P
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309309007212] validation: 24→21 (dropped 3; reason: GP and GPn samples contain P2O5 as nucleating agent (not Nb2O5), and GN sample c)
+Pipeline: 3 tables → 24 raw → 21 validated → 21 deduped
+21 tuples (25s)
+  S002230930900739X... Extracting PDF text from S002230930900739X.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["CdO", "ZnO", "V2O5"], "unit": "wt", "approx_samples": 36}
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230930900739X:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Extract all four samples (G1–G4) with their actual EDS atomic percentages from the table columns (Cd, Zn, V, O at.%), then convert to weight percentages; ensure all 4 samples × 3 components = 12 entries minimum. (Diagnosed cause: Extracted only 10 entries instead of 12, and missed G4 completely; also values appear to be nominal compositions rather than EDS measurements from the table.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 12 raw → 12 validated → 12 deduped
+12 tuples (25s)
+  S0022309310000591... Extracting PDF text from S0022309310000591.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxide glass", "components": ["K2O", "Nb2O5", "SiO2"], "unit": "mol", "approx_samp
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309310000591:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): This appears to be a figure showing Tg (glass transition temperature) vs composition with reference citations; recognize it as a chart visualization rather than a structured data table, and extract the data points and reference information from the plotted values instead. (Diagnosed cause: Table is a graph/chart, not a data table with extractable entries.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (26s)
+  S0022309313005486... Extracting PDF text from S0022309313005486.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["K2O", "Nb2O5", "P2O5", "Al2O3"], "unit": "mol",
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309313005486:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): The extractor should recognize this is a poorly formatted table mixing equation content with metadata; it should either skip this table entirely or look for actual numerical composition data in subsequent properly-formatted tables in the document. (Diagnosed cause: Table contains primarily equation text and headers, not tabular data rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (20s)
+  S0022309314000611... Extracting PDF text from S0022309314000611.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 10 tables found
+Cross-backend dedup: 10 raw → 10 valid → 10 unique (10 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "B2O3", "TiO2", "BaO", "Bi2O3"], "unit": "mol", "a
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 10 -> 7 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314000611:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that the fragmented text in columns 1-12 represents chemical composition labels (vL of TiO2, vS of BaO, etc.) paired with the numeric values in columns 0 and 13, which represent individual glass sample compositions; extract each row as a separate sample entry. (Diagnosed cause: Table structure misinterpreted as header/metadata rather than data.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314000611:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): This appears to be a figure showing elastic moduli (GPa) on the y-axis with a legend (L, E, K, G) rather than a structured data table; the extractor should recognize this as a chart and either skip it or extract data points from the plotted curves if coordinates are readable. (Diagnosed cause: Table is a graph/chart, not a data table with extractable entries.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314000611:tbl2] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that this is a figure/graph table with axis labels (Poisson's ratio, Microhardness) rather than a data table; extract the actual numerical data points from the grid coordinates where material compositions intersect with measured properties. (Diagnosed cause: Table structure is malformed/transposed with headers scattered across multiple rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314000611:tbl3] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that this table's first row is a figure caption and should be skipped; the actual data table begins below with column headers for doping compositions and measured properties (θD, Ts values for TiO2, BaO, Bi2O3 and corresponding numerical measurements). (Diagnosed cause: Table structure is malformed/corrupted; header row contains figure caption instead of column labels.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314000611:tbl4] self-correction attempt 1: RETRY HINT (self-correction attempt 1): This appears to be a graph/chart image converted to text showing only the y-axis labels and legend entries (TiO2, Bi2O3, BaO); the actual data points and x-axis values are missing or not properly extracted from the figure. (Diagnosed cause: Table is a figure caption and axis labels, not a data table.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314000611:tbl5] self-correction attempt 1: RETRY HINT (self-correction attempt 1): This appears to be a graph axis label layout rather than a structured data table; the extractor should recognize that actual numerical data entries are not present in tabular form and may need to look for accompanying data tables or supplementary materials. (Diagnosed cause: Table is a figure/chart, not a data table with extractable rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314000611] validation wanted to drop 21 preds but cap is 4 (20%). Keeping first 4 flagged.
+[S0022309314000611] validation: 21→17 (dropped 4; reason: Paper describes (70-x)SiO2–30B2O3–x HMOs glass system with TiO2, BaO, and Bi2O3;)
+Pipeline: 10 tables → 21 raw → 17 validated → 17 deduped
+17 tuples (67s)
+  S0022309314001094... Extracting PDF text from S0022309314001094.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 4 tables found
+Cross-backend dedup: 4 raw → 4 valid → 4 unique (4 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "phosphate glass", "components": ["Na2O", "ZnO", "P2O5"], "unit": "mol", "approx_s
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 0 relevant tables
+Pipeline: 4 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (18s)
+  S0022309314002579... Extracting PDF text from S0022309314002579.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 4 tables found
+Cross-backend dedup: 4 raw → 4 valid → 4 unique (4 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "bioactive glass and glass ceramics", "components": ["SiO2", "P2O5", "CaO", "CaF2"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 3 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314002579:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Focus extraction on the actual data rows with numerical values in columns 1-16, ignoring the figure caption and narrative text that precedes the table structure. (Diagnosed cause: Table is fragmented/corrupted with mixed content (figure caption, text, and data rows).)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314002579:tbl2] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Skip the first several rows containing table title and column headers (which include degree symbols and 'Intensity'), then extract the actual glass composition data rows that should follow. (Diagnosed cause: Table header/metadata mistaken for data rows; actual data rows not recognized.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 4 tables → 31 raw → 31 validated → 31 deduped
+31 tuples (40s)
+  S0022309314003688... Extracting PDF text from S0022309314003688.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 5] (landscape/rotated: none)
+Rendered 4/4 pages (total 1720.3 KB)
+Vision: rendered 4 data pages
+[S0022309314003688] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314003688] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "borosilicate glass (silver-doped)", "components": ["Ag2O", "B2O3", "SiO2", "CaO"]
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 0 relevant tables
+Pipeline: 3 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (33s)
+  S0022309314004086... Extracting PDF text from S0022309314004086.pdf...
+Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/11 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (oxyfluorophosphate glass)", "components": ["ZnO", "CaF2", "P2O5", "Fe2O3"]
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (16s)
+  S0022309314004165... Extracting PDF text from S0022309314004165.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (borosilicate peraluminous glass with rare earth dopant)", "components": ["
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314004165:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that this is a spectroscopic/analytical data table with elemental compositions (Si, B, Al, Nd, Ca, Na) listed as row/column intersections representing sample measurements or phase analysis data; extract each element-phase-intensity combination as a separate entry. (Diagnosed cause: Table structure misinterpreted as non-data or header-only content.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 72 raw → 70 validated → 70 deduped
+70 tuples (35s)
+
+[91/111] Processing S0022309314005110...
+Extracting PDF text from S0022309314005110.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 5, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1707.0 KB)
+Vision: rendered 4 data pages
+[S0022309314005110] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314005110] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (iron phosphate glass)", "components": ["P2O5", "Fe2O3", "Cs2O"], "unit": "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 21 raw → 20 validated → 20 deduped
+20 tuples (117s)
+  S0022309314005432... Extracting PDF text from S0022309314005432.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 4, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 2580.9 KB)
+Vision: rendered 4 data pages
+[S0022309314005432] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314005432] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Li2O", "TiO2", "P2O5", "Fe2O3"], "unit": "wt", "approx_sa
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 15 raw → 15 validated → 15 deduped
+15 tuples (26s)
+  S0022309314005481... Extracting PDF text from S0022309314005481.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass-ceramics", "components": ["CaO", "MgO", "Al2O3", "SiO2", "Na2O", "K2O", "Li
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314005481:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Parse the table structure more carefully: rows after 'Sample code' contain actual data entries with M2 and M3 as sample identifiers, and each characteristic temperature row represents a distinct measurement that should be extracted. (Diagnosed cause: Extractor treated table as metadata/header only and failed to recognize data rows.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (16s)
+  S002230931400670X... Extracting PDF text from S002230931400670X.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 3 tables found
+Cross-backend dedup: 3 raw → 3 valid → 3 unique (3 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate and aluminate melts/glasses", "components": ["CaO", "SiO2", "Al2O3"], "u
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 3 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230931400670X:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Recognize that this table contains both text passages and a data table; focus on extracting the composition data from the CaO-Al2O3 section (rows with CaO mol%, concentration percentages, and oxygen species) rather than treating the entire text block as a single table. (Diagnosed cause: Table structure is malformed/fragmented with mixed content types.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230931400670X:tbl2] self-correction attempt 1: RETRY HINT (self-correction attempt 1): This appears to be a figure caption and legend rather than a data table; look for the actual data table referenced in the paper that contains CaO-SiO2 and CaO-Al2O3 composition data with measured properties. (Diagnosed cause: Table contains figure caption and regression equations, not a data table with composition entries.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230931400670X] validation wanted to drop 3 preds but cap is 2 (20%). Keeping first 2 flagged.
+[S002230931400670X] validation: 11→9 (dropped 2; reason: CaO-Al2O3 system composition range shown in Fig. 2(b) is 50-70 mol% CaO, not 35-)
+Pipeline: 3 tables → 12 raw → 9 validated → 9 deduped
+9 tuples (31s)
+  S0022309314006735... Extracting PDF text from S0022309314006735.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [3, 4, 6, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1765.8 KB)
+Vision: rendered 4 data pages
+[S0022309314006735] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309314006735] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (iron phosphate glass)", "components": ["Fe2O3", "P2O5", "Fe2+", "Fe3+"], "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 0 relevant tables
+Pipeline: 4 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (33s)
+  S0022309315000563... Extracting PDF text from S0022309315000563.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 6, 7] (landscape/rotated: none)
+Rendered 4/4 pages (total 1815.6 KB)
+Vision: rendered 4 data pages
+[S0022309315000563] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315000563] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (sodium borosilicate)", "components": ["Na2O", "B2O3", "SiO2"], "unit": "no
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 33 raw → 33 validated → 33 deduped
+33 tuples (33s)
+  S0022309315001131... Extracting PDF text from S0022309315001131.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1449.5 KB)
+Vision: rendered 4 data pages
+[S0022309315001131] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315001131] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (oxyfluoride glass)", "components": ["SiO2", "Al2O3", "CaO", "CaF2", "Y2O3"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 3 tables → 21 raw → 21 validated → 21 deduped
+21 tuples (20s)
+  S002230931530017X... Extracting PDF text from S002230931530017X.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 3] (landscape/rotated: none)
+Rendered 4/4 pages (total 2193.3 KB)
+Vision: rendered 4 data pages
+[S002230931530017X] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S002230931530017X] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (scintillating borate glass)", "components": ["Li2O", "B2O3", "Gd2O3", "CeO
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (14s)
+  S0022309315300922... Extracting PDF text from S0022309315300922.pdf...
+Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/14 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["SiO2", "B2O3", "Na2O", "MoO3"], "unit": "mol", "approx_sa
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 2 tables → 31 raw → 31 validated → 31 deduped
+31 tuples (26s)
+  S0022309315301186... Extracting PDF text from S0022309315301186.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 3 tables found
+Cross-backend dedup: 3 raw → 3 valid → 3 unique (3 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (borate glass)", "components": ["H3BO3", "Li2CO3", "SrO"], "unit": "mol", "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 0 relevant tables
+Pipeline: 3 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (13s)
+
+[101/111] Processing S0022309315301794...
+Extracting PDF text from S0022309315301794.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 1495.5 KB)
+Vision: rendered 4 data pages
+[S0022309315301794] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315301794] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["Li2O", "BaO", "B2O3"], "unit": "mol", "approx_samples": 4
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 0 relevant tables
+Pipeline: 1 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (15s)
+  S0022309315302015... Extracting PDF text from S0022309315302015.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (fluoride-phosphate glasses)", "components": ["Sr(PO3)2", "fluorides", "Al"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (16s)
+  S0022309315302106... Extracting PDF text from S0022309315302106.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 4, 5, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 2326.4 KB)
+Vision: rendered 4 data pages
+[S0022309315302106] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309315302106] vision transcribed 4 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (phosphate/oxyfluorophosphate)", "components": ["BaO", "CaF2", "P2O5"], "un
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 4 -> 0 relevant tables
+Pipeline: 4 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (28s)
+  S0022309399000289... Extracting PDF text from S0022309399000289.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 2, 3] (landscape/rotated: none)
+Rendered 4/4 pages (total 1217.3 KB)
+Vision: rendered 4 data pages
+[S0022309399000289] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399000289] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "oxyfluoride glass", "components": ["MoO3", "BaF2", "NaF", "ZnF2", "NbO2.5", "LiNb
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399000289] validation: 71→67 (dropped 4; reason: Sample V1 composition not mentioned in paper; paper discusses systems with LiNbO)
+Pipeline: 1 tables → 71 raw → 67 validated → 67 deduped
+67 tuples (27s)
+  S0022309399003683... Extracting PDF text from S0022309399003683.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass-ceramic", "components": ["SiO2", "Al2O3", "ZnO", "MgO", "TiO2", "ZrO2", "Ba
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 30 raw → 30 validated → 30 deduped
+30 tuples (16s)
+  S0022309399006250... Extracting PDF text from S0022309399006250.pdf...
+Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/7 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [0, 1, 4, 6] (landscape/rotated: none)
+Rendered 4/4 pages (total 1146.3 KB)
+Vision: rendered 4 data pages
+[S0022309399006250] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006250] vision transcribed 3 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glasses and glass-ceramics", "components": ["P2O5", "CaO", "Na2O", "Al2O3"], "uni
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 3 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006250:tbl0] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Continue extracting all remaining rows (G1/2 Al2O3, G1I, G1I/1, G1I/2 with all their components) and include Tg values as a fifth component for each sample. (Diagnosed cause: Extraction stopped prematurely; only 10 of 24 expected entries extracted.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006250] validation: 22→19 (dropped 3; reason: Sample 'G1' does not appear in the provided paper text; only GI/1, GI/2, GII/1, )
+Pipeline: 3 tables → 24 raw → 19 validated → 19 deduped
+19 tuples (31s)
+  S0022309399006407... Extracting PDF text from S0022309399006407.pdf...
+Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/8 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 2 tables found
+Cross-backend dedup: 2 raw → 2 valid → 2 unique (2 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass", "components": ["PbCl2", "PbBr2", "P2O5", "PbF2", "PbO"], "unit": "mol", "
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 0 relevant tables
+Pipeline: 2 tables → 0 raw → 0 validated → 0 deduped
+0 tuples (11s)
+  S0022309399006791... Extracting PDF text from S0022309399006791.pdf...
+Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/6 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (vanadium phosphate semiconducting glass and lead silicate glass)", "compon
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006791] validation wanted to drop 9 preds but cap is 2 (20%). Keeping first 2 flagged.
+[S0022309399006791] validation: 12→10 (dropped 2; reason: No compositional data (mol percentages or similar) for these elements appears an)
+Pipeline: 1 tables → 12 raw → 10 validated → 10 deduped
+10 tuples (12s)
+  S0022309399006936... Extracting PDF text from S0022309399006936.pdf...
+Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/9 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [2, 3, 4, 8] (landscape/rotated: none)
+Rendered 4/4 pages (total 1149.8 KB)
+Vision: rendered 4 data pages
+[S0022309399006936] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006936] vision transcribed 2 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "borosilicate glass", "components": ["SiO2", "B2O3", "Na2O", "MnCO3"], "unit": "mo
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 2 -> 2 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006936:tbl1] self-correction attempt 1: RETRY HINT (self-correction attempt 1): Extract all composition data (Na₂O, B₂O₃, SiO₂) for all 6 samples, plus all spectroscopic measurements (N₄, δ(BO₄), δ(BO₃), δ(Si), δ'(Na)) for each sample, handling missing values (–) appropriately. (Diagnosed cause: Extractor stopped prematurely after 10 entries instead of continuing through all 6 samples and all measured properties.)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0022309399006936] validation: 172→162 (dropped 10; reason: Binary borosilicate samples A-E should contain only B2O3 and SiO2, but the extra)
+Pipeline: 2 tables → 172 raw → 162 validated → 162 deduped
+162 tuples (60s)
+  S0167273813004840... Extracting PDF text from S0167273813004840.pdf...
+Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/5 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 0 tables found
+Cross-backend dedup: 0 raw → 0 valid → 0 unique (0 groups, avg 0.0 variants/table)
+No tables from text extractors — rendering pages for vision...
+Rendering 4 data-dense pages: [1, 2, 3, 4] (landscape/rotated: none)
+Rendered 4/4 pages (total 3326.0 KB)
+Vision: rendered 4 data pages
+[S0167273813004840] text backends empty — using vision LLM
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0167273813004840] vision transcribed 1 tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "silicate-lead glass (iron-doped)", "components": ["SiO2", "PbO", "Fe2O3"], "unit"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Pipeline: 1 tables → 27 raw → 27 validated → 27 deduped
+27 tuples (23s)
+
+[111/111] Processing S0167273814000617...
+Extracting PDF text from S0167273814000617.pdf...
+Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]Recognizing Layout:   0%|          | 0/4 [00:00<?, ?it/s]
+  Running camelot...
+  camelot: 1 tables found
+Cross-backend dedup: 1 raw → 1 valid → 1 unique (1 groups, avg 1.0 variants/table)
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Paper intelligence: {"material_type": "glass (lead-borate glass with iron oxide)", "components": ["Fe2O3", "B2O3", "PbO"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+Table filter: 1 -> 1 relevant tables
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+[S0167273814000617] validation wanted to drop 14 preds but cap is 4 (20%). Keeping first 4 flagged.
+[S0167273814000617] validation: 21→17 (dropped 4; reason: The paper specifies compositions as xFe2O3–(100−x)(B2O3–2PbO), meaning B2O3 and )
+Pipeline: 1 tables → 21 raw → 17 validated → 17 deduped
+17 tuples (12s)
+
+============================================================
+TOTAL: 1466 tuples from 111 papers in 2765.9s
+Results saved to /REPO/iswc2026/results/discomat_pipeline_claude-haiku-4-5-20251001_v29_t3_single_camelot

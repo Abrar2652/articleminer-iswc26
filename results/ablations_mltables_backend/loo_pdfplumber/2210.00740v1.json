@@ -1,0 +1,739 @@
+{
+  "arxiv_id": "2210.00740v1",
+  "predictions": [
+    {
+      "value": "90.4",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.4",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "Head AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "96.0",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "Shoulder AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.0",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "Elbow AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.5",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "Wrist AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.1",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "Hip AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.6",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "Knee AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.3",
+      "type": "Result",
+      "model": "UDP",
+      "dataset": "MPII",
+      "metric": "Ankle AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.2",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "MPII",
+      "metric": "Head AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "MPII",
+      "metric": "Shoulder AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.2",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "MPII",
+      "metric": "Elbow AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.7",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "MPII",
+      "metric": "Wrist AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.7",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "MPII",
+      "metric": "Hip AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.0",
+      "type": "Result",
+      "model": "DarkPose",
+      "dataset": "MPII",
+      "metric": "Ankle AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "TokenPose-L/D6",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "model": "TokenPose-L/D6",
+      "dataset": "MPII",
+      "metric": "Head AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "TokenPose-L/D6",
+      "dataset": "MPII",
+      "metric": "Shoulder AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.0",
+      "type": "Result",
+      "model": "TokenPose-L/D6",
+      "dataset": "MPII",
+      "metric": "Elbow AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.8",
+      "type": "Result",
+      "model": "TokenPose-L/D6",
+      "dataset": "MPII",
+      "metric": "Wrist AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.5",
+      "type": "Result",
+      "model": "TokenPose-L/D6",
+      "dataset": "MPII",
+      "metric": "Hip AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "model": "TokenPose-L/D6",
+      "dataset": "MPII",
+      "metric": "Knee AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.7",
+      "type": "Result",
+      "model": "TokenPose-L/D6",
+      "dataset": "MPII",
+      "metric": "Ankle AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "TokenPose-L/D12",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.2",
+      "type": "Result",
+      "model": "TokenPose-L/D12",
+      "dataset": "MPII",
+      "metric": "Head AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.8",
+      "type": "Result",
+      "model": "TokenPose-L/D12",
+      "dataset": "MPII",
+      "metric": "Shoulder AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "model": "TokenPose-L/D12",
+      "dataset": "MPII",
+      "metric": "Elbow AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.9",
+      "type": "Result",
+      "model": "TokenPose-L/D12",
+      "dataset": "MPII",
+      "metric": "Wrist AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "TokenPose-L/D12",
+      "dataset": "MPII",
+      "metric": "Hip AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.2",
+      "type": "Result",
+      "model": "TokenPose-L/D12",
+      "dataset": "MPII",
+      "metric": "Knee AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.3",
+      "type": "Result",
+      "model": "TokenPose-L/D12",
+      "dataset": "MPII",
+      "metric": "Ankle AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "model": "TokenPose-L/D24",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "model": "TokenPose-L/D24",
+      "dataset": "MPII",
+      "metric": "Head AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "TokenPose-L/D24",
+      "dataset": "MPII",
+      "metric": "Shoulder AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "model": "TokenPose-L/D24",
+      "dataset": "MPII",
+      "metric": "Elbow AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.0",
+      "type": "Result",
+      "model": "TokenPose-L/D24",
+      "dataset": "MPII",
+      "metric": "Wrist AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.3",
+      "type": "Result",
+      "model": "TokenPose-L/D24",
+      "dataset": "MPII",
+      "metric": "Hip AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "87.1",
+      "type": "Result",
+      "model": "TokenPose-L/D24",
+      "dataset": "MPII",
+      "metric": "Knee AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "82.5",
+      "type": "Result",
+      "model": "TokenPose-L/D24",
+      "dataset": "MPII",
+      "metric": "Ankle AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.9",
+      "type": "Result",
+      "model": "Removing Bias",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "model": "Removing Bias",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.0",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "Head AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "Shoulder AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.0",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "Elbow AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.0",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "Wrist AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "Hip AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "85.3",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "Knee AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "81.3",
+      "type": "Result",
+      "model": "Simple Baseline",
+      "dataset": "MPII",
+      "metric": "Ankle AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.3",
+      "type": "Result",
+      "model": "Simple Baseline + Ours",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "0.7",
+      "type": "Result",
+      "model": "Simple Baseline + Ours",
+      "dataset": "MPII",
+      "metric": "Mean AP improvement",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.0",
+      "type": "Result",
+      "model": "Simple Baseline + Ours",
+      "dataset": "MPII",
+      "metric": "Head AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "96.1",
+      "type": "Result",
+      "model": "Simple Baseline + Ours",
+      "dataset": "MPII",
+      "metric": "Shoulder AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.6",
+      "type": "Result",
+      "model": "Simple Baseline + Ours",
+      "dataset": "MPII",
+      "metric": "Elbow AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "model": "Simple Baseline + Ours",
+      "dataset": "MPII",
+      "metric": "Wrist AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "Simple Baseline + Ours",
+      "dataset": "MPII",
+      "metric": "Hip AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.7",
+      "type": "Result",
+      "model": "Simple Baseline + Ours",
+      "dataset": "MPII",
+      "metric": "Knee AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.1",
+      "type": "Result",
+      "model": "Simple Baseline + Ours",
+      "dataset": "MPII",
+      "metric": "Ankle AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.4",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Head AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "95.9",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Shoulder AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.7",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Elbow AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.1",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Wrist AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.4",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Hip AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.9",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Knee AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.2",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Ankle AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "0.5",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Mean AP improvement",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.3",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Head AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "96.2",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Shoulder AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "91.2",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Elbow AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.8",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Wrist AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Hip AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "87.4",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Knee AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.1",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Ankle AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.5",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Mean AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "96.9",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Head AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "96.0",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Shoulder AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.9",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Elbow AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "86.2",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Wrist AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Hip AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "87.1",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Knee AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "83.5",
+      "type": "Result",
+      "model": "HRNet",
+      "dataset": "MPII",
+      "metric": "Ankle AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "0.4",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Mean AP improvement",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "97.1",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Head AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "96.3",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Shoulder AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "87.0",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Wrist AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "90.2",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Hip AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "87.5",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Knee AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "84.2",
+      "type": "Result",
+      "model": "HRNet + Ours",
+      "dataset": "MPII",
+      "metric": "Ankle AP",
+      "task": "2D human pose estimation"
+    },
+    {
+      "value": "256",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Input size",
+      "model": "All models"
+    }
+  ],
+  "num_gold_annotations": 322,
+  "elapsed_seconds": 48.1,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "camelot"
+  ]
+}

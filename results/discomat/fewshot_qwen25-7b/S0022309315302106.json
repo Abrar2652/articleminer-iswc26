@@ -1,0 +1,49 @@
+{
+  "pdf_id": "S0022309315302106",
+  "predictions": [
+    {
+      "sample_id": "Ba PF0",
+      "component": "O",
+      "value": 32.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF0",
+      "component": "P",
+      "value": 29.53,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF0",
+      "component": "Ba",
+      "value": 46.52,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "O",
+      "value": 33.13,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "P",
+      "value": 32.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "Ba",
+      "value": 39.21,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Ba PF10",
+      "component": "Ca",
+      "value": 2.86,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 11.4,
+  "raw_preview": "```json\n{\"sample_id\": \"Ba PF0\", \"component\": \"O\", \"value\": 32.51, \"unit\": \"wt\"}\n{\"sample_id\": \"Ba PF0\", \"component\": \"P\", \"value\": 29.53, \"unit\": \"wt\"}\n{\"sample_id\": \"Ba PF0\", \"component\": \"Ba\", \"value\": 46.52, \"unit\": \"wt\"}\n{\"sample_id\": \"Ba PF10\", \"component\": \"O\", \"value\": 33.13, \"unit\": \"wt\"}\n{\"sample_id\": \"Ba PF10\", \"component\": \"P\", \"value\": 32.51, \"unit\": \"wt\"}\n{\"sample_id\": \"Ba PF10\", \"component\": \"Ba\", \"value\": 39.21, \"unit\": \"wt\"}\n{\"sample_id\": \"Ba PF10\", \"component\": \"Ca\", \"value\": 2."
+}

@@ -1,0 +1,23 @@
+{
+  "pii": "S0022309314003688",
+  "predictions": [
+    {
+      "sample_id": "1",
+      "component": "Ag2O",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "3",
+      "component": "Ag2O",
+      "value": 3.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 23,
+  "elapsed_seconds": 63.6,
+  "backends": [
+    "docling",
+    "pdfplumber"
+  ]
+}

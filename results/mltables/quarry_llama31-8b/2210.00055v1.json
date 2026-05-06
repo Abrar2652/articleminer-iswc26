@@ -1,0 +1,488 @@
+{
+  "arxiv_id": "2210.00055v1",
+  "predictions": [
+    {
+      "value": "96.3",
+      "type": "Result",
+      "model": "Baseline [Xiao et al., 2020]",
+      "dataset": "Original",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "model": "Baseline [Xiao et al., 2020]",
+      "dataset": "Mixed-same",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "75.6",
+      "type": "Result",
+      "model": "Baseline [Xiao et al., 2020]",
+      "dataset": "Only-FG",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "97.7",
+      "type": "Result",
+      "model": "CIM [Taghanaki et al., 2021]",
+      "dataset": "Original",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "89.8",
+      "type": "Result",
+      "model": "CIM [Taghanaki et al., 2021]",
+      "dataset": "Mixed-same",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "81.1",
+      "type": "Result",
+      "model": "CIM [Taghanaki et al., 2021]",
+      "dataset": "Mixed-rand",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "89.2",
+      "type": "Result",
+      "model": "SIN [Sauer and Geiger, 2021]",
+      "dataset": "Original",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "73.1",
+      "type": "Result",
+      "model": "SIN [Sauer and Geiger, 2021]",
+      "dataset": "Mixed-same",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "63.7",
+      "type": "Result",
+      "model": "SIN [Sauer and Geiger, 2021]",
+      "dataset": "Mixed-rand",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "94.7",
+      "type": "Result",
+      "model": "INSIN [Sauer and Geiger, 2021]",
+      "dataset": "Original",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "85.9",
+      "type": "Result",
+      "model": "INSIN [Sauer and Geiger, 2021]",
+      "dataset": "Mixed-same",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "78.5",
+      "type": "Result",
+      "model": "INSIN [Sauer and Geiger, 2021]",
+      "dataset": "Mixed-rand",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "94.2",
+      "type": "Result",
+      "model": "INCGN [Sauer and Geiger, 2021]",
+      "dataset": "Original",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "83.4",
+      "type": "Result",
+      "model": "INCGN [Sauer and Geiger, 2021]",
+      "dataset": "Mixed-same",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "80.1",
+      "type": "Result",
+      "model": "INCGN [Sauer and Geiger, 2021]",
+      "dataset": "Mixed-rand",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "95.6",
+      "type": "Result",
+      "model": "MaskTune (Ours)",
+      "dataset": "Original",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "91.1",
+      "type": "Result",
+      "model": "MaskTune (Ours)",
+      "dataset": "Mixed-same",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "78.6",
+      "type": "Result",
+      "model": "MaskTune (Ours)",
+      "dataset": "Mixed-rand",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "88.1",
+      "type": "Result",
+      "model": "MaskTune (Ours)",
+      "dataset": "Only-FG",
+      "metric": "accuracy",
+      "task": "classification"
+    },
+    {
+      "value": "9.58",
+      "type": "Result",
+      "metric": "SR.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "11.07",
+      "type": "Result",
+      "metric": "SN.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "metric": "DG.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "10.81",
+      "type": "Result",
+      "metric": "DG.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "9.74",
+      "type": "Result",
+      "metric": "OSP.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "99.99",
+      "type": "Result",
+      "metric": "MaskTune.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "8.96",
+      "type": "Result",
+      "metric": "MaskTune.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "6.54",
+      "type": "Result",
+      "metric": "MaskTune.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "95.2",
+      "type": "Result",
+      "metric": "SR.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "8.74",
+      "type": "Result",
+      "metric": "SR.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "94.7",
+      "type": "Result",
+      "metric": "SN.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "8.34",
+      "type": "Result",
+      "metric": "SN.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "95.1",
+      "type": "Result",
+      "metric": "DG.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "8.21",
+      "type": "Result",
+      "metric": "DG.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "6.98",
+      "type": "Result",
+      "metric": "OSP.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "94.86",
+      "type": "Result",
+      "metric": "MaskTune.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "90.5",
+      "type": "Result",
+      "metric": "SR.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "6.52",
+      "type": "Result",
+      "metric": "SR.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "89.6",
+      "type": "Result",
+      "metric": "SN.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "6.45",
+      "type": "Result",
+      "metric": "SN.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "90.1",
+      "type": "Result",
+      "metric": "DG.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "6.14",
+      "type": "Result",
+      "metric": "DG.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "90",
+      "type": "Result",
+      "metric": "OSP.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "4.67",
+      "type": "Result",
+      "metric": "OSP.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "89.73",
+      "type": "Result",
+      "metric": "MaskTune.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "4.74",
+      "type": "Result",
+      "metric": "MaskTune.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "4.27",
+      "type": "Result",
+      "metric": "SN.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "4.03",
+      "type": "Result",
+      "metric": "DG.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "100.0",
+      "type": "Result",
+      "metric": "MaskTune.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "3.68",
+      "type": "Result",
+      "metric": "MaskTune.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "1.86",
+      "type": "Result",
+      "metric": "SR.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "2.53",
+      "type": "Result",
+      "metric": "SN.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "95",
+      "type": "Result",
+      "metric": "DG.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "2.05",
+      "type": "Result",
+      "metric": "DG.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "1.83",
+      "type": "Result",
+      "metric": "OSP.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "95.19",
+      "type": "Result",
+      "metric": "MaskTune.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "1.84",
+      "type": "Result",
+      "metric": "MaskTune.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "1.04",
+      "type": "Result",
+      "metric": "SR.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "1.31",
+      "type": "Result",
+      "metric": "SN.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "1.06",
+      "type": "Result",
+      "metric": "DG.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "1.01",
+      "type": "Result",
+      "metric": "OSP.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "89.55",
+      "type": "Result",
+      "metric": "MaskTune.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "0.96",
+      "type": "Result",
+      "metric": "MaskTune.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "7.36",
+      "type": "Result",
+      "metric": "SN.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "6.16",
+      "type": "Result",
+      "metric": "DG.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "5.93",
+      "type": "Result",
+      "metric": "OSP.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "99.98",
+      "type": "Result",
+      "metric": "MaskTune.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "4.83",
+      "type": "Result",
+      "metric": "MaskTune.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "3.46",
+      "type": "Result",
+      "metric": "SR.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "5.1",
+      "type": "Result",
+      "metric": "SN.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "4.28",
+      "type": "Result",
+      "metric": "DG.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "2.97",
+      "type": "Result",
+      "metric": "OSP.Err.",
+      "task": "classification"
+    },
+    {
+      "value": "95.01",
+      "type": "Result",
+      "metric": "MaskTune.Cov.",
+      "task": "classification"
+    },
+    {
+      "value": "2.96",
+      "type": "Result",
+      "metric": "MaskTune.Err.",
+      "task": "classification"
+    }
+  ],
+  "num_gold_annotations": 187,
+  "elapsed_seconds": 140.6,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

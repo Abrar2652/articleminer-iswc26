@@ -1,0 +1,266 @@
+{
+  "pdf_id": "S0022309303003685",
+  "predictions": [
+    {
+      "sample_id": "Glass",
+      "component": "BaO",
+      "value": 1.55,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "P2O5",
+      "value": 0.13,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Y2O3",
+      "value": 0.15,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "ZnO",
+      "value": 2.01,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "NiO",
+      "value": 0.58,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "Eu2O3",
+      "value": 0.81,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "La2O3",
+      "value": 2.54,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "Glass",
+      "component": "CoO",
+      "value": 0.09,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "SiO2",
+      "value": 21.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Al2O3",
+      "value": 6.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "B2O3",
+      "value": 0.06,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "ZrO2",
+      "value": 5.67,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Na2O",
+      "value": 1.77,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Li2O",
+      "value": 0.16,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Cs2O",
+      "value": 0.22,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "CaO",
+      "value": 3.43,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "SrO",
+      "value": 0.34,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Cr2O3",
+      "value": 0.99,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "BaO",
+      "value": 0.66,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "P2O5",
+      "value": 0.37,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Y2O3",
+      "value": 0.45,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "ZnO",
+      "value": 6.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "NiO",
+      "value": 1.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "Eu2O3",
+      "value": 2.7,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "La2O3",
+      "value": 8.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LR gel",
+      "component": "CoO",
+      "value": 0.28,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "SiO2",
+      "value": 18.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Al2O3",
+      "value": 5.76,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "ZrO2",
+      "value": 6.84,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Na2O",
+      "value": 2.11,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Li2O",
+      "value": 0.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Cs2O",
+      "value": 0.26,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "CaO",
+      "value": 2.46,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "SrO",
+      "value": 0.25,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Cr2O3",
+      "value": 0.72,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "BaO",
+      "value": 0.47,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "P2O5",
+      "value": 0.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Y2O3",
+      "value": 0.54,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "ZnO",
+      "value": 7.33,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "NiO",
+      "value": 2.12,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "Eu2O3",
+      "value": 3.56,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "La2O3",
+      "value": 11.17,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HR gel",
+      "component": "CoO",
+      "value": 0.35,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_annotations": 57,
+  "ablation": "no_intelligence",
+  "elapsed_seconds": 30.3
+}

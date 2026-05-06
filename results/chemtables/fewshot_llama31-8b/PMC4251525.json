@@ -1,0 +1,119 @@
+{
+  "pdf_id": "PMC4251525",
+  "predictions": [
+    {
+      "value": "1",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "SL0101 (1)",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.76",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4a",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.23",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.11",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4c",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.44",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "4d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "2.33",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "5a",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "0.32",
+      "type": "IC50",
+      "target": "RSK2",
+      "treatment": "5b",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "35",
+      "type": "GI50",
+      "target": "MCF-7",
+      "treatment": "4d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "50",
+      "type": "GI50",
+      "target": "MCF-7",
+      "treatment": "4d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "25",
+      "type": "GI50",
+      "target": "MCF-7",
+      "treatment": "4d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "50",
+      "type": "GI50",
+      "target": "MCF-10A",
+      "treatment": "4d",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "100",
+      "type": "GI50",
+      "target": "MCF-10A",
+      "treatment": "SL0101 (1)",
+      "unit": "\u03bcM"
+    },
+    {
+      "value": "60",
+      "type": "GI50",
+      "target": "MCF-7",
+      "treatment": "SL0101 (1)",
+      "unit": "%"
+    },
+    {
+      "value": "50",
+      "type": "MIC",
+      "target": "MCF-7",
+      "treatment": "4d",
+      "unit": "%"
+    },
+    {
+      "value": "70",
+      "type": "MIC",
+      "target": "MCF-10A",
+      "treatment": "4d",
+      "unit": "%"
+    }
+  ],
+  "elapsed_seconds": 31.9,
+  "raw_preview": "{\"value\": \"1\", \"type\": \"IC50\", \"target\": \"RSK2\", \"treatment\": \"SL0101 (1)\", \"unit\": \"\u03bcM\"}\n{\"value\": \"0.76\", \"type\": \"IC50\", \"target\": \"RSK2\", \"treatment\": \"4a\", \"unit\": \"\u03bcM\"}\n{\"value\": \"0.23\", \"type\": \"IC50\", \"target\": \"RSK2\", \"treatment\": \"4b\", \"unit\": \"\u03bcM\"}\n{\"value\": \"0.11\", \"type\": \"IC50\", \"target\": \"RSK2\", \"treatment\": \"4c\", \"unit\": \"\u03bcM\"}\n{\"value\": \"0.44\", \"type\": \"IC50\", \"target\": \"RSK2\", \"treatment\": \"4d\", \"unit\": \"\u03bcM\"}\n{\"value\": \"2.33\", \"type\": \"IC50\", \"target\": \"RSK2\", \"treatment\": \"5a\","
+}

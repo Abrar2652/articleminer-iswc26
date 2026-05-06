@@ -1,0 +1,390 @@
+{
+  "pii": "S0022309302009481",
+  "predictions": [
+    {
+      "sample_id": "NS 4",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NS 4",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 0.39",
+      "component": "CaO",
+      "value": 39.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "SiO2",
+      "value": 42.86,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "CaO",
+      "value": 42.86,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 50.25",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 50.25",
+      "component": "CaO",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 12.44",
+      "component": "SiO2",
+      "value": 11.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 12.44",
+      "component": "CaO",
+      "value": 44.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Di",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ab",
+      "component": "SiO2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NTS 4",
+      "component": "SiO2",
+      "value": 66.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NTS 4",
+      "component": "Na2O",
+      "value": 16.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KTS 2",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KTS 2",
+      "component": "K2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NC",
+      "component": "SiO2",
+      "value": 70.92907,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NC",
+      "component": "CaO",
+      "value": 5.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NC",
+      "component": "Al2O3",
+      "value": 13.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BNC",
+      "component": "SiO2",
+      "value": 64.98,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BNC",
+      "component": "B2O3",
+      "value": 3.94,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BNC",
+      "component": "TiO2",
+      "value": 0.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BNC",
+      "component": "FeO",
+      "value": 0.17,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E",
+      "component": "SiO2",
+      "value": 59.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E",
+      "component": "Al2O3",
+      "value": 8.84,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NS 4",
+      "component": "SiO2",
+      "value": 2.65,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NS 4",
+      "component": "CaO",
+      "value": 45.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 0.39",
+      "component": "CaO",
+      "value": 1.53,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "CaO",
+      "value": 18.13,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 76.11",
+      "component": "CaO",
+      "value": 31.51,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 50.25",
+      "component": "CaO",
+      "value": 20.13,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 12.44",
+      "component": "CaO",
+      "value": 5.16,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Di",
+      "component": "SiO2",
+      "value": 4.19,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Di",
+      "component": "Al2O3",
+      "value": 0.0464363,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ab",
+      "component": "SiO2",
+      "value": 5.58,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ab",
+      "component": "Al2O3",
+      "value": 13.01,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NTS 4",
+      "component": "SiO2",
+      "value": 2.82,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NTS 4",
+      "component": "B2O3",
+      "value": 3.415,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KTS 2",
+      "component": "SiO2",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KTS 2",
+      "component": "K2O",
+      "value": 0.6001,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NC",
+      "component": "SiO2",
+      "value": 3.01,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NC",
+      "component": "B2O3",
+      "value": 4.207,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BNC",
+      "component": "SiO2",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BNC",
+      "component": "B2O3",
+      "value": 4.207,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NS 4",
+      "component": "SiO2",
+      "value": 12.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 0.39",
+      "component": "SiO2",
+      "value": 11.23,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 0.39",
+      "component": "CaO",
+      "value": 0.39,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "SiO2",
+      "value": 10.65,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 42.14",
+      "component": "CaO",
+      "value": 42.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 76.11",
+      "component": "SiO2",
+      "value": 10.66,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 76.11",
+      "component": "CaO",
+      "value": 76.11,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 50.25",
+      "component": "SiO2",
+      "value": 10.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 50.25",
+      "component": "CaO",
+      "value": 50.25,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 12.44",
+      "component": "SiO2",
+      "value": 11.38,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ca 12.44",
+      "component": "CaO",
+      "value": 12.44,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Ab",
+      "component": "SiO2",
+      "value": 11.76,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NTS 4",
+      "component": "SiO2",
+      "value": 11.48,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KTS 2",
+      "component": "SiO2",
+      "value": 12.03,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "KTS 2",
+      "component": "K2O",
+      "value": 0.02,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "NC",
+      "component": "SiO2",
+      "value": 12.14,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "BNC",
+      "component": "SiO2",
+      "value": 12.15,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E",
+      "component": "SiO2",
+      "value": 11.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E",
+      "component": "CaO",
+      "value": 38.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "E",
+      "component": "B2O3",
+      "value": 1.5,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 50,
+  "elapsed_seconds": 448.6,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

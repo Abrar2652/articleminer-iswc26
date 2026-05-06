@@ -1,0 +1,188 @@
+{
+  "pdf_id": "S0022309304000705",
+  "predictions": [
+    {
+      "sample_id": "CAS1",
+      "component": "SiO2",
+      "value": 49.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "Al2O3",
+      "value": 8.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS1",
+      "component": "CaO",
+      "value": 42.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "SiO2",
+      "value": 45.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "Al2O3",
+      "value": 10.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS2",
+      "component": "CaO",
+      "value": 43.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "SiO2",
+      "value": 41.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "Al2O3",
+      "value": 12.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS3",
+      "component": "CaO",
+      "value": 46.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "SiO2",
+      "value": 37.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "Al2O3",
+      "value": 14.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS4",
+      "component": "CaO",
+      "value": 47.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "SiO2",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "Al2O3",
+      "value": 16.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS5",
+      "component": "CaO",
+      "value": 50.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "SiO2",
+      "value": 49.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "Al2O3",
+      "value": 15.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS6",
+      "component": "CaO",
+      "value": 35.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "SiO2",
+      "value": 44.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "Al2O3",
+      "value": 17.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS7",
+      "component": "CaO",
+      "value": 38.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "SiO2",
+      "value": 39.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "Al2O3",
+      "value": 19.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS8",
+      "component": "CaO",
+      "value": 40.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "SiO2",
+      "value": 34.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "Al2O3",
+      "value": 22.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS9",
+      "component": "CaO",
+      "value": 42.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "SiO2",
+      "value": 29.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "Al2O3",
+      "value": 24.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "CAS10",
+      "component": "CaO",
+      "value": 45.9,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_annotations": 30,
+  "ablation": "no_intelligence",
+  "elapsed_seconds": 47.7
+}

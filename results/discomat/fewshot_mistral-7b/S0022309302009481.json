@@ -1,0 +1,457 @@
+{
+  "pdf_id": "S0022309302009481",
+  "predictions": [
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "Li2O",
+      "value": 30.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "B2O3",
+      "value": 55.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "ZnO",
+      "value": 5.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "TiO2",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303001832_0_2_TV-10",
+      "component": "V2O5",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "SiO2",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "CaO",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "MgO",
+      "value": 2.382,
+      "unit": "g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Al2O3",
+      "value": 4.15,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "Na2O",
+      "value": 11.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "K2O",
+      "value": 0.35,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "B2O3",
+      "value": 13.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "TiO2",
+      "value": 0.48,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_3",
+      "component": "FeO",
+      "value": 2.498,
+      "unit": "g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_4",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_4",
+      "component": "CaO",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_4",
+      "component": "MgO",
+      "value": 2.852,
+      "unit": "g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_4",
+      "component": "Al2O3",
+      "value": 15.45,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_4",
+      "component": "B2O3",
+      "value": 1.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_4",
+      "component": "TiO2",
+      "value": 3.94,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_4",
+      "component": "FeO",
+      "value": 0.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_4",
+      "component": "O",
+      "value": 0.17,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_5",
+      "component": "SiO2",
+      "value": 75.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_5",
+      "component": "CaO",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_5",
+      "component": "MgO",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_5",
+      "component": "Al2O3",
+      "value": 2.368,
+      "unit": "g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_5",
+      "component": "Na2O",
+      "value": 16.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_5",
+      "component": "K2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_5",
+      "component": "B2O3",
+      "value": 7.83,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_5",
+      "component": "TiO2",
+      "value": 4.63,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_5",
+      "component": "FeO",
+      "value": 0.17,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_6",
+      "component": "SiO2",
+      "value": 66.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_6",
+      "component": "CaO",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_6",
+      "component": "MgO",
+      "value": 2.634,
+      "unit": "g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_6",
+      "component": "Al2O3",
+      "value": 13.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_6",
+      "component": "Na2O",
+      "value": 16.67,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_6",
+      "component": "K2O",
+      "value": 5.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_6",
+      "component": "B2O3",
+      "value": 13.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_6",
+      "component": "TiO2",
+      "value": 0.13,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_7",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_7",
+      "component": "CaO",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_7",
+      "component": "MgO",
+      "value": 2.666,
+      "unit": "g/cm3"
+    },
+    {
+      "sample_id": "S0022309303006537_0_7",
+      "component": "Al2O3",
+      "value": 15.45,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_7",
+      "component": "B2O3",
+      "value": 1.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_7",
+      "component": "TiO2",
+      "value": 3.94,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_7",
+      "component": "FeO",
+      "value": 0.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_7",
+      "component": "O",
+      "value": 0.17,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_8",
+      "component": "SiO2",
+      "value": 70.929,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_8",
+      "component": "CaO",
+      "value": 5.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_8",
+      "component": "MgO",
+      "value": 0.35,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_8",
+      "component": "Al2O3",
+      "value": 13.56,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_8",
+      "component": "Na2O",
+      "value": 0.64,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_8",
+      "component": "K2O",
+      "value": 0.13,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_8",
+      "component": "B2O3",
+      "value": 15.45,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_8",
+      "component": "TiO2",
+      "value": 0.09,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_8",
+      "component": "FeO",
+      "value": 0.48,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_9",
+      "component": "SiO2",
+      "value": 64.98,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_9",
+      "component": "CaO",
+      "value": 7.83,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_9",
+      "component": "MgO",
+      "value": 4.63,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_9",
+      "component": "Al2O3",
+      "value": 1.91,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_9",
+      "component": "B2O3",
+      "value": 15.45,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_9",
+      "component": "TiO2",
+      "value": 1.04,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_9",
+      "component": "FeO",
+      "value": 0.17,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_9",
+      "component": "O",
+      "value": 0.17,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "SiO2",
+      "value": 59.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "CaO",
+      "value": 20.64,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "MgO",
+      "value": 4.15,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "Al2O3",
+      "value": 0.46,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "Na2O",
+      "value": 0.23,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "K2O",
+      "value": 5.81,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "B2O3",
+      "value": 0.09,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "TiO2",
+      "value": 0.48,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_10",
+      "component": "FeO",
+      "value": 5.81,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_11",
+      "component": "SiO2",
+      "value": 20.64,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "S0022309303006537_0_11",
+      "component": "CaO",
+      "value": 8.84,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 236.0,
+  "raw_preview": "| 10   | 0    |\n\nCaption: Composition of the borosilicate glasses in weight percentage\nOUTPUT:\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"Li2O\", \"value\": 30, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"B2O3\", \"value\": 55, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"ZnO\", \"value\": 5, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_2_TV-10\", \"component\": \"TiO2\", \"value\": 0, \"unit\": \"wt\"}\n{\"sample_id\": \"S0022309303001832_0_2"
+}

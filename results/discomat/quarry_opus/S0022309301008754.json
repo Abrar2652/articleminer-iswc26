@@ -1,0 +1,445 @@
+{
+  "pii": "S0022309301008754",
+  "predictions": [
+    {
+      "sample_id": "LD6-5412",
+      "component": "P2O5",
+      "value": 0.22,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LD6-5412",
+      "component": "CaO",
+      "value": 4.12,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LD6-5412",
+      "component": "K2O",
+      "value": 1.66,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LD6-5412",
+      "component": "ZrO2",
+      "value": 0.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LD6-5412",
+      "component": "ZnO",
+      "value": 0.14,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LD6-5412",
+      "component": "TiO2",
+      "value": 0.02,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LD6-5412",
+      "component": "Fe2O3",
+      "value": 0.11,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LD6-5412",
+      "component": "B2O3",
+      "value": 5.05,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LD6-5412",
+      "component": "Al2O3",
+      "value": 12.17,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LD6-5412",
+      "component": "Na2O",
+      "value": 20.41,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LD6-5412",
+      "component": "SiO2",
+      "value": 55.91,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "Cr2O3",
+      "value": 0.02,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "P2O5",
+      "value": 0.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "K2O",
+      "value": 3.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "MgO",
+      "value": 1.99,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "ZrO2",
+      "value": 2.49,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "ZnO",
+      "value": 4.27,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "TiO2",
+      "value": 2.49,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "Fe2O3",
+      "value": 5.77,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "B2O3",
+      "value": 8.85,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "Al2O3",
+      "value": 11.97,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A33",
+      "component": "SiO2",
+      "value": 38.25,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "P2O5",
+      "value": 0.03,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "CaO",
+      "value": 1.99,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "K2O",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "MgO",
+      "value": 1.99,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "ZrO2",
+      "value": 2.99,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "ZnO",
+      "value": 2.97,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "TiO2",
+      "value": 1.99,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "Fe2O3",
+      "value": 6.98,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "B2O3",
+      "value": 8.9,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "Al2O3",
+      "value": 6.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-A44",
+      "component": "SiO2",
+      "value": 44.55,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "La2O3",
+      "value": 2.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "P2O5",
+      "value": 0.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "K2O",
+      "value": 2.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "MgO",
+      "value": 1.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "ZrO2",
+      "value": 5.25,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "ZnO",
+      "value": 2.6,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "TiO2",
+      "value": 2.49,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "Fe2O3",
+      "value": 2.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "B2O3",
+      "value": 9.25,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "Al2O3",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "LAW-ABP1",
+      "component": "SiO2",
+      "value": 41.89,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "Cr2O3",
+      "value": 0.2,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "P2O5",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "CaO",
+      "value": 0.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "K2O",
+      "value": 1.51,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "MgO",
+      "value": 0.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "ZrO2",
+      "value": 1.01,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "TiO2",
+      "value": 0.1,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "Fe2O3",
+      "value": 1.01,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "B2O3",
+      "value": 8.05,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "Al2O3",
+      "value": 10.06,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "Na2O",
+      "value": 20.12,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-47",
+      "component": "SiO2",
+      "value": 54.71,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "Cr2O3",
+      "value": 0.08,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "P2O5",
+      "value": 0.06,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "CaO",
+      "value": 0.01,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "K2O",
+      "value": 0.41,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "MgO",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "ZrO2",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "ZnO",
+      "value": 1.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "TiO2",
+      "value": 3.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "Fe2O3",
+      "value": 5.5,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "B2O3",
+      "value": 10.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "Al2O3",
+      "value": 7.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "Na2O",
+      "value": 20.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "HLP-01",
+      "component": "SiO2",
+      "value": 49.07,
+      "unit": "wt"
+    }
+  ],
+  "num_gold_tuples": 91,
+  "elapsed_seconds": 150.1,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

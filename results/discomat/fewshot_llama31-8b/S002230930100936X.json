@@ -1,0 +1,823 @@
+{
+  "pdf_id": "S002230930100936X",
+  "predictions": [
+    {
+      "sample_id": "La P3",
+      "component": "La2O3",
+      "value": 0.253,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "P2O5",
+      "value": 0.747,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L10",
+      "component": "La2O3",
+      "value": 0.28,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L10",
+      "component": "P2O5",
+      "value": 0.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L9",
+      "component": "La2O3",
+      "value": 0.233,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L9",
+      "component": "P2O5",
+      "value": 0.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L8",
+      "component": "La2O3",
+      "value": 0.21,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L8",
+      "component": "P2O5",
+      "value": 0.72,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L7",
+      "component": "La2O3",
+      "value": 0.13,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L7",
+      "component": "P2O5",
+      "value": 0.84,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L6",
+      "component": "La2O3",
+      "value": 0.11,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L6",
+      "component": "P2O5",
+      "value": 0.85,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L5",
+      "component": "La2O3",
+      "value": 0.07,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L5",
+      "component": "P2O5",
+      "value": 0.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L2",
+      "component": "La2O3",
+      "value": 0.05,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L2",
+      "component": "P2O5",
+      "value": 0.95,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L10",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L9",
+      "component": "SiO2",
+      "value": 0.048,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L8",
+      "component": "SiO2",
+      "value": 0.063,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L7",
+      "component": "SiO2",
+      "value": 0.032,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L6",
+      "component": "SiO2",
+      "value": 0.043,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L5",
+      "component": "SiO2",
+      "value": 0.028,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "SiO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L10",
+      "component": "SiO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L9",
+      "component": "SiO4",
+      "value": 0.048,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L8",
+      "component": "SiO4",
+      "value": 0.063,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L7",
+      "component": "SiO4",
+      "value": 0.032,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L6",
+      "component": "SiO4",
+      "value": 0.043,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L5",
+      "component": "SiO4",
+      "value": 0.028,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "L2",
+      "component": "SiO4",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "La AO",
+      "value": 247.0,
+      "unit": "pm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "La AO",
+      "value": 244.0,
+      "unit": "pm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "OAO",
+      "value": 0.252,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "OAO",
+      "value": 0.262,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.162,
+      "unit": "nm"
+    },
+    {
+      "sample_id": "La P3",
+      "component": "PAO",
+      "value": 0.018,
+      "unit": "nm"
+    }
+  ],
+  "elapsed_seconds": 210.0,
+  "raw_preview": "{\"sample_id\": \"La P3\", \"component\": \"La2O3\", \"value\": 0.253, \"unit\": \"mol\"}\n{\"sample_id\": \"La P3\", \"component\": \"P2O5\", \"value\": 0.747, \"unit\": \"mol\"}\n{\"sample_id\": \"L10\", \"component\": \"La2O3\", \"value\": 0.28, \"unit\": \"mol\"}\n{\"sample_id\": \"L10\", \"component\": \"P2O5\", \"value\": 0.72, \"unit\": \"mol\"}\n{\"sample_id\": \"L9\", \"component\": \"La2O3\", \"value\": 0.233, \"unit\": \"mol\"}\n{\"sample_id\": \"L9\", \"component\": \"P2O5\", \"value\": 0.72, \"unit\": \"mol\"}\n{\"sample_id\": \"L8\", \"component\": \"La2O3\", \"value\": 0.21, \"un"
+}

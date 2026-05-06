@@ -1,0 +1,235 @@
+{
+  "arxiv_id": "2210.00910v1",
+  "predictions": [
+    {
+      "value": "-5",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-10",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-12.9",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-3",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-14.6",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-12.5",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "6.7",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "32.1",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-0.7",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-2.9",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "5.3",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-2.3",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "8.7",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "100",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "7.8",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "1.4",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "8.5",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "36.9",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "9.2",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "70.8",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "83.9",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "3.2",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-1.4",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "0.7",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-4.3",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-3.5",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-11",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-0.6",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-11.6",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-12.7",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "-12.1",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "3.3",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "4.6",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "0.2",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    },
+    {
+      "value": "7.9",
+      "type": "Result",
+      "metric": "percentage change",
+      "task": "zero-shot hate speech detection"
+    }
+  ],
+  "num_gold_annotations": 126,
+  "elapsed_seconds": 75.2,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "pdf_id": "S0022309308001853",
+  "predictions": [
+    {
+      "sample_id": "24Na2O-76SiO2",
+      "component": "Si-O-Si",
+      "value": 71.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "24Na2O-76SiO2",
+      "component": "Si-O-Na",
+      "value": 27.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si",
+      "component": "Si-O-Si",
+      "value": 72.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si",
+      "component": "Si-O-Na",
+      "value": 27.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "Si-O-Si",
+      "value": 72.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "Si-O-Na",
+      "value": 27.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si",
+      "component": "BO3 ring",
+      "value": 57.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si",
+      "component": "BO3 nonring",
+      "value": 43.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "BO3 ring",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "BO3 nonring",
+      "value": 20.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "BO4 (1)",
+      "value": 44.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "BO4 (2)",
+      "value": 54.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si",
+      "component": "BO4 (1)",
+      "value": 38.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si",
+      "component": "BO4 (2)",
+      "value": 62.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "BO4 (1)",
+      "value": 46.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "BO4 (2)",
+      "value": 54.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si",
+      "component": "Si-O-Si",
+      "value": 48.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si",
+      "component": "Si-O-B",
+      "value": 61.9,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si",
+      "component": "B-O-B",
+      "value": 84.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si",
+      "component": "Si-O-Na",
+      "value": 35.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si",
+      "component": "Si-O-(Ca,Na)",
+      "value": 70.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "Si-O-Si",
+      "value": 58.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "Si-O-B",
+      "value": 32.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "B-O-B",
+      "value": 5.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "Si-O-Na",
+      "value": 1.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "Si-O-(Ca,Na)",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "17O-Si-Zr",
+      "component": "Si-O-Zr",
+      "value": 13.0,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 38.6,
+  "raw_preview": "```json\n{\"sample_id\": \"24Na2O-76SiO2\", \"component\": \"Si-O-Si\", \"value\": 71.7, \"unit\": \"mol\"}\n{\"sample_id\": \"24Na2O-76SiO2\", \"component\": \"Si-O-Na\", \"value\": 27.3, \"unit\": \"mol\"}\n{\"sample_id\": \"17O-Si\", \"component\": \"Si-O-Si\", \"value\": 72.3, \"unit\": \"mol\"}\n{\"sample_id\": \"17O-Si\", \"component\": \"Si-O-Na\", \"value\": 27.7, \"unit\": \"mol\"}\n{\"sample_id\": \"17O-Si-Zr\", \"component\": \"Si-O-Si\", \"value\": 72.3, \"unit\": \"mol\"}\n{\"sample_id\": \"17O-Si-Zr\", \"component\": \"Si-O-Na\", \"value\": 27.7, \"unit\": \"mol\"}\n{\"sa"
+}

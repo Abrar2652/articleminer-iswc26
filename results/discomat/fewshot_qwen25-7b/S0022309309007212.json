@@ -1,0 +1,781 @@
+{
+  "pdf_id": "S0022309309007212",
+  "predictions": [
+    {
+      "sample_id": "GP",
+      "component": "Li3PO4",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "Li2SiO3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "Li3PO4",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "Li2SiO3",
+      "value": 0.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "LiAlSi3O8",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "LiAlSi3O8",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "LiAlSi3O8",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "LiAlSi3O8",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "LiAlSi3O8",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "LiAlSi3O8",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "LiAlSi3O8",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "LiAlSi3O8",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "LiAlSi3O8",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GN",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "LiAlSi3O8",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GNn",
+      "component": "CaSiO3",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GP",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "Li2Si2O5",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "wt"
+    },
+    {
+      "sample_id": "GPn",
+      "component": "LiAl(SiO3)2",
+      "value": 100.0,
+      "unit": "wt"
+    }
+  ],
+  "elapsed_seconds": 166.9,
+  "raw_preview": "```json\n{\"sample_id\": \"GP\", \"component\": \"Li3PO4\", \"value\": 0, \"unit\": \"wt\"}\n{\"sample_id\": \"GP\", \"component\": \"Li2SiO3\", \"value\": 0, \"unit\": \"wt\"}\n{\"sample_id\": \"GP\", \"component\": \"SiO2\", \"value\": 100, \"unit\": \"wt\"}\n{\"sample_id\": \"GPn\", \"component\": \"Li3PO4\", \"value\": 100, \"unit\": \"wt\"}\n{\"sample_id\": \"GPn\", \"component\": \"Li2SiO3\", \"value\": 0, \"unit\": \"wt\"}\n{\"sample_id\": \"GPn\", \"component\": \"SiO2\", \"value\": 100, \"unit\": \"wt\"}\n{\"sample_id\": \"GN\", \"component\": \"LiAlSi3O8\", \"value\": 100, \"unit\": \"wt"
+}

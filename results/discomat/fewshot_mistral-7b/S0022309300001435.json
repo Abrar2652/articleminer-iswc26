@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309300001435",
+  "predictions": [],
+  "elapsed_seconds": 12.3,
+  "raw_preview": "{\"sample\\_id\": \"S0:30Li2O\\_0:70x Te O2\\_1 \u00ff x Si O2\", \"component\": \"Li2O\", \"value\": x, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0:30Li2O\\_0:70x Te O2\\_1 \u00ff x Si O2\", \"component\": \"Te O2\", \"value\": x, \"unit\": \"mol\"}\n{\"sample\\_id\": \"S0:30Li2O\\_0:70x Te O2\\_1 \u00ff x Si O2\", \"component\": \"Si O2\", \"value\": (1 - x - 0.0466), \"unit\": \"mol\"}\n\nThese lines should be outputted for each value of x in the range 0 < x < 0.3 and x = 1.\n\nNote that the value of 0.0466 corresponds to the 46.6 wt% of Te O2 in the glass with x "
+}

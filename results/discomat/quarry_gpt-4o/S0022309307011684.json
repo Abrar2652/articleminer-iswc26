@@ -1,0 +1,103 @@
+{
+  "pii": "S0022309307011684",
+  "predictions": [
+    {
+      "sample_id": "Glass 1",
+      "component": "P2O5",
+      "value": 31.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 1",
+      "component": "Na2O",
+      "value": 31.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 1",
+      "component": "Al2O3",
+      "value": 31.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 1",
+      "component": "B2O3",
+      "value": 5.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 2",
+      "component": "P2O5",
+      "value": 33.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 2",
+      "component": "Na2O",
+      "value": 30.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 2",
+      "component": "Al2O3",
+      "value": 37.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 3",
+      "component": "P2O5",
+      "value": 34.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 3",
+      "component": "Na2O",
+      "value": 25.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 3",
+      "component": "B2O3",
+      "value": 8.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 4",
+      "component": "P2O5",
+      "value": 41.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 4",
+      "component": "Na2O",
+      "value": 38.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 4",
+      "component": "B2O3",
+      "value": 2.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 4",
+      "component": "ZnO",
+      "value": 4.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Glass 4",
+      "component": "TiO2",
+      "value": 15.0,
+      "unit": "mol"
+    }
+  ],
+  "num_gold_tuples": 16,
+  "elapsed_seconds": 63.5,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

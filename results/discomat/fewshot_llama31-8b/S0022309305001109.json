@@ -1,0 +1,199 @@
+{
+  "pdf_id": "S0022309305001109",
+  "predictions": [
+    {
+      "sample_id": "P0",
+      "component": "Na2O",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P0",
+      "component": "CaO",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P0",
+      "component": "SiO2",
+      "value": 100.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P0",
+      "component": "ZrO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P1",
+      "component": "Na2O",
+      "value": 66.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P1",
+      "component": "CaO",
+      "value": 33.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P1",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P1",
+      "component": "ZrO2",
+      "value": 4.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P2",
+      "component": "Na2O",
+      "value": 66.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P2",
+      "component": "CaO",
+      "value": 33.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P2",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P2",
+      "component": "ZrO2",
+      "value": 6.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P3",
+      "component": "Na2O",
+      "value": 66.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P3",
+      "component": "CaO",
+      "value": 33.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P3",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P3",
+      "component": "ZrO2",
+      "value": 7.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P4",
+      "component": "Na2O",
+      "value": 66.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P4",
+      "component": "CaO",
+      "value": 33.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P4",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P4",
+      "component": "ZrO2",
+      "value": 11.1,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P5",
+      "component": "Na2O",
+      "value": 66.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P5",
+      "component": "CaO",
+      "value": 33.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P5",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P5",
+      "component": "ZrO2",
+      "value": 12.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P6",
+      "component": "Na2O",
+      "value": 66.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P6",
+      "component": "CaO",
+      "value": 33.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P6",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P6",
+      "component": "ZrO2",
+      "value": 14.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P7",
+      "component": "Na2O",
+      "value": 66.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P7",
+      "component": "CaO",
+      "value": 33.7,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P7",
+      "component": "SiO2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "P7",
+      "component": "ZrO2",
+      "value": 17.5,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 48.8,
+  "raw_preview": "{\"sample_id\": \"P0\", \"component\": \"Na2O\", \"value\": 0, \"unit\": \"mol\"}\n{\"sample_id\": \"P0\", \"component\": \"CaO\", \"value\": 0, \"unit\": \"mol\"}\n{\"sample_id\": \"P0\", \"component\": \"SiO2\", \"value\": 100, \"unit\": \"mol\"}\n{\"sample_id\": \"P0\", \"component\": \"ZrO2\", \"value\": 0, \"unit\": \"mol\"}\n{\"sample_id\": \"P1\", \"component\": \"Na2O\", \"value\": 66.3, \"unit\": \"mol\"}\n{\"sample_id\": \"P1\", \"component\": \"CaO\", \"value\": 33.7, \"unit\": \"mol\"}\n{\"sample_id\": \"P1\", \"component\": \"SiO2\", \"value\": 0, \"unit\": \"mol\"}\n{\"sample_id\": \"P1\""
+}

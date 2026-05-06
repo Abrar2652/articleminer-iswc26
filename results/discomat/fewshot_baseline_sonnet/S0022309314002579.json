@@ -1,0 +1,103 @@
+{
+  "pdf_id": "S0022309314002579",
+  "predictions": [
+    {
+      "sample_id": "GF_0.0",
+      "component": "CaF2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_3.0",
+      "component": "CaF2",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_4.5",
+      "component": "CaF2",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_6.0",
+      "component": "CaF2",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_9.3",
+      "component": "CaF2",
+      "value": 9.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_13.6",
+      "component": "CaF2",
+      "value": 13.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_17.8",
+      "component": "CaF2",
+      "value": 17.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "GF_25.5",
+      "component": "CaF2",
+      "value": 25.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_0.0",
+      "component": "SrF2",
+      "value": 0.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_3.0",
+      "component": "SrF2",
+      "value": 3.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_4.5",
+      "component": "SrF2",
+      "value": 4.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_6.0",
+      "component": "SrF2",
+      "value": 6.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_9.3",
+      "component": "SrF2",
+      "value": 9.3,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_13.6",
+      "component": "SrF2",
+      "value": 13.6,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_17.8",
+      "component": "SrF2",
+      "value": 17.8,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "SF_25.5",
+      "component": "SrF2",
+      "value": 25.5,
+      "unit": "mol"
+    }
+  ],
+  "elapsed_seconds": 30.1,
+  "raw_preview": "I need to find Table 1 from the paper which contains the glass compositions. The paper references \"Table 1\" in the sampling section but the actual table content isn't fully shown in the text. However, I can extract composition information from the text.\n\nFrom the paper, I can identify the glass series:\n- CaF2-based glasses (GF series): SiO2\u2013P2O5\u2013CaO ternary system with varying CaF2 content (0, 3.0, 4.5, 6.0, 9.3, 13.6, 17.8, 25.5 mol%)\n- SrF2-based glasses (SF series): same base with varying SrF"
+}

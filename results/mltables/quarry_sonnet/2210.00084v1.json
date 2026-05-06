@@ -1,0 +1,2967 @@
+{
+  "arxiv_id": "2210.00084v1",
+  "predictions": [
+    {
+      "value": "48.5",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "3.3",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "49.3",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.9",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "36.6",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "3.7",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "37.4",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "25.7",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.3",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "26.9",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.0",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "20.0",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "21.7",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.9",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "28.9",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "4.0",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "29.5",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.7",
+      "type": "Result",
+      "model": "node2vec",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "46.2",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "4.8",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "47.4",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.6",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "35.0",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "4.4",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "36.3",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.2",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "25.6",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "0.8",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "26.7",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.0",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "21.2",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "22.6",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.7",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "30.3",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "2.1",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "31.5",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.4",
+      "type": "Result",
+      "model": "DeepWalk",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "50.8",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "8.1",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "53.5",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "1.5",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "30.8",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "5.4",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "33.5",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.1",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "76.8",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "0.9",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "79.2",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "69.4",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.4",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "72.6",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "27.3",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "30.2",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.6",
+      "type": "Result",
+      "model": "Meta-GNN",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "49.2",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "2.4",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "51.5",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.0",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "36.7",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "2.1",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "39.1",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "1.4",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "53.5",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.6",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "56.2",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.8",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "50.2",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "2.6",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "53.2",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.8",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "33.6",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "4.2",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "36.8",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "FS-GIN",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "49.8",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "3.8",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "52.3",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.2",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "38.0",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.6",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "40.9",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.9",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "57.2",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "2.1",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "60.3",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "52.0",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "2.1",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "54.4",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "34.7",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "0.5",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "37.3",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "1.0",
+      "type": "Result",
+      "model": "FS-SGC",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "51.6",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "0.6",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "55.0",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.1",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "37.6",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.7",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "39.9",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.6",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "61.2",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.2",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "64.5",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "1.3",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "54.9",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.7",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "58.3",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "36.4",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.4",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "38.8",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.0",
+      "type": "Result",
+      "model": "No-Finetune",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "52.1",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.3",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "54.3",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.4",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "37.0",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "2.2",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "40.0",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.6",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "63.5",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "0.8",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "65.7",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Cora",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.1",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Cora",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "57.8",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.8",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "59.0",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Citeseer",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.9",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "Citeseer",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "35.9",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "1.0",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "38.6",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "Finetune",
+      "dataset": "ogbn-arxiv",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "61.9",
+      "type": "Result",
+      "model": "KNN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "2.5",
+      "type": "Result",
+      "model": "KNN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "65.2",
+      "type": "Result",
+      "model": "KNN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "3.2",
+      "type": "Result",
+      "model": "KNN",
+      "dataset": "Tissue-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "43.3",
+      "type": "Result",
+      "model": "KNN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "3.4",
+      "type": "Result",
+      "model": "KNN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (3-shot)"
+    },
+    {
+      "value": "46.2",
+      "type": "Result",
+      "model": "KNN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "1.9",
+      "type": "Result",
+      "model": "KNN",
+      "dataset": "Fold-PPI",
+      "metric": "accuracy std",
+      "task": "graph few-shot learning (5-shot)"
+    },
+    {
+      "value": "385.15",
+      "type": "Result",
+      "model": "G-Meta (GNN-1)",
+      "dataset": "ogbn-arxiv",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "788.30",
+      "type": "Result",
+      "model": "G-Meta (GNN-1)",
+      "dataset": "Tissue-PPI",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "383.39",
+      "type": "Result",
+      "model": "G-Meta (GNN-2)",
+      "dataset": "ogbn-arxiv",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "789.78",
+      "type": "Result",
+      "model": "G-Meta (GNN-2)",
+      "dataset": "Tissue-PPI",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "374.42",
+      "type": "Result",
+      "model": "G-Meta (FC)",
+      "dataset": "ogbn-arxiv",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "753.85",
+      "type": "Result",
+      "model": "G-Meta (FC)",
+      "dataset": "Tissue-PPI",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "305.29",
+      "type": "Result",
+      "model": "CGFL-I (GNN-1)",
+      "dataset": "ogbn-arxiv",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "663.38",
+      "type": "Result",
+      "model": "CGFL-I (GNN-1)",
+      "dataset": "Tissue-PPI",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "300.29",
+      "type": "Result",
+      "model": "CGFL-I (GNN-2)",
+      "dataset": "ogbn-arxiv",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "650.59",
+      "type": "Result",
+      "model": "CGFL-I (GNN-2)",
+      "dataset": "Tissue-PPI",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "290.99",
+      "type": "Result",
+      "model": "CGFL-I (FC)",
+      "dataset": "ogbn-arxiv",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "612.98",
+      "type": "Result",
+      "model": "CGFL-I (FC)",
+      "dataset": "Tissue-PPI",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "276.30",
+      "type": "Result",
+      "model": "CGFL-T (GNN-1)",
+      "dataset": "ogbn-arxiv",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "533.86",
+      "type": "Result",
+      "model": "CGFL-T (GNN-1)",
+      "dataset": "Tissue-PPI",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "267.33",
+      "type": "Result",
+      "model": "CGFL-T (GNN-2)",
+      "dataset": "ogbn-arxiv",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "525.42",
+      "type": "Result",
+      "model": "CGFL-T (GNN-2)",
+      "dataset": "Tissue-PPI",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "264.23",
+      "type": "Result",
+      "model": "CGFL-T (FC)",
+      "dataset": "ogbn-arxiv",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "503.86",
+      "type": "Result",
+      "model": "CGFL-T (FC)",
+      "dataset": "Tissue-PPI",
+      "metric": "information loss",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "65.27",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Letter-High",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "7.67",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "68.39",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Letter-High",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.69",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "51.25",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Triangles",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.02",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Triangles",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "53.26",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Triangles",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "2.95",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Triangles",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "40.26",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.17",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "42.57",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.69",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "55.78",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Enzymes",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.72",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "58.47",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Enzymes",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.84",
+      "type": "Result",
+      "model": "WL",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "33.76",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Letter-High",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "6.94",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "37.59",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Letter-High",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.60",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "40.17",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Triangles",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.18",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Triangles",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "43.76",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Triangles",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.09",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Triangles",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "33.76",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "6.99",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "37.59",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.60",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "53.17",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Enzymes",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.92",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "56.03",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Enzymes",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.78",
+      "type": "Result",
+      "model": "Graphlet",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "40.60",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Letter-High",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.91",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "42.20",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Letter-High",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "2.87",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "39.36",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Triangles",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.85",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Triangles",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "42.58",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Triangles",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.11",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Triangles",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "30.24",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "2.34",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "33.44",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "2.04",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "43.75",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Enzymes",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "1.85",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "45.58",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Enzymes",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "2.11",
+      "type": "Result",
+      "model": "AWE",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "66.12",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Letter-High",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.21",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "68.17",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Letter-High",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.26",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "48.38",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Triangles",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.85",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Triangles",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "50.16",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Triangles",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.15",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Triangles",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "27.85",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.21",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "29.97",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.17",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "55.88",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Enzymes",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.86",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "58.22",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Enzymes",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.30",
+      "type": "Result",
+      "model": "Graph2Vec",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "58.69",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Letter-High",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "6.39",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "61.59",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Letter-High",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.21",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "64.17",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Triangles",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.87",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Triangles",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "67.12",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Triangles",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.29",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Triangles",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "35.24",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.69",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "37.43",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.94",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "45.64",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Enzymes",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.56",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "49.64",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Enzymes",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.23",
+      "type": "Result",
+      "model": "Diffpool",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "56.60",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "7.86",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "60.67",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.24",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "65.40",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Triangles",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "6.13",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Triangles",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "68.37",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Triangles",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.67",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Triangles",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "36.58",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.28",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "39.16",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.73",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "52.67",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.51",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "55.31",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.23",
+      "type": "Result",
+      "model": "CapsGNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "65.83",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Letter-High",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "7.17",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "69.16",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Letter-High",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.14",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "63.80",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Triangles",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.61",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Triangles",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "67.30",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Triangles",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.35",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Triangles",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "40.36",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.69",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "43.70",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.98",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "55.73",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Enzymes",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.80",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "58.83",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Enzymes",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.32",
+      "type": "Result",
+      "model": "GIN",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "63.52",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "7.27",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "65.66",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "8.69",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "58.34",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Triangles",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.91",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Triangles",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "61.55",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Triangles",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.19",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Triangles",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "41.31",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "2.84",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "43.58",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "2.80",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "57.24",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "7.06",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "59.34",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.24",
+      "type": "Result",
+      "model": "GIN-KNN",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "68.69",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Letter-High",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "6.50",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "72.80",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Letter-High",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.12",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "69.37",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Triangles",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.92",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Triangles",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "73.11",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Triangles",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.94",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Triangles",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "40.77",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.32",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "44.28",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.86",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "54.34",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Enzymes",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.64",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "58.16",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Enzymes",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.39",
+      "type": "Result",
+      "model": "GSM-GCN",
+      "dataset": "Enzymes",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "69.91",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Letter-High",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "5.90",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "73.28",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Letter-High",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.46",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Letter-High",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "71.40",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Triangles",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.34",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Triangles",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "75.60",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Triangles",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.67",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Triangles",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "41.59",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "4.12",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (5-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "45.67",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "3.68",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Reddit-12K",
+      "metric": "accuracy std (10-shot)",
+      "task": "graph few-shot learning"
+    },
+    {
+      "value": "1286.67",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Letter-High",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "1520.94",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Triangles",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "1250.54",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Letter-High",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "1487.42",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Triangles",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "1105.96",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Letter-High",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    },
+    {
+      "value": "1364.11",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Triangles",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    },
+    {
+      "value": "932.23",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Letter-High",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "1276.77",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Triangles",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "920.58",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Letter-High",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "1219.91",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Triangles",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "892.03",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Letter-High",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "FC-3"
+    },
+    {
+      "value": "1107.56",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Triangles",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "FC-3"
+    },
+    {
+      "value": "792.65",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Letter-High",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "923.35",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Triangles",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "780.59",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Letter-High",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "894.09",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Triangles",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "765.73",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Letter-High",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    },
+    {
+      "value": "885.35",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Triangles",
+      "metric": "information loss",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    },
+    {
+      "value": "5455.46",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "2455.54",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "5024.15",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "2243.25",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "4937.99",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    },
+    {
+      "value": "2125.91",
+      "type": "Result",
+      "model": "AS-MAML",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    },
+    {
+      "value": "5401.30",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "2273.80",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "5183.87",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "2128.04",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "4936.76",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    },
+    {
+      "value": "1958.18",
+      "type": "Result",
+      "model": "GSM-GAT",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    },
+    {
+      "value": "5323.04",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "1864.98",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "5098.54",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "1788.97",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "4802.03",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    },
+    {
+      "value": "1759.87",
+      "type": "Result",
+      "model": "CGFL-I",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    },
+    {
+      "value": "4823.91",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "1787.98",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-1"
+    },
+    {
+      "value": "4546.23",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "1698.35",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "GNN-2"
+    },
+    {
+      "value": "4329.39",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Reddit-12K",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    },
+    {
+      "value": "1585.33",
+      "type": "Result",
+      "model": "CGFL-T",
+      "dataset": "Enzymes",
+      "metric": "Discarded Information",
+      "task": "graph few-shot learning",
+      "layer": "FC"
+    }
+  ],
+  "num_gold_annotations": 195,
+  "elapsed_seconds": 341.8,
+  "backends": [
+    "docling",
+    "marker",
+    "mineru",
+    "pdfplumber"
+  ]
+}

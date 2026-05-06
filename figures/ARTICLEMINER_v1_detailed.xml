@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="8i6dERgremgJgHs6iY1l">
+    <mxGraphModel dx="1333" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2200" pageHeight="2400" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="30" width="2450" height="2560" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;1. INPUT&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=32;fontStyle=1;fillColor=default;glass=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="2080" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Raw PDF paper&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;text + tables + figures&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="159" y="110" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Supplementary materials&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;.xlsx / .csv / .docx&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e0f2fe;strokeColor=#0284c7;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="660" y="110" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;GeoScholar-28 benchmark&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;28 papers &amp;middot; 11,845+ samples (52-2,727/paper)&lt;br&gt;210-col CMiO-MIN GT &amp;middot; USGS-curated&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fef9c3;strokeColor=#ca8a04;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="110" width="820" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;2. PARSE &amp;amp; PROFILE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=32;fontStyle=1;fillColor=default;glass=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="2080" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Stage 0 — Paper-intelligence Blueprint&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;LLM-as-skim. Outputs: elements measured &amp;middot; expected sample count &amp;middot; minerals analysed &amp;middot; analytical methods &amp;middot; instrument &amp;middot; lab &amp;middot; standards &amp;middot; conditions. Injected as positive constraint into every downstream prompt.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="100" y="330" width="1000" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Stage 2a — Deterministic XLSX/CSV parser (Layer 0)&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Ontology-driven header detection &amp;middot; BDL / negative-LOD canonicaliser &amp;middot; tab-name &amp;rarr; mineral inference &amp;middot; null-token mapping. &lt;b&gt;Layer 0 of the cascade&lt;/b&gt;: pipeline exits here when supp covers all expected samples.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="330" width="980" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;3. EXTRACTION CASCADE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=32;fontStyle=1;glass=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="60" y="543" width="2080" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="40" y="603" width="1020" height="677" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Layer 1 — DIRECT (no LLM)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=26;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="613" width="980" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;5-backend table extraction &amp;rArr; ~85% per-paper oracle recall&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="60" y="653" width="980" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Docling&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;complex layouts&lt;/font&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#475569;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="80" y="693" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Marker&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;image-rich, OCR fallback&lt;/font&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#475569;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="400" y="693" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;MinerU&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;equations, merged headers&lt;/font&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#475569;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="720" y="693" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Camelot&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;bordered/lattice tables&lt;/font&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#475569;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="240" y="793" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;pdfplumber&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;simple text grids, fast&lt;/font&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#475569;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="560" y="793" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Stage 3 — Domain-key fingerprint dedup&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Keys: (sample_name, analytical_method) &amp;middot; Unicode-normalised &amp;middot; unit-stripped &amp;middot; case-folded &amp;middot; LLM-judge tiebreaker. Drops ~62% of raw rows.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#f59e0b;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="940" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;n_rows &amp;ge; Doc threshold?&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fef9c3;strokeColor=#ca8a04;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1090" width="600" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;If YES &amp;rarr; skip Layer 2, route directly to LLM extraction.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1235.5" width="940" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fce7f3;strokeColor=#db2777;dashed=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="603" width="1020" height="677" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Layer 2 — AGENTIC fallback&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=26;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="613" width="980" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Cost-stratified cascade: cheapest extractor first; escalate only on failure.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="653" width="980" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Stage 2b-1.5 — Agentic diagnostic LLM&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Emits &lt;b&gt;STRUCTURAL hints only&lt;/b&gt;, never values: header_row &amp;middot; transposed? &amp;middot; sample_id_col &amp;middot; units_row.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#db2777;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="690" width="740" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;ParsingHints&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fef9c3;strokeColor=#ca8a04;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1965" y="713" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Stage 2b-2 — Per-table LLM extractor&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Blueprint-constrained search &amp;middot; ontology variable taxonomy &amp;middot; KB plausibility ranges &amp;middot; CoT + JSON output.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#db2777;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="850" width="980" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Stage 2b-3 — Vision-LLM page extraction&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Data-dense pages only &amp;middot; landscape / rotated detection &amp;middot; multi-page batching &amp;middot; truncated-JSON recovery on token-limit overflow.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#db2777;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="960" width="980" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Stage 2b-4 — Text-only fallback&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Data-dense pages or full PDF body &amp;middot; last-resort LLM scan for inline tabular data.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#db2777;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="1090" width="980" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Each rung gated by &lt;b style=&quot;&quot;&gt;Improved? / Tables found? / Rows extracted? / ≥ 50% expected?&lt;/b&gt; checks.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;If under threshold, paper marked &lt;b style=&quot;&quot;&gt;PARTIAL&lt;/b&gt; in telemetry; pipeline still emits whatever was extracted.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="1222" width="980" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Stage 2c — Merge supp + cascade rows&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;supp wins on numerical values · PDF rescues missing samples · provenance preserved per row.&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;fillColor=#ede9fe;strokeColor=#7c3aed;fontSize=22;strokeWidth=2;size=0.0625;" vertex="1" parent="1">
+          <mxGeometry x="539" y="1310" width="1120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;4. LLM EXTRACTION  +  VERIFICATION  +  AGENTIC SELF-CORRECTION&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=32;fontStyle=1;fillColor=default;glass=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1460" width="2080" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Stage 1 — LLM Metadata Extractor&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Paper-level fields: deposit &amp;middot; mineral &amp;middot; method &amp;middot; archive &amp;middot; dating. Validated against the USGS picklist (15 authoritative fields). &lt;b&gt;Tool-use schema&lt;/b&gt; for guaranteed JSON &amp;middot; exponential-backoff API retry.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1531" width="620" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Stage 4 — Value verification spot-checker&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Samples random rows &amp;middot; cross-checks numbers against PDF text &amp;middot; flags hallucination &amp;middot; numeric range &amp;middot; unit sanity &amp;middot; ontology-key validation.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dbeafe;strokeColor=#2563eb;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1531" width="580" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 26px;&quot;&gt;Quality gate&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 26px;&quot;&gt;(agentic self-correction)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;PASS &lt;/b&gt;→ downstream&lt;br&gt;&lt;b&gt;FAIL &lt;/b&gt;→ rescue zero-prediction failures&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 15px;&quot;&gt;via&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 15px;&quot;&gt;structural-hint retry&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fef9c3;strokeColor=#ca8a04;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1496" width="630" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;5. TWO-PASS DEPOSIT CLASSIFIER (geochem-only)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=32;fontStyle=1;fillColor=default;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1749" width="2080" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Pass 1 — DepositEvidence extractor&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;host rocks &amp;middot; ore minerals &amp;middot; alteration &amp;middot; tectonic setting &amp;middot; metal associations &amp;middot; ore textures &amp;middot; morphology &amp;middot; USGS model indicators &amp;middot; author classification.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1809" width="940" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Pass 2 — 189-way CMMI scoring (CoT)&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Score all 189 CMMI deposit types against extracted evidence &amp;middot; chain-of-thought reasoning &amp;middot; emit top-5 with confidence + justification. Verifiable evidence chain beats single-pass.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1809" width="940" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;6. POST-PROCESS  +  SCHEMA VALIDATION&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=32;fontStyle=1;glass=1;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1979" width="2080" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Stage 5 — USGS post-processing&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;BDL = -99999 sentinel &amp;middot; negative-LOD encoding &amp;middot; wt% &amp;rarr; ppm (&amp;times;10000) &amp;middot; mineral splitting &amp;middot; 3-tier sample ID population (Hofstra 2021).&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2068" width="700" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Stage 7 — Self-validator&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;summary-row removal (means / medians) · reference-sample exclusion (NIST 610) · cross-paper citation filter · unit / magnitude sanity.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2068" width="700" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Schema-compliance enforcement&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;210 columns, correct types &amp;middot; USGS Picklist conformance &amp;middot; per-element plausibility ranges &amp;middot; reject rows violating ontology-typed constraints.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="2068" width="600" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;7. KG OUTPUTS&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=32;fontStyle=1;fillColor=default;glass=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="2260" width="1100" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;GeochemGraph builder&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Nodes:&lt;/b&gt; {Deposit, Sample, Mineral, Element, Method}&lt;br&gt;&lt;b&gt;Edges:&lt;/b&gt; {has_sample, has_mineral, measured_in, &amp;hellip;}&lt;br&gt;Statistics + provenance per edge.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde68a;strokeColor=#b45309;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="2352" width="410" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;JSON-LD triples&lt;/b&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;@context: critical-maas.org/cmio&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#ffffff;strokeColor=#475569;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="425" y="2336" width="240" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;210-column XLSX&lt;/b&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;USGS-curator format&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#ffffff;strokeColor=#475569;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="425" y="2425.5" width="240" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="47" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Neo4j CSV / GraphML&lt;/b&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;graph-native ingestion&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#ffffff;strokeColor=#475569;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="425" y="2514" width="240" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;CMiO-MIN&lt;/b&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;@critical-maas.org&lt;br&gt;Hofstra 2021&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#64748b;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="725" y="2326" width="320" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;IMA mineral registry&lt;/b&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;rruff.info/ima · 5,800 species&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#64748b;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="725" y="2411.75" width="320" height="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;MinMod KG&lt;/b&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;complementary · deposit-level&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#64748b;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="725" y="2503" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;fillColor=#f5f3ff;strokeColor=#a855f7;strokeWidth=4;fontSize=22;dashed=0;size=0.09;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="2333" width="1200" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Classification taxonomy&lt;/b&gt;&lt;br&gt;USGS CMiO-MIN / Hofstra 2021 &amp;middot; 189 deposit types &amp;middot; environment &amp;times; group &amp;times; deposit_type &amp;middot; MinMod-aligned&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a855f7;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="2352" width="470" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Variable taxonomy&lt;/b&gt;&lt;br&gt;73 elements + units + plausibility ranges &amp;middot; 4 bioactivity types (ChemTables) &amp;middot; oxide vocab (DiSCoMaT) &amp;middot; entry-type tags (MLTables)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a855f7;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="2352" width="480" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Method standardisation&lt;/b&gt;&lt;br&gt;50+ vernacular &amp;rarr; 12 canonical methods &amp;middot; LA-ICPMS, EPMA, SIMS, ICP-OES, XRF, XANES &amp;middot; USGS Picklist (15 fields)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a855f7;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="2469" width="470" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="55" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Constraint layer (procedural)&lt;/b&gt;&lt;br&gt;BDL = -99999 &amp;middot; negative-LOD encoding &amp;middot; wt% &amp;harr; ppm conversion &amp;middot; composition-sum tolerance &amp;middot; dose-response monotonicity (ChemTables)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a855f7;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="2469" width="480" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="56" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Swap ontology &amp;rArr;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=26;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="2681" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="57" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Geochemistry&lt;/b&gt; &amp;middot; 220 entries &amp;middot; CMiO-MIN &amp;middot; BDL = -99999 &amp;middot; 3-tier sample IDs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde68a;strokeColor=#b45309;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="285" y="2660" width="490" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="58" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;ChemTables&lt;/b&gt; &amp;middot; 80 entries &amp;middot; IC&amp;#8325;&amp;#8320; / EC&amp;#8325;&amp;#8320; / MIC &amp;middot; &amp;mu;M units &amp;middot; kinase / cell-line targets &amp;middot; no deposit classifier &amp;middot; no supp&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde68a;strokeColor=#b45309;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="795" y="2660" width="490" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="59" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;DiSCoMaT&lt;/b&gt; &amp;middot; 167 entries &amp;middot; mol% / wt% normalisation &amp;middot; oxide vocabulary &amp;middot; composition-sum tolerance &amp;middot; no classifier&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde68a;strokeColor=#b45309;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="2660" width="490" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="60" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;MLTables&lt;/b&gt; &amp;middot; 60 entries &amp;middot; entry-type tags &amp;middot; metric ranges &amp;middot; model &amp;harr; dataset chain &amp;middot; schema-tagged tuples&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fde68a;strokeColor=#b45309;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1815" y="2660" width="490" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="61" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Swapping the ontology module is the &lt;b&gt;only&lt;/b&gt; change required to retarget the framework; rest of the pipeline is reused verbatim. &lt;b&gt;Cross-LLM invariance&lt;/b&gt; on GeoScholar-28 (4-tier overall): Sonnet 4.6 = 76.0 &amp;middot; Opus 4.6 = 76.3 &amp;middot; Haiku 4.5 = 75.5 &amp;middot; GPT-4o = 75.9 &amp;middot; Gemini 2.5 Flash = 75.7.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef9c3;strokeColor=#ca8a04;fontSize=22;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="2780" width="2390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62" style="endArrow=classic;html=1;rounded=0;strokeColor=#475569;strokeWidth=4;exitX=0.5;exitY=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" source="4" target="8" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="63" style="endArrow=classic;html=1;rounded=0;strokeColor=#475569;strokeWidth=4;exitX=0.5;exitY=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" source="5" target="8" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="64" style="endArrow=classic;html=1;rounded=0;strokeColor=#475569;strokeWidth=4;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" source="6" target="9" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="65" value="Blueprint constraint" style="endArrow=classic;html=1;rounded=0;strokeColor=#475569;strokeWidth=4;exitX=0.25;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=20;fontStyle=2;" edge="1" source="8" target="11" parent="1">
+          <mxGeometry x="0.0585" relative="1" as="geometry">
+            <mxPoint x="650" y="513" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="560" />
+              <mxPoint x="550" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="66" value="supp seed rows" style="endArrow=classic;html=1;rounded=0;strokeColor=#475569;strokeWidth=4;exitX=0.25;exitY=1;entryX=0.65;entryY=0.007;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;exitDx=0;exitDy=0;fontSize=20;fontStyle=2;" edge="1" source="9" target="11" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1426" y="513" as="sourcePoint" />
+            <mxPoint x="835" y="613" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1395" y="530" />
+              <mxPoint x="703" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="67" style="endArrow=classic;html=1;rounded=0;strokeColor=#f59e0b;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.2;entryY=0;edgeStyle=orthogonalEdgeStyle;endFill=1;" edge="1" source="14" target="19" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="890" />
+              <mxPoint x="268" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="68" style="endArrow=classic;html=1;rounded=0;strokeColor=#f59e0b;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;" edge="1" source="15" target="19" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69" style="endArrow=classic;html=1;rounded=0;strokeColor=#f59e0b;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.6;entryY=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="16" target="19" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="890" />
+              <mxPoint x="644" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70" style="endArrow=classic;html=1;rounded=0;strokeColor=#f59e0b;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.329;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" source="17" target="19" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71" style="endArrow=classic;html=1;rounded=0;strokeColor=#f59e0b;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.671;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endFill=1;" edge="1" source="18" target="19" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72" value="canonical rows" style="endArrow=classic;html=1;rounded=0;strokeColor=#f59e0b;strokeWidth=4;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=20;fontStyle=2;" edge="1" source="19" target="20" parent="1">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="73" value="NO &amp;rarr; escalate" style="endArrow=classic;html=1;rounded=0;strokeColor=#db2777;strokeWidth=4;fontSize=22;fontStyle=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;edgeStyle=orthogonalEdgeStyle;" edge="1" source="20" target="25" parent="1">
+          <mxGeometry x="-0.1579" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="1130" />
+              <mxPoint x="1130" y="735" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="74" value="YES" style="endArrow=classic;html=1;rounded=1;strokeColor=#16a34a;strokeWidth=4;fontSize=22;fontStyle=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" source="20" target="31" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="1193" />
+              <mxPoint x="1100" y="1193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="75" value="if not improved" style="endArrow=classic;html=1;rounded=0;strokeColor=#db2777;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=20;fontStyle=2;" edge="1" source="25" target="27" parent="1">
+          <mxGeometry x="0.613" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1590" y="800" />
+              <mxPoint x="1695" y="800" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76" value="if no tables found" style="endArrow=classic;html=1;rounded=0;strokeColor=#db2777;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=20;fontStyle=2;" edge="1" source="27" target="28" parent="1">
+          <mxGeometry x="-0.1321" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77" value="if no rows extracted" style="endArrow=classic;html=1;rounded=0;strokeColor=#db2777;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=20;fontStyle=2;" edge="1" source="28" target="29" parent="1">
+          <mxGeometry x="-0.1321" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="78" value="merge whatever is available" style="endArrow=classic;html=1;rounded=1;strokeColor=#7c3aed;strokeWidth=4;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;fontSize=20;fontStyle=2;" edge="1" source="29" target="31" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1630" y="1193" />
+              <mxPoint x="1100" y="1193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79" value="metadata path" style="endArrow=classic;html=1;rounded=0;strokeColor=#475569;strokeWidth=2;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;fontStyle=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="31" target="33" parent="1">
+          <mxGeometry x="0.4195" relative="1" as="geometry">
+            <mxPoint x="380" y="1333" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="340" y="1350" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80" value="row tuples" style="endArrow=classic;html=1;rounded=0;strokeColor=#475569;strokeWidth=2;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=20;fontStyle=2;" edge="1" source="31" target="34" parent="1">
+          <mxGeometry x="-0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="81" style="endArrow=classic;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=4;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" source="33" target="34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="82" style="endArrow=classic;html=1;rounded=0;strokeColor=#2563eb;strokeWidth=4;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" source="34" target="35" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="83" value="&lt;i style=&quot;&quot;&gt;PASS&lt;/i&gt;" style="endArrow=classic;html=1;rounded=1;strokeColor=#16a34a;strokeWidth=4;fontSize=22;fontStyle=1;exitX=0;exitY=0.5;entryX=0.25;entryY=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" source="35" target="37" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="1730" />
+              <mxPoint x="265" y="1730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="84" value="&lt;i style=&quot;&quot;&gt;FAIL — retry with ParsingHints&lt;/i&gt;" style="endArrow=classic;html=1;rounded=1;strokeColor=#ea580c;strokeWidth=4;dashed=1;fontSize=22;fontStyle=1;exitX=1;exitY=0.5;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" source="35" target="9" parent="1">
+          <mxGeometry x="-0.5203" y="155" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2315" y="1611" />
+              <mxPoint x="2315" y="415" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="2225" y="1636" as="sourcePoint" />
+            <mxPoint x="2185" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85" value="evidence &amp;rarr; score" style="endArrow=classic;html=1;rounded=0;strokeColor=#7c3aed;strokeWidth=4;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontSize=20;fontStyle=2;" edge="1" source="37" target="38" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="86" value="classified deposit" style="endArrow=classic;html=1;rounded=0;strokeColor=#475569;strokeWidth=4;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;fontStyle=2;" edge="1" source="38" target="41" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1700" y="2031" />
+              <mxPoint x="1150" y="2031" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87" style="endArrow=classic;html=1;rounded=0;strokeColor=#475569;strokeWidth=4;entryX=0.5;entryY=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" source="37" target="40" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="1951" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="88" style="endArrow=classic;html=1;rounded=0;strokeColor=#0d9488;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" source="40" target="41" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="89" style="endArrow=classic;html=1;rounded=0;strokeColor=#0d9488;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" source="41" target="42" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="90" value="validated rows" style="endArrow=classic;html=1;rounded=1;strokeColor=#475569;strokeWidth=4;exitX=0.25;exitY=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=20;fontStyle=2;" edge="1" source="42" target="44" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1720" y="2240" />
+              <mxPoint x="180" y="2240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="91" style="endArrow=classic;html=1;rounded=0;strokeColor=#b45309;strokeWidth=3;exitX=1;exitY=0.2;entryX=0;entryY=0.5;" edge="1" source="44" target="45" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92" style="endArrow=classic;html=1;rounded=0;strokeColor=#b45309;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" source="44" target="46" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="93" style="endArrow=classic;html=1;rounded=0;strokeColor=#b45309;strokeWidth=3;exitX=1;exitY=0.8;entryX=0;entryY=0.5;" edge="1" source="44" target="47" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94" style="endArrow=classic;html=1;rounded=0;strokeColor=#64748b;strokeWidth=2;dashed=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;exitDx=0;exitDy=0;" edge="1" source="45" target="48" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="95" style="endArrow=classic;html=1;rounded=0;strokeColor=#64748b;strokeWidth=2;dashed=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" source="46" target="49" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="96" style="endArrow=classic;html=1;rounded=0;strokeColor=#64748b;strokeWidth=2;dashed=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" source="47" target="50" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97" value="ontology constraint" style="endArrow=classic;html=1;rounded=1;strokeColor=#a855f7;strokeWidth=3;dashed=1;exitX=0;exitY=0.5;edgeStyle=orthogonalEdgeStyle;fontSize=20;fontStyle=2;fontColor=#7c3aed;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" source="51" target="8" parent="1">
+          <mxGeometry x="-0.0456" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="2467" />
+              <mxPoint x="1060" y="2620" />
+              <mxPoint x="-50" y="2620" />
+              <mxPoint x="-50" y="533" />
+              <mxPoint x="600" y="533" />
+            </Array>
+            <mxPoint x="600" y="510" as="targetPoint" />
+            <mxPoint x="1220" y="2385" as="sourcePoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="98" style="endArrow=classic;html=1;rounded=1;strokeColor=#a855f7;strokeWidth=3;dashed=1;exitX=1;exitY=0.5;entryX=0.5;entryY=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" source="51" target="9" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2350" y="2468" />
+              <mxPoint x="2350" y="563" />
+              <mxPoint x="1640" y="563" />
+            </Array>
+            <mxPoint x="1590" y="513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="99" style="endArrow=classic;html=1;rounded=1;strokeColor=#a855f7;strokeWidth=3;dashed=1;exitX=0;exitY=0.5;entryX=0.5;entryY=1;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" source="51" target="33" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="2467" />
+              <mxPoint x="1070" y="2630" />
+              <mxPoint x="-40" y="2630" />
+              <mxPoint x="-40" y="1720" />
+              <mxPoint x="340" y="1720" />
+            </Array>
+            <mxPoint x="1220" y="2461" as="sourcePoint" />
+            <mxPoint x="430" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="100" style="endArrow=classic;html=1;rounded=1;strokeColor=#a855f7;strokeWidth=3;dashed=1;entryX=1;entryY=0.75;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="51" target="34" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2330" y="2468" />
+              <mxPoint x="2330" y="1740" />
+              <mxPoint x="1580" y="1740" />
+              <mxPoint x="1580" y="1651" />
+            </Array>
+            <mxPoint x="2290" y="2310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="101" style="endArrow=classic;html=1;rounded=1;strokeColor=#a855f7;strokeWidth=3;dashed=1;curved=1;exitX=0.5;exitY=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" source="51" target="38" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="2230" />
+              <mxPoint x="1510" y="2080" />
+              <mxPoint x="1600" y="1980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="102" style="endArrow=classic;html=1;rounded=1;strokeColor=#a855f7;strokeWidth=3;dashed=1;curved=1;exitX=1;exitY=0.5;entryX=0.5;entryY=1;exitDx=0;exitDy=0;" edge="1" source="53" target="42" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2260" y="2340" />
+              <mxPoint x="2200" y="2240" />
+              <mxPoint x="1980" y="2220" />
+              <mxPoint x="1850" y="2270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="103" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Alternative path — Graph-native pipeline&lt;/b&gt; (&lt;tt&gt;--mode graph-native&lt;/tt&gt;): three-pass LLM (&lt;b&gt;Entities &amp;rarr; Structure &amp;rarr; Values&lt;/b&gt;) builds the KG directly from PDF body, bypassing table extraction; flattened to the same 210-col schema for evaluation. Runs alongside the table-native path for cross-validation.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fdf4ff;strokeColor=#a855f7;dashed=1;strokeWidth=2;fontSize=22;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="2860" width="2390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="104" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;Legend:&lt;/b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= data flow &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; = ontology injection &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; = agentic-correction retry loop &amp;nbsp;|&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;= external KG link&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=22;fontStyle=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2940" width="2120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="105" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;ONTOLOGY MODULE — domain-specific, plug-in&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;fontSize=32;fontStyle=1;glass=1;fillColor=default;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="2260" width="980" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="106" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none;&quot;&gt;&lt;i style=&quot;&quot;&gt;n_rows ≥ expected · expected vars present&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;i style=&quot;&quot;&gt;· sample IDs valid · no all-null cols&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1608.75" y="1590" width="492.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="107" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="2940" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="108" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="107">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="109" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="14.289999999999964" as="sourcePoint" />
+            <mxPoint x="80" y="14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="110" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="770" y="2940" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="111" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="110">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="112" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12.5" y="14.759999999999764" as="sourcePoint" />
+            <mxPoint x="77.5" y="15.179545454545405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="113" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1100" y="2940" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="114" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="113">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="115" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#FF8000;" edge="1" parent="113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12.5" y="14.759999999999764" as="sourcePoint" />
+            <mxPoint x="77.5" y="15.179545454545405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="116" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1530" y="2940" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="117" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="116">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="118" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#666666;" edge="1" parent="116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12.5" y="14.759999999999764" as="sourcePoint" />
+            <mxPoint x="77.5" y="15.179545454545405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

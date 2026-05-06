@@ -1,0 +1,439 @@
+{
+  "pdf_id": "S0022309300003343",
+  "predictions": [
+    {
+      "sample_id": "YSi17G16",
+      "component": "Y2O3",
+      "value": 28.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "SiO2",
+      "value": 56.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "Al2O3",
+      "value": 16.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "N2O",
+      "value": 83.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "Y2O3",
+      "value": 17.0,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "SiO2",
+      "value": 12.3,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "Al2O3",
+      "value": 18.5,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "N2O",
+      "value": 7.0,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "Y2O3",
+      "value": 7.5,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "YSi17G16",
+      "component": "SiO2",
+      "value": 54.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "Y2O3",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "SiO2",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "N2O",
+      "value": 83.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "Y2O3",
+      "value": 17.0,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "SiO2",
+      "value": 15.1,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "Al2O3",
+      "value": 14.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "N2O",
+      "value": 8.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "Y2O3",
+      "value": 7.4,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1B phase",
+      "component": "SiO2",
+      "value": 54.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "Y2O3",
+      "value": 18.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "SiO2",
+      "value": 47.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "Al2O3",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "N2O",
+      "value": 80.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "Y2O3",
+      "value": 20.0,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "SiO2",
+      "value": 7.9,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "Al2O3",
+      "value": 15.4,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "N2O",
+      "value": 15.3,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "Y2O3",
+      "value": 8.8,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Y\u00b1Q phase",
+      "component": "SiO2",
+      "value": 52.6,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La La",
+      "component": "La2O3",
+      "value": 21.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La La",
+      "component": "SiO2",
+      "value": 57.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La La",
+      "component": "Al2O3",
+      "value": 21.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La La",
+      "component": "N2O",
+      "value": 87.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La La",
+      "component": "La2O3",
+      "value": 13.0,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La La",
+      "component": "SiO2",
+      "value": 18.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La La",
+      "component": "Al2O3",
+      "value": 9.35,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La La",
+      "component": "N2O",
+      "value": 5.6,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "La2O3",
+      "value": 21.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "SiO2",
+      "value": 57.2,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "Al2O3",
+      "value": 21.4,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "N2O",
+      "value": 87.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "La2O3",
+      "value": 13.0,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "SiO2",
+      "value": 18.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "Al2O3",
+      "value": 9.35,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "La\u00b1W phase",
+      "component": "N2O",
+      "value": 5.6,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Er Er",
+      "component": "Er2O3",
+      "value": 35.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er Er",
+      "component": "SiO2",
+      "value": 45.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er Er",
+      "component": "Al2O3",
+      "value": 20.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er Er",
+      "component": "N2O",
+      "value": 83.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Er Er",
+      "component": "Er2O3",
+      "value": 17.0,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Er Er",
+      "component": "SiO2",
+      "value": 15.1,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Er Er",
+      "component": "Al2O3",
+      "value": 14.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Er Er",
+      "component": "N2O",
+      "value": 8.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Er Er",
+      "component": "Er2O3",
+      "value": 7.4,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Er Er",
+      "component": "SiO2",
+      "value": 54.7,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu Eu",
+      "component": "Eu2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu Eu",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu Eu",
+      "component": "Al2O3",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu Eu",
+      "component": "N2O",
+      "value": 87.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu Eu",
+      "component": "Eu2O3",
+      "value": 12.5,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu Eu",
+      "component": "SiO2",
+      "value": 15.8,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu Eu",
+      "component": "Al2O3",
+      "value": 15.8,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu Eu",
+      "component": "N2O",
+      "value": 5.2,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "Eu2O3",
+      "value": 12.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "SiO2",
+      "value": 50.0,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "Al2O3",
+      "value": 37.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "N2O",
+      "value": 87.5,
+      "unit": "mol"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "Eu2O3",
+      "value": 12.5,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "SiO2",
+      "value": 7.9,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "Al2O3",
+      "value": 15.8,
+      "unit": "at%"
+    },
+    {
+      "sample_id": "Eu3Si6Al6O21N2",
+      "component": "N2O",
+      "value": 5.2,
+      "unit": "at%"
+    }
+  ],
+  "elapsed_seconds": 108.9,
+  "raw_preview": "Here are the extracted material-composition entries in JSON format:\n\n{\"sample_id\": \"YSi17G16\", \"component\": \"Y2O3\", \"value\": 28, \"unit\": \"mol\"}\n{\"sample_id\": \"YSi17G16\", \"component\": \"SiO2\", \"value\": 56, \"unit\": \"mol\"}\n{\"sample_id\": \"YSi17G16\", \"component\": \"Al2O3\", \"value\": 16, \"unit\": \"mol\"}\n{\"sample_id\": \"YSi17G16\", \"component\": \"N2O\", \"value\": 83, \"unit\": \"mol\"}\n{\"sample_id\": \"YSi17G16\", \"component\": \"Y2O3\", \"value\": 17, \"unit\": \"at%\"}\n{\"sample_id\": \"YSi17G16\", \"component\": \"SiO2\", \"value\": "
+}

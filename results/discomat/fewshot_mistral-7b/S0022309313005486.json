@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309313005486",
+  "predictions": [],
+  "elapsed_seconds": 18.7,
+  "raw_preview": "{\"sample\\_id\": \"Nb40\", \"component\": \"K2CO3\", \"value\": 23.0, \"unit\": \"mol\"}\n{\"sample\\_id\": \"Nb40\", \"component\": \"Nb2O5\", \"value\": 40.0, \"unit\": \"mol\"}\n{\"sample\\_id\": \"Nb40\", \"component\": \"NH4H2PO4\", \"value\": 37.0, \"unit\": \"mol\"}\n{\"sample\\_id\": \"Nb40_reduced\", \"component\": \"Nb2O5\", \"value\": 40.0, \"unit\": \"mol\"}\n{\"sample\\_id\": \"Nb40_reduced\", \"component\": \"O2\", \"value\": X, \"unit\": \"mol\"}\n{\"sample\\_id\": \"Nb40_oxidized\", \"component\": \"O2\", \"value\": Y, \"unit\": \"mol\"}\n{\"sample\\_id\": \"Nb40_oxidized\", \"c"
+}

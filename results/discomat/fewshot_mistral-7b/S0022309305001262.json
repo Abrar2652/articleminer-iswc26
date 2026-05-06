@@ -1,0 +1,6 @@
+{
+  "pdf_id": "S0022309305001262",
+  "predictions": [],
+  "elapsed_seconds": 19.7,
+  "raw_preview": "Based on the provided paper text, here are the material-composition entries for the glassmelts and alloys mentioned in the text, excluding the \"-\" values and with only the required JSON format:\n\n{\"sample\\_id\": \"7740\", \"component\": \"Ge2+,4+\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample\\_id\": \"Fe7740\", \"component\": \"Ge2+,4+\", \"value\": \"<value>\", \"unit\": \"mol\"}\n{\"sample\\_id\": \"7740\", \"component\": \"Sn2+,4+\", \"value\": 50.0, \"unit\": \"mol\"}\n{\"sample\\_id\": \"Fe7740\", \"component\": \"Sn2+,4+\", \"value\": \"<value>\""
+}

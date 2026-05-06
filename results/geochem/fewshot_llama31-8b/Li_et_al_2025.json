@@ -1,0 +1,80 @@
+{
+  "paper": "Li_et_al_2025",
+  "model": "llama31-8b",
+  "n_rows": 5,
+  "rows": [
+    {
+      "sample_id": "FCS",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cd": 14003,
+        "Ga": 5,
+        "Ge": 21,
+        "In": 0,
+        "Tl": 0,
+        "Mn": 0,
+        "Fe": 0
+      }
+    },
+    {
+      "sample_id": "OS",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cd": 5997,
+        "Ga": 1047,
+        "Ge": 166,
+        "In": 0,
+        "Tl": 0,
+        "Mn": 0,
+        "Fe": 0
+      }
+    },
+    {
+      "sample_id": "IS",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cd": 962,
+        "Ga": 3,
+        "Ge": 530,
+        "In": 0,
+        "Tl": 0,
+        "Mn": 0,
+        "Fe": 0
+      }
+    },
+    {
+      "sample_id": "BS",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cd": 2565,
+        "Ga": 15,
+        "Ge": 13,
+        "In": 0,
+        "Tl": 0,
+        "Mn": 0,
+        "Fe": 0
+      }
+    },
+    {
+      "sample_id": "CCS",
+      "mineral": "sphalerite",
+      "method": "LA-ICPMS",
+      "elements": {
+        "Cd": 5250,
+        "Ga": 33,
+        "Ge": 4,
+        "In": 0,
+        "Tl": 0,
+        "Mn": 0,
+        "Fe": 0
+      }
+    }
+  ],
+  "n_chunks": 4,
+  "raw_preview": "{\"sample_id\":\"FCS\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Cd\":14003,\"Ga\":5,\"Ge\":21,\"In\":0,\"Tl\":0,\"Mn\":0,\"Fe\":0}}\n{\"sample_id\":\"OS\",\"mineral\":\"sphalerite\",\"method\":\"LA-ICPMS\",\"elements\":{\"Cd\":5997,\"Ga\":1047,\"Ge\":166,\"In\":0,\"Tl\":0,\"Mn\":0,\"Fe\":0}}\n{\"sample_id\":\"IS\",\"mineral\":\"sphalerit",
+  "elapsed_seconds": 57.9
+}

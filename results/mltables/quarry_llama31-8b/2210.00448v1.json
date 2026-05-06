@@ -1,0 +1,259 @@
+{
+  "arxiv_id": "2210.00448v1",
+  "predictions": [
+    {
+      "value": "1800",
+      "type": "Data Stat.",
+      "attribute name": "number of samples"
+    },
+    {
+      "value": "76.3",
+      "type": "Result",
+      "metric": "Top-1 accuracy on ImageNet (%)",
+      "task": "image classification",
+      "model": "E cientNet B0"
+    },
+    {
+      "value": "75.2",
+      "type": "Result",
+      "metric": "Top-1 accuracy on ImageNet (%)",
+      "task": "image classification",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "70.6",
+      "type": "Result",
+      "metric": "Top-1 accuracy on ImageNet (%)",
+      "task": "image classification",
+      "model": "MobileNet V1"
+    },
+    {
+      "value": "74.9",
+      "type": "Result",
+      "metric": "Top-1 accuracy on ImageNet (%)",
+      "task": "image classification",
+      "model": "Shu eNet V2"
+    },
+    {
+      "value": "76.2",
+      "type": "Result",
+      "metric": "Top-1 accuracy on ImageNet (%)",
+      "task": "image classification",
+      "model": "Dense-169"
+    },
+    {
+      "value": "74.9",
+      "type": "Result",
+      "metric": "Top-1 accuracy on ImageNet (%)",
+      "task": "image classification",
+      "model": "ResNet50"
+    },
+    {
+      "value": "4.2",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total parameters (M)",
+      "model": "E cientNetB0"
+    },
+    {
+      "value": "15.8",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total keras(.h5) model size (MB)",
+      "model": "E cientNetB0"
+    },
+    {
+      "value": "99.44",
+      "type": "Result",
+      "model": "E cientNetB0",
+      "metric": "Training accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "96.32",
+      "type": "Result",
+      "model": "E cientNetB0",
+      "metric": "Top-1 Validation Accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "94.4",
+      "type": "Result",
+      "model": "E cientNetB0",
+      "metric": "Top-1 Accuracy on test set (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "3",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total parameters (M)",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "11.7",
+      "type": "Hyper-parameter/Architecture",
+      "parameter/architecture name": "Total keras(.h5) model size (MB)",
+      "model": "MobileNet V3 Large"
+    },
+    {
+      "value": "99.5",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Training accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "94.94",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Top-1 Validation Accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "95.52",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Top-1 Accuracy on test set (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "98.94",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Training accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "93.33",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Top-1 Validation Accuracy (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "93.56",
+      "type": "Result",
+      "model": "MobileNet V3 Small",
+      "metric": "Top-1 Accuracy on test set (%)",
+      "task": "image classification"
+    },
+    {
+      "value": "512",
+      "type": "Data Stat.",
+      "attribute name": "Base model input resolution (pixels)"
+    },
+    {
+      "value": "384",
+      "type": "Data Stat.",
+      "attribute name": "Base model input resolution (pixels)"
+    },
+    {
+      "value": "99.59",
+      "type": "Result",
+      "model": "E cientNet B0",
+      "metric": "Training accuracy (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "95.23",
+      "type": "Result",
+      "model": "E cientNet B0",
+      "metric": "Top-1 Accuracy on 5-class test set (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "94.79",
+      "type": "Result",
+      "model": "E cientNet B0",
+      "metric": "Per-class precision of 5-class test set (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "E cientNet B0",
+      "metric": "Top-1 Accuracy on new 7-class test set (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "95.97",
+      "type": "Result",
+      "model": "E cientNet B0",
+      "metric": "Per-class precision of 7-class test set (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "99.46",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Training accuracy (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "94.68",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Top-1 Accuracy on 5-class test set (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "94.53",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Per-class precision of 5-class test set (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "95.38",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Top-1 Accuracy on new 7-class test set (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "95.68",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Per-class precision of 7-class test set (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "224",
+      "type": "Data Stat.",
+      "attribute name": "Base model input resolution (pixels)"
+    },
+    {
+      "value": "95.79",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Top-1 Accuracy on 5-class test set (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "95.7",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Per-class precision of 5-class test set (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "95.98",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Top-1 Accuracy on new 7-class test set (%)",
+      "dataset": "Trash Net"
+    },
+    {
+      "value": "96.41",
+      "type": "Result",
+      "model": "MobileNet V3 Large",
+      "metric": "Per-class precision of 7-class test set (%)",
+      "dataset": "Trash Net"
+    }
+  ],
+  "num_gold_annotations": 49,
+  "elapsed_seconds": 101.7,
+  "backends": [
+    "docling",
+    "marker",
+    "pdfplumber"
+  ]
+}

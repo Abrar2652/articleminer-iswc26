@@ -1,0 +1,736 @@
+{
+  "pdf_id": "2210.00705v1",
+  "predictions": [
+    {
+      "value": "11.3",
+      "type": "Data Stat.",
+      "dataset": "Flickr8k",
+      "attribute name": "number of subword tokens in a utterance",
+      "metric": "average"
+    },
+    {
+      "value": "4.1",
+      "type": "Data Stat.",
+      "dataset": "Flickr8k",
+      "attribute name": "standard deviation of number of subword tokens in a utterance",
+      "metric": "standard deviation"
+    },
+    {
+      "value": "8",
+      "type": "Hyper-parameter/Architecture",
+      "model": "Speech CLIP",
+      "parameter/architecture name": "number of keywords",
+      "metric": "recommended"
+    },
+    {
+      "value": "0.755",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "345M"
+      }
+    },
+    {
+      "value": "0.762",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "1.3B"
+      }
+    },
+    {
+      "value": "0.787",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "5B"
+      }
+    },
+    {
+      "value": "0.379",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "345M"
+      }
+    },
+    {
+      "value": "0.448",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "1.3B"
+      }
+    },
+    {
+      "value": "0.467",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "5B"
+      }
+    },
+    {
+      "value": "0.907",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "FS - 10 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "345M"
+      }
+    },
+    {
+      "value": "0.789",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "FS - 10 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "1.3B"
+      }
+    },
+    {
+      "value": "0.942",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "FS - 10 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "5B"
+      }
+    },
+    {
+      "value": "0.793",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "FS - 10 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "345M"
+      }
+    },
+    {
+      "value": "0.720",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "FS - 10 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "1.3B"
+      }
+    },
+    {
+      "value": "0.939",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "FS - 10 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "5B"
+      }
+    },
+    {
+      "value": "0.907",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "FS - 50 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "345M"
+      }
+    },
+    {
+      "value": "0.789",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "FS - 50 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "1.3B"
+      }
+    },
+    {
+      "value": "0.942",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "FS - 50 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "5B"
+      }
+    },
+    {
+      "value": "0.793",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "FS - 50 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "345M"
+      }
+    },
+    {
+      "value": "0.720",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "FS - 50 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "1.3B"
+      }
+    },
+    {
+      "value": "0.939",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "FS - 50 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "5B"
+      }
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.81",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.74",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.79",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.77",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.82",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.767",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.773",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "10",
+      "type": "Data Stat.",
+      "dataset": "SGD",
+      "sub-set/group name": "Train",
+      "attribute name": "# samples / intent",
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "SGD",
+      "sub-set/group name": "Train",
+      "attribute name": "# samples / intent",
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "30",
+      "type": "Data Stat.",
+      "dataset": "SGD",
+      "sub-set/group name": "Train",
+      "attribute name": "# samples / intent",
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "640",
+      "type": "Data Stat.",
+      "dataset": "SGD",
+      "sub-set/group name": "Train",
+      "attribute name": "number of samples",
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "1280",
+      "type": "Data Stat.",
+      "dataset": "SGD",
+      "sub-set/group name": "Train",
+      "attribute name": "number of samples",
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "1920",
+      "type": "Data Stat.",
+      "dataset": "SGD",
+      "sub-set/group name": "Train",
+      "attribute name": "number of samples",
+      "dataset features": {
+        "xx": "yy"
+      }
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.81",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.74",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.79",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.77",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.82",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "5B"
+      }
+    },
+    {
+      "value": "0.767",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "345M"
+      }
+    },
+    {
+      "value": "0.773",
+      "type": "Result",
+      "training data/set": "SGD",
+      "test data/set": "SGD",
+      "task": "Intent Classification",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "model settings": {
+        "Model Size": "1.3B"
+      }
+    },
+    {
+      "value": "0.755",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "345M"
+      }
+    },
+    {
+      "value": "0.762",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "1.3B"
+      }
+    },
+    {
+      "value": "0.787",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "5B"
+      }
+    },
+    {
+      "value": "0.379",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "345M"
+      }
+    },
+    {
+      "value": "0.448",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "1.3B"
+      }
+    },
+    {
+      "value": "0.467",
+      "type": "Result",
+      "training data/set": "Hotel Reservation",
+      "test data/set": "Hotel Reservation",
+      "task": "Zero Shot",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "5B"
+      }
+    },
+    {
+      "value": "0.907",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "FS - 10 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "345M"
+      }
+    },
+    {
+      "value": "0.789",
+      "type": "Result",
+      "training data/set": "Bus Booking",
+      "test data/set": "Bus Booking",
+      "task": "FS - 10 samples",
+      "metric": "Accuracy",
+      "model": "Speech CLIP",
+      "model settings": {
+        "model size": "1.3B"
+      }
+    }
+  ],
+  "elapsed_seconds": 176.0,
+  "raw_preview": "{\"value\": \"11.3\", \"type\": \"Data Stat.\", \"dataset\": \"Flickr8k\", \"attribute name\": \"number of subword tokens in a utterance\", \"metric\": \"average\"}\n{\"value\": \"4.1\", \"type\": \"Data Stat.\", \"dataset\": \"Flickr8k\", \"attribute name\": \"standard deviation of number of subword tokens in a utterance\", \"metric\": \"standard deviation\"}\n{\"value\": \"8\", \"type\": \"Hyper-parameter/Architecture\", \"model\": \"Speech CLIP\", \"parameter/architecture name\": \"number of keywords\", \"metric\": \"recommended\"}\n{\"value\": \"0.755\", \"t"
+}

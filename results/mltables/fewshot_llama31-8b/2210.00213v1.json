@@ -1,0 +1,425 @@
+{
+  "pdf_id": "2210.00213v1",
+  "predictions": [
+    {
+      "value": "70",
+      "type": "Data Stat.",
+      "dataset": "Bus Booking",
+      "sub-set/group name": "Training",
+      "attribute name": "percentage of events",
+      "dataset features": {
+        "percentage": "70%"
+      }
+    },
+    {
+      "value": "20",
+      "type": "Data Stat.",
+      "dataset": "Bus Booking",
+      "sub-set/group name": "Testing",
+      "attribute name": "percentage of events",
+      "dataset features": {
+        "percentage": "20%"
+      }
+    },
+    {
+      "value": "0.0001",
+      "type": "Hyper-parameter",
+      "model": "Hyper Hawkes",
+      "parameter name": "learning rate"
+    },
+    {
+      "value": "0.90",
+      "type": "Hyper-parameter",
+      "model": "Hyper Hawkes",
+      "parameter name": "\u03b21"
+    },
+    {
+      "value": "0.99",
+      "type": "Hyper-parameter",
+      "model": "Hyper Hawkes",
+      "parameter name": "\u03b22"
+    },
+    {
+      "value": "0.001",
+      "type": "Hyper-parameter",
+      "model": "Hyper Hawkes",
+      "parameter name": "regularization parameter"
+    },
+    {
+      "value": "0.9",
+      "type": "Hyper-parameter",
+      "model": "Hyper Hawkes",
+      "parameter name": "regularization parameter"
+    },
+    {
+      "value": "4.8627",
+      "type": "Result",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "5.6928",
+      "type": "Result",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "0.00159",
+      "type": "Result",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "0.00149",
+      "type": "Result",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "5.2629",
+      "type": "Result",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "5.7727",
+      "type": "Result",
+      "dataset": "Yelp",
+      "metric": "MNLL",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "0.00152",
+      "type": "Result",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "0.00150",
+      "type": "Result",
+      "dataset": "Yelp",
+      "metric": "MAE",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "-2.8550",
+      "type": "Result",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "-5.1462",
+      "type": "Result",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "0.00548",
+      "type": "Result",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "0.00471",
+      "type": "Result",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "model": "Hyper Hawkes-FNN"
+    },
+    {
+      "value": "-3.8254",
+      "type": "Result",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "model": "Hyper Hawkes-FNN-RNN"
+    },
+    {
+      "value": "-5.1192",
+      "type": "Result",
+      "dataset": "Meme",
+      "metric": "MNLL",
+      "model": "Hyper Hawkes-FNN-RNN"
+    },
+    {
+      "value": "0.00508",
+      "type": "Result",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "model": "Hyper Hawkes-FNN-RNN"
+    },
+    {
+      "value": "0.00471",
+      "type": "Result",
+      "dataset": "Meme",
+      "metric": "MAE",
+      "model": "Hyper Hawkes-FNN-RNN"
+    },
+    {
+      "value": "0.755",
+      "type": "Result",
+      "dataset": "Bus Booking",
+      "metric": "Zero Shot",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.762",
+      "type": "Result",
+      "dataset": "Bus Booking",
+      "metric": "Zero Shot",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.787",
+      "type": "Result",
+      "dataset": "Bus Booking",
+      "metric": "Zero Shot",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.379",
+      "type": "Result",
+      "dataset": "Hotel Reservation",
+      "metric": "Zero Shot",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.448",
+      "type": "Result",
+      "dataset": "Hotel Reservation",
+      "metric": "Zero Shot",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.467",
+      "type": "Result",
+      "dataset": "Hotel Reservation",
+      "metric": "Zero Shot",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.907",
+      "type": "Result",
+      "dataset": "Bus Booking",
+      "metric": "FS - 10 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.789",
+      "type": "Result",
+      "dataset": "Bus Booking",
+      "metric": "FS - 10 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.942",
+      "type": "Result",
+      "dataset": "Bus Booking",
+      "metric": "FS - 10 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.793",
+      "type": "Result",
+      "dataset": "Hotel Reservation",
+      "metric": "FS - 10 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.720",
+      "type": "Result",
+      "dataset": "Hotel Reservation",
+      "metric": "FS - 10 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.939",
+      "type": "Result",
+      "dataset": "Hotel Reservation",
+      "metric": "FS - 10 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.907",
+      "type": "Result",
+      "dataset": "Bus Booking",
+      "metric": "FS - 50 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.789",
+      "type": "Result",
+      "dataset": "Bus Booking",
+      "metric": "FS - 50 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.942",
+      "type": "Result",
+      "dataset": "Bus Booking",
+      "metric": "FS - 50 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.793",
+      "type": "Result",
+      "dataset": "Hotel Reservation",
+      "metric": "FS - 50 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.720",
+      "type": "Result",
+      "dataset": "Hotel Reservation",
+      "metric": "FS - 50 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.939",
+      "type": "Result",
+      "dataset": "Hotel Reservation",
+      "metric": "FS - 50 samples",
+      "model": "Hyper Hawkes"
+    },
+    {
+      "value": "0.77",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "experimental settings": {
+        "number of samples per intent": "10"
+      }
+    },
+    {
+      "value": "0.81",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "experimental settings": {
+        "number of samples per intent": "10"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "experimental settings": {
+        "number of samples per intent": "10"
+      }
+    },
+    {
+      "value": "0.69",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "experimental settings": {
+        "number of samples per intent": "10"
+      }
+    },
+    {
+      "value": "0.74",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "experimental settings": {
+        "number of samples per intent": "20"
+      }
+    },
+    {
+      "value": "0.84",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "experimental settings": {
+        "number of samples per intent": "20"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "experimental settings": {
+        "number of samples per intent": "20"
+      }
+    },
+    {
+      "value": "0.79",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "experimental settings": {
+        "number of samples per intent": "30"
+      }
+    },
+    {
+      "value": "0.87",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "experimental settings": {
+        "number of samples per intent": "30"
+      }
+    },
+    {
+      "value": "0.91",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "Megatron-GPT",
+      "experimental settings": {
+        "number of samples per intent": "30"
+      }
+    },
+    {
+      "value": "0.75",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "BERT",
+      "experimental settings": {
+        "number of samples per intent": "10"
+      }
+    },
+    {
+      "value": "0.767",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "BERT",
+      "experimental settings": {
+        "number of samples per intent": "20"
+      }
+    },
+    {
+      "value": "0.773",
+      "type": "Result",
+      "dataset": "SGD",
+      "metric": "Accuracy",
+      "model": "BERT",
+      "experimental settings": {
+        "number of samples per intent": "30"
+      }
+    }
+  ],
+  "elapsed_seconds": 97.8,
+  "raw_preview": "{\"value\": \"70\", \"type\": \"Data Stat.\", \"dataset\": \"Bus Booking\", \"sub-set/group name\": \"Training\", \"attribute name\": \"percentage of events\", \"dataset features\": {\"percentage\": \"70%\"}}\n{\"value\": \"20\", \"type\": \"Data Stat.\", \"dataset\": \"Bus Booking\", \"sub-set/group name\": \"Testing\", \"attribute name\": \"percentage of events\", \"dataset features\": {\"percentage\": \"20%\"}}\n{\"value\": \"0.0001\", \"type\": \"Hyper-parameter\", \"model\": \"Hyper Hawkes\", \"parameter name\": \"learning rate\"}\n{\"value\": \"0.90\", \"type\": \"H"
+}

@@ -1,0 +1,22 @@
+{
+  "pdf_id": "PMC3983391",
+  "predictions": [
+    {
+      "value": "47.3",
+      "type": "GI50",
+      "target": "MCF7 xenograft",
+      "treatment": "1b",
+      "unit": "%"
+    },
+    {
+      "value": "51.0",
+      "type": "GI50",
+      "target": "MCF7 xenograft",
+      "treatment": "5g",
+      "unit": "%"
+    }
+  ],
+  "num_gold_annotations": 74,
+  "ablation": "no_vision",
+  "elapsed_seconds": 44.4
+}
