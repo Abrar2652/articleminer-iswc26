@@ -15,6 +15,9 @@ articleminer-iswc26/
 └── figures/
 ```
 
+
+![ArticleMiner architecture](figures/articleminer_full.png)
+
 ## 1. What's here
 
 | Path | Contents |
