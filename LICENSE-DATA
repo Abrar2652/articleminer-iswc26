@@ -27,10 +27,8 @@ Please cite the accompanying ISWC 2026 paper when using GeoScholar-28 or
 derived results:
 
   @inproceedings{ontoquorum2026,
-    title     = {OntoQuorum: A Domain-Adaptable Framework for
-                 Ontology-Grounded Knowledge Graph Construction from
-                 Scientific Tables},
-    author    = {Anonymised for review},
+    title     = {ArticleMiner: Ontology-Guided Knowledge Graph Construction from Scientific Publications},
+    author    = {Anonymized for review},
     booktitle = {Proceedings of the 25th International Semantic Web
                  Conference (ISWC 2026)},
     year      = {2026},
