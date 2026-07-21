@@ -25,10 +25,7 @@ import os, sys, json, time, traceback, re, unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-sys.path.insert(0, "${PYTHON_SITE_PACKAGES:-$HOME/.local/lib/python3.10/site-packages}")
-sys.path.insert(0, "${REPO_ROOT}/../.local_pylibs")  # for rapid_table (mineru dep)
-sys.path.insert(0, str(ROOT.parents[1]))                # for geochem_benchmark
-sys.path.insert(0, str(ROOT.parents[1] / "geochem_benchmark"))
+sys.path.insert(0, str(ROOT.parents[0]))                # src/ -> articleminer
 
 # Load API keys from .env
 env = ROOT / ".env"
@@ -39,13 +36,13 @@ if env.exists():
             k, v = line.split("=", 1)
             os.environ[k] = v.strip().strip('"').strip("'")
 
-from geochem_benchmark.pipeline import ExtractionPipeline
-from geochem_benchmark.tabledetector import TableDetectorBackend
-from geochem_benchmark.llm_clients import ClaudeClient
+from articleminer.pipeline import ExtractionPipeline
+from articleminer.tabledetector import TableDetectorBackend
+from articleminer.llm_clients import ClaudeClient
 
-GEOCHEM_DATA = Path("${REPO_ROOT}/../geochem_benchmark/data")
-GT_DIR       = Path("${REPO_ROOT}/../geochem_benchmark/ground_truth_corrected")
-RESULTS_DIR  = Path("${REPO_ROOT}/results")
+GEOCHEM_DATA = ROOT.parents[1] / "data" / "geochem28" / "pdfs"
+GT_DIR       = ROOT.parents[1] / "data" / "geochem28" / "ground_truth"
+RESULTS_DIR  = ROOT.parents[1] / "results"
 MODEL = "claude-sonnet-4-6"
 
 # 28 GT papers (from geochem WEEKLY_PROGRESS_REPORT)
@@ -126,7 +123,7 @@ def apply_patch(name: str, pipeline_module):
         # Strip ontology-side validation: replace standardize_* with identity
         # in the geochem post-processor, and skip knowledge_base injection.
         try:
-            from geochem_benchmark import knowledge_base as kb
+            from articleminer import knowledge_base as kb
             originals["VALID_ELEMENTS"] = kb.VALID_ELEMENTS
             kb.VALID_ELEMENTS = set()
             originals["VALID_MINERALS"] = kb.VALID_MINERALS
@@ -138,7 +135,7 @@ def apply_patch(name: str, pipeline_module):
         # extractor that asks the LLM to read all numeric values from each
         # extracted table text.
         try:
-            from geochem_benchmark import table_reader as tr
+            from articleminer import table_reader as tr
             originals["read_multiple_supplementary"] = tr.read_multiple_supplementary
             def _stub(*a, **k):
                 # Skip deterministic parsing — let LLM extract numerics from
@@ -152,14 +149,14 @@ def apply_patch(name: str, pipeline_module):
     def undo():
         if name == "no_ontology":
             try:
-                from geochem_benchmark import knowledge_base as kb
+                from articleminer import knowledge_base as kb
                 kb.VALID_ELEMENTS = originals.get("VALID_ELEMENTS", set())
                 kb.VALID_MINERALS = originals.get("VALID_MINERALS", set())
             except Exception:
                 pass
         elif name == "llm_only_numeric":
             try:
-                from geochem_benchmark import table_reader as tr
+                from articleminer import table_reader as tr
                 tr.read_multiple_supplementary = originals["read_multiple_supplementary"]
             except Exception:
                 pass
@@ -178,7 +175,7 @@ def run_one_ablation(name: str, papers: list[Path]):
     print(f"\n=== Ablation: {name} ({len(papers)} papers) → {out.name} ===")
 
     client = ClaudeClient(model=MODEL)
-    import geochem_benchmark.pipeline as gp
+    import articleminer.pipeline as gp
     undo = apply_patch(name, gp)
     pipeline = build_pipeline(client, name)
 

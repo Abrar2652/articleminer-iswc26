@@ -18,15 +18,15 @@ import argparse, json, os, sys, time, logging
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(ROOT.parent))  # for geochem_benchmark
+sys.path.insert(0, str(ROOT))  # src/ -> articleminer
 sys.path.insert(0, str(Path(__file__).parent))
 
-from geochem_benchmark.pdf_reader import extract_pdf, get_paper_text_for_llm
-from geochem_benchmark.llm_clients import ClaudeClient
+from articleminer.pdf_reader import extract_pdf, get_paper_text_for_llm
+from articleminer.llm_clients import ClaudeClient
 
 # Disable marker text extraction on clusters with old CUDA (set via env).
 if os.environ.get("ISWC_DISABLE_MARKER", "").lower() in ("1", "true", "yes"):
-    from geochem_benchmark import tabledetector as _td
+    from articleminer import tabledetector as _td
     _td.marker_pdf_to_markdown = lambda *a, **k: ""
 
 ISWC = ROOT

@@ -25,9 +25,7 @@ import os, sys, json, time, traceback, re, unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-sys.path.insert(0, "./.local_pylibs")  # for rapid_table (mineru dep)
-sys.path.insert(0, str(ROOT.parents[1]))                # for geochem_benchmark
-sys.path.insert(0, str(ROOT.parents[1] / "geochem_benchmark"))
+sys.path.insert(0, str(ROOT.parents[0]))                # src/ -> articleminer
 
 # Load API keys from .env
 env = ROOT / ".env"
@@ -38,12 +36,12 @@ if env.exists():
             k, v = line.split("=", 1)
             os.environ[k] = v.strip().strip('"').strip("'")
 
-from geochem_benchmark.pipeline import ExtractionPipeline
-from geochem_benchmark.tabledetector import TableDetectorBackend
-from geochem_benchmark.llm_clients import ClaudeClient
+from articleminer.pipeline import ExtractionPipeline
+from articleminer.tabledetector import TableDetectorBackend
+from articleminer.llm_clients import ClaudeClient
 
-GEOCHEM_DATA = Path("./src/articleminer/data")
-GT_DIR       = Path("./src/articleminer/ground_truth_corrected")
+GEOCHEM_DATA = ROOT.parents[1] / "data" / "geochem28" / "pdfs"
+GT_DIR       = ROOT.parents[1] / "data" / "geochem28" / "ground_truth"
 RESULTS_DIR  = Path("./results")
 MODEL = "claude-haiku-4-5-20251001"
 RUN_TAG = "haiku28"  # isolates outputs from the earlier 8-paper Sonnet ablations
@@ -133,7 +131,7 @@ def apply_patch(name: str, pipeline_module):
         # Strip ontology-side validation: replace standardize_* with identity
         # in the geochem post-processor, and skip knowledge_base injection.
         try:
-            from geochem_benchmark import knowledge_base as kb
+            from articleminer import knowledge_base as kb
             originals["VALID_ELEMENTS"] = kb.VALID_ELEMENTS
             kb.VALID_ELEMENTS = set()
             originals["VALID_MINERALS"] = kb.VALID_MINERALS
@@ -145,7 +143,7 @@ def apply_patch(name: str, pipeline_module):
         # extractor that asks the LLM to read all numeric values from each
         # extracted table text.
         try:
-            from geochem_benchmark import table_reader as tr
+            from articleminer import table_reader as tr
             originals["read_multiple_supplementary"] = tr.read_multiple_supplementary
             def _stub(*a, **k):
                 # Skip deterministic parsing — let LLM extract numerics from
@@ -158,7 +156,7 @@ def apply_patch(name: str, pipeline_module):
     elif name == "no_validation":
         # Disable Stage 7 self-validator: make validate_extraction a no-op.
         try:
-            from geochem_benchmark import extraction_validator as ev
+            from articleminer import extraction_validator as ev
             originals["validate_extraction"] = ev.validate_extraction
             class _StubResult:
                 def __init__(self, n=0):
@@ -175,7 +173,7 @@ def apply_patch(name: str, pipeline_module):
         # Disable Stage 0 paper-intelligence: return an empty PaperIntelligence
         # so no per-paper scope constraint is injected downstream.
         try:
-            import geochem_benchmark.pipeline as gp
+            import articleminer.pipeline as gp
             originals["_extract_paper_intelligence"] = gp.ExtractionPipeline._extract_paper_intelligence
             _Empty = gp.PaperIntelligence  # dataclass with safe defaults
             def _stub(self, *a, **k):
@@ -186,8 +184,8 @@ def apply_patch(name: str, pipeline_module):
     elif name in ("two_backend_dp", "three_backend_no_mineru", "four_backend"):
         # Monkey-patch the multi-backend extractor to iterate only over a subset.
         try:
-            import geochem_benchmark.pipeline as gp
-            from geochem_benchmark.tabledetector import (
+            import articleminer.pipeline as gp
+            from articleminer.tabledetector import (
                 extract_tables_as_text, TableDetectorBackend as TB)
             originals["_extract_all_backends_from_pdf"] = gp.ExtractionPipeline._extract_all_backends_from_pdf
             subset = {
@@ -211,32 +209,32 @@ def apply_patch(name: str, pipeline_module):
     def undo():
         if name == "no_ontology":
             try:
-                from geochem_benchmark import knowledge_base as kb
+                from articleminer import knowledge_base as kb
                 kb.VALID_ELEMENTS = originals.get("VALID_ELEMENTS", set())
                 kb.VALID_MINERALS = originals.get("VALID_MINERALS", set())
             except Exception:
                 pass
         elif name == "llm_only_numeric":
             try:
-                from geochem_benchmark import table_reader as tr
+                from articleminer import table_reader as tr
                 tr.read_multiple_supplementary = originals["read_multiple_supplementary"]
             except Exception:
                 pass
         elif name == "no_validation":
             try:
-                from geochem_benchmark import extraction_validator as ev
+                from articleminer import extraction_validator as ev
                 ev.validate_extraction = originals["validate_extraction"]
             except Exception:
                 pass
         elif name == "no_intelligence":
             try:
-                import geochem_benchmark.pipeline as gp
+                import articleminer.pipeline as gp
                 gp.ExtractionPipeline._extract_paper_intelligence = originals["_extract_paper_intelligence"]
             except Exception:
                 pass
         elif name in ("two_backend_dp", "three_backend_no_mineru", "four_backend"):
             try:
-                import geochem_benchmark.pipeline as gp
+                import articleminer.pipeline as gp
                 gp.ExtractionPipeline._extract_all_backends_from_pdf = originals["_extract_all_backends_from_pdf"]
             except Exception:
                 pass
@@ -255,7 +253,7 @@ def run_one_ablation(name: str, papers: list[Path]):
     print(f"\n=== Ablation: {name} ({len(papers)} papers) → {out.name} ===")
 
     client = ClaudeClient(model=MODEL)
-    import geochem_benchmark.pipeline as gp
+    import articleminer.pipeline as gp
     undo = apply_patch(name, gp)
     pipeline = build_pipeline(client, name)
 
@@ -317,7 +315,7 @@ def main():
     print(f"  running on ALL {len(papers)} papers")
 
     t0 = time.time()
-    # Skip "full" — already covered by geochem_benchmark/gt_eval_v9_haiku/
+    # Skip "full" — covered by results/ablations_geochem/four_backend/
     # (28-paper 210-col xlsx + 4-tier batch_metrics.json; 75.49% overall).
     for name in ["no_ontology", "no_self_correct", "no_vision",
                  "single_docling", "single_marker", "single_mineru",

@@ -32,15 +32,15 @@ import unicodedata
 from datetime import datetime
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2]                # ${REPO_ROOT}/..
-sys.path.insert(0, str(ROOT))                              # find geochem_benchmark
-from geochem_benchmark.llm_clients import LocalHFClient
-from geochem_benchmark.pipeline import ExtractionPipeline
+ROOT = Path(__file__).resolve().parents[2]                # repo root
+sys.path.insert(0, str(ROOT / "src"))                      # src/ -> articleminer
+from articleminer.llm_clients import LocalHFClient
+from articleminer.pipeline import ExtractionPipeline
 
 ISWC_ROOT = Path(__file__).resolve().parents[1]            # iswc2026
 RESULTS_DIR = ISWC_ROOT / "results"
-GT_DIR = ROOT / "geochem_benchmark" / "ground_truth_corrected"
-GEOCHEM_DATA = ROOT / "geochem_benchmark" / "data"
+GT_DIR = ROOT / "data" / "geochem28" / "ground_truth"
+GEOCHEM_DATA = ROOT / "data" / "geochem28" / "pdfs"
 
 
 def list_gt_papers() -> list[Path]:

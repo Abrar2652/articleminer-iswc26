@@ -1,0 +1,38 @@
+# ArticleMiner (ISWC 2026) — runtime dependencies.
+# Python 3.10+.  Install with:  pip install -r requirements.txt
+# Mirrors README §3, plus three packages the pipeline imports directly
+# (pydantic, PyMuPDF, Pillow) that the prose list omitted.
+
+# --- LLM backends (closed) ---
+anthropic
+openai
+google-genai
+
+# --- local / open-weight backends ---
+vllm
+
+# --- PDF ingestion + table extraction backends ---
+pdfplumber
+PyMuPDF            # imported as `fitz` (pdf_vision)
+camelot-py[cv]     # pulls opencv-python (cv2)
+docling
+marker-pdf
+mineru
+Pillow             # imported as `PIL` (pdf_vision)
+
+# --- data / schema / scoring ---
+pydantic           # schema.py models
+openpyxl
+pandas
+numpy
+scipy
+rapidfuzz
+
+# --- figures ---
+matplotlib
+seaborn
+
+# --- misc ---
+tqdm
+pyyaml             # imported as `yaml` (prompts picklists)
+python-dotenv

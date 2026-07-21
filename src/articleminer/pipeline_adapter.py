@@ -30,11 +30,11 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Optional
 
-# Add geochem_benchmark to path (read-only reference, never modified)
-sys.path.insert(0, str(Path(__file__).parents[2]))  # .
+# Ensure src/ is importable so `articleminer` resolves when run standalone.
+sys.path.insert(0, str(Path(__file__).parents[1]))  # src/
 
-from geochem_benchmark.pdf_reader import extract_pdf, get_paper_text_for_llm
-from geochem_benchmark.llm_clients import ClaudeClient, OpenAIClient, GeminiClient
+from articleminer.pdf_reader import extract_pdf, get_paper_text_for_llm
+from articleminer.llm_clients import ClaudeClient, OpenAIClient, GeminiClient
 
 
 # Local HuggingFace models — short-name → HF repo.
@@ -108,8 +108,8 @@ def make_client(model: str):
     if m.startswith(("gemini",)):
         return GeminiClient(model=model)
     return ClaudeClient(model=model)
-from geochem_benchmark import tabledetector as _td
-from geochem_benchmark.tabledetector import (
+from articleminer import tabledetector as _td
+from articleminer.tabledetector import (
     extract_tables_from_pdf, TableDetectorBackend, _parse_markdown_tables,
 )
 
@@ -329,7 +329,7 @@ def extract_tables_from_paper(pdf_path: Path, backends: list[str] = None) -> dic
                 if isinstance(t, str):
                     table_strings.append(t)
                 elif hasattr(t, 'df'):
-                    # ExtractedTable object from geochem_benchmark.tabledetector
+                    # ExtractedTable object from articleminer.tabledetector
                     try:
                         md = t.df.to_markdown(index=False)
                         if md and len(md.strip()) > 20:
@@ -405,7 +405,7 @@ def extract_tables_from_paper(pdf_path: Path, backends: list[str] = None) -> dic
     page_images: list[dict] = []
     if not unique_tables:
         try:
-            from geochem_benchmark.pdf_vision import render_data_pages
+            from articleminer.pdf_vision import render_data_pages
             logger.info("No tables from text extractors — rendering pages for vision...")
             page_images = render_data_pages(
                 pdf_path=pdf_str, content=pdf_content,

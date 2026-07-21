@@ -935,7 +935,7 @@ def main():
         all_results = {}
 
         # Geochem (existing)
-        geochem_path = Path("${REPO_ROOT}/../geochem_benchmark/gt_eval_v8/batch_summary.json")
+        geochem_path = Path(__file__).resolve().parents[2] / "results" / "geochem" / "batch_summary.json"  # NOTE: aggregate not shipped; regenerate via the eval/score step
         if geochem_path.exists():
             with open(geochem_path) as f:
                 gc = json.load(f)

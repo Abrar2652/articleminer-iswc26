@@ -27,17 +27,17 @@ from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-sys.path.insert(0, str(ROOT))
+sys.path.insert(0, str(ROOT / "src"))  # src/ -> articleminer
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from pipeline_adapter import llm_dedup_tables  # reuse cross-domain helper
-from geochem_benchmark.llm_clients import ClaudeClient
-from geochem_benchmark.pipeline import ExtractionPipeline
+from articleminer.llm_clients import ClaudeClient
+from articleminer.pipeline import ExtractionPipeline
 
 ISWC_ROOT = Path(__file__).resolve().parents[1]
 RESULTS_DIR = ISWC_ROOT / "results"
-GT_DIR = ROOT / "geochem_benchmark" / "ground_truth_corrected"
-GEOCHEM_DATA = ROOT / "geochem_benchmark" / "data"
+GT_DIR = ROOT / "data" / "geochem28" / "ground_truth"
+GEOCHEM_DATA = ROOT / "data" / "geochem28" / "pdfs"
 
 MODEL = "claude-haiku-4-5-20251001"
 RUN_TAG = "haiku26_llmjudge"
@@ -58,7 +58,7 @@ def install_llm_judge_dedup_patch(client) -> callable:
     its returned ``backend_table_texts`` is run through canonical-fingerprint
     + LLM-judge dedup. Returns an undo() callable.
     """
-    import geochem_benchmark.pipeline as gp
+    import articleminer.pipeline as gp
     original = gp.ExtractionPipeline._direct_pdf_table_extraction
 
     def _patched(self, *args, **kwargs):

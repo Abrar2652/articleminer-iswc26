@@ -89,7 +89,7 @@ def verify_e1():
             results[domain] = {"status": "missing"}
 
     # Geochem
-    geochem_eval = Path("${REPO_ROOT}/../geochem_benchmark/gt_eval_v8/batch_summary.json")
+    geochem_eval = Path(__file__).resolve().parents[2] / "results" / "geochem" / "batch_summary.json"  # NOTE: aggregate not shipped; regenerate via the eval/score step
     if geochem_eval.exists():
         results["geochem"] = {"status": "done", "expected_f1": 76.4}
 
@@ -360,7 +360,7 @@ def evaluate_all():
     all_results["E1_mltables"] = eval_mltables(str(RESULTS_DIR / "mltables_ours_preparsed_claude-sonnet"))
 
     # Geochem
-    geochem_path = Path("${REPO_ROOT}/../geochem_benchmark/gt_eval_v8/batch_summary.json")
+    geochem_path = Path(__file__).resolve().parents[2] / "results" / "geochem" / "batch_summary.json"  # NOTE: aggregate not shipped; regenerate via the eval/score step
     if geochem_path.exists():
         with open(geochem_path) as f:
             gc = json.load(f)

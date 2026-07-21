@@ -13,7 +13,7 @@ from __future__ import annotations
 import argparse, json, os, sys, time, logging
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).parents[1]))  # src/
 
 ABLATIONS = {
     # name:            (human-readable description, patch-fn)
@@ -85,7 +85,7 @@ def run_one_ablation(dataset: str, model: str, ablation: str, backends: list[str
         run_chemtables_pipeline, run_discomat_pipeline, run_mltables_pipeline,
         ISWC_ROOT, CHEMTABLES_PDFS, DISCOMAT_PDFS, MLTABLES_PDFS, RESULTS_DIR,
     )
-    from geochem_benchmark.llm_clients import ClaudeClient
+    from articleminer.llm_clients import ClaudeClient
 
     run_fn = {
         "chemtables": run_chemtables_pipeline,

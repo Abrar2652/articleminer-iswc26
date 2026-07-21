@@ -254,6 +254,21 @@ class ResolvedPaper:
     skip_reason: str = ""
 
 
+def _registry_pdf_names(entry: dict) -> list[str]:
+    """Candidate PDF filenames for a registry entry, shipped-layout first.
+
+    The shipped GeoChem-28 corpus names each PDF after its ground-truth stem
+    (e.g. ``Chen_et_al_2024.xlsx`` -> ``Chen_et_al_2024.pdf``). The two reuse
+    entries whose gold is ``<x>_as_reported_in_<SOURCE>.xlsx`` derive from the
+    SOURCE paper's PDF. The original corpus filenames in ``entry["pdf"]`` are
+    kept as a fallback for the un-anonymized working tree.
+    """
+    stem = Path(entry["ground_truth"]).stem
+    if "_as_reported_in_" in stem:
+        stem = stem.split("_as_reported_in_")[-1]
+    return [f"{stem}.pdf", *entry.get("pdf", [])]
+
+
 def resolve_registry(
     project_root: Path,
     paper_ids: Optional[list[str]] = None,
@@ -268,8 +283,8 @@ def resolve_registry(
         List of ResolvedPaper objects (including unprocessable ones, flagged).
     """
     gt_dir = project_root / "ground_truth"
-    data_dir = project_root / "data"
-    supp_dir = data_dir / "Spreadsheets"
+    data_dir = project_root / "pdfs"
+    supp_dir = project_root / "supplementary"
 
     resolved: list[ResolvedPaper] = []
 
@@ -292,7 +307,7 @@ def resolve_registry(
 
         # Resolve PDF (use first available)
         pdf_path = None
-        for pdf_name in entry["pdf"]:
+        for pdf_name in _registry_pdf_names(entry):
             candidate = data_dir / pdf_name
             if candidate.exists():
                 pdf_path = candidate
@@ -419,13 +434,13 @@ def discover_non_gt_papers(
     Returns:
         List of DiscoveredPaper objects.
     """
-    data_dir = project_root / "data"
-    supp_dir = data_dir / "Spreadsheets"
+    data_dir = project_root / "pdfs"
+    supp_dir = project_root / "supplementary"
 
     # Get all registered PDF filenames (already have GT)
     registered_pdfs: set[str] = set()
     for entry in PAPER_REGISTRY:
-        for pdf_name in entry["pdf"]:
+        for pdf_name in _registry_pdf_names(entry):
             registered_pdfs.add(pdf_name)
 
     # All PDFs in data/
@@ -528,8 +543,8 @@ def discover_all_papers(project_root: Path) -> list[PaperInfo]:
     Returns:
         List of PaperInfo sorted by ID.
     """
-    data_dir = project_root / "data"
-    supp_dir = data_dir / "Spreadsheets"
+    data_dir = project_root / "pdfs"
+    supp_dir = project_root / "supplementary"
     gt_dir = project_root / "ground_truth"
 
     results: dict[str, PaperInfo] = {}
@@ -546,7 +561,7 @@ def discover_all_papers(project_root: Path) -> list[PaperInfo]:
             info.has_ground_truth = True
 
         # PDF
-        for pdf_name in entry["pdf"]:
+        for pdf_name in _registry_pdf_names(entry):
             candidate = data_dir / pdf_name
             if candidate.exists():
                 info.pdf_path = candidate
@@ -579,7 +594,7 @@ def discover_all_papers(project_root: Path) -> list[PaperInfo]:
     # 2. Discover non-registry papers
     registered_pdfs: set[str] = set()
     for entry in PAPER_REGISTRY:
-        for pdf_name in entry["pdf"]:
+        for pdf_name in _registry_pdf_names(entry):
             registered_pdfs.add(pdf_name)
 
     _SKIP_PDFS = {"Clark1999_MagneticPetrologyIgRocks.pdf"}

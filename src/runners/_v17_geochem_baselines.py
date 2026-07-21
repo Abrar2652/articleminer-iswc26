@@ -5,7 +5,7 @@ v17: Geochem few-shot baselines on the 28 GT papers (primary benchmark).
 Closes the gap flagged in §5.2 of the paper — the 4-tier table currently
 shows `---` for all baseline rows because we never measured them.
 
-Design constraint: do NOT modify geochem_benchmark. We import its
+Design constraint: reuse the vendored articleminer package. We import its
 pdf_reader / evaluator / batch_runner read-only and write a parallel
 few-shot runner that uses the same evaluation harness.
 
@@ -32,8 +32,7 @@ import os, sys, json, time, traceback
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-sys.path.insert(0, "${PYTHON_SITE_PACKAGES:-$HOME/.local/lib/python3.10/site-packages}")
-sys.path.insert(0, str(ROOT.parents[1]))                # for geochem_benchmark
+sys.path.insert(0, str(ROOT.parents[0]))                # src/ -> articleminer
 sys.path.insert(0, str(ROOT))                           # for our pipeline_adapter
 
 # Load API keys from .env
@@ -45,12 +44,12 @@ if env.exists():
             k, v = line.split("=", 1)
             os.environ[k] = v.strip().strip('"').strip("'")
 
-from geochem_benchmark.pdf_reader import extract_pdf, get_paper_text_for_llm
+from articleminer.pdf_reader import extract_pdf, get_paper_text_for_llm
 from pipeline_adapter import make_client
 
-GEOCHEM_DATA = Path("${REPO_ROOT}/../geochem_benchmark/data")
-GT_DIR       = Path("${REPO_ROOT}/../geochem_benchmark/ground_truth_corrected")
-RESULTS_DIR  = Path("${REPO_ROOT}/results")
+GEOCHEM_DATA = ROOT.parents[1] / "data" / "geochem28" / "pdfs"
+GT_DIR       = ROOT.parents[1] / "data" / "geochem28" / "ground_truth"
+RESULTS_DIR  = ROOT.parents[1] / "results"
 
 # Few-shot prompt — restrictive, focused on numerical-tier scoring
 GEOCHEM_FEWSHOT_PROMPT = """You are extracting geochemical analyses from a published research paper.

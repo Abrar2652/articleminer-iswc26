@@ -4,7 +4,7 @@ main.py - CLI entry point for the geochemical data extraction benchmarking syste
 Usage examples:
 
   # Extract with a single LLM (Claude):
-  python -m geochem_benchmark.main extract \\
+  python -m articleminer.main extract \\
       --pdf Friday/2018_Yuan_etal.pdf \\
       --supplementary Friday/2018_Yuan_etal.xlsx \\
       --provider claude \\
@@ -12,14 +12,14 @@ Usage examples:
       --output results/claude_output.xlsx
 
   # Extract with multiple supplementary files (merged on sample name):
-  python -m geochem_benchmark.main extract \\
+  python -m articleminer.main extract \\
       --pdf paper.pdf \\
       --supplementary supp1_major.xlsx supp2_trace.xlsx \\
       --provider claude \\
       --output results/claude_output.xlsx
 
   # Benchmark all providers against ground truth:
-  python -m geochem_benchmark.main benchmark \\
+  python -m articleminer.main benchmark \\
       --pdf Friday/2018_Yuan_etal.pdf \\
       --supplementary Friday/2018_Yuan_etal.xlsx \\
       --ground-truth Friday/2018_Yuan_ground_truth.xlsx \\
@@ -27,7 +27,7 @@ Usage examples:
       --output-dir results/
 
   # Evaluate an already-extracted file against ground truth (no LLM call):
-  python -m geochem_benchmark.main eval \\
+  python -m articleminer.main eval \\
       --prediction results/claude_output.xlsx \\
       --ground-truth Friday/2018_Yuan_ground_truth.xlsx \\
       --provider claude \\
@@ -35,7 +35,7 @@ Usage examples:
       --output-dir results/
 
   # List available models:
-  python -m geochem_benchmark.main models
+  python -m articleminer.main models
 
 API keys are read from environment variables:
   ANTHROPIC_API_KEY   - for Claude
@@ -84,8 +84,8 @@ _ROOT = Path(__file__).parent.parent
 if str(_ROOT) not in sys.path:
     sys.path.insert(0, str(_ROOT))
 
-from geochem_benchmark.batch_runner import run_batch, run_batch_no_gt
-from geochem_benchmark.evaluator import (
+from articleminer.batch_runner import run_batch, run_batch_no_gt
+from articleminer.evaluator import (
     Evaluator,
     compare_all_results,
     completeness_leaderboard,
@@ -94,10 +94,10 @@ from geochem_benchmark.evaluator import (
     leaderboard,
     save_detailed_report,
 )
-from geochem_benchmark.llm_clients import create_client, list_available_models
-from geochem_benchmark.paper_registry import list_all_paper_ids, discover_all_papers, resolve_paper_by_id
-from geochem_benchmark.pipeline import ExtractionPipeline, run_all_models
-from geochem_benchmark.tabledetector import TableDetectorBackend
+from articleminer.llm_clients import create_client, list_available_models
+from articleminer.paper_registry import list_all_paper_ids, discover_all_papers, resolve_paper_by_id
+from articleminer.pipeline import ExtractionPipeline, run_all_models
+from articleminer.tabledetector import TableDetectorBackend
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s | %(message)s")
 logger = logging.getLogger(__name__)
@@ -349,7 +349,7 @@ def cmd_batch(args: argparse.Namespace) -> None:
         api_key=args.api_key or None,
     )
 
-    project_root = Path(__file__).resolve().parent
+    project_root = Path(__file__).resolve().parents[2] / "data" / "geochem28"
     paper_ids = args.papers if hasattr(args, "papers") and args.papers else None
 
     pdf_only = getattr(args, "pdf_only", False)
@@ -384,7 +384,7 @@ def cmd_batch_nogt(args: argparse.Namespace) -> None:
         api_key=args.api_key or None,
     )
 
-    project_root = Path(__file__).resolve().parent
+    project_root = Path(__file__).resolve().parents[2] / "data" / "geochem28"
 
     pdf_only = getattr(args, "pdf_only", False)
     include_pdf_only = getattr(args, "include_pdf_only", False)
@@ -410,7 +410,7 @@ def cmd_batch_nogt(args: argparse.Namespace) -> None:
 def cmd_list_papers(_args: argparse.Namespace) -> None:
     """List all papers in the registry."""
     print("\nRegistered papers with ground truths:\n")
-    from geochem_benchmark.paper_registry import PAPER_REGISTRY
+    from articleminer.paper_registry import PAPER_REGISTRY
     for entry in PAPER_REGISTRY:
         supp_count = len(entry.get("supplementary", []))
         notes = entry.get("notes", "")
@@ -421,8 +421,8 @@ def cmd_list_papers(_args: argparse.Namespace) -> None:
 
 def cmd_list_nogt_papers(_args: argparse.Namespace) -> None:
     """List all discovered non-GT papers."""
-    from geochem_benchmark.paper_registry import discover_non_gt_papers
-    project_root = Path(__file__).resolve().parent
+    from articleminer.paper_registry import discover_non_gt_papers
+    project_root = Path(__file__).resolve().parents[2] / "data" / "geochem28"
     papers = discover_non_gt_papers(project_root, exclude_pdf_only=False)
 
     with_supp = [p for p in papers if p.supplementary_paths]
@@ -440,7 +440,7 @@ def cmd_list_nogt_papers(_args: argparse.Namespace) -> None:
 
 def cmd_discover(args: argparse.Namespace) -> None:
     """Scan the project and show all papers with their file associations."""
-    project_root = Path(__file__).resolve().parent
+    project_root = Path(__file__).resolve().parents[2] / "data" / "geochem28"
     papers = discover_all_papers(project_root)
 
     if not papers:
@@ -518,7 +518,7 @@ def cmd_graph_extract(args: argparse.Namespace) -> None:
     stem = Path(args.pdf).stem
 
     if mode in ("table-native", "both"):
-        from geochem_benchmark.graph_extractor import run_graph_extraction
+        from articleminer.graph_extractor import run_graph_extraction
         print(f"\n--- Table-native extraction ---")
         run_graph_extraction(
             pdf_path=args.pdf,
@@ -529,7 +529,7 @@ def cmd_graph_extract(args: argparse.Namespace) -> None:
         )
 
     if mode in ("graph-native", "both"):
-        from geochem_benchmark.graph_native_pipeline import run_graph_native
+        from articleminer.graph_native_pipeline import run_graph_native
         print(f"\n--- Graph-native extraction ---")
         result = run_graph_native(
             client=client,
@@ -564,7 +564,7 @@ def cmd_graph_extract(args: argparse.Namespace) -> None:
 
 def cmd_run_paper(args: argparse.Namespace) -> None:
     """Extract a paper by ID — auto-resolves paths, evaluates if GT exists."""
-    project_root = Path(__file__).resolve().parent
+    project_root = Path(__file__).resolve().parents[2] / "data" / "geochem28"
     paper_id = args.paper_id
 
     # Look up the paper
@@ -643,7 +643,7 @@ def cmd_run_paper(args: argparse.Namespace) -> None:
     # Evaluate if ground truth exists
     if info.has_ground_truth:
         print(f"\nEvaluating against ground truth: {info.ground_truth_path.name}")
-        from geochem_benchmark.evaluator import Evaluator, save_detailed_report
+        from articleminer.evaluator import Evaluator, save_detailed_report
         evaluator = Evaluator(ground_truth_path=info.ground_truth_path)
         report = evaluator.evaluate(result)
         report.print_summary()
@@ -654,7 +654,7 @@ def cmd_run_paper(args: argparse.Namespace) -> None:
     else:
         # Quality assessment only
         print(f"\nNo ground truth — running quality assessment...")
-        from geochem_benchmark.evaluator import evaluate_quality
+        from articleminer.evaluator import evaluate_quality
         pred_df = result.to_dataframe()
         quality = evaluate_quality(
             pred_df=pred_df,
@@ -693,7 +693,7 @@ def cmd_models(_args: argparse.Namespace) -> None:
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        prog="geochem_benchmark",
+        prog="articleminer",
         description="Geochemical data extraction & LLM benchmarking tool.",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,

@@ -25,10 +25,7 @@ import os, sys, json, time, traceback, re, unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-sys.path.insert(0, "${PYTHON_SITE_PACKAGES:-$HOME/.local/lib/python3.10/site-packages}")
-sys.path.insert(0, "${REPO_ROOT}/../.local_pylibs")  # for rapid_table (mineru dep)
-sys.path.insert(0, str(ROOT.parents[1]))                # for geochem_benchmark
-sys.path.insert(0, str(ROOT.parents[1] / "geochem_benchmark"))
+sys.path.insert(0, str(ROOT.parents[0]))                # src/ -> articleminer
 
 # Load API keys from .env
 env = ROOT / ".env"
@@ -39,10 +36,10 @@ if env.exists():
             k, v = line.split("=", 1)
             os.environ[k] = v.strip().strip('"').strip("'")
 
-from geochem_benchmark.pipeline import ExtractionPipeline
-from geochem_benchmark.tabledetector import TableDetectorBackend
-from geochem_benchmark.llm_clients import ClaudeClient
-from geochem_benchmark.paper_registry import get_processable_papers
+from articleminer.pipeline import ExtractionPipeline
+from articleminer.tabledetector import TableDetectorBackend
+from articleminer.llm_clients import ClaudeClient
+from articleminer.paper_registry import get_processable_papers
 
 # ─────────────────────────────────────────────────────────────────────
 # Mineru hard-disable: PaddleOCR weights missing in our env triggers a
@@ -50,7 +47,7 @@ from geochem_benchmark.paper_registry import get_processable_papers
 # process. Documented in §6 (Limitations). Wrap _extract_with_mineru
 # to return empty results without entering the broken codepath.
 # ─────────────────────────────────────────────────────────────────────
-import geochem_benchmark.tabledetector as _td_mod
+import articleminer.tabledetector as _td_mod
 def _mineru_noop(pdf_path, pages, min_rows, min_cols):
     """No-op mineru extractor — returns empty tables and a metrics record
     flagging that mineru was skipped due to missing OCR weights."""
@@ -65,9 +62,9 @@ def _mineru_noop(pdf_path, pages, min_rows, min_cols):
 _td_mod._extract_with_mineru = _mineru_noop
 print("[mineru-noop] patched _extract_with_mineru to return empty (env: missing PaddleOCR weights)")
 
-GEOCHEM_DATA = Path("${REPO_ROOT}/../geochem_benchmark/data")
-GT_DIR       = Path("${REPO_ROOT}/../geochem_benchmark/ground_truth_corrected")
-RESULTS_DIR  = Path("${REPO_ROOT}/results")
+GEOCHEM_DATA = ROOT.parents[1] / "data" / "geochem28" / "pdfs"
+GT_DIR       = ROOT.parents[1] / "data" / "geochem28" / "ground_truth"
+RESULTS_DIR  = ROOT.parents[1] / "results"
 MODEL = "claude-haiku-4-5-20251001"
 RUN_TAG = "haiku28"  # isolates outputs from the earlier 8-paper Sonnet ablations
 
@@ -187,8 +184,8 @@ def apply_patch(name: str, pipeline_module):
         # the picklist validator, the method-standardizer, and the inferred-
         # field helpers so no ontology lookup mutates extracted values.
         try:
-            from geochem_benchmark import knowledge_base as kb
-            import geochem_benchmark.pipeline as gp_mod
+            from articleminer import knowledge_base as kb
+            import articleminer.pipeline as gp_mod
             # Pipeline imports `validate_and_enrich_metadata` directly into
             # its module namespace, so we have to patch BOTH the source
             # (kb) and the pipeline-side bound reference (gp_mod).
@@ -224,7 +221,7 @@ def apply_patch(name: str, pipeline_module):
         # extractor that asks the LLM to read all numeric values from each
         # extracted table text.
         try:
-            from geochem_benchmark import table_reader as tr
+            from articleminer import table_reader as tr
             originals["read_multiple_supplementary"] = tr.read_multiple_supplementary
             def _stub(*a, **k):
                 # Skip deterministic parsing — let LLM extract numerics from
@@ -237,7 +234,7 @@ def apply_patch(name: str, pipeline_module):
     elif name == "no_validation":
         # Disable Stage 7 self-validator: make validate_extraction a no-op.
         try:
-            from geochem_benchmark import extraction_validator as ev
+            from articleminer import extraction_validator as ev
             originals["validate_extraction"] = ev.validate_extraction
             class _StubResult:
                 def __init__(self, n=0):
@@ -254,7 +251,7 @@ def apply_patch(name: str, pipeline_module):
         # Disable Stage 0 paper-intelligence: return an empty PaperIntelligence
         # so no per-paper scope constraint is injected downstream.
         try:
-            import geochem_benchmark.pipeline as gp
+            import articleminer.pipeline as gp
             originals["_extract_paper_intelligence"] = gp.ExtractionPipeline._extract_paper_intelligence
             _Empty = gp.PaperIntelligence  # dataclass with safe defaults
             def _stub(self, *a, **k):
@@ -267,8 +264,8 @@ def apply_patch(name: str, pipeline_module):
                    "loo_pdfplumber", "loo_camelot"):
         # Monkey-patch the multi-backend extractor to iterate only over a subset.
         try:
-            import geochem_benchmark.pipeline as gp
-            from geochem_benchmark.tabledetector import (
+            import articleminer.pipeline as gp
+            from articleminer.tabledetector import (
                 extract_tables_as_text, TableDetectorBackend as TB)
             originals["_extract_all_backends_from_pdf"] = gp.ExtractionPipeline._extract_all_backends_from_pdf
             ALL5 = [TB.DOCLING, TB.MARKER, TB.MINERU, TB.PDFPLUMBER, TB.CAMELOT]
@@ -305,8 +302,8 @@ def apply_patch(name: str, pipeline_module):
     def undo():
         if name == "no_ontology":
             try:
-                from geochem_benchmark import knowledge_base as kb
-                import geochem_benchmark.pipeline as gp_mod
+                from articleminer import knowledge_base as kb
+                import articleminer.pipeline as gp_mod
                 if "validate_and_enrich_metadata_kb" in originals:
                     kb.validate_and_enrich_metadata = originals["validate_and_enrich_metadata_kb"]
                 if "validate_and_enrich_metadata_pipeline" in originals:
@@ -320,19 +317,19 @@ def apply_patch(name: str, pipeline_module):
                 pass
         elif name == "llm_only_numeric":
             try:
-                from geochem_benchmark import table_reader as tr
+                from articleminer import table_reader as tr
                 tr.read_multiple_supplementary = originals["read_multiple_supplementary"]
             except Exception:
                 pass
         elif name == "no_validation":
             try:
-                from geochem_benchmark import extraction_validator as ev
+                from articleminer import extraction_validator as ev
                 ev.validate_extraction = originals["validate_extraction"]
             except Exception:
                 pass
         elif name == "no_intelligence":
             try:
-                import geochem_benchmark.pipeline as gp
+                import articleminer.pipeline as gp
                 gp.ExtractionPipeline._extract_paper_intelligence = originals["_extract_paper_intelligence"]
             except Exception:
                 pass
@@ -340,7 +337,7 @@ def apply_patch(name: str, pipeline_module):
                        "loo_docling", "loo_marker", "loo_mineru",
                        "loo_pdfplumber", "loo_camelot"):
             try:
-                import geochem_benchmark.pipeline as gp
+                import articleminer.pipeline as gp
                 gp.ExtractionPipeline._extract_all_backends_from_pdf = originals["_extract_all_backends_from_pdf"]
             except Exception:
                 pass
@@ -365,7 +362,7 @@ def run_one_ablation(name: str, papers: list):
     print(f"\n=== Ablation: {name} ({len(papers)} papers) → {out.name} ===")
 
     client = ClaudeClient(model=MODEL)
-    import geochem_benchmark.pipeline as gp
+    import articleminer.pipeline as gp
     undo = apply_patch(name, gp)
     pipeline = build_pipeline(client, name)
 
@@ -418,7 +415,7 @@ def run_one_ablation(name: str, papers: list):
 def main():
     # Use paper_registry — knows all 28 GT entries (including 2 reuse papers
     # whose PDFs/supps are explicitly mapped to parent-paper resources).
-    project_root = Path("${REPO_ROOT}/../geochem_benchmark")
+    project_root = ROOT.parents[1] / "data" / "geochem28"
     papers = get_processable_papers(project_root)
     print(f"v23 ({MODEL}): {len(papers)} geochem GT papers resolved via registry")
     if len(papers) == 0:
@@ -434,7 +431,7 @@ def main():
     #
     # Single-backend (5): each PDF parser in isolation, with supp parser.
     # Leave-one-out (5): full minus one PDF parser, with supp parser.
-    # NOTE: "full" reference comes from geochem_benchmark/gt_eval_v9_haiku/
+    # NOTE: "full" reference comes from results/ablations_geochem/four_backend/
     #   (28-paper, 75.49% overall). The "loo_mineru" run is also "four_backend"
     #   = full minus mineru, included here under its LOO name for symmetry.
     variant_order = [

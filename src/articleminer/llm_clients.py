@@ -392,7 +392,7 @@ class LocalHFClient(LLMClient):
     """Local HuggingFace model client (text-only, no vision).
 
     Mirrors `iswc2026/scripts/pipeline_adapter.py::LocalHFClient` so the
-    same short-name aliases work in geochem_benchmark.run() without changes
+    same short-name aliases work in articleminer.run() without changes
     on the caller side. When ``images`` are passed (vision LLM fallback),
     we log a warning and return an empty string so the pipeline records the
     vision step as failed and falls through to text-only paths.

@@ -9,12 +9,12 @@ from __future__ import annotations
 import json, sys, traceback, statistics
 from pathlib import Path
 
-ROOT = Path(".")
-sys.path.insert(0, str(ROOT))                  # geochem_benchmark package
+ROOT = Path(__file__).resolve().parents[2]  # repo root
+sys.path.insert(0, str(ROOT / "src"))          # src/ -> articleminer
 import pandas as pd
-from geochem_benchmark.evaluator import Evaluator
+from articleminer.evaluator import Evaluator
 
-GT_DIR  = ROOT / "geochem_benchmark/ground_truth_corrected"
+GT_DIR  = ROOT / "data" / "geochem28" / "ground_truth"
 RES_DIR = ROOT / "iswc2026/results"
 
 VARIANTS = ["no_ontology", "no_self_correct", "no_vision",
@@ -106,13 +106,18 @@ def main():
     for s in summary:
         print(f"{s['variant']:<22} {s['n']:>3} {s['T1']:>6} {s['T2']:>6} {s['T3']:>6} {s['T4']:>6} {s['overall']:>6} {s['P']:>6} {s['R']:>6} {s['F1']:>6}")
 
-    # Also include "full" from gt_eval_v9_haiku
-    full = json.load(open(ROOT / "geochem_benchmark/gt_eval_v9_haiku/batch_metrics.json"))
-    fa = full["aggregate"]
-    print(f"\n{'full (v9_haiku)':<22} {fa['n_papers']:>3} "
-          f"{fa['mean_T1_metadata_%']:>6.2f} {fa['mean_T2_numerical_%']:>6.2f} "
-          f"{fa['mean_T3_structural_%']:>6.2f} {fa['mean_T4_null_%']:>6.2f} "
-          f"{fa['mean_overall_%']:>6.2f}  (full baseline)")
+    # Also include the "full" 4-backend baseline, if it has already been scored.
+    _full_metrics = ROOT / "results" / "ablations_geochem" / "four_backend" / "batch_metrics.json"
+    if _full_metrics.exists():
+        full = json.load(open(_full_metrics))
+        fa = full["aggregate"]
+        print(f"\n{'full (4-backend)':<22} {fa['n_papers']:>3} "
+              f"{fa['mean_T1_metadata_%']:>6.2f} {fa['mean_T2_numerical_%']:>6.2f} "
+              f"{fa['mean_T3_structural_%']:>6.2f} {fa['mean_T4_null_%']:>6.2f} "
+              f"{fa['mean_overall_%']:>6.2f}  (full baseline)")
+    else:
+        print("\n  (full baseline: score results/ablations_geochem/four_backend first "
+              "to emit its batch_metrics.json)")
 
     # Save summary CSV
     csv_path = RES_DIR / "geochem_abl_haiku28_summary.csv"

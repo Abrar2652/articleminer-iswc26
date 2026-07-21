@@ -412,7 +412,7 @@ if __name__ == "__main__":
                 print(f"  {tid}: {len(cells)} cells -> {len(tuples)} tuples (gold: {len(entry['cell_list_gold'])})")
                 data_cols = [h for h in hinfo if h["is_data"]]
                 print(f"    Data columns: {[(h['col_idx'], h['type'], h['target'][:15]) for h in data_cols]}")
-            return
+            sys.exit(0)
 
         predictions = run_chemtables_hybrid(data, args.model, output_dir,
                                              use_llm_headers=not args.no_llm)
@@ -441,7 +441,7 @@ if __name__ == "__main__":
                 tuples = assemble_discomat_tuples(cells, hinfo, parsed,
                                                    entry.get("pii", ""), entry.get("t_idx", 0))
                 print(f"  {tid}: {len(cells)} cells -> {len(tuples)} tuples (gold: {len(entry['cell_list_gold'])})")
-            return
+            sys.exit(0)
 
         predictions = run_discomat_hybrid(data, args.model, output_dir,
                                            use_llm_headers=not args.no_llm)

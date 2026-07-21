@@ -8,7 +8,7 @@ Orchestrates:
   4. Aggregate all results into a cross-paper leaderboard
 
 Usage:
-  python -m geochem_benchmark.main batch \\
+  python -m articleminer.main batch \\
       --provider claude \\
       --model claude-sonnet-4-6 \\
       --output-dir batch_results/

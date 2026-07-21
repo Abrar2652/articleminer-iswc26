@@ -16,8 +16,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
-sys.path.insert(0, "${PYTHON_SITE_PACKAGES:-$HOME/.local/lib/python3.10/site-packages}")
-sys.path.insert(0, str(ROOT.parents[1]))
+sys.path.insert(0, str(ROOT.parents[0]))  # src/ -> articleminer
 
 env = ROOT / ".env"
 if env.exists():
@@ -27,12 +26,12 @@ if env.exists():
             k, v = line.split("=", 1)
             os.environ[k] = v.strip().strip('"').strip("'")
 
-from geochem_benchmark.pdf_reader import extract_pdf, get_paper_text_for_llm
+from articleminer.pdf_reader import extract_pdf, get_paper_text_for_llm
 from pipeline_adapter import make_client
 
-GT_DIR      = Path("${REPO_ROOT}/../geochem_benchmark/ground_truth_corrected")
-RESULTS_DIR = Path("${REPO_ROOT}/results")
-GEOCHEM_DATA = Path("${REPO_ROOT}/../geochem_benchmark/data")
+GT_DIR      = ROOT.parents[1] / "data" / "geochem28" / "ground_truth"
+RESULTS_DIR = ROOT.parents[1] / "results"
+GEOCHEM_DATA = ROOT.parents[1] / "data" / "geochem28" / "pdfs"
 
 PROMPT = """You are extracting geochemical analyses from a chunk of a published research paper.
 

@@ -10,6 +10,7 @@ adaptive page count based on expected sample volume.
 
 from __future__ import annotations
 import logging
+import os
 from pathlib import Path
 from typing import TYPE_CHECKING
 
@@ -115,11 +116,103 @@ def detect_content_rotated_pages(pdf_path: str | Path) -> set[int]:
     return rotated_pages
 
 
+def detect_text_rotation(pdf_path: str | Path, page_index: int) -> float:
+    """Detect the page's text rotation and return the PRECISE degrees the
+    RENDERED IMAGE must be rotated (clockwise) to bring text upright.
+
+    NOT limited to 0/90/180/270: it returns the exact angle, so an arbitrarily
+    rotated or skewed table (e.g. a 273.4-degree scan-skewed landscape table) is
+    corrected precisely. Method:
+      1. born-digital PDFs: take the per-line writing-direction vector (pymupdf
+         'dir'), pick the dominant coarse orientation (0/90/180/270 by weight),
+         then the length-weighted CIRCULAR MEAN of the exact angles within that
+         orientation -- giving coarse rotation + fine skew in one number.
+         Mixed-orientation pages (no >=50% majority) return 0.0 (de-rotating the
+         whole page would flip the upright content -- needs per-region deskew).
+      2. scanned pages (no text layer): fall back to a cv2 projection-profile
+         skew estimate.
+    Returns 0.0 when already upright or undetectable.
+    """
+    import collections
+    import math
+    try:
+        fitz = _get_fitz()
+    except ImportError:
+        return 0.0
+    try:
+        doc = fitz.open(str(pdf_path))
+        if page_index >= len(doc):
+            doc.close()
+            return 0.0
+        lines = []  # (exact_angle_deg, weight)
+        for b in doc[page_index].get_text("dict").get("blocks", []):
+            for ln in b.get("lines", []):
+                dx, dy = ln.get("dir", (1, 0))
+                ang = math.degrees(math.atan2(dy, dx)) % 360
+                w = sum(len(s.get("text", "")) for s in ln.get("spans", []))
+                if w:
+                    lines.append((ang, w))
+        doc.close()
+        if not lines:
+            return _estimate_scan_skew(pdf_path, page_index)
+        buckets = collections.Counter()
+        for ang, w in lines:
+            b = min((0, 90, 180, 270), key=lambda a: min((ang - a) % 360, (a - ang) % 360))
+            buckets[b] += w
+        dom, domw = buckets.most_common(1)[0]
+        total = sum(w for _, w in lines)
+        if total == 0 or domw / total < 0.5:
+            return 0.0   # mixed orientations: not safe to de-rotate the whole page
+        sx = sum(w * math.cos(math.radians(a)) for a, w in lines
+                 if min((a - dom) % 360, (dom - a) % 360) <= 45)
+        sy = sum(w * math.sin(math.radians(a)) for a, w in lines
+                 if min((a - dom) % 360, (dom - a) % 360) <= 45)
+        precise = math.degrees(math.atan2(sy, sx)) % 360
+        corr = (360 - precise) % 360
+        return 0.0 if min(corr, 360 - corr) < 0.5 else round(corr, 2)
+    except Exception as exc:
+        logger.warning("detect_text_rotation failed for page %d: %s", page_index, exc)
+        return 0.0
+
+
+def _estimate_scan_skew(pdf_path: str | Path, page_index: int, dpi: int = 150) -> float:
+    """Best-effort skew estimate for a SCANNED (text-less) page via a
+    projection-profile sweep: the correct deskew angle maximizes the variance of
+    the horizontal pixel-row projection (text rows line up). Covers fine skew
+    (+/-12 deg). Coarse 90-degree orientation of scans is left to the caller's
+    landscape/aspect detection. Returns clockwise correction degrees."""
+    try:
+        import io
+        import cv2
+        import numpy as np
+        from PIL import Image
+        fitz = _get_fitz()
+        page = fitz.open(str(pdf_path))[page_index]
+        pix = page.get_pixmap(matrix=fitz.Matrix(dpi / 72.0, dpi / 72.0))
+        gray = np.array(Image.open(io.BytesIO(pix.tobytes("png"))).convert("L"))
+        thr = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY_INV + cv2.THRESH_OTSU)[1]
+        if thr.sum() < 255 * 50:
+            return 0.0
+        best_a, best_score = 0.0, -1.0
+        h, w = thr.shape
+        for a in np.arange(-12, 12.01, 0.5):
+            M = cv2.getRotationMatrix2D((w / 2, h / 2), a, 1.0)
+            rot = cv2.warpAffine(thr, M, (w, h), flags=cv2.INTER_NEAREST)
+            proj = rot.sum(axis=1, dtype=np.float64)
+            score = float(np.var(proj))
+            if score > best_score:
+                best_score, best_a = score, float(a)
+        return 0.0 if abs(best_a) < 0.5 else round(-best_a % 360, 2)
+    except Exception:
+        return 0.0
+
+
 def render_page_to_image(
     pdf_path: str | Path,
     page_index: int,
     dpi: int = 150,
     max_bytes: int = 1_500_000,
+    rotate_deg: int = 0,
 ) -> tuple[bytes, str]:
     """Render a single PDF page to a PNG image.
 
@@ -129,6 +222,9 @@ def render_page_to_image(
         dpi: Rendering resolution. Auto-reduced if image exceeds max_bytes.
         max_bytes: Maximum image size in bytes (default 1.5MB — increased
             from 1MB to accommodate landscape pages which are wider).
+        rotate_deg: If non-zero, de-rotate the rendered image by this many
+            degrees clockwise (used to bring rotated-table content upright for
+            vision — see detect_text_rotation). Default 0 = unchanged behavior.
 
     Returns:
         (image_bytes, media_type) tuple. Returns (b"", "") on failure.
@@ -138,6 +234,20 @@ def render_page_to_image(
     except ImportError:
         logger.warning("PyMuPDF (fitz) not installed — cannot render PDF pages")
         return b"", ""
+
+    def _maybe_deskew(image_bytes: bytes) -> bytes:
+        if not rotate_deg:
+            return image_bytes
+        try:
+            import io
+            from PIL import Image
+            img = Image.open(io.BytesIO(image_bytes)).rotate(-rotate_deg, expand=True)
+            buf = io.BytesIO()
+            img.save(buf, "PNG")
+            return buf.getvalue()
+        except Exception as exc:
+            logger.warning("deskew rotate failed (page %d): %s", page_index, exc)
+            return image_bytes
 
     try:
         doc = fitz.open(str(pdf_path))
@@ -152,7 +262,7 @@ def render_page_to_image(
             zoom = try_dpi / 72.0
             mat = fitz.Matrix(zoom, zoom)
             pix = page.get_pixmap(matrix=mat)
-            image_bytes = pix.tobytes("png")
+            image_bytes = _maybe_deskew(pix.tobytes("png"))
             if len(image_bytes) <= max_bytes:
                 doc.close()
                 return image_bytes, "image/png"
@@ -251,6 +361,7 @@ def render_data_pages(
     max_pages: int = 5,
     dpi: int = 150,
     expected_samples: int = 0,
+    deskew: bool | None = None,
 ) -> list[dict]:
     """Render the most data-dense PDF pages as images.
 
@@ -305,17 +416,33 @@ def render_data_pages(
         sorted(landscape_set & set(indices)) or "none",
     )
 
+    # Opt-in de-rotation: bring content-rotated pages upright before vision.
+    # Default OFF (deskew=None -> read ARTICLEMINER_DESKEW env) so existing
+    # behavior and benchmark numbers are unchanged until explicitly enabled.
+    if deskew is None:
+        deskew = os.environ.get("ARTICLEMINER_DESKEW", "").lower() in ("1", "true", "yes")
+
     results = []
     for idx in indices:
         # Landscape/rotated pages benefit from slightly higher DPI
         page_dpi = dpi + 30 if idx in landscape_set else dpi
-        image_bytes, media_type = render_page_to_image(pdf_path, idx, dpi=page_dpi)
+        # De-rotate only content-rotated pages (rotated text within a portrait
+        # page); page-level landscape is already read correctly by vision.
+        rotate_deg = 0
+        if deskew and idx in content_rotated_set:
+            rotate_deg = detect_text_rotation(pdf_path, idx)
+            if rotate_deg:
+                logger.info("Deskew: de-rotating content-rotated page %d by %d deg",
+                            idx, rotate_deg)
+        image_bytes, media_type = render_page_to_image(
+            pdf_path, idx, dpi=page_dpi, rotate_deg=rotate_deg)
         if image_bytes:
             results.append({
                 "page_index": idx,
                 "image_bytes": image_bytes,
                 "media_type": media_type,
                 "is_landscape": idx in landscape_set,
+                "deskew_applied": rotate_deg,
             })
 
     logger.info(
